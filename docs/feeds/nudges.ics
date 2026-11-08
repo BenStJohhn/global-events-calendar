@@ -1,0 +1,1015 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ben St John//Global Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:A heads-up ~3 months before every ✈️ trip-worthy event, s
+ o flights and tickets are still sane.
+X-WR-CALNAME:📅 Booking Nudges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-APPLE-CALENDAR-COLOR:#FFC914
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Chinese New Year (in ~3 months)
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261108T000000Z
+UID:e9e8b7a979b8391b7937@global-events-calendar
+DESCRIPTION:Chinese New Year starts Sat 06 Feb 2027 in China & Chinese com
+ munities worldwide (London Chinatown\, Singapore\, Penang…). Now's the t
+ ime to sort flights\, tickets and somewhere to sleep.\n\nThe biggest human
+  migration on Earth as hundreds of millions travel home. Firecrackers\, li
+ on dances\, red envelopes and dumplings at midnight. For something close t
+ o home\, London's Trafalgar Square celebration is the biggest outside Asia
+ .\n\nStatus of the event date: ✅ Confirmed\nOfficial info: https://www.t
+ ravelchinaguide.com/essential/holidays/new-year/
+LOCATION:China & Chinese communities worldwide (London Chinatown\, Singapo
+ re\, Penang…)
+TRANSP:TRANSPARENT
+URL:https://www.travelchinaguide.com/essential/holidays/new-year/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Rio de Janeiro Carnival (in ~3 months)
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261108T000000Z
+UID:3b8f81ad49d295030527@global-events-calendar
+DESCRIPTION:Rio de Janeiro Carnival starts Sat 06 Feb 2027 in Sambadrome\,
+  Rio de Janeiro\, Brazil. Now's the time to sort flights\, tickets and som
+ ewhere to sleep.\n\nThe greatest party on Earth. Samba schools parading fl
+ oats the size of buildings through the Sambódromo until dawn\, and blocos
+  (street parties) in every neighbourhood. Book a year out.\n\nStatus of th
+ e event date: ✅ Confirmed
+LOCATION:Sambadrome\, Rio de Janeiro\, Brazil
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: WRC Rally Sweden (in ~3 months)
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20261108T000000Z
+UID:6d51e74a07d5eae3b521@global-events-calendar
+DESCRIPTION:WRC Rally Sweden starts Thu 18 Feb 2027 in Umeå\, Västerbott
+ en\, Sweden. Now's the time to sort flights\, tickets and somewhere to sle
+ ep.\n\nThe only full-snow round. Studded tyres\, 200 km/h through frozen f
+ orests\, cars leaning on the snowbanks\, and a decent chance of aurora at 
+ night.\n\nStatus of the event date: ✅ Confirmed\nOfficial info: https://
+ www.wrc.com
+LOCATION:Umeå\, Västerbotten\, Sweden
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Las Fallas (in ~3 months)
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+DTSTAMP:20261108T000000Z
+UID:c14d388c30cc63eee29d@global-events-calendar
+DESCRIPTION:Las Fallas starts Mon 15 Mar 2027 in Valencia\, Spain. Now's t
+ he time to sort flights\, tickets and somewhere to sleep.\n\nValencia buil
+ ds hundreds of giant satirical sculptures\, ninots several storeys high\, 
+ then burns them all on the final night (La Cremà). Daily 2pm mascletà fi
+ recracker barrages shake your ribcage.\n\nStatus of the event date: ✅ Co
+ nfirmed
+LOCATION:Valencia\, Spain
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Semana Santa\, Seville (in ~3 months)
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261108T000000Z
+UID:fca4795ff99b7167401e@global-events-calendar
+DESCRIPTION:Semana Santa\, Seville starts Sun 21 Mar 2027 in Seville\, And
+ alusia\, Spain. Now's the time to sort flights\, tickets and somewhere to 
+ sleep.\n\nHoly Week\, Spanish style. Hooded nazarenos\, swaying gold float
+ s carried by unseen costaleros\, incense\, saetas sung from balconies\, an
+ d the all-night Madrugá. Haunting and unforgettable.\n\nStatus of the eve
+ nt date: ✅ Confirmed
+LOCATION:Seville\, Andalusia\, Spain
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Holi (Festival of Colours) (in ~3 months)
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20261108T000000Z
+UID:d82535fec4c38b89378f@global-events-calendar
+DESCRIPTION:Holi (Festival of Colours) starts Mon 22 Mar 2027 in India & N
+ epal (Mathura/Vrindavan\, Jaipur\, Kathmandu). Now's the time to sort flig
+ hts\, tickets and somewhere to sleep.\n\nTotal chromatic chaos. Strangers 
+ smother each other in coloured powder\, water pistols everywhere\, and bon
+ fires (Holika Dahan) the night before. Mathura and Vrindavan\, Krishna's h
+ omeland\, go wildest.\n\nStatus of the event date: ✅ Confirmed
+LOCATION:India & Nepal (Mathura/Vrindavan\, Jaipur\, Kathmandu)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Cherry blossom peak (Tokyo & Kyoto) (in ~3 months)
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20261108T000000Z
+UID:4db786f894b2d3567a25@global-events-calendar
+DESCRIPTION:Cherry blossom peak (Tokyo & Kyoto) starts Sun 28 Mar 2027 in 
+ Tokyo & Kyoto\, Japan. Now's the time to sort flights\, tickets and somewh
+ ere to sleep.\n\nHanami season. Picnics under clouds of pink in Ueno and M
+ aruyama parks\, the Philosopher's Path petal-strewn\, and night-lit sakura
+  along the canals. It lines up with the Japanese GP weekend in 2027.\n\nSt
+ atus of the event date: 🟡 Estimated (pattern-based or provisional\; che
+ ck before booking)
+LOCATION:Tokyo & Kyoto\, Japan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: F1 Australian GP – Race (in ~3 months)
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+DTSTAMP:20261108T000000Z
+UID:4802a5f4903d48fd02b8@global-events-calendar
+DESCRIPTION:F1 Australian GP – Race starts Sun 04 Apr 2027 in Albert Par
+ k\, Melbourne\, Australia. Now's the time to sort flights\, tickets and so
+ mewhere to sleep.\n\nParkland street circuit around a lake\, with a festiv
+ al atmosphere and a city that lives for sport. A pre-dawn alarm in the UK.
+ \n\nStatus of the event date: ✅ Confirmed\nOfficial info: https://www.fo
+ rmula1.com/en/racing
+LOCATION:Albert Park\, Melbourne\, Australia
+TRANSP:TRANSPARENT
+URL:https://www.formula1.com/en/racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Coachella – Weekend 1 (in ~3 months)
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20261108T000000Z
+UID:13b699680101635967b2@global-events-calendar
+DESCRIPTION:Coachella – Weekend 1 starts Fri 09 Apr 2027 in Empire Polo 
+ Club\, Indio\, California\, USA. Now's the time to sort flights\, tickets 
+ and somewhere to sleep.\n\nDesert sunsets\, giant art installations\, the 
+ Ferris wheel and a lineup that defines the festival summer. Weekend 2 has 
+ the same lineup a week later.\n\nStatus of the event date: ✅ Confirmed\n
+ Official info: https://www.coachella.com
+LOCATION:Empire Polo Club\, Indio\, California\, USA
+TRANSP:TRANSPARENT
+URL:https://www.coachella.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: F1 Japanese GP – Race (in ~3 months)
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20261108T000000Z
+UID:3ce618045529310e4fb4@global-events-calendar
+DESCRIPTION:F1 Japanese GP – Race starts Sun 11 Apr 2027 in Suzuka Circu
+ it\, Japan. Now's the time to sort flights\, tickets and somewhere to slee
+ p.\n\nA figure-of-eight drivers' favourite (S-curves\, Degner\, 130R)\, th
+ e most devoted fans in F1\, and it's cherry-blossom season.\n\nStatus of t
+ he event date: ✅ Confirmed\nOfficial info: https://www.formula1.com/en/r
+ acing
+LOCATION:Suzuka Circuit\, Japan
+TRANSP:TRANSPARENT
+URL:https://www.formula1.com/en/racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Songkran (Thai New Year water festival) (in ~3 mont
+ hs)
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+DTSTAMP:20261108T000000Z
+UID:95d8deedd4534a8e31bf@global-events-calendar
+DESCRIPTION:Songkran (Thai New Year water festival) starts Tue 13 Apr 2027
+  in Thailand (Chiang Mai\, Bangkok's Silom & Khao San). Now's the time to 
+ sort flights\, tickets and somewhere to sleep.\n\nThe whole country turns 
+ into a three-day water fight. Super Soakers\, buckets and elephants\, with
+  no dry escape. It's also the hottest week of the year\, so you'll be grat
+ eful.\n\nStatus of the event date: ✅ Confirmed
+LOCATION:Thailand (Chiang Mai\, Bangkok's Silom & Khao San)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Venice Architecture Biennale – opens (in ~3 month
+ s)
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261108T000000Z
+UID:a8f91bb8201bf83acbc4@global-events-calendar
+DESCRIPTION:Venice Architecture Biennale – opens starts Sat 08 May 2027 
+ in Giardini & Arsenale\, Venice\, Italy. Now's the time to sort flights\, 
+ tickets and somewhere to sleep.\n\nThe 20th Architecture Biennale\, 'Do Ar
+ chitecture'\, curated by Pritzker winner Wang Shu with Lu Wenyu. National 
+ pavilions rethink how we build. It's catnip for an engineer and runs until
+  21 Nov.\n\nStatus of the event date: ✅ Confirmed\nOfficial info: https:
+ //www.labiennale.org/en/architecture/2027
+LOCATION:Giardini & Arsenale\, Venice\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.labiennale.org/en/architecture/2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Puffin season (Skomer & Farne Islands) (in ~3 month
+ s)
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261108T000000Z
+UID:12be4cf02bd7bc604ed8@global-events-calendar
+DESCRIPTION:Puffin season (Skomer & Farne Islands) starts Sat 15 May 2027 
+ in Skomer Island\, Pembrokeshire. Now's the time to sort flights\, tickets
+  and somewhere to sleep.\n\nAround 40\,000 puffins on Skomer\, so close yo
+ u have to give way to them on the path. Boats from Martin's Haven fill fas
+ t\, so book ahead. Season runs mid-May to late July.\n\nStatus of the even
+ t date: 🟡 Estimated (pattern-based or provisional\; check before bookin
+ g)\nOfficial info: https://www.welshwildlife.org/skomer-skokholm/skomer
+LOCATION:Skomer Island\, Pembrokeshire
+TRANSP:TRANSPARENT
+URL:https://www.welshwildlife.org/skomer-skokholm/skomer
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Isle of Man TT (in ~3 months)
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+DTSTAMP:20261108T000000Z
+UID:c7b7d2e5272c49b8a9b6@global-events-calendar
+DESCRIPTION:Isle of Man TT starts Mon 31 May 2027 in Snaefell Mountain Cou
+ rse\, Isle of Man. Now's the time to sort flights\, tickets and somewhere 
+ to sleep.\n\n60 km of public roads closed for 200 mph road racing past sto
+ ne walls and front doors. The most dangerous\, and maybe the most awe-insp
+ iring\, race in the world. Book ferries VERY early.\n\nStatus of the event
+  date: ✅ Confirmed\nOfficial info: https://www.iomttraces.com
+LOCATION:Snaefell Mountain Course\, Isle of Man
+TRANSP:TRANSPARENT
+URL:https://www.iomttraces.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Primavera Sound (in ~3 months)
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+DTSTAMP:20261108T000000Z
+UID:d2925534b8339b47e936@global-events-calendar
+DESCRIPTION:Primavera Sound starts Wed 02 Jun 2027 in Parc del Fòrum\, Ba
+ rcelona\, Spain. Now's the time to sort flights\, tickets and somewhere to
+  sleep.\n\nIndie heaven by the Mediterranean\, with sets until 6am and sun
+ rise over the sea. The musician's festival.\n\nStatus of the event date: 
+ 🟡 Estimated (pattern-based or provisional\; check before booking)\nOffi
+ cial info: https://www.primaverasound.com
+LOCATION:Parc del Fòrum\, Barcelona\, Spain
+TRANSP:TRANSPARENT
+URL:https://www.primaverasound.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: F1 Monaco GP – Race (in ~3 months)
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+DTSTAMP:20261108T000000Z
+UID:4b22e3490edcf3b7d90d@global-events-calendar
+DESCRIPTION:F1 Monaco GP – Race starts Sun 06 Jun 2027 in Circuit de Mon
+ aco\, Monte Carlo. Now's the time to sort flights\, tickets and somewhere 
+ to sleep.\n\nThe jewel in the crown\, and Monaco's first ever Sprint. Barr
+ iers millimetres away\, yachts in the harbour\, and qualifying is half the
+  race.\n\nStatus of the event date: ✅ Confirmed\nOfficial info: https://
+ www.formula1.com/en/racing
+LOCATION:Circuit de Monaco\, Monte Carlo
+TRANSP:TRANSPARENT
+URL:https://www.formula1.com/en/racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: 24 Hours of Le Mans (95th edition) (in ~3 months)
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+DTSTAMP:20261108T000000Z
+UID:54777a49bd7d1108c864@global-events-calendar
+DESCRIPTION:24 Hours of Le Mans (95th edition) starts Wed 09 Jun 2027 in C
+ ircuit de la Sarthe\, Le Mans\, France. Now's the time to sort flights\, t
+ ickets and somewhere to sleep.\n\nThe greatest endurance race there is. Hy
+ percars at 330 km/h down the Mulsanne in the dark\, a Ferris wheel\, and a
+  campsite full of Brits who drove over. A legendary road trip.\n\nStatus o
+ f the event date: ✅ Confirmed\nOfficial info: https://www.24h-lemans.com
+LOCATION:Circuit de la Sarthe\, Le Mans\, France
+TRANSP:TRANSPARENT
+URL:https://www.24h-lemans.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: documenta 16 (in ~3 months)
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261108T000000Z
+UID:b6743605f088174aa66b@global-events-calendar
+DESCRIPTION:documenta 16 starts Sat 12 Jun 2027 in Kassel\, Germany. Now's
+  the time to sort flights\, tickets and somewhere to sleep.\n\nThe once-ev
+ ery-five-years 'museum of 100 days'\, arguably the most important contempo
+ rary-art exhibition in the world. Curated by Naomi Beckwith\, the whole of
+  Kassel becomes the gallery.\n\nStatus of the event date: ✅ Confirmed\nO
+ fficial info: https://www.documenta.de
+LOCATION:Kassel\, Germany
+TRANSP:TRANSPARENT
+URL:https://www.documenta.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Red Bull X-Alps 2027 (in ~3 months)
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+DTSTAMP:20261108T000000Z
+UID:c1153b9774904b23ea0d@global-events-calendar
+DESCRIPTION:Red Bull X-Alps 2027 starts Sun 13 Jun 2027 in The Alps (route
+  revealed 17 Mar 2027\; Schenna\, South Tyrol is a confirmed turnpoint). N
+ ow's the time to sort flights\, tickets and somewhere to sleep.\n\nThe wor
+ ld's toughest adventure race. 35 athletes cross ~1\,200 km of Alps on foot
+  or by paraglider for nearly two weeks. Watch at a turnpoint\, follow the 
+ live tracking\, and get inspired for your own paragliding training.\n\nSta
+ tus of the event date: ✅ Confirmed\nOfficial info: https://www.redbullxa
+ lps.com
+LOCATION:The Alps (route revealed 17 Mar 2027\; Schenna\, South Tyrol is a
+  confirmed turnpoint)
+TRANSP:TRANSPARENT
+URL:https://www.redbullxalps.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: F1 Portuguese GP – Race (in ~3 months)
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20261108T000000Z
+UID:cd5e4574208e15f9dcfd@global-events-calendar
+DESCRIPTION:F1 Portuguese GP – Race starts Sun 20 Jun 2027 in Autódromo
+  Internacional do Algarve\, Portimão\, Portugal. Now's the time to sort f
+ lights\, tickets and somewhere to sleep.\n\nThe rollercoaster is back. Bli
+ nd crests and plunging drops on the Algarve\, with beaches 20 minutes away
+ . A cheap\, sunny race trip from the UK.\n\nStatus of the event date: ✅ 
+ Confirmed\nOfficial info: https://www.formula1.com/en/racing
+LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
+TRANSP:TRANSPARENT
+URL:https://www.formula1.com/en/racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Glastonbury Festival (in ~3 months)
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+DTSTAMP:20261108T000000Z
+UID:a8b3c3a4b3842a4a80cd@global-events-calendar
+DESCRIPTION:Glastonbury Festival starts Wed 23 Jun 2027 in Worthy Farm\, P
+ ilton\, Somerset\, UK. Now's the time to sort flights\, tickets and somewh
+ ere to sleep.\n\nBack after the 2026 fallow year. 200\,000 people\, the Py
+ ramid Stage\, Arcadia's fire-breathing spider\, Shangri-La after dark and 
+ the Stone Circle at sunrise. 40 minutes from Bristol.\n\nStatus of the eve
+ nt date: ✅ Confirmed\nOfficial info: https://www.glastonburyfestivals.co
+ .uk
+LOCATION:Worthy Farm\, Pilton\, Somerset\, UK
+TRANSP:TRANSPARENT
+URL:https://www.glastonburyfestivals.co.uk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Inti Raymi (Festival of the Sun) (in ~3 months)
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20261108T000000Z
+UID:10045a61640135d8793a@global-events-calendar
+DESCRIPTION:Inti Raymi (Festival of the Sun) starts Thu 24 Jun 2027 in Sac
+ sayhuamán\, Cusco\, Peru. Now's the time to sort flights\, tickets and so
+ mewhere to sleep.\n\nThe Inca winter-solstice festival re-enacted at Sacsa
+ yhuamán's giant zigzag walls. An emperor on a golden throne\, hundreds of
+  costumed performers\, then on to Machu Picchu.\n\nStatus of the event dat
+ e: ✅ Confirmed
+LOCATION:Sacsayhuamán\, Cusco\, Peru
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: CrowdStrike 24 Hours of Spa (in ~3 months)
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20261108T000000Z
+UID:b8b791e545f6e3ee4128@global-events-calendar
+DESCRIPTION:CrowdStrike 24 Hours of Spa starts Thu 24 Jun 2027 in Circuit 
+ de Spa-Francorchamps\, Belgium. Now's the time to sort flights\, tickets a
+ nd somewhere to sleep.\n\nThe biggest GT race on Earth. 60+ GT3 cars\, Eau
+  Rouge in the dark\, Ardennes rain at 3am and a fan village that never sle
+ eps. A cheap Eurotunnel road trip.\n\nStatus of the event date: ✅ Confir
+ med\nOfficial info: https://www.24hoursofspa.com
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+TRANSP:TRANSPARENT
+URL:https://www.24hoursofspa.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Tour de France Grand Départ – Stage 1\, Edinburg
+ h → Carlisle (in ~3 months)
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+DTSTAMP:20261108T000000Z
+UID:de9497a44010aeca9a39@global-events-calendar
+DESCRIPTION:Tour de France Grand Départ – Stage 1\, Edinburgh → Carli
+ sle starts Fri 02 Jul 2027 in Edinburgh Castle\, Scotland\, UK. Now's the 
+ time to sort flights\, tickets and somewhere to sleep.\n\nThe Tour starts 
+ in Scotland for the first time ever\, from Edinburgh Castle through the Bo
+ rders to Carlisle (184 km). Then stages through England and a Welshpool 
+ → Cardiff finale on 4 July. Free to watch from the roadside.\n\nStatus o
+ f the event date: ✅ Confirmed\nOfficial info: https://www.letourgb.com
+LOCATION:Edinburgh Castle\, Scotland\, UK
+TRANSP:TRANSPARENT
+URL:https://www.letourgb.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: F1 British GP – Race (in ~3 months)
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+DTSTAMP:20261108T000000Z
+UID:84ee52f26f0286fc6578@global-events-calendar
+DESCRIPTION:F1 British GP – Race starts Sun 04 Jul 2027 in Silverstone C
+ ircuit\, Northamptonshire\, UK. Now's the time to sort flights\, tickets a
+ nd somewhere to sleep.\n\nHome race. Maggotts–Becketts–Chapel is the b
+ est sequence of corners in F1\, and this year it's a Sprint weekend too.\n
+ \nStatus of the event date: ✅ Confirmed\nOfficial info: https://www.form
+ ula1.com/en/racing
+LOCATION:Silverstone Circuit\, Northamptonshire\, UK
+TRANSP:TRANSPARENT
+URL:https://www.formula1.com/en/racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: San Fermín (Running of the Bulls) (in ~3 months)
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+DTSTAMP:20261108T000000Z
+UID:24d628155351c686aff3@global-events-calendar
+DESCRIPTION:San Fermín (Running of the Bulls) starts Tue 06 Jul 2027 in P
+ amplona\, Navarre\, Spain. Now's the time to sort flights\, tickets and so
+ mewhere to sleep.\n\nHemingway's fiesta. White clothes and red scarves\, t
+ he 8am encierro through the old town\, and nine days of non-stop street pa
+ rtying.\n\nStatus of the event date: ✅ Confirmed
+LOCATION:Pamplona\, Navarre\, Spain
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: 38th America's Cup Match (in ~3 months)
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261108T000000Z
+UID:7754fb970e72be2619d6@global-events-calendar
+DESCRIPTION:38th America's Cup Match starts Sat 10 Jul 2027 in Bay of Napl
+ es\, Italy. Now's the time to sort flights\, tickets and somewhere to slee
+ p.\n\nThe oldest trophy in international sport\, sailed in Italy for the f
+ irst time. Emirates Team NZ defend against the Louis Vuitton Cup winner in
+  50-knot foiling AC75s. First to seven wins. Pizza in its birthplace.\n\nS
+ tatus of the event date: ✅ Confirmed\nOfficial info: https://www.america
+ scup.com
+LOCATION:Bay of Naples\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.americascup.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Naadam Festival (in ~3 months)
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+DTSTAMP:20261108T000000Z
+UID:3dd32b0fddd337edf681@global-events-calendar
+DESCRIPTION:Naadam Festival starts Sun 11 Jul 2027 in Ulaanbaatar & across
+  Mongolia. Now's the time to sort flights\, tickets and somewhere to sleep
+ .\n\nThe 'Three Manly Games' of wrestling\, horse racing (with child jocke
+ ys over 25 km of steppe) and archery. Mongolia's Olympics\, dating back to
+  Genghis Khan. Unfinished business after the rally?\n\nStatus of the event
+  date: ✅ Confirmed
+LOCATION:Ulaanbaatar & across Mongolia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Rolex Fastnet Race – start (in ~3 months)
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20261108T000000Z
+UID:0ef3d3e292796aa9dd1d@global-events-calendar
+DESCRIPTION:Rolex Fastnet Race – start starts Sat 24 Jul 2027 in Royal Y
+ acht Squadron line\, Cowes → Fastnet Rock → Cherbourg. Now's the time 
+ to sort flights\, tickets and somewhere to sleep.\n\nThe world's largest o
+ ffshore race. 400+ boats\, 695 nm\, around the Fastnet Rock off Ireland an
+ d finishing in Cherbourg. Watch the start from Cowes or the Needles\, or g
+ o one better and find a crew berth. You've got the Day Skipper.\n\nStatus 
+ of the event date: ✅ Confirmed\nOfficial info: https://www.rolexfastnetr
+ ace.com
+LOCATION:Royal Yacht Squadron line\, Cowes → Fastnet Rock → Cherbourg
+TRANSP:TRANSPARENT
+URL:https://www.rolexfastnetrace.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: F1 Belgian GP – Race (in ~3 months)
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+DTSTAMP:20261108T000000Z
+UID:45e155df7cf6e8460780@global-events-calendar
+DESCRIPTION:F1 Belgian GP – Race starts Sun 25 Jul 2027 in Circuit de Sp
+ a-Francorchamps\, Belgium. Now's the time to sort flights\, tickets and so
+ mewhere to sleep.\n\nEau Rouge–Raidillon\, the Ardennes forest and weath
+ er that can be dry at one end of the lap and soaking at the other. Spa now
+  alternates with Barcelona\, so 2027 is a Spa year.\n\nStatus of the event
+  date: ✅ Confirmed\nOfficial info: https://www.formula1.com/en/racing
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+TRANSP:TRANSPARENT
+URL:https://www.formula1.com/en/racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: WRC Rally Finland (in ~3 months)
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+DTSTAMP:20261108T000000Z
+UID:c2cd45dff7c1fb5b21bb@global-events-calendar
+DESCRIPTION:WRC Rally Finland starts Thu 29 Jul 2027 in Jyväskylä\, Finl
+ and. Now's the time to sort flights\, tickets and somewhere to sleep.\n\nT
+ he Grand Prix of rallying. Blind crests at 180 km/h\, cars flying 50 m off
+  Ouninpohja-style jumps\, and lakeside campsites full of sausage-grilling 
+ fans. Bucket-list stuff.\n\nStatus of the event date: ✅ Confirmed\nOffic
+ ial info: https://www.wrc.com
+LOCATION:Jyväskylä\, Finland
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Total solar eclipse: SPAIN · MOROCCO · EGYPT (par
+ tial ~35% from UK) (in ~3 months)
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+DTSTAMP:20261108T000000Z
+UID:1339767f2ecb6dea6249@global-events-calendar
+DESCRIPTION:Total solar eclipse: SPAIN · MOROCCO · EGYPT (partial ~35% f
+ rom UK) starts Mon 02 Aug 2027 in Totality path: Cádiz/Tarifa\, Gibraltar
+ \, northern Morocco\, Tunisia\, Libya\, Luxor (Egypt). Now's the time to s
+ ort flights\, tickets and somewhere to sleep.\n\nThe eclipse of the decade
+ . Totality reaches about 6 m 23 s near Luxor\, one of the longest totaliti
+ es over land this century. The path of darkness crosses southern Spain and
+  the Strait of Gibraltar\, so Tarifa or Cádiz is a cheap flight away. You
+  get midday darkness\, stars\, the corona and a 360° sunset. From the UK 
+ it's only a ~35% partial (around 09:00–11:00 BST). Go to the path. Do no
+ t miss this.\n\nStatus of the event date: ✅ Confirmed\nOfficial info: ht
+ tps://www.timeanddate.com/eclipse/solar/2027-august-2
+LOCATION:Totality path: Cádiz/Tarifa\, Gibraltar\, northern Morocco\, Tun
+ isia\, Libya\, Luxor (Egypt)
+TRANSP:TRANSPARENT
+URL:https://www.timeanddate.com/eclipse/solar/2027-august-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Edinburgh Festival Fringe (80th) (in ~3 months)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261108T000000Z
+UID:de156838e551531e32c3@global-events-calendar
+DESCRIPTION:Edinburgh Festival Fringe (80th) starts Fri 06 Aug 2027 in Edi
+ nburgh\, Scotland\, UK. Now's the time to sort flights\, tickets and somew
+ here to sleep.\n\nThe world's largest arts festival in its 80th year. 3\,0
+ 00+ shows in pub cellars\, churches and lecture theatres. See five shows a
+  day\, flyer-dodge the Royal Mile and catch the comedy breakouts.\n\nStatu
+ s of the event date: ✅ Confirmed\nOfficial info: https://www.edfringe.co
+ m
+LOCATION:Edinburgh\, Scotland\, UK
+TRANSP:TRANSPARENT
+URL:https://www.edfringe.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: British GT – Silverstone 500 (3h) (in ~3 months)
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261108T000000Z
+UID:b30a916f61a1029d5225@global-events-calendar
+DESCRIPTION:British GT – Silverstone 500 (3h) starts Sat 07 Aug 2027 in 
+ Silverstone Circuit\, Northamptonshire\, UK. Now's the time to sort flight
+ s\, tickets and somewhere to sleep.\n\nThe blue-riband event and the only 
+ 3-hour race of the season. A full grid on the GP circuit with pit-stop str
+ ategy deciding it. Early-bird tickets end 4 Jan 2027.\n\nStatus of the eve
+ nt date: ✅ Confirmed\nOfficial info: https://www.silverstone.co.uk/event
+ s/british-gt-championship
+LOCATION:Silverstone Circuit\, Northamptonshire\, UK
+TRANSP:TRANSPARENT
+URL:https://www.silverstone.co.uk/events/british-gt-championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: UTMB (Ultra-Trail du Mont-Blanc) (in ~3 months)
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+DTSTAMP:20261108T000000Z
+UID:9b03fc86174fc8ecb276@global-events-calendar
+DESCRIPTION:UTMB (Ultra-Trail du Mont-Blanc) starts Mon 23 Aug 2027 in Cha
+ monix\, France (via Italy & Switzerland). Now's the time to sort flights\,
+  tickets and somewhere to sleep.\n\n171 km and 10\,000 m of climbing aroun
+ d Mont Blanc through three countries. Chamonix becomes the trail-running c
+ apital of the world for the week\; the finish-line atmosphere is electric.
+ \n\nStatus of the event date: 🟡 Estimated (pattern-based or provisional
+ \; check before booking)\nOfficial info: https://utmb.world
+LOCATION:Chamonix\, France (via Italy & Switzerland)
+TRANSP:TRANSPARENT
+URL:https://utmb.world
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: UCI Cycling World Championships (incl. MTB) (in ~3 
+ months)
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+DTSTAMP:20261108T000000Z
+UID:45c4aa26c5da28b1e15e@global-events-calendar
+DESCRIPTION:UCI Cycling World Championships (incl. MTB) starts Tue 24 Aug 
+ 2027 in Haute-Savoie\, France. Now's the time to sort flights\, tickets an
+ d somewhere to sleep.\n\nAll the cycling world championships in one Alpine
+  region\, including MTB XCO and downhill\, with Mont Blanc as a backdrop. 
+ Bring the bike.\n\nStatus of the event date: 🟡 Estimated (pattern-based
+  or provisional\; check before booking)\nOfficial info: https://www.uci.or
+ g
+LOCATION:Haute-Savoie\, France
+TRANSP:TRANSPARENT
+URL:https://www.uci.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Burning Man (in ~3 months)
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DTSTAMP:20261108T000000Z
+UID:46d473be130dbc3bb312@global-events-calendar
+DESCRIPTION:Burning Man starts Sun 29 Aug 2027 in Black Rock Desert\, Neva
+ da\, USA. Now's the time to sort flights\, tickets and somewhere to sleep.
+ \n\nA city of 70\,000 built from scratch in the desert\, then gone without
+  a trace. Mutant vehicles\, colossal art\, dust storms\, gifting and the b
+ urning of the Man. A self-reliance test you'd ace.\n\nStatus of the event 
+ date: 🟡 Estimated (pattern-based or provisional\; check before booking)
+ \nOfficial info: https://burningman.org
+LOCATION:Black Rock Desert\, Nevada\, USA
+TRANSP:TRANSPARENT
+URL:https://burningman.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: F1 Italian GP – Race (in ~3 months)
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+DTSTAMP:20261108T000000Z
+UID:51388bbed0383bf91017@global-events-calendar
+DESCRIPTION:F1 Italian GP – Race starts Sun 05 Sep 2027 in Autodromo Naz
+ ionale Monza\, Italy. Now's the time to sort flights\, tickets and somewhe
+ re to sleep.\n\nThe Temple of Speed and the tifosi in red. Monza's first S
+ print since the format began.\n\nStatus of the event date: ✅ Confirmed\n
+ Official info: https://www.formula1.com/en/racing
+LOCATION:Autodromo Nazionale Monza\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.formula1.com/en/racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Coupe Icare (in ~3 months)
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+DTSTAMP:20261108T000000Z
+UID:4d0c75c0acac41eed6ee@global-events-calendar
+DESCRIPTION:Coupe Icare starts Thu 16 Sep 2027 in Saint-Hilaire-du-Touvet
+ \, Chartreuse\, France. Now's the time to sort flights\, tickets and somew
+ here to sleep.\n\nThe world's biggest free-flight festival. 80\,000 people
+ \, hundreds of pilots\, and a costume flying contest where people launch o
+ ff a cliff dressed as a giant croissant. Try a tandem flight.\n\nStatus of
+  the event date: 🟡 Estimated (pattern-based or provisional\; check befo
+ re booking)\nOfficial info: https://www.coupe-icare.org
+LOCATION:Saint-Hilaire-du-Touvet\, Chartreuse\, France
+TRANSP:TRANSPARENT
+URL:https://www.coupe-icare.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Oktoberfest (in ~3 months)
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+DTSTAMP:20261108T000000Z
+UID:bdc720941a939f8b195b@global-events-calendar
+DESCRIPTION:Oktoberfest starts Sat 18 Sep 2027 in Theresienwiese\, Munich
+ \, Germany. Now's the time to sort flights\, tickets and somewhere to slee
+ p.\n\nSix million visitors\, 14 giant beer tents\, litre steins\, oompah b
+ ands\, lederhosen and roast chicken. Go on a weekday for the best chance a
+ t a table.\n\nStatus of the event date: ✅ Confirmed
+LOCATION:Theresienwiese\, Munich\, Germany
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: WRC Rally Scotland (in ~3 months)
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+DTSTAMP:20261108T000000Z
+UID:ab3324bfc4c2b2355fd2@global-events-calendar
+DESCRIPTION:WRC Rally Scotland starts Thu 30 Sep 2027 in Aberdeen\, Scotla
+ nd\, UK. Now's the time to sort flights\, tickets and somewhere to sleep.
+ \n\nThe WRC comes home to Britain. Fast Scottish forest gravel in autumn c
+ olours\, the first UK round since Wales Rally GB. Camp out\, get muddy and
+  watch the new Rally1 cars up close.\n\nStatus of the event date: ✅ Conf
+ irmed\nOfficial info: https://www.wrc.com
+LOCATION:Aberdeen\, Scotland\, UK
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Golden Eagle Festival (in ~3 months)
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+DTSTAMP:20261108T000000Z
+UID:b0dd9835716fdf15c02e@global-events-calendar
+DESCRIPTION:Golden Eagle Festival starts Sat 02 Oct 2027 in Ölgii\, Bayan
+ -Ölgii\, western Mongolia. Now's the time to sort flights\, tickets and s
+ omewhere to sleep.\n\nKazakh eagle hunters in fox-fur hats compete with go
+ lden eagles in the Altai mountains. Calling the bird from a ridge to the g
+ love\, horseback tug-of-war over a goat skin. Practically next door to Osk
+ emen.\n\nStatus of the event date: 🟡 Estimated (pattern-based or provis
+ ional\; check before booking)
+LOCATION:Ölgii\, Bayan-Ölgii\, western Mongolia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Albuquerque International Balloon Fiesta (in ~3 mon
+ ths)
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+DTSTAMP:20261108T000000Z
+UID:98d0c7095f2aad4946db@global-events-calendar
+DESCRIPTION:Albuquerque International Balloon Fiesta starts Sat 02 Oct 202
+ 7 in Balloon Fiesta Park\, Albuquerque\, New Mexico\, USA. Now's the time 
+ to sort flights\, tickets and somewhere to sleep.\n\n500+ hot-air balloons
+  lifting off together at dawn in the Mass Ascension\, and the Balloon Glow
+  at dusk. The most photographed event in the world.\n\nStatus of the event
+  date: ✅ Confirmed
+LOCATION:Balloon Fiesta Park\, Albuquerque\, New Mexico\, USA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: F1 Turkish GP – Race (in ~3 months)
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+DTSTAMP:20261108T000000Z
+UID:cc7012c614975eb1fb96@global-events-calendar
+DESCRIPTION:F1 Turkish GP – Race starts Sun 03 Oct 2027 in Istanbul Park
+ \, Türkiye. Now's the time to sort flights\, tickets and somewhere to sle
+ ep.\n\nTurn 8 is back\, a quadruple-apex left-hander that's one of F1's gr
+ eat corners. It's Istanbul's first GP since 2021\, and you can go via the 
+ Bosphorus.\n\nStatus of the event date: ✅ Confirmed\nOfficial info: http
+ s://www.formula1.com/en/racing
+LOCATION:Istanbul Park\, Türkiye
+TRANSP:TRANSPARENT
+URL:https://www.formula1.com/en/racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Diwali (Festival of Lights) (in ~3 months)
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+DTSTAMP:20261108T000000Z
+UID:1c3b8af4197c0b834e40@global-events-calendar
+DESCRIPTION:Diwali (Festival of Lights) starts Fri 29 Oct 2027 in India & 
+ diaspora (Varanasi\, Jaipur\, Amritsar\, Leicester). Now's the time to sor
+ t flights\, tickets and somewhere to sleep.\n\nOil lamps on every ledge\, 
+ rangoli on doorsteps and fireworks all night. Varanasi's ghats and Amritsa
+ r's Golden Temple lit up are breathtaking. Leicester's Golden Mile is the 
+ closest big celebration to home.\n\nStatus of the event date: ✅ Confirme
+ d
+LOCATION:India & diaspora (Varanasi\, Jaipur\, Amritsar\, Leicester)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: F1 Mexico City GP – Race (in ~3 months)
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+DTSTAMP:20261108T000000Z
+UID:5e86d8c0895fa382c420@global-events-calendar
+DESCRIPTION:F1 Mexico City GP – Race starts Sun 31 Oct 2027 in Autódrom
+ o Hermanos Rodríguez\, Mexico City. Now's the time to sort flights\, tick
+ ets and somewhere to sleep.\n\nAt 2\,240 m the thin air kills downforce\, 
+ and the stadium section is pure carnival. It's also Día de Muertos weeken
+ d.\n\nStatus of the event date: ✅ Confirmed\nOfficial info: https://www.
+ formula1.com/en/racing
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City
+TRANSP:TRANSPARENT
+URL:https://www.formula1.com/en/racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Día de Muertos (in ~3 months)
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+DTSTAMP:20261108T000000Z
+UID:8b43de31e5dfb19f5361@global-events-calendar
+DESCRIPTION:Día de Muertos starts Mon 01 Nov 2027 in Mexico City & Oaxaca
+ \, Mexico. Now's the time to sort flights\, tickets and somewhere to sleep
+ .\n\nMarigold-strewn altars\, sugar skulls\, candlelit all-night cemetery 
+ vigils in Oaxaca and Mexico City's huge parade. Joyful\, colourful remembr
+ ance. In 2027 it's straight after the Mexico City GP.\n\nStatus of the eve
+ nt date: ✅ Confirmed
+LOCATION:Mexico City & Oaxaca\, Mexico
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Pushkar Camel Fair (in ~3 months)
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+DTSTAMP:20261108T000000Z
+UID:48e21cce6dd190352fc6@global-events-calendar
+DESCRIPTION:Pushkar Camel Fair starts Sun 07 Nov 2027 in Pushkar\, Rajasth
+ an\, India. Now's the time to sort flights\, tickets and somewhere to slee
+ p.\n\nTens of thousands of camels and traders in the Thar desert\, with mo
+ ustache contests\, races and a full-moon holy dip. As raw and photogenic a
+ s India gets.\n\nStatus of the event date: 🟡 Estimated (pattern-based o
+ r provisional\; check before booking)
+LOCATION:Pushkar\, Rajasthan\, India
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Loy Krathong & Yi Peng\, Chiang Mai (in ~3 months)
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+DTSTAMP:20261108T000000Z
+UID:5c4730d1aae75dcdd233@global-events-calendar
+DESCRIPTION:Loy Krathong & Yi Peng\, Chiang Mai starts Sat 13 Nov 2027 in 
+ Chiang Mai\, Thailand. Now's the time to sort flights\, tickets and somewh
+ ere to sleep.\n\nCandlelit floats on the Ping River and thousands of sky l
+ anterns rising under the full moon. Book Chiang Mai rooms early.\n\nStatus
+  of the event date: 🟡 Estimated (pattern-based or provisional\; check b
+ efore booking)
+LOCATION:Chiang Mai\, Thailand
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Kendal Mountain Festival (in ~3 months)
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+DTSTAMP:20261108T000000Z
+UID:193fa12f7cce0f11708c@global-events-calendar
+DESCRIPTION:Kendal Mountain Festival starts Thu 18 Nov 2027 in Kendal\, Cu
+ mbria (Lake District)\, UK. Now's the time to sort flights\, tickets and s
+ omewhere to sleep.\n\nAdventure films\, expedition talks and the outdoor t
+ ribe in one Lakeland town. Mongol Rally film submission\, anyone?\n\nStatu
+ s of the event date: 🟡 Estimated (pattern-based or provisional\; check 
+ before booking)\nOfficial info: https://www.kendalmountainfestival.com
+LOCATION:Kendal\, Cumbria (Lake District)\, UK
+TRANSP:TRANSPARENT
+URL:https://www.kendalmountainfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Edinburgh's Hogmanay (in ~3 months)
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+DTSTAMP:20261108T000000Z
+UID:6cdd014e507c4486e563@global-events-calendar
+DESCRIPTION:Edinburgh's Hogmanay starts Wed 29 Dec 2027 in Edinburgh\, Sco
+ tland\, UK. Now's the time to sort flights\, tickets and somewhere to slee
+ p.\n\nTorchlight procession\, the Princes Street street party under the ca
+ stle\, fireworks at midnight\, a mass Auld Lang Syne\, then the Loony Dook
+  into the freezing Forth on New Year's Day.\n\nStatus of the event date: 
+ ✅ Confirmed
+LOCATION:Edinburgh\, Scotland\, UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Harbin Ice & Snow World opens (in ~3 months)
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+DTSTAMP:20261108T000000Z
+UID:d3cb854bee834fffbaf1@global-events-calendar
+DESCRIPTION:Harbin Ice & Snow World opens starts Wed 05 Jan 2028 in Harbin
+ \, Heilongjiang\, China. Now's the time to sort flights\, tickets and some
+ where to sleep.\n\nFull-size castles\, pagodas and slides carved from Song
+ hua River ice\, lit up in neon at −25°C. The world's biggest ice festiv
+ al runs into February.\n\nStatus of the event date: ✅ Confirmed
+LOCATION:Harbin\, Heilongjiang\, China
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: WRC Rallye Monte-Carlo 2028 (in ~3 months)
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+DTSTAMP:20261108T000000Z
+UID:8e2fa9da66926481a433@global-events-calendar
+DESCRIPTION:WRC Rallye Monte-Carlo 2028 starts Thu 20 Jan 2028 in Monaco &
+  the French Alps. Now's the time to sort flights\, tickets and somewhere t
+ o sleep.\n\nMonte opens the season every year\, almost always in the third
+  or fourth week of January. Ice\, snow and the Col de Turini at night.\n\n
+ Status of the event date: 🟡 Estimated (pattern-based or provisional\; c
+ heck before booking)\nOfficial info: https://www.wrc.com
+LOCATION:Monaco & the French Alps
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Up Helly Aa (in ~3 months)
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+DTSTAMP:20261108T000000Z
+UID:1d474801c72d3e4a9a21@global-events-calendar
+DESCRIPTION:Up Helly Aa starts Tue 25 Jan 2028 in Lerwick\, Shetland\, UK.
+  Now's the time to sort flights\, tickets and somewhere to sleep.\n\nEurop
+ e's largest fire festival. A thousand torch-bearing guizers in Viking armo
+ ur march a full-size longship through Lerwick and set it ablaze. Shetland 
+ in January is wild in every sense.\n\nStatus of the event date: ✅ Confir
+ med
+LOCATION:Lerwick\, Shetland\, UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Chinese New Year (in ~3 months)
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+DTSTAMP:20261108T000000Z
+UID:70c9fe6217cf755044a9@global-events-calendar
+DESCRIPTION:Chinese New Year starts Wed 26 Jan 2028 in China & Chinese com
+ munities worldwide (London Chinatown\, Singapore\, Penang…). Now's the t
+ ime to sort flights\, tickets and somewhere to sleep.\n\nThe biggest human
+  migration on Earth as hundreds of millions travel home. Firecrackers\, li
+ on dances\, red envelopes and dumplings at midnight. For something close t
+ o home\, London's Trafalgar Square celebration is the biggest outside Asia
+ .\n\nStatus of the event date: ✅ Confirmed\nOfficial info: https://www.t
+ ravelchinaguide.com/essential/holidays/new-year/
+LOCATION:China & Chinese communities worldwide (London Chinatown\, Singapo
+ re\, Penang…)
+TRANSP:TRANSPARENT
+URL:https://www.travelchinaguide.com/essential/holidays/new-year/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Venice Carnival (in ~3 months)
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+DTSTAMP:20261108T000000Z
+UID:84bea17f5179a42e6640@global-events-calendar
+DESCRIPTION:Venice Carnival starts Sat 12 Feb 2028 in Venice\, Italy. Now'
+ s the time to sort flights\, tickets and somewhere to sleep.\n\nMasks\, ca
+ pes and 18th-century costumes on misty canals\, with the Flight of the Ang
+ el over St Mark's Square. Eerie and elegant\, and easy to reach on a cheap
+  flight.\n\nStatus of the event date: 🟡 Estimated (pattern-based or pro
+ visional\; check before booking)
+LOCATION:Venice\, Italy
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Rio de Janeiro Carnival (in ~3 months)
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+DTSTAMP:20261108T000000Z
+UID:190e4ff91a28893e1416@global-events-calendar
+DESCRIPTION:Rio de Janeiro Carnival starts Sat 26 Feb 2028 in Sambadrome\,
+  Rio de Janeiro\, Brazil. Now's the time to sort flights\, tickets and som
+ ewhere to sleep.\n\nThe greatest party on Earth. Samba schools parading fl
+ oats the size of buildings through the Sambódromo until dawn\, and blocos
+  (street parties) in every neighbourhood. Book a year out.\n\nStatus of th
+ e event date: ✅ Confirmed
+LOCATION:Sambadrome\, Rio de Janeiro\, Brazil
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Holi (Festival of Colours) (in ~3 months)
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
+DTSTAMP:20261108T000000Z
+UID:9ee9537982568bd57dfe@global-events-calendar
+DESCRIPTION:Holi (Festival of Colours) starts Sat 11 Mar 2028 in India & N
+ epal (Mathura/Vrindavan\, Jaipur\, Kathmandu). Now's the time to sort flig
+ hts\, tickets and somewhere to sleep.\n\nTotal chromatic chaos. Strangers 
+ smother each other in coloured powder\, water pistols everywhere\, and bon
+ fires the night before.\n\nStatus of the event date: 🟡 Estimated (patte
+ rn-based or provisional\; check before booking)
+LOCATION:India & Nepal (Mathura/Vrindavan\, Jaipur\, Kathmandu)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Las Fallas (in ~3 months)
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+DTSTAMP:20261108T000000Z
+UID:1237b8000c0141609d6b@global-events-calendar
+DESCRIPTION:Las Fallas starts Wed 15 Mar 2028 in Valencia\, Spain. Now's t
+ he time to sort flights\, tickets and somewhere to sleep.\n\nValencia buil
+ ds hundreds of giant satirical sculptures\, ninots several storeys high\, 
+ then burns them all on the final night (La Cremà). Daily 2pm mascletà fi
+ recracker barrages shake your ribcage.\n\nStatus of the event date: ✅ Co
+ nfirmed
+LOCATION:Valencia\, Spain
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Cherry blossom peak (Tokyo & Kyoto) (in ~3 months)
+DTSTART;VALUE=DATE:20271229
+DTEND;VALUE=DATE:20271230
+DTSTAMP:20261108T000000Z
+UID:5134d8174fb268b2e099@global-events-calendar
+DESCRIPTION:Cherry blossom peak (Tokyo & Kyoto) starts Tue 28 Mar 2028 in 
+ Tokyo & Kyoto\, Japan. Now's the time to sort flights\, tickets and somewh
+ ere to sleep.\n\nHanami season. Picnics under clouds of pink in Ueno and M
+ aruyama parks\, the Philosopher's Path petal-strewn\, and night-lit sakura
+  along the canals. It lines up with the Japanese GP weekend in 2027.\n\nSt
+ atus of the event date: 🟡 Estimated (pattern-based or provisional\; che
+ ck before booking)
+LOCATION:Tokyo & Kyoto\, Japan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Semana Santa\, Seville (in ~3 months)
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+DTSTAMP:20261108T000000Z
+UID:9c98abdbce67e72099d5@global-events-calendar
+DESCRIPTION:Semana Santa\, Seville starts Sun 09 Apr 2028 in Seville\, And
+ alusia\, Spain. Now's the time to sort flights\, tickets and somewhere to 
+ sleep.\n\nHoly Week\, Spanish style. Hooded nazarenos\, swaying gold float
+ s carried by unseen costaleros\, incense\, saetas sung from balconies\, an
+ d the all-night Madrugá. Haunting and unforgettable.\n\nStatus of the eve
+ nt date: ✅ Confirmed
+LOCATION:Seville\, Andalusia\, Spain
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Book now: Songkran (Thai New Year water festival) (in ~3 mont
+ hs)
+DTSTART;VALUE=DATE:20280114
+DTEND;VALUE=DATE:20280115
+DTSTAMP:20261108T000000Z
+UID:94eeaa34427a0a96b847@global-events-calendar
+DESCRIPTION:Songkran (Thai New Year water festival) starts Thu 13 Apr 2028
+  in Thailand (Chiang Mai\, Bangkok's Silom & Khao San). Now's the time to 
+ sort flights\, tickets and somewhere to sleep.\n\nThe whole country turns 
+ into a three-day water fight. Super Soakers\, buckets and elephants\, with
+  no dry escape. It's also the hottest week of the year\, so you'll be grat
+ eful.\n\nStatus of the event date: ✅ Confirmed
+LOCATION:Thailand (Chiang Mai\, Bangkok's Silom & Khao San)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

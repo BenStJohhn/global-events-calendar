@@ -1,0 +1,146 @@
+# Sky & nature: eclipses (from timeanddate UK list), aurora/NLC windows and UK wildlife seasons.
+# Moons, equinoxes, meteor showers, oppositions and clock changes are computed in generator/sky.py.
+
+# ---------------- Eclipses ----------------
+- title: "Penumbral lunar eclipse"
+  start: 2027-02-20
+  location: "Visible across the UK"
+  url: https://www.timeanddate.com/eclipse/in/uk
+  hook: "The Moon slips into Earth's faint outer shadow. It's a subtle dusky shading on one side rather than a red 'blood moon', but it's a nice excuse to look up, and it's the warm-up for the eclipse season ahead."
+  notes: "Penumbral eclipses are subtle; best seen near maximum. Check timeanddate for exact local times."
+- title: "Total solar eclipse: SPAIN · MOROCCO · EGYPT (partial ~35% from UK)"
+  start: 2027-08-02
+  location: "Totality path: Cádiz/Tarifa, Gibraltar, northern Morocco, Tunisia, Libya, Luxor (Egypt)"
+  geo: [36.0143, -5.6044]
+  url: https://www.timeanddate.com/eclipse/solar/2027-august-2
+  trip: true
+  hook: "The eclipse of the decade. Totality reaches about 6 m 23 s near Luxor, one of the longest totalities over land this century. The path of darkness crosses southern Spain and the Strait of Gibraltar, so Tarifa or Cádiz is a cheap flight away. You get midday darkness, stars, the corona and a 360° sunset. From the UK it's only a ~35% partial (around 09:00–11:00 BST). Go to the path. Do not miss this."
+  notes: "Rule exception, approved by you: not fully visible from the UK, but it's a ✈️ priority. Book accommodation in the path EARLY, because it will sell out. Proper ISO 12312-2 eclipse glasses are essential for the partial phases."
+- title: "Partial solar eclipse from the UK (~35%)"
+  start: 2027-08-02T10:00
+  tz: Europe/London
+  duration: 120
+  location: "Visible across the UK (south-east ~35%)"
+  url: https://www.timeanddate.com/eclipse/in/uk
+  hook: "If you can't make it to Spain, the Moon still takes a decent bite out of the morning Sun across the UK, around 09:00–11:00 BST with maximum near 10:00. Use eclipse glasses or a pinhole projector, never look directly."
+  notes: "Times approximate for southern England; varies by a few minutes across the UK."
+- title: "Penumbral lunar eclipse (morning, Moon setting)"
+  start: 2027-08-17
+  location: "Visible across the UK (low in the west at dawn)"
+  url: https://www.timeanddate.com/eclipse/in/uk
+  hook: "A subtle shading of the setting Moon low in the west around dawn. A photo opportunity if you have a clear western horizon."
+- title: "Partial lunar eclipse: ~90% of the Moon in shadow"
+  start: 2028-01-12T04:03
+  tz: Europe/London
+  duration: 90
+  location: "Visible across the UK"
+  url: https://www.timeanddate.com/eclipse/in/uk
+  hook: "A deep partial eclipse. Around 90% of the Moon dives into Earth's dark umbra, turning a coppery red with just a bright sliver left. The best lunar eclipse from the UK in this window. Set an alarm; it's worth it."
+  notes: "Visible roughly 02:30–05:30 GMT; maximum ~04:03 GMT."
+- title: "Partial solar eclipse at sunset (~45%)"
+  start: 2028-01-26T16:40
+  tz: Europe/London
+  duration: 90
+  location: "Visible across the UK (west favoured)"
+  url: https://www.timeanddate.com/eclipse/in/uk
+  hook: "An annular eclipse elsewhere that's seen from the UK as a partial, low in the south-west as the Sun sets. A crescent Sun setting over the sea is a dream photo; head to a west-facing coast like Pembrokeshire or Cornwall."
+  notes: "Maximum ~16:40 GMT; the Sun is very low, so you need a clear south-west horizon. Use eclipse glasses."
+
+# ---------------- Aurora & night-sky seasons ----------------
+- title: "Aurora watch: equinox boost window"
+  rule: {type: fixed, month: 3, day: 10, days: 1}
+  status: estimated
+  location: "Northern Scotland best; often visible further south during storms"
+  geo: [58.5, -3.5]
+  url: https://aurorawatch.lancs.ac.uk
+  hook: "Geomagnetic storms are statistically more likely in the weeks around the equinoxes, because of how Earth's field lines up with the solar wind. Get AuroraWatch UK alerts on your phone and take every clear night seriously."
+  notes: "Statistical window (late Feb–early April), not a forecast."
+- title: "Aurora watch: equinox boost window"
+  rule: {type: fixed, month: 9, day: 10, days: 1}
+  status: estimated
+  location: "Northern Scotland best; often visible further south during storms"
+  geo: [58.5, -3.5]
+  url: https://aurorawatch.lancs.ac.uk
+  hook: "Autumn equinox storm season, and the nights are dark again. Your phone camera sees aurora better than your eyes do."
+  notes: "Statistical window (late Aug–early Oct), not a forecast."
+- title: "Noctilucent cloud season begins"
+  rule: {type: fixed, month: 5, day: 25, days: 1}
+  status: estimated
+  location: "Northern horizon, best from Scotland & northern England"
+  hook: "Electric-blue night-shining clouds 80 km up, the highest clouds on Earth, glowing in the northern sky long after sunset. Season runs to early August, peaking mid-June to mid-July."
+- title: "Milky Way core season begins"
+  rule: {type: fixed, month: 4, day: 15, days: 1}
+  status: estimated
+  location: "Dark-sky sites: Exmoor, Brecon Beacons, Galloway, Northumberland"
+  hook: "The bright galactic core starts rising in the small hours. Time trips with new moons; by July and August it's up at a civilised hour, low in the south."
+
+# ---------------- UK wildlife & nature ----------------
+- title: "Snowdrop season peaks"
+  rule: {type: fixed, month: 2, day: 5, days: 1}
+  status: estimated
+  location: "Woodland gardens UK (Painswick Rococo Garden, Glos.)"
+  geo: [51.7950, -2.1950]
+  hook: "Carpets of white in the woods, the first sign that winter's breaking. Painswick's snowdrop valley is an easy trip from Bristol."
+- title: "Bluebell woods at their best"
+  rule: {type: fixed, month: 4, day: 25, days: 1}
+  status: estimated
+  location: "Ancient woodland across the UK (Ashton Court, Leigh Woods near Bristol)"
+  geo: [51.4560, -2.6370]
+  hook: "Half the world's bluebells grow in Britain. Late April to mid-May, ancient woods turn into violet-blue haze with that heady scent. Get out at golden hour."
+- title: "Swifts return from Africa"
+  rule: {type: fixed, month: 5, day: 5, days: 1}
+  status: estimated
+  location: "UK skies"
+  hook: "Screaming parties of swifts arrive after a 10,000 km flight. They eat, sleep and mate on the wing and won't touch the ground until they nest. Summer has officially started."
+- title: "Puffin season (Skomer & Farne Islands)"
+  rule: {type: fixed, month: 5, day: 15, days: 1}
+  status: estimated
+  location: "Skomer Island, Pembrokeshire"
+  geo: [51.7370, -5.2960]
+  url: https://www.welshwildlife.org/skomer-skokholm/skomer
+  trip: true
+  hook: "Around 40,000 puffins on Skomer, so close you have to give way to them on the path. Boats from Martin's Haven fill fast, so book ahead. Season runs mid-May to late July."
+- title: "Basking shark season begins"
+  rule: {type: fixed, month: 6, day: 1, days: 1}
+  status: estimated
+  location: "Cornwall, Isle of Man & the Hebrides (Coll/Tiree)"
+  geo: [56.6000, -6.6000]
+  hook: "The world's second-biggest fish, up to 10 m long, cruising the surface with mouths agape. Kayak or snorkel trips from Cornwall and the Hebrides through to September."
+- title: "Heather in bloom (purple moors)"
+  rule: {type: fixed, month: 8, day: 12, days: 1}
+  status: estimated
+  location: "North York Moors, Exmoor, Dartmoor, Highlands"
+  geo: [54.3600, -0.8800]
+  hook: "Moorland turns purple from mid-August into September. Glorious hiking and MTB season, with honey-scented air."
+- title: "Red deer rut"
+  rule: {type: fixed, month: 9, day: 25, days: 1}
+  status: estimated
+  location: "Exmoor, Richmond Park, Isle of Rum, Highlands"
+  geo: [51.1500, -3.6000]
+  hook: "Stags roaring and clashing antlers in the misty autumn dawn. Exmoor is easy from Bristol, and the season runs late September to early November. Keep 50 m back."
+- title: "Autumn colour peak"
+  rule: {type: fixed, month: 10, day: 25, days: 1}
+  status: estimated
+  location: "Westonbirt Arboretum, Gloucestershire"
+  geo: [51.6060, -2.2160]
+  hook: "Japanese maples in full flame at Westonbirt, the national arboretum, 40 minutes from Bristol. Also great: the Wye Valley, Snowdonia and Perthshire ('Big Tree Country')."
+- title: "Leaping salmon season"
+  rule: {type: fixed, month: 10, day: 20, days: 1}
+  status: estimated
+  location: "Falls of Shin (Sutherland), Hermitage (Perthshire), Teifi (Cenarth)"
+  geo: [56.5600, -3.6000]
+  hook: "Atlantic salmon hurling themselves up waterfalls to spawn, after years at sea. Cenarth Falls in Wales is the closest spot."
+- title: "Grey seal pupping season"
+  rule: {type: fixed, month: 11, day: 15, days: 1}
+  status: estimated
+  location: "Horsey & Blakeney (Norfolk), Farne Islands, Pembrokeshire"
+  geo: [52.7920, 1.6460]
+  hook: "Thousands of fluffy white pups on the beaches at Horsey Gap, watched from the dunes. Peak is mid-November to early January."
+- title: "Starling murmurations"
+  rule: {type: fixed, month: 11, day: 1, days: 1}
+  status: estimated
+  location: "Somerset Levels (RSPB Ham Wall), Brighton Palace Pier, Aberystwyth Pier"
+  geo: [51.1530, -2.7870]
+  url: https://www.rspb.org.uk/days-out/reserves/ham-wall
+  hook: "Up to a million starlings swirling in hypnotic shape-shifting clouds at dusk, then all diving into the reeds at once. Ham Wall on the Somerset Levels is under an hour from Bristol."
+  notes: "Best November–February at dusk; the Starling Hotline tells you where they're roosting."

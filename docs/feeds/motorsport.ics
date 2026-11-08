@@ -1,0 +1,2212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ben St John//Global Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:F1 (quali, sprint, race), WRC, Dakar & W2RC, British GT, GTWC
+  Europe, rallycross.
+X-WR-CALNAME:🏁 Motorsport
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-APPLE-CALENDAR-COLOR:#D7263D
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:🏁 F1 São Paulo GP – Qualifying
+DTSTART:20261107T180000Z
+DTEND:20261107T190000Z
+DTSTAMP:20261108T000000Z
+UID:8bfcd218287497149cd0@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Interlagos runs anticlockwise\, it's bumpy and it nearly alway
+ s rains. Brazilian crowds make it the loudest race of the year.\n\nStatus:
+  ✅ Confirmed\nSession time confirmed by F1.\nLocal start: Sat 07 Nov 15:
+ 00 (-03). Your calendar shows it in your own time zone.\nOfficial info: ht
+ tps://www.formula1.com/en/racing
+GEO:-23.7036;-46.6997
+LOCATION:Autódromo José Carlos Pace (Interlagos)\, São Paulo\, Brazil
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autódro
+ mo José Carlos Pace (Interlagos), São Paulo, Brazil":geo:-23.7036,-46.69
+ 97
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 São Paulo GP – Race
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+DTSTAMP:20261108T000000Z
+UID:3d284b1c70f29dc1c54a@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Interlagos runs anticlockwise\, it's bumpy and it nearly alway
+ s rains. Brazilian crowds make it the loudest race of the year.\n\nStatus:
+  ✅ Confirmed\nSession time confirmed by F1.\nLocal start: Sun 08 Nov 14:
+ 00 (-03). Your calendar shows it in your own time zone.\nOfficial info: ht
+ tps://www.formula1.com/en/racing
+GEO:-23.7036;-46.6997
+LOCATION:Autódromo José Carlos Pace (Interlagos)\, São Paulo\, Brazil
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autódro
+ mo José Carlos Pace (Interlagos), São Paulo, Brazil":geo:-23.7036,-46.69
+ 97
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Las Vegas GP – Qualifying
+DTSTART:20261121T040000Z
+DTEND:20261121T050000Z
+DTSTAMP:20261108T000000Z
+UID:c01df2e39ba7c8a60be0@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A Saturday-night race down the Strip at 340 km/h\, past the Be
+ llagio fountains and the Sphere. It's pure spectacle\, and the race starts
+  at 4am UK time.\n\nStatus: ✅ Confirmed\nSession time confirmed by F1. S
+ aturday-night race\; that's early Sunday morning in the UK.\nLocal start: 
+ Fri 20 Nov 20:00 (PST). Your calendar shows it in your own time zone.\nOff
+ icial info: https://www.formula1.com/en/racing
+GEO:36.1147;-115.1728
+LOCATION:Las Vegas Strip Circuit\, Nevada\, USA
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Las Vega
+ s Strip Circuit, Nevada, USA":geo:36.1147,-115.1728
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Las Vegas GP – Race
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+DTSTAMP:20261108T000000Z
+UID:e8350853436dd4ee833f@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A Saturday-night race down the Strip at 340 km/h\, past the Be
+ llagio fountains and the Sphere. It's pure spectacle\, and the race starts
+  at 4am UK time.\n\nStatus: ✅ Confirmed\nSession time confirmed by F1. S
+ aturday-night race\; that's early Sunday morning in the UK.\nLocal start: 
+ Sat 21 Nov 20:00 (PST). Your calendar shows it in your own time zone.\nOff
+ icial info: https://www.formula1.com/en/racing
+GEO:36.1147;-115.1728
+LOCATION:Las Vegas Strip Circuit\, Nevada\, USA
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Las Vega
+ s Strip Circuit, Nevada, USA":geo:36.1147,-115.1728
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Qatar GP – Qualifying
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+DTSTAMP:20261108T000000Z
+UID:bd119cc113b5da68911b@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A floodlit desert circuit with fast\, flowing corners that pun
+ ish necks and tyres. The championship is often settled around here.\n\nSta
+ tus: ✅ Confirmed\nSession time confirmed by F1. Middle East security con
+ tingency plans are in place\; F1 says the race is confirmed.\nLocal start:
+  Sat 28 Nov 21:00 (+03). Your calendar shows it in your own time zone.\nOf
+ ficial info: https://www.formula1.com/en/racing
+GEO:25.49;51.4542
+LOCATION:Lusail International Circuit\, Qatar
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Lusail I
+ nternational Circuit, Qatar":geo:25.49,51.4542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Qatar GP – Race
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+DTSTAMP:20261108T000000Z
+UID:25a806b4ad33a2e3ca60@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A floodlit desert circuit with fast\, flowing corners that pun
+ ish necks and tyres. The championship is often settled around here.\n\nSta
+ tus: ✅ Confirmed\nSession time confirmed by F1. Middle East security con
+ tingency plans are in place\; F1 says the race is confirmed.\nLocal start:
+  Sun 29 Nov 19:00 (+03). Your calendar shows it in your own time zone.\nOf
+ ficial info: https://www.formula1.com/en/racing
+GEO:25.49;51.4542
+LOCATION:Lusail International Circuit\, Qatar
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Lusail I
+ nternational Circuit, Qatar":geo:25.49,51.4542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 FIA Rallycross World Cup\, Jakarta
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261108T000000Z
+UID:96354fe035e70f81b54e@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The first ever Rallycross World Cup\, a one-off global showdow
+ n on a mixed asphalt-and-gravel layout carved out of Jakarta's Formula E t
+ rack. Loeb and Kevin Hansen are among the names. World RX folded into Euro
+  RX for 2026\, so for now this is rallycross's only world stage.\n\nStatus
+ : ✅ Confirmed\nOfficial info: https://www.fia.com/events/fia-european-ra
+ llycross-championship
+GEO:-6.1236;106.8326
+LOCATION:Jakarta International E-Prix Circuit\, Ancol\, Jakarta\, Indonesi
+ a
+TRANSP:TRANSPARENT
+URL:https://www.fia.com/events/fia-european-rallycross-championship
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Jakarta 
+ International E-Prix Circuit, Ancol, Jakarta, Indonesia":geo:-6.1236,106.8
+ 326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Abu Dhabi GP – Qualifying
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+DTSTAMP:20261108T000000Z
+UID:93a33cff21476d5aff65@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The twilight finale. It starts in sunshine and finishes under 
+ lights past the colour-changing hotel. End-of-season parties included.\n\n
+ Status: ✅ Date confirmed · 🟡 start time estimated (from the circuit'
+ s usual slot)\nF1 publishes exact session times a few months out\; the mon
+ thly refresh will lock this in.\nLocal start: Sat 05 Dec 18:00 (+04). Your
+  calendar shows it in your own time zone.\nOfficial info: https://www.form
+ ula1.com/en/racing
+GEO:24.4672;54.6031
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Yas Mari
+ na Circuit, Abu Dhabi, UAE":geo:24.4672,54.6031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Abu Dhabi GP – Race
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+DTSTAMP:20261108T000000Z
+UID:bcf55dce2337de0ffcde@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The twilight finale. It starts in sunshine and finishes under 
+ lights past the colour-changing hotel. End-of-season parties included.\n\n
+ Status: ✅ Date confirmed · 🟡 start time estimated (from the circuit'
+ s usual slot)\nF1 publishes exact session times a few months out\; the mon
+ thly refresh will lock this in.\nLocal start: Sun 06 Dec 17:00 (+04). Your
+  calendar shows it in your own time zone.\nOfficial info: https://www.form
+ ula1.com/en/racing
+GEO:24.4672;54.6031
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Yas Mari
+ na Circuit, Abu Dhabi, UAE":geo:24.4672,54.6031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 Dakar Rally 2027 (Portugal → Morocco)
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261108T000000Z
+UID:52d660e036f8c93de293@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Dakar returns to Africa for the first time since 2008\, from t
+ he Algarve to Marrakech by way of a Mediterranean night crossing. 7\,824 k
+ m\, 4\,341 km of special stages\, six bivouacs. After driving to Kazakhsta
+ n\, you'll know exactly how they feel.\n\nStatus: ✅ Confirmed\nMoved fro
+ m Saudi Arabia late in the day. Dates are pending final FIA World Motor Sp
+ ort Council approval.\n✈️ Trip-worthy: there's a booking nudge in the 
+ 📅 Booking Nudges feed ~3 months ahead.\nOfficial info: https://www.daka
+ r.com
+GEO:31.6295;-7.9811
+LOCATION:Loulé-Faro\, Portugal → Marrakech\, Morocco
+TRANSP:TRANSPARENT
+URL:https://www.dakar.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Loulé-F
+ aro, Portugal → Marrakech, Morocco":geo:31.6295,-7.9811
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Dakar Rally 2027 (Portugal → Morocco) is ~3 m
+ onths away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 WRC Rallye Monte-Carlo
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261108T000000Z
+UID:97f1cadecd108a74c39a@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The season opener and the first event of WRC's new 2027 techni
+ cal era. Ice\, snow and dry tarmac all on the same stage\, and night runs 
+ over the Col de Turini. The most unpredictable rally of the year.\n\nStatu
+ s: ✅ Confirmed\n✈️ Trip-worthy: there's a booking nudge in the 📅 
+ Booking Nudges feed ~3 months ahead.\nOfficial info: https://www.wrc.com
+GEO:43.7384;7.4246
+LOCATION:Monaco & the French Alps
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Monaco &
+  the French Alps":geo:43.7384,7.4246
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: WRC Rallye Monte-Carlo is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 WRC Rally Sweden
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261108T000000Z
+UID:cdb8d56e1c325d17f19c@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The only full-snow round. Studded tyres\, 200 km/h through fro
+ zen forests\, cars leaning on the snowbanks\, and a decent chance of auror
+ a at night.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a bookin
+ g nudge in the 📅 Booking Nudges feed ~3 months ahead.\nOfficial info: h
+ ttps://www.wrc.com
+GEO:63.8258;20.263
+LOCATION:Umeå\, Västerbotten\, Sweden
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Umeå, V
+ ästerbotten, Sweden":geo:63.8258,20.263
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: WRC Rally Sweden is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 pre-season testing\, Bahrain
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270228
+DTSTAMP:20261108T000000Z
+UID:d06f4a5b5500c4dcb77b@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The first proper look at the 2027 cars. Lap times don't mean m
+ uch\, but the engineering gossip is worth it.\n\nStatus: ✅ Confirmed\nOf
+ ficial info: https://www.formula1.com
+GEO:26.0325;50.5106
+LOCATION:Bahrain International Circuit\, Sakhir
+TRANSP:TRANSPARENT
+URL:https://www.formula1.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Bahrain 
+ International Circuit, Sakhir":geo:26.0325,50.5106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Bahrain GP – Sprint
+DTSTART:20270313T120000Z
+DTEND:20270313T130000Z
+DTSTAMP:20261108T000000Z
+UID:829ea76b13f89501b12b@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Season opener under the lights. It's also the first time a sea
+ son has ever opened with a Sprint weekend.\n\nStatus: ✅ Date confirmed 
+ · 🟡 start time estimated (from the circuit's usual slot)\nF1 publishes
+  exact session times a few months out\; the monthly refresh will lock this
+  in. Flagged by F1 as subject to the Middle East situation.\nLocal start: 
+ Sat 13 Mar 15:00 (+03). Your calendar shows it in your own time zone.\nOff
+ icial info: https://www.formula1.com/en/racing
+GEO:26.0325;50.5106
+LOCATION:Bahrain International Circuit\, Sakhir
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Bahrain 
+ International Circuit, Sakhir":geo:26.0325,50.5106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Bahrain GP – Qualifying
+DTSTART:20270313T160000Z
+DTEND:20270313T170000Z
+DTSTAMP:20261108T000000Z
+UID:ebfb9d2f08ee87d881ab@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Season opener under the lights. It's also the first time a sea
+ son has ever opened with a Sprint weekend.\n\nStatus: ✅ Date confirmed 
+ · 🟡 start time estimated (from the circuit's usual slot)\nF1 publishes
+  exact session times a few months out\; the monthly refresh will lock this
+  in. Flagged by F1 as subject to the Middle East situation.\nLocal start: 
+ Sat 13 Mar 19:00 (+03). Your calendar shows it in your own time zone.\nOff
+ icial info: https://www.formula1.com/en/racing
+GEO:26.0325;50.5106
+LOCATION:Bahrain International Circuit\, Sakhir
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Bahrain 
+ International Circuit, Sakhir":geo:26.0325,50.5106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Bahrain GP – Race
+DTSTART:20270314T150000Z
+DTEND:20270314T170000Z
+DTSTAMP:20261108T000000Z
+UID:741f4b733c9bf62e01e8@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Season opener under the lights. It's also the first time a sea
+ son has ever opened with a Sprint weekend.\n\nStatus: ✅ Date confirmed 
+ · 🟡 start time estimated (from the circuit's usual slot)\nF1 publishes
+  exact session times a few months out\; the monthly refresh will lock this
+  in. Flagged by F1 as subject to the Middle East situation.\nLocal start: 
+ Sun 14 Mar 18:00 (+03). Your calendar shows it in your own time zone.\nOff
+ icial info: https://www.formula1.com/en/racing
+GEO:26.0325;50.5106
+LOCATION:Bahrain International Circuit\, Sakhir
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Bahrain 
+ International Circuit, Sakhir":geo:26.0325,50.5106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Safari Rally Kenya
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261108T000000Z
+UID:659e5524ee679351f9c8@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Rough roads\, fesh-fesh dust\, rain-soaked mud and zebras on t
+ he stages. Cars wear snorkels for the river crossings. The Safari is back 
+ for 2027.\n\nStatus: ✅ Confirmed\nOfficial info: https://www.wrc.com
+GEO:-0.7167;36.4333
+LOCATION:Naivasha\, Kenya
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Naivasha
+ , Kenya":geo:-0.7167,36.4333
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Saudi Arabian GP – Qualifying
+DTSTART:20270320T170000Z
+DTEND:20270320T180000Z
+DTSTAMP:20261108T000000Z
+UID:23aa65d18c4c09d1ef32@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The fastest street circuit on the calendar\, with blind walled
+  corners along the Red Sea at an average of 250 km/h. No room for errors.
+ \n\nStatus: ✅ Date confirmed · 🟡 start time estimated (from the circ
+ uit's usual slot)\nF1 publishes exact session times a few months out\; the
+  monthly refresh will lock this in. Flagged by F1 as subject to the Middle
+  East situation.\nLocal start: Sat 20 Mar 20:00 (+03). Your calendar shows
+  it in your own time zone.\nOfficial info: https://www.formula1.com/en/rac
+ ing
+GEO:21.6319;39.1044
+LOCATION:Jeddah Corniche Circuit\, Saudi Arabia
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Jeddah C
+ orniche Circuit, Saudi Arabia":geo:21.6319,39.1044
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 W2RC Abu Dhabi Desert Challenge
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20261108T000000Z
+UID:b62e6e940d8fd1781aba@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Round 2 of the World Rally-Raid Championship\, in the towering
+  Empty Quarter dunes of Liwa. Some of the biggest dunes anywhere.\n\nStatu
+ s: ✅ Confirmed\nOfficial info: https://www.dakar.com/en/w2rc
+GEO:23.1;53.75
+LOCATION:Liwa\, Abu Dhabi\, UAE
+TRANSP:TRANSPARENT
+URL:https://www.dakar.com/en/w2rc
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Liwa, Ab
+ u Dhabi, UAE":geo:23.1,53.75
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Saudi Arabian GP – Race
+DTSTART:20270321T170000Z
+DTEND:20270321T190000Z
+DTSTAMP:20261108T000000Z
+UID:98a2c990f528fba115b3@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The fastest street circuit on the calendar\, with blind walled
+  corners along the Red Sea at an average of 250 km/h. No room for errors.
+ \n\nStatus: ✅ Date confirmed · 🟡 start time estimated (from the circ
+ uit's usual slot)\nF1 publishes exact session times a few months out\; the
+  monthly refresh will lock this in. Flagged by F1 as subject to the Middle
+  East situation.\nLocal start: Sun 21 Mar 20:00 (+03). Your calendar shows
+  it in your own time zone.\nOfficial info: https://www.formula1.com/en/rac
+ ing
+GEO:21.6319;39.1044
+LOCATION:Jeddah Corniche Circuit\, Saudi Arabia
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Jeddah C
+ orniche Circuit, Saudi Arabia":geo:21.6319,39.1044
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Australian GP – Sprint
+DTSTART:20270403T010000Z
+DTEND:20270403T020000Z
+DTSTAMP:20261108T000000Z
+UID:314914e80f19ef848957@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Parkland street circuit around a lake\, with a festival atmosp
+ here and a city that lives for sport. A pre-dawn alarm in the UK.\n\nStatu
+ s: ✅ Date confirmed · 🟡 start time estimated (from the circuit's usu
+ al slot)\nF1 publishes exact session times a few months out\; the monthly 
+ refresh will lock this in.\nLocal start: Sat 03 Apr 12:00 (AEDT). Your cal
+ endar shows it in your own time zone.\nOfficial info: https://www.formula1
+ .com/en/racing
+GEO:-37.8497;144.968
+LOCATION:Albert Park\, Melbourne\, Australia
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Albert P
+ ark, Melbourne, Australia":geo:-37.8497,144.968
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Australian GP – Qualifying
+DTSTART:20270403T050000Z
+DTEND:20270403T060000Z
+DTSTAMP:20261108T000000Z
+UID:e60de04993b87ec93b73@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Parkland street circuit around a lake\, with a festival atmosp
+ here and a city that lives for sport. A pre-dawn alarm in the UK.\n\nStatu
+ s: ✅ Date confirmed · 🟡 start time estimated (from the circuit's usu
+ al slot)\nF1 publishes exact session times a few months out\; the monthly 
+ refresh will lock this in.\nLocal start: Sat 03 Apr 16:00 (AEDT). Your cal
+ endar shows it in your own time zone.\nOfficial info: https://www.formula1
+ .com/en/racing
+GEO:-37.8497;144.968
+LOCATION:Albert Park\, Melbourne\, Australia
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Albert P
+ ark, Melbourne, Australia":geo:-37.8497,144.968
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 F1 Australian GP – Race
+DTSTART:20270404T050000Z
+DTEND:20270404T070000Z
+DTSTAMP:20261108T000000Z
+UID:944266cee6bcdd1c6be7@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Parkland street circuit around a lake\, with a festival atmosp
+ here and a city that lives for sport. A pre-dawn alarm in the UK.\n\nStatu
+ s: ✅ Date confirmed · 🟡 start time estimated (from the circuit's usu
+ al slot)\nF1 publishes exact session times a few months out\; the monthly 
+ refresh will lock this in.\n✈️ Trip-worthy: there's a booking nudge in
+  the 📅 Booking Nudges feed ~3 months ahead.\nLocal start: Sun 04 Apr 15
+ :00 (AEST). Your calendar shows it in your own time zone.\nOfficial info: 
+ https://www.formula1.com/en/racing
+GEO:-37.8497;144.968
+LOCATION:Albert Park\, Melbourne\, Australia
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Albert P
+ ark, Melbourne, Australia":geo:-37.8497,144.968
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: F1 Australian GP – Race is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Croatia Rally
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261108T000000Z
+UID:d1a87b2a4b83bde8ae52@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Narrow\, twisty asphalt that changes grip from corner to corne
+ r\, where cutting the inside drags gravel onto the line. The first of thre
+ e tarmac rounds in a row.\n\nStatus: ✅ Confirmed\nOfficial info: https:/
+ /www.wrc.com
+GEO:45.815;15.9819
+LOCATION:Croatia
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Croatia"
+ :geo:45.815,15.9819
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 British GT – Snetterton 300 (2× 1h)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261108T000000Z
+UID:34548f6f3232846e5c4a@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Season opener on Snetterton's 300 layout. GT3 and GT4 share th
+ e track\, with Pro-Am driver changes mid-race.\n\nStatus: ✅ Confirmed\nP
+ rovisional SRO calendar (revised July 2026).\nOfficial info: https://www.b
+ ritishgt.com
+GEO:52.4636;0.9461
+LOCATION:Snetterton Circuit\, Norfolk\, UK
+TRANSP:TRANSPARENT
+URL:https://www.britishgt.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Snettert
+ on Circuit, Norfolk, UK":geo:52.4636,0.9461
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Japanese GP – Sprint
+DTSTART:20270410T020000Z
+DTEND:20270410T030000Z
+DTSTAMP:20261108T000000Z
+UID:a053182ae19e6ddbade0@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A figure-of-eight drivers' favourite (S-curves\, Degner\, 130R
+ )\, the most devoted fans in F1\, and it's cherry-blossom season.\n\nStatu
+ s: ✅ Date confirmed · 🟡 start time estimated (from the circuit's usu
+ al slot)\nF1 publishes exact session times a few months out\; the monthly 
+ refresh will lock this in.\nLocal start: Sat 10 Apr 11:00 (JST). Your cale
+ ndar shows it in your own time zone.\nOfficial info: https://www.formula1.
+ com/en/racing
+GEO:34.8431;136.541
+LOCATION:Suzuka Circuit\, Japan
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Suzuka C
+ ircuit, Japan":geo:34.8431,136.541
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Japanese GP – Qualifying
+DTSTART:20270410T060000Z
+DTEND:20270410T070000Z
+DTSTAMP:20261108T000000Z
+UID:45232c41df0b53e1f3a2@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A figure-of-eight drivers' favourite (S-curves\, Degner\, 130R
+ )\, the most devoted fans in F1\, and it's cherry-blossom season.\n\nStatu
+ s: ✅ Date confirmed · 🟡 start time estimated (from the circuit's usu
+ al slot)\nF1 publishes exact session times a few months out\; the monthly 
+ refresh will lock this in.\nLocal start: Sat 10 Apr 15:00 (JST). Your cale
+ ndar shows it in your own time zone.\nOfficial info: https://www.formula1.
+ com/en/racing
+GEO:34.8431;136.541
+LOCATION:Suzuka Circuit\, Japan
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Suzuka C
+ ircuit, Japan":geo:34.8431,136.541
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 F1 Japanese GP – Race
+DTSTART:20270411T050000Z
+DTEND:20270411T070000Z
+DTSTAMP:20261108T000000Z
+UID:62de5aabb249e9769d29@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A figure-of-eight drivers' favourite (S-curves\, Degner\, 130R
+ )\, the most devoted fans in F1\, and it's cherry-blossom season.\n\nStatu
+ s: ✅ Date confirmed · 🟡 start time estimated (from the circuit's usu
+ al slot)\nF1 publishes exact session times a few months out\; the monthly 
+ refresh will lock this in.\n✈️ Trip-worthy: there's a booking nudge in
+  the 📅 Booking Nudges feed ~3 months ahead.\nLocal start: Sun 11 Apr 14
+ :00 (JST). Your calendar shows it in your own time zone.\nOfficial info: h
+ ttps://www.formula1.com/en/racing
+GEO:34.8431;136.541
+LOCATION:Suzuka Circuit\, Japan
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Suzuka C
+ ircuit, Japan":geo:34.8431,136.541
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: F1 Japanese GP – Race is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 GTWC Europe – Paul Ricard 1000km (Endurance)
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270418
+DTSTAMP:20261108T000000Z
+UID:589ce57db387d3a96cfa@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Endurance Cup opener on the blue-and-red striped run-off near 
+ the Côte d'Azur\, with 50+ GT3 cars.\n\nStatus: ✅ Confirmed\nOfficial i
+ nfo: https://www.gt-world-challenge-europe.com
+GEO:43.2506;5.7917
+LOCATION:Circuit Paul Ricard\, Le Castellet\, France
+TRANSP:TRANSPARENT
+URL:https://www.gt-world-challenge-europe.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ Paul Ricard, Le Castellet, France":geo:43.2506,5.7917
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Chinese GP – Qualifying
+DTSTART:20270417T070000Z
+DTEND:20270417T080000Z
+DTSTAMP:20261108T000000Z
+UID:ae72ae5db198b071ebf7@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Laid out in the shape of the character 'shang'. The never-endi
+ ng Turn 1 snail and one of the longest back straights in F1.\n\nStatus: 
+ ✅ Date confirmed · 🟡 start time estimated (from the circuit's usual 
+ slot)\nF1 publishes exact session times a few months out\; the monthly ref
+ resh will lock this in.\nLocal start: Sat 17 Apr 15:00 (CST). Your calenda
+ r shows it in your own time zone.\nOfficial info: https://www.formula1.com
+ /en/racing
+GEO:31.3389;121.2197
+LOCATION:Shanghai International Circuit\, China
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Shanghai
+  International Circuit, China":geo:31.3389,121.2197
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Chinese GP – Race
+DTSTART:20270418T070000Z
+DTEND:20270418T090000Z
+DTSTAMP:20261108T000000Z
+UID:b558fec0e6814e2b3d3c@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Laid out in the shape of the character 'shang'. The never-endi
+ ng Turn 1 snail and one of the longest back straights in F1.\n\nStatus: 
+ ✅ Date confirmed · 🟡 start time estimated (from the circuit's usual 
+ slot)\nF1 publishes exact session times a few months out\; the monthly ref
+ resh will lock this in.\nLocal start: Sun 18 Apr 15:00 (CST). Your calenda
+ r shows it in your own time zone.\nOfficial info: https://www.formula1.com
+ /en/racing
+GEO:31.3389;121.2197
+LOCATION:Shanghai International Circuit\, China
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Shanghai
+  International Circuit, China":geo:31.3389,121.2197
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 GTWC Europe – Brands Hatch (Sprint)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20261108T000000Z
+UID:b4e4001f8922faa40c1e@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The full GT3 world-class grid on a British track. Sprint Cup\,
+  two one-hour races and lots of contact.\n\nStatus: ✅ Confirmed\nOfficia
+ l info: https://www.gt-world-challenge-europe.com
+GEO:51.3569;0.2631
+LOCATION:Brands Hatch\, Kent\, UK
+TRANSP:TRANSPARENT
+URL:https://www.gt-world-challenge-europe.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Brands H
+ atch, Kent, UK":geo:51.3569,0.2631
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Miami GP – Qualifying
+DTSTART:20270501T200000Z
+DTEND:20270501T210000Z
+DTSTAMP:20261108T000000Z
+UID:d1ea3215686bcbe9199b@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Built around the Hard Rock Stadium\, with a fake marina and a 
+ lot of celebrities. Very Miami.\n\nStatus: ✅ Date confirmed · 🟡 star
+ t time estimated (from the circuit's usual slot)\nF1 publishes exact sessi
+ on times a few months out\; the monthly refresh will lock this in.\nLocal 
+ start: Sat 01 May 16:00 (EDT). Your calendar shows it in your own time zon
+ e.\nOfficial info: https://www.formula1.com/en/racing
+GEO:25.9581;-80.2389
+LOCATION:Miami International Autodrome\, Florida\, USA
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Miami In
+ ternational Autodrome, Florida, USA":geo:25.9581,-80.2389
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Miami GP – Race
+DTSTART:20270502T200000Z
+DTEND:20270502T220000Z
+DTSTAMP:20261108T000000Z
+UID:1ca0a99699dfe9956def@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Built around the Hard Rock Stadium\, with a fake marina and a 
+ lot of celebrities. Very Miami.\n\nStatus: ✅ Date confirmed · 🟡 star
+ t time estimated (from the circuit's usual slot)\nF1 publishes exact sessi
+ on times a few months out\; the monthly refresh will lock this in.\nLocal 
+ start: Sun 02 May 16:00 (EDT). Your calendar shows it in your own time zon
+ e.\nOfficial info: https://www.formula1.com/en/racing
+GEO:25.9581;-80.2389
+LOCATION:Miami International Autodrome\, Florida\, USA
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Miami In
+ ternational Autodrome, Florida, USA":geo:25.9581,-80.2389
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Rally Islas Canarias
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261108T000000Z
+UID:4d31050a2d60580b8729@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Smooth\, grippy volcanic tarmac with ocean views. It's basical
+ ly a circuit race on mountain roads\, with a beach afterwards.\n\nStatus: 
+ ✅ Confirmed\nOfficial info: https://www.wrc.com
+GEO:28.1235;-15.4363
+LOCATION:Las Palmas\, Gran Canaria\, Spain
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Las Palm
+ as, Gran Canaria, Spain":geo:28.1235,-15.4363
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 Euro RX 2027 season (calendar not yet announced) (TBC)
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261108T000000Z
+UID:c550854f62243ff9acbb@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:World RX became the FIA European Rallycross Championship (Euro
+  RX) in 2026. The 2026 calendar was announced in late November\, so expect
+  the 2027 rounds soon. The monthly refresh will replace this placeholder w
+ ith the real rounds (Höljes\, Lohéac\, Lousada and co.).\n\nStatus: ❓ 
+ Date TBC (placeholder until the organisers announce)\nPlaceholder date. Th
+ e 2026 season opened in early May.\nOfficial info: https://www.fia.com/eve
+ nts/fia-european-rallycross-championship
+LOCATION:Europe
+TRANSP:TRANSPARENT
+URL:https://www.fia.com/events/fia-european-rallycross-championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 GTWC Europe – Imola (Endurance) (est.)
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261108T000000Z
+UID:6a09b482199f1d50335e@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Old-school\, anticlockwise and narrow. Imola stands in for Mon
+ za while Monza is renovated.\n\nStatus: 🟡 Estimated (pattern-based or p
+ rovisional\; check before booking)\nThe date is 'subject to agreement' per
+  SRO.\nOfficial info: https://www.gt-world-challenge-europe.com
+GEO:44.3439;11.7167
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.gt-world-challenge-europe.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autodrom
+ o Enzo e Dino Ferrari, Imola, Italy":geo:44.3439,11.7167
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Canadian GP – Sprint
+DTSTART:20270522T160000Z
+DTEND:20270522T170000Z
+DTSTAMP:20261108T000000Z
+UID:1964494393382d7e4de4@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Island circuit on the St Lawrence. Drivers brush the Wall of C
+ hampions\, groundhogs wander across the track\, and Montréal throws a cit
+ y-wide party.\n\nStatus: ✅ Date confirmed · 🟡 start time estimated (
+ from the circuit's usual slot)\nF1 publishes exact session times a few mon
+ ths out\; the monthly refresh will lock this in.\nLocal start: Sat 22 May 
+ 12:00 (EDT). Your calendar shows it in your own time zone.\nOfficial info:
+  https://www.formula1.com/en/racing
+GEO:45.5;-73.5228
+LOCATION:Circuit Gilles Villeneuve\, Montréal\, Canada
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ Gilles Villeneuve, Montréal, Canada":geo:45.5,-73.5228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Canadian GP – Qualifying
+DTSTART:20270522T200000Z
+DTEND:20270522T210000Z
+DTSTAMP:20261108T000000Z
+UID:e03ac7db551efe70c3d4@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Island circuit on the St Lawrence. Drivers brush the Wall of C
+ hampions\, groundhogs wander across the track\, and Montréal throws a cit
+ y-wide party.\n\nStatus: ✅ Date confirmed · 🟡 start time estimated (
+ from the circuit's usual slot)\nF1 publishes exact session times a few mon
+ ths out\; the monthly refresh will lock this in.\nLocal start: Sat 22 May 
+ 16:00 (EDT). Your calendar shows it in your own time zone.\nOfficial info:
+  https://www.formula1.com/en/racing
+GEO:45.5;-73.5228
+LOCATION:Circuit Gilles Villeneuve\, Montréal\, Canada
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ Gilles Villeneuve, Montréal, Canada":geo:45.5,-73.5228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Canadian GP – Race
+DTSTART:20270523T180000Z
+DTEND:20270523T200000Z
+DTSTAMP:20261108T000000Z
+UID:b07028d9641b5ef11be0@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Island circuit on the St Lawrence. Drivers brush the Wall of C
+ hampions\, groundhogs wander across the track\, and Montréal throws a cit
+ y-wide party.\n\nStatus: ✅ Date confirmed · 🟡 start time estimated (
+ from the circuit's usual slot)\nF1 publishes exact session times a few mon
+ ths out\; the monthly refresh will lock this in.\nLocal start: Sun 23 May 
+ 14:00 (EDT). Your calendar shows it in your own time zone.\nOfficial info:
+  https://www.formula1.com/en/racing
+GEO:45.5;-73.5228
+LOCATION:Circuit Gilles Villeneuve\, Montréal\, Canada
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ Gilles Villeneuve, Montréal, Canada":geo:45.5,-73.5228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 British GT – Oulton Park (2× 1h)
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270601
+DTSTAMP:20261108T000000Z
+UID:498b5dcd054464a5d0d2@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The best track in Britain for GT cars\, tight and undulating t
+ hrough Cheshire parkland. Bank holiday Monday race day.\n\nStatus: ✅ Con
+ firmed\nQualifying Saturday\, race on Bank Holiday Monday\; no action Sund
+ ay.\nOfficial info: https://www.britishgt.com
+GEO:53.1797;-2.6131
+LOCATION:Oulton Park\, Cheshire\, UK
+TRANSP:TRANSPARENT
+URL:https://www.britishgt.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Oulton P
+ ark, Cheshire, UK":geo:53.1797,-2.6131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 Isle of Man TT
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270613
+DTSTAMP:20261108T000000Z
+UID:e11ac04ab3b70144b53c@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:60 km of public roads closed for 200 mph road racing past ston
+ e walls and front doors. The most dangerous\, and maybe the most awe-inspi
+ ring\, race in the world. Book ferries VERY early.\n\nStatus: ✅ Confirme
+ d\nBonus pick outside your chosen series. Senior TT on Sat 12 June.\n✈
+ ️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges feed ~
+ 3 months ahead.\nOfficial info: https://www.iomttraces.com
+GEO:54.1676;-4.4818
+LOCATION:Snaefell Mountain Course\, Isle of Man
+TRANSP:TRANSPARENT
+URL:https://www.iomttraces.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Snaefell
+  Mountain Course, Isle of Man":geo:54.1676,-4.4818
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Isle of Man TT is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Rally Japan
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270607
+DTSTAMP:20261108T000000Z
+UID:027fbd12c954efb1ff39@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Narrow\, tree-lined mountain asphalt in Toyota's back yard\, w
+ ith some of the most enthusiastic fans in the sport.\n\nStatus: ✅ Confir
+ med\nOfficial info: https://www.wrc.com
+GEO:35.1815;136.9066
+LOCATION:Aichi & Gifu\, Japan
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Aichi & 
+ Gifu, Japan":geo:35.1815,136.9066
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Monaco GP – Sprint
+DTSTART:20270605T100000Z
+DTEND:20270605T110000Z
+DTSTAMP:20261108T000000Z
+UID:ccf77e57bc84c5857152@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The jewel in the crown\, and Monaco's first ever Sprint. Barri
+ ers millimetres away\, yachts in the harbour\, and qualifying is half the 
+ race.\n\nStatus: ✅ Date confirmed · 🟡 start time estimated (from the
+  circuit's usual slot)\nF1 publishes exact session times a few months out
+ \; the monthly refresh will lock this in.\nLocal start: Sat 05 Jun 12:00 (
+ CEST). Your calendar shows it in your own time zone.\nOfficial info: https
+ ://www.formula1.com/en/racing
+GEO:43.7347;7.4206
+LOCATION:Circuit de Monaco\, Monte Carlo
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ de Monaco, Monte Carlo":geo:43.7347,7.4206
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Monaco GP – Qualifying
+DTSTART:20270605T140000Z
+DTEND:20270605T150000Z
+DTSTAMP:20261108T000000Z
+UID:a733fa7caa102ee70207@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The jewel in the crown\, and Monaco's first ever Sprint. Barri
+ ers millimetres away\, yachts in the harbour\, and qualifying is half the 
+ race.\n\nStatus: ✅ Date confirmed · 🟡 start time estimated (from the
+  circuit's usual slot)\nF1 publishes exact session times a few months out
+ \; the monthly refresh will lock this in.\nLocal start: Sat 05 Jun 16:00 (
+ CEST). Your calendar shows it in your own time zone.\nOfficial info: https
+ ://www.formula1.com/en/racing
+GEO:43.7347;7.4206
+LOCATION:Circuit de Monaco\, Monte Carlo
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ de Monaco, Monte Carlo":geo:43.7347,7.4206
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 F1 Monaco GP – Race
+DTSTART:20270606T130000Z
+DTEND:20270606T150000Z
+DTSTAMP:20261108T000000Z
+UID:d5d45fb846d2587b9097@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The jewel in the crown\, and Monaco's first ever Sprint. Barri
+ ers millimetres away\, yachts in the harbour\, and qualifying is half the 
+ race.\n\nStatus: ✅ Date confirmed · 🟡 start time estimated (from the
+  circuit's usual slot)\nF1 publishes exact session times a few months out
+ \; the monthly refresh will lock this in.\n✈️ Trip-worthy: there's a b
+ ooking nudge in the 📅 Booking Nudges feed ~3 months ahead.\nLocal start
+ : Sun 06 Jun 15:00 (CEST). Your calendar shows it in your own time zone.\n
+ Official info: https://www.formula1.com/en/racing
+GEO:43.7347;7.4206
+LOCATION:Circuit de Monaco\, Monte Carlo
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ de Monaco, Monte Carlo":geo:43.7347,7.4206
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: F1 Monaco GP – Race is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 24 Hours of Le Mans (95th edition)
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270614
+DTSTAMP:20261108T000000Z
+UID:0220fe1bc3d10753e438@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The greatest endurance race there is. Hypercars at 330 km/h do
+ wn the Mulsanne in the dark\, a Ferris wheel\, and a campsite full of Brit
+ s who drove over. A legendary road trip.\n\nStatus: ✅ Confirmed\nBonus p
+ ick outside your chosen series. Race Sat 12–Sun 13 June.\n✈️ Trip-wo
+ rthy: there's a booking nudge in the 📅 Booking Nudges feed ~3 months ah
+ ead.\nOfficial info: https://www.24h-lemans.com
+GEO:47.956;0.2077
+LOCATION:Circuit de la Sarthe\, Le Mans\, France
+TRANSP:TRANSPARENT
+URL:https://www.24h-lemans.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ de la Sarthe, Le Mans, France":geo:47.956,0.2077
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: 24 Hours of Le Mans (95th edition) is ~3 months
+  away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 W2RC South African Safari Rally
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270620
+DTSTAMP:20261108T000000Z
+UID:f77a8e792bdde86bf063@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Rally-raid through the Kalahari\, crossing into Botswana for t
+ he first time. Wild\, remote and properly African.\n\nStatus: ✅ Confirme
+ d\nOfficial info: https://www.dakar.com/en/w2rc
+GEO:-28.7282;24.7499
+LOCATION:Northern Cape\, South Africa (with stages into Botswana)
+TRANSP:TRANSPARENT
+URL:https://www.dakar.com/en/w2rc
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Northern
+  Cape, South Africa (with stages into Botswana)":geo:-28.7282,24.7499
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 British GT – Spa Speedweek (2h)
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270621
+DTSTAMP:20261108T000000Z
+UID:9fd3b9265871e6ea0b8a@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The British championship goes abroad to the greatest circuit o
+ f them all.\n\nStatus: ✅ Confirmed\nOfficial info: https://www.britishgt
+ .com
+GEO:50.4372;5.9714
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+TRANSP:TRANSPARENT
+URL:https://www.britishgt.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ de Spa-Francorchamps, Belgium":geo:50.4372,5.9714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Portuguese GP – Qualifying
+DTSTART:20270619T150000Z
+DTEND:20270619T160000Z
+DTSTAMP:20261108T000000Z
+UID:ab9437d4caa7424477aa@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The rollercoaster is back. Blind crests and plunging drops on 
+ the Algarve\, with beaches 20 minutes away. A cheap\, sunny race trip from
+  the UK.\n\nStatus: ✅ Date confirmed · 🟡 start time estimated (from 
+ the circuit's usual slot)\nF1 publishes exact session times a few months o
+ ut\; the monthly refresh will lock this in.\nLocal start: Sat 19 Jun 16:00
+  (WEST). Your calendar shows it in your own time zone.\nOfficial info: htt
+ ps://www.formula1.com/en/racing
+GEO:37.227;-8.6267
+LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autódro
+ mo Internacional do Algarve, Portimão, Portugal":geo:37.227,-8.6267
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 F1 Portuguese GP – Race
+DTSTART:20270620T140000Z
+DTEND:20270620T160000Z
+DTSTAMP:20261108T000000Z
+UID:a7417997d47ad16f4af9@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The rollercoaster is back. Blind crests and plunging drops on 
+ the Algarve\, with beaches 20 minutes away. A cheap\, sunny race trip from
+  the UK.\n\nStatus: ✅ Date confirmed · 🟡 start time estimated (from 
+ the circuit's usual slot)\nF1 publishes exact session times a few months o
+ ut\; the monthly refresh will lock this in.\n✈️ Trip-worthy: there's a
+  booking nudge in the 📅 Booking Nudges feed ~3 months ahead.\nLocal sta
+ rt: Sun 20 Jun 15:00 (WEST). Your calendar shows it in your own time zone.
+ \nOfficial info: https://www.formula1.com/en/racing
+GEO:37.227;-8.6267
+LOCATION:Autódromo Internacional do Algarve\, Portimão\, Portugal
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autódro
+ mo Internacional do Algarve, Portimão, Portugal":geo:37.227,-8.6267
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: F1 Portuguese GP – Race is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Acropolis Rally Greece
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20261108T000000Z
+UID:11c093d35a5b32a3505c@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The 'Rally of Gods'. Rocky\, car-breaking mountain gravel in 3
+ 5°C heat. Survival comes before speed.\n\nStatus: ✅ Confirmed\nOfficial
+  info: https://www.wrc.com
+GEO:37.975;22.977
+LOCATION:Loutraki\, Greece
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Loutraki
+ , Greece":geo:37.975,22.977
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 CrowdStrike 24 Hours of Spa
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20261108T000000Z
+UID:f55d4aa0530344ce69c6@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The biggest GT race on Earth. 60+ GT3 cars\, Eau Rouge in the 
+ dark\, Ardennes rain at 3am and a fan village that never sleeps. A cheap E
+ urotunnel road trip.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's
+  a booking nudge in the 📅 Booking Nudges feed ~3 months ahead.\nOfficia
+ l info: https://www.24hoursofspa.com
+GEO:50.4372;5.9714
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+TRANSP:TRANSPARENT
+URL:https://www.24hoursofspa.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ de Spa-Francorchamps, Belgium":geo:50.4372,5.9714
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: CrowdStrike 24 Hours of Spa is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 British GP – Sprint
+DTSTART:20270703T100000Z
+DTEND:20270703T110000Z
+DTSTAMP:20261108T000000Z
+UID:be46d225ce73cbfc3a27@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Home race. Maggotts–Becketts–Chapel is the best sequence o
+ f corners in F1\, and this year it's a Sprint weekend too.\n\nStatus: ✅ 
+ Date confirmed · 🟡 start time estimated (from the circuit's usual slot
+ )\nF1 publishes exact session times a few months out\; the monthly refresh
+  will lock this in.\nLocal start: Sat 03 Jul 11:00 (BST). Your calendar sh
+ ows it in your own time zone.\nOfficial info: https://www.formula1.com/en/
+ racing
+GEO:52.0786;-1.0169
+LOCATION:Silverstone Circuit\, Northamptonshire\, UK
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Silverst
+ one Circuit, Northamptonshire, UK":geo:52.0786,-1.0169
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 British GP – Qualifying
+DTSTART:20270703T140000Z
+DTEND:20270703T150000Z
+DTSTAMP:20261108T000000Z
+UID:9e91ba394fdfa30a9d61@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Home race. Maggotts–Becketts–Chapel is the best sequence o
+ f corners in F1\, and this year it's a Sprint weekend too.\n\nStatus: ✅ 
+ Date confirmed · 🟡 start time estimated (from the circuit's usual slot
+ )\nF1 publishes exact session times a few months out\; the monthly refresh
+  will lock this in.\nLocal start: Sat 03 Jul 15:00 (BST). Your calendar sh
+ ows it in your own time zone.\nOfficial info: https://www.formula1.com/en/
+ racing
+GEO:52.0786;-1.0169
+LOCATION:Silverstone Circuit\, Northamptonshire\, UK
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Silverst
+ one Circuit, Northamptonshire, UK":geo:52.0786,-1.0169
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 F1 British GP – Race
+DTSTART:20270704T140000Z
+DTEND:20270704T160000Z
+DTSTAMP:20261108T000000Z
+UID:32641452257cd8ced517@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Home race. Maggotts–Becketts–Chapel is the best sequence o
+ f corners in F1\, and this year it's a Sprint weekend too.\n\nStatus: ✅ 
+ Date confirmed · 🟡 start time estimated (from the circuit's usual slot
+ )\nF1 publishes exact session times a few months out\; the monthly refresh
+  will lock this in.\n✈️ Trip-worthy: there's a booking nudge in the 
+ 📅 Booking Nudges feed ~3 months ahead.\nLocal start: Sun 04 Jul 15:00 (
+ BST). Your calendar shows it in your own time zone.\nOfficial info: https:
+ //www.formula1.com/en/racing
+GEO:52.0786;-1.0169
+LOCATION:Silverstone Circuit\, Northamptonshire\, UK
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Silverst
+ one Circuit, Northamptonshire, UK":geo:52.0786,-1.0169
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: F1 British GP – Race is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Rally d'Italia (Rome)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+DTSTAMP:20261108T000000Z
+UID:070fec8ad046506104b3@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:New for 2027. Italy's round moves from Sardinia to Rome and sw
+ itches to tarmac. Rally cars and Roman ruins in the same weekend.\n\nStatu
+ s: ✅ Confirmed\nOfficial info: https://www.wrc.com
+GEO:41.9028;12.4964
+LOCATION:Rome\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Rome, It
+ aly":geo:41.9028,12.4964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 Goodwood Festival of Speed (est.)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+DTSTAMP:20261108T000000Z
+UID:d83338aa8a6b7e6f141f@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Up the hill past the house in everything from 1900s racers to 
+ this year's F1 cars. It's a garden party for petrolheads\, and you might r
+ emember Goodwood as the old Mongol Rally launch site.\n\nStatus: 🟡 Esti
+ mated (pattern-based or provisional\; check before booking)\nEstimated fro
+ m the usual early/mid-July weekend. Bonus pick.\nOfficial info: https://ww
+ w.goodwood.com
+GEO:50.8615;-0.7514
+LOCATION:Goodwood House\, West Sussex\, UK
+TRANSP:TRANSPARENT
+URL:https://www.goodwood.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Goodwood
+  House, West Sussex, UK":geo:50.8615,-0.7514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Austrian GP – Qualifying
+DTSTART:20270710T140000Z
+DTEND:20270710T150000Z
+DTSTAMP:20261108T000000Z
+UID:e829d51340bcef06554f@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Short\, fast lap in the Styrian Alps\, with a camping-and-hiki
+ ng festival vibe and a sea of orange.\n\nStatus: ✅ Date confirmed · 
+ 🟡 start time estimated (from the circuit's usual slot)\nF1 publishes ex
+ act session times a few months out\; the monthly refresh will lock this in
+ .\nLocal start: Sat 10 Jul 16:00 (CEST). Your calendar shows it in your ow
+ n time zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:47.2197;14.7647
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Red Bull
+  Ring, Spielberg, Austria":geo:47.2197,14.7647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Austrian GP – Race
+DTSTART:20270711T130000Z
+DTEND:20270711T150000Z
+DTSTAMP:20261108T000000Z
+UID:0dcae69a3dc4e558b902@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Short\, fast lap in the Styrian Alps\, with a camping-and-hiki
+ ng festival vibe and a sea of orange.\n\nStatus: ✅ Date confirmed · 
+ 🟡 start time estimated (from the circuit's usual slot)\nF1 publishes ex
+ act session times a few months out\; the monthly refresh will lock this in
+ .\nLocal start: Sun 11 Jul 15:00 (CEST). Your calendar shows it in your ow
+ n time zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:47.2197;14.7647
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Red Bull
+  Ring, Spielberg, Austria":geo:47.2197,14.7647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 GTWC Europe – Misano (Sprint)
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270719
+DTSTAMP:20261108T000000Z
+UID:c2ed9f784b6b39e01063@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A summer night race on the Adriatic coast. Floodlit GT3 sprint
+  racing\, then the beach.\n\nStatus: ✅ Confirmed\nOfficial info: https:/
+ /www.gt-world-challenge-europe.com
+GEO:43.9617;12.6833
+LOCATION:Misano World Circuit\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.gt-world-challenge-europe.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Misano W
+ orld Circuit, Italy":geo:43.9617,12.6833
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Rally Estonia
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270726
+DTSTAMP:20261108T000000Z
+UID:c9c0d1b2b50acb6d5345@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Super-fast\, smooth gravel with huge jumps. It's like Finland'
+ s little brother\, and almost as quick.\n\nStatus: ✅ Confirmed\nOfficial
+  info: https://www.wrc.com
+GEO:58.3776;26.729
+LOCATION:Tartu\, Estonia
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Tartu, E
+ stonia":geo:58.3776,26.729
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Belgian GP – Qualifying
+DTSTART:20270724T140000Z
+DTEND:20270724T150000Z
+DTSTAMP:20261108T000000Z
+UID:1c5b31706f0140e1a11f@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Eau Rouge–Raidillon\, the Ardennes forest and weather that c
+ an be dry at one end of the lap and soaking at the other. Spa now alternat
+ es with Barcelona\, so 2027 is a Spa year.\n\nStatus: ✅ Date confirmed 
+ · 🟡 start time estimated (from the circuit's usual slot)\nF1 publishes
+  exact session times a few months out\; the monthly refresh will lock this
+  in.\nLocal start: Sat 24 Jul 16:00 (CEST). Your calendar shows it in your
+  own time zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:50.4372;5.9714
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ de Spa-Francorchamps, Belgium":geo:50.4372,5.9714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 F1 Belgian GP – Race
+DTSTART:20270725T130000Z
+DTEND:20270725T150000Z
+DTSTAMP:20261108T000000Z
+UID:cc9988e2e639a80d71aa@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Eau Rouge–Raidillon\, the Ardennes forest and weather that c
+ an be dry at one end of the lap and soaking at the other. Spa now alternat
+ es with Barcelona\, so 2027 is a Spa year.\n\nStatus: ✅ Date confirmed 
+ · 🟡 start time estimated (from the circuit's usual slot)\nF1 publishes
+  exact session times a few months out\; the monthly refresh will lock this
+  in.\n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudg
+ es feed ~3 months ahead.\nLocal start: Sun 25 Jul 15:00 (CEST). Your calen
+ dar shows it in your own time zone.\nOfficial info: https://www.formula1.c
+ om/en/racing
+GEO:50.4372;5.9714
+LOCATION:Circuit de Spa-Francorchamps\, Belgium
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ de Spa-Francorchamps, Belgium":geo:50.4372,5.9714
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: F1 Belgian GP – Race is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 WRC Rally Finland
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270802
+DTSTAMP:20261108T000000Z
+UID:6e6d63ed1d984a700b32@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The Grand Prix of rallying. Blind crests at 180 km/h\, cars fl
+ ying 50 m off Ouninpohja-style jumps\, and lakeside campsites full of saus
+ age-grilling fans. Bucket-list stuff.\n\nStatus: ✅ Confirmed\n✈️ Tri
+ p-worthy: there's a booking nudge in the 📅 Booking Nudges feed ~3 month
+ s ahead.\nOfficial info: https://www.wrc.com
+GEO:62.2426;25.7473
+LOCATION:Jyväskylä\, Finland
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Jyväsky
+ lä, Finland":geo:62.2426,25.7473
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: WRC Rally Finland is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 GTWC Europe – Magny-Cours (Sprint)
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270802
+DTSTAMP:20261108T000000Z
+UID:e2922d34ff384a86fbc9@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Former French GP venue in the heart of rural France\, with the
+  famous Adelaide hairpin.\n\nStatus: ✅ Confirmed\nOfficial info: https:/
+ /www.gt-world-challenge-europe.com
+GEO:46.8642;3.1636
+LOCATION:Circuit de Nevers Magny-Cours\, France
+TRANSP:TRANSPARENT
+URL:https://www.gt-world-challenge-europe.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ de Nevers Magny-Cours, France":geo:46.8642,3.1636
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Hungarian GP – Qualifying
+DTSTART:20270731T140000Z
+DTEND:20270731T150000Z
+DTSTAMP:20261108T000000Z
+UID:b874e5d9ef98279ffc6c@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Monaco without the walls. Twisty\, hot and all about strategy
+ \, followed by a night out in Budapest's ruin bars.\n\nStatus: ✅ Date co
+ nfirmed · 🟡 start time estimated (from the circuit's usual slot)\nF1 p
+ ublishes exact session times a few months out\; the monthly refresh will l
+ ock this in.\nLocal start: Sat 31 Jul 16:00 (CEST). Your calendar shows it
+  in your own time zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:47.5789;19.2486
+LOCATION:Hungaroring\, Budapest\, Hungary
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Hungaror
+ ing, Budapest, Hungary":geo:47.5789,19.2486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Hungarian GP – Race
+DTSTART:20270801T130000Z
+DTEND:20270801T150000Z
+DTSTAMP:20261108T000000Z
+UID:c76e37a5833622a1f181@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Monaco without the walls. Twisty\, hot and all about strategy
+ \, followed by a night out in Budapest's ruin bars.\n\nStatus: ✅ Date co
+ nfirmed · 🟡 start time estimated (from the circuit's usual slot)\nF1 p
+ ublishes exact session times a few months out\; the monthly refresh will l
+ ock this in.\nLocal start: Sun 01 Aug 15:00 (CEST). Your calendar shows it
+  in your own time zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:47.5789;19.2486
+LOCATION:Hungaroring\, Budapest\, Hungary
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Hungaror
+ ing, Budapest, Hungary":geo:47.5789,19.2486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 British GT – Silverstone 500 (3h)
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270809
+DTSTAMP:20261108T000000Z
+UID:7588e6b4100296d61b8a@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The blue-riband event and the only 3-hour race of the season. 
+ A full grid on the GP circuit with pit-stop strategy deciding it. Early-bi
+ rd tickets end 4 Jan 2027.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: t
+ here's a booking nudge in the 📅 Booking Nudges feed ~3 months ahead.\nO
+ fficial info: https://www.silverstone.co.uk/events/british-gt-championship
+GEO:52.0786;-1.0169
+LOCATION:Silverstone Circuit\, Northamptonshire\, UK
+TRANSP:TRANSPARENT
+URL:https://www.silverstone.co.uk/events/british-gt-championship
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Silverst
+ one Circuit, Northamptonshire, UK":geo:52.0786,-1.0169
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: British GT – Silverstone 500 (3h) is ~3 month
+ s away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Rally United States
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270830
+DTSTAMP:20261108T000000Z
+UID:ef588b9c47509f1ba84d@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:WRC's first US round since 1988\, on new gravel stages through
+  the Tennessee and Kentucky hills. History in the making.\n\nStatus: ✅ C
+ onfirmed\nOfficial info: https://www.wrc.com
+GEO:35.9606;-83.9207
+LOCATION:Knoxville\, Tennessee (stages in TN & KY)\, USA
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Knoxvill
+ e, Tennessee (stages in TN & KY), USA":geo:35.9606,-83.9207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 GTWC Europe – Nürburgring (Endurance)
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270830
+DTSTAMP:20261108T000000Z
+UID:70f8cc0194778dab473a@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Endurance Cup round at the 'Ring. Go a day early and drive the
+  Nordschleife yourself on a tourist day.\n\nStatus: ✅ Confirmed\nOfficia
+ l info: https://www.gt-world-challenge-europe.com
+GEO:50.3356;6.9475
+LOCATION:Nürburgring GP-Strecke\, Germany
+TRANSP:TRANSPARENT
+URL:https://www.gt-world-challenge-europe.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Nürburg
+ ring GP-Strecke, Germany":geo:50.3356,6.9475
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Italian GP – Sprint
+DTSTART:20270904T100000Z
+DTEND:20270904T110000Z
+DTSTAMP:20261108T000000Z
+UID:3e521c1ebca5ab1f0261@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The Temple of Speed and the tifosi in red. Monza's first Sprin
+ t since the format began.\n\nStatus: ✅ Date confirmed · 🟡 start time
+  estimated (from the circuit's usual slot)\nF1 publishes exact session tim
+ es a few months out\; the monthly refresh will lock this in.\nLocal start:
+  Sat 04 Sep 12:00 (CEST). Your calendar shows it in your own time zone.\nO
+ fficial info: https://www.formula1.com/en/racing
+GEO:45.6156;9.2811
+LOCATION:Autodromo Nazionale Monza\, Italy
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autodrom
+ o Nazionale Monza, Italy":geo:45.6156,9.2811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Italian GP – Qualifying
+DTSTART:20270904T140000Z
+DTEND:20270904T150000Z
+DTSTAMP:20261108T000000Z
+UID:99031eff32d0e4803114@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The Temple of Speed and the tifosi in red. Monza's first Sprin
+ t since the format began.\n\nStatus: ✅ Date confirmed · 🟡 start time
+  estimated (from the circuit's usual slot)\nF1 publishes exact session tim
+ es a few months out\; the monthly refresh will lock this in.\nLocal start:
+  Sat 04 Sep 16:00 (CEST). Your calendar shows it in your own time zone.\nO
+ fficial info: https://www.formula1.com/en/racing
+GEO:45.6156;9.2811
+LOCATION:Autodromo Nazionale Monza\, Italy
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autodrom
+ o Nazionale Monza, Italy":geo:45.6156,9.2811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 F1 Italian GP – Race
+DTSTART:20270905T130000Z
+DTEND:20270905T150000Z
+DTSTAMP:20261108T000000Z
+UID:37f6184234106281b990@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The Temple of Speed and the tifosi in red. Monza's first Sprin
+ t since the format began.\n\nStatus: ✅ Date confirmed · 🟡 start time
+  estimated (from the circuit's usual slot)\nF1 publishes exact session tim
+ es a few months out\; the monthly refresh will lock this in.\n✈️ Trip-
+ worthy: there's a booking nudge in the 📅 Booking Nudges feed ~3 months 
+ ahead.\nLocal start: Sun 05 Sep 15:00 (CEST). Your calendar shows it in yo
+ ur own time zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:45.6156;9.2811
+LOCATION:Autodromo Nazionale Monza\, Italy
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autodrom
+ o Nazionale Monza, Italy":geo:45.6156,9.2811
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: F1 Italian GP – Race is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 British GT – Brands Hatch GP (2h)
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20261108T000000Z
+UID:6bcd7dc9105e67973872@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The full GP loop through the Kent woods. Paddock Hill Bend in 
+ a GT3 is terrifying to watch.\n\nStatus: ✅ Confirmed\nOfficial info: htt
+ ps://www.britishgt.com
+GEO:51.3569;0.2631
+LOCATION:Brands Hatch\, Kent\, UK
+TRANSP:TRANSPARENT
+URL:https://www.britishgt.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Brands H
+ atch, Kent, UK":geo:51.3569,0.2631
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Spanish GP (Madrid) – Qualifying
+DTSTART:20270911T140000Z
+DTEND:20270911T150000Z
+DTSTAMP:20261108T000000Z
+UID:78d1e9b57cc08a0e7954@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Madrid's semi-street circuit\, including the 'La Monumental' b
+ anked corner\, in its second year.\n\nStatus: ✅ Date confirmed · 🟡 s
+ tart time estimated (from the circuit's usual slot)\nF1 publishes exact se
+ ssion times a few months out\; the monthly refresh will lock this in.\nLoc
+ al start: Sat 11 Sep 16:00 (CEST). Your calendar shows it in your own time
+  zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:40.4637;-3.6158
+LOCATION:Madring\, IFEMA\, Madrid\, Spain
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Madring,
+  IFEMA, Madrid, Spain":geo:40.4637,-3.6158
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Spanish GP (Madrid) – Race
+DTSTART:20270912T130000Z
+DTEND:20270912T150000Z
+DTSTAMP:20261108T000000Z
+UID:f558b1f41c8eb889a2c4@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Madrid's semi-street circuit\, including the 'La Monumental' b
+ anked corner\, in its second year.\n\nStatus: ✅ Date confirmed · 🟡 s
+ tart time estimated (from the circuit's usual slot)\nF1 publishes exact se
+ ssion times a few months out\; the monthly refresh will lock this in.\nLoc
+ al start: Sun 12 Sep 15:00 (CEST). Your calendar shows it in your own time
+  zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:40.4637;-3.6158
+LOCATION:Madring\, IFEMA\, Madrid\, Spain
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Madring,
+  IFEMA, Madrid, Spain":geo:40.4637,-3.6158
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 GTWC Europe – Zandvoort (Sprint)
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270920
+DTSTAMP:20261108T000000Z
+UID:60a5cfd7008c556fa564@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Banked corners in the North Sea dunes\, and a seaside track pa
+ rty.\n\nStatus: ✅ Confirmed\nOfficial info: https://www.gt-world-challen
+ ge-europe.com
+GEO:52.3888;4.5409
+LOCATION:Circuit Zandvoort\, Netherlands
+TRANSP:TRANSPARENT
+URL:https://www.gt-world-challenge-europe.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ Zandvoort, Netherlands":geo:52.3888,4.5409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 W2RC bp Ultimate Rally-Raid Portugal
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270927
+DTSTAMP:20261108T000000Z
+UID:718506ae4638988f9420@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Europe's rally-raid\, through cork forests\, sandy tracks and 
+ river valleys. It's the easiest W2RC round to reach from the UK.\n\nStatus
+ : ✅ Confirmed\nOfficial info: https://www.dakar.com/en/w2rc
+GEO:39.3999;-8.2245
+LOCATION:Portugal
+TRANSP:TRANSPARENT
+URL:https://www.dakar.com/en/w2rc
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Portugal
+ ":geo:39.3999,-8.2245
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Azerbaijan GP – Qualifying
+DTSTART:20270925T120000Z
+DTEND:20270925T130000Z
+DTSTAMP:20261108T000000Z
+UID:f52c743ebcd46cfc3163@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A 2 km flat-out run along the Caspian waterfront\, then a cast
+ le section barely wider than a car. Chaos is guaranteed. It's also just ac
+ ross the Caspian from the rally route.\n\nStatus: ✅ Date confirmed · 
+ 🟡 start time estimated (from the circuit's usual slot)\nF1 publishes ex
+ act session times a few months out\; the monthly refresh will lock this in
+ .\nLocal start: Sat 25 Sep 16:00 (+04). Your calendar shows it in your own
+  time zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:40.3725;49.8533
+LOCATION:Baku City Circuit\, Azerbaijan
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Baku Cit
+ y Circuit, Azerbaijan":geo:40.3725,49.8533
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Azerbaijan GP – Race
+DTSTART:20270926T110000Z
+DTEND:20270926T130000Z
+DTSTAMP:20261108T000000Z
+UID:40911a61617f3cd5ee89@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A 2 km flat-out run along the Caspian waterfront\, then a cast
+ le section barely wider than a car. Chaos is guaranteed. It's also just ac
+ ross the Caspian from the rally route.\n\nStatus: ✅ Date confirmed · 
+ 🟡 start time estimated (from the circuit's usual slot)\nF1 publishes ex
+ act session times a few months out\; the monthly refresh will lock this in
+ .\nLocal start: Sun 26 Sep 15:00 (+04). Your calendar shows it in your own
+  time zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:40.3725;49.8533
+LOCATION:Baku City Circuit\, Azerbaijan
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Baku Cit
+ y Circuit, Azerbaijan":geo:40.3725,49.8533
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 WRC Rally Scotland
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271004
+DTSTAMP:20261108T000000Z
+UID:2d183d9644651cdb82cc@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The WRC comes home to Britain. Fast Scottish forest gravel in 
+ autumn colours\, the first UK round since Wales Rally GB. Camp out\, get m
+ uddy and watch the new Rally1 cars up close.\n\nStatus: ✅ Confirmed\n✈
+ ️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges feed ~
+ 3 months ahead.\nOfficial info: https://www.wrc.com
+GEO:57.1497;-2.0943
+LOCATION:Aberdeen\, Scotland\, UK
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Aberdeen
+ , Scotland, UK":geo:57.1497,-2.0943
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: WRC Rally Scotland is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 GTWC Europe – Hungaroring (Sprint)
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271004
+DTSTAMP:20261108T000000Z
+UID:3b964b370365ed193364@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:GTWC's first visit since 2019 and the Sprint Cup decider.\n\nS
+ tatus: ✅ Confirmed\nOfficial info: https://www.gt-world-challenge-europe
+ .com
+GEO:47.5789;19.2486
+LOCATION:Hungaroring\, Budapest\, Hungary
+TRANSP:TRANSPARENT
+URL:https://www.gt-world-challenge-europe.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Hungaror
+ ing, Budapest, Hungary":geo:47.5789,19.2486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Turkish GP – Qualifying
+DTSTART:20271002T130000Z
+DTEND:20271002T140000Z
+DTSTAMP:20261108T000000Z
+UID:48750afab3759d502666@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Turn 8 is back\, a quadruple-apex left-hander that's one of F1
+ 's great corners. It's Istanbul's first GP since 2021\, and you can go via
+  the Bosphorus.\n\nStatus: ✅ Date confirmed · 🟡 start time estimated
+  (from the circuit's usual slot)\nF1 publishes exact session times a few m
+ onths out\; the monthly refresh will lock this in.\nLocal start: Sat 02 Oc
+ t 16:00 (+03). Your calendar shows it in your own time zone.\nOfficial inf
+ o: https://www.formula1.com/en/racing
+GEO:40.9517;29.405
+LOCATION:Istanbul Park\, Türkiye
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Istanbul
+  Park, Türkiye":geo:40.9517,29.405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 F1 Turkish GP – Race
+DTSTART:20271003T120000Z
+DTEND:20271003T140000Z
+DTSTAMP:20261108T000000Z
+UID:f81deae6bcdc79daaab3@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Turn 8 is back\, a quadruple-apex left-hander that's one of F1
+ 's great corners. It's Istanbul's first GP since 2021\, and you can go via
+  the Bosphorus.\n\nStatus: ✅ Date confirmed · 🟡 start time estimated
+  (from the circuit's usual slot)\nF1 publishes exact session times a few m
+ onths out\; the monthly refresh will lock this in.\n✈️ Trip-worthy: th
+ ere's a booking nudge in the 📅 Booking Nudges feed ~3 months ahead.\nLo
+ cal start: Sun 03 Oct 15:00 (+03). Your calendar shows it in your own time
+  zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:40.9517;29.405
+LOCATION:Istanbul Park\, Türkiye
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Istanbul
+  Park, Türkiye":geo:40.9517,29.405
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: F1 Turkish GP – Race is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Singapore GP – Qualifying
+DTSTART:20271009T130000Z
+DTEND:20271009T140000Z
+DTSTAMP:20261108T000000Z
+UID:e044f58152bfa96b48ae@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The original night race. Drivers lose ~3 kg in sweat\, the sky
+ line is lit up\, and the safety car almost always comes out.\n\nStatus: 
+ ✅ Date confirmed · 🟡 start time estimated (from the circuit's usual 
+ slot)\nF1 publishes exact session times a few months out\; the monthly ref
+ resh will lock this in.\nLocal start: Sat 09 Oct 21:00 (+08). Your calenda
+ r shows it in your own time zone.\nOfficial info: https://www.formula1.com
+ /en/racing
+GEO:1.2914;103.864
+LOCATION:Marina Bay Street Circuit\, Singapore
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Marina B
+ ay Street Circuit, Singapore":geo:1.2914,103.864
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Singapore GP – Race
+DTSTART:20271010T120000Z
+DTEND:20271010T140000Z
+DTSTAMP:20261108T000000Z
+UID:a97ffe7fd230e3314753@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The original night race. Drivers lose ~3 kg in sweat\, the sky
+ line is lit up\, and the safety car almost always comes out.\n\nStatus: 
+ ✅ Date confirmed · 🟡 start time estimated (from the circuit's usual 
+ slot)\nF1 publishes exact session times a few months out\; the monthly ref
+ resh will lock this in.\nLocal start: Sun 10 Oct 20:00 (+08). Your calenda
+ r shows it in your own time zone.\nOfficial info: https://www.formula1.com
+ /en/racing
+GEO:1.2914;103.864
+LOCATION:Marina Bay Street Circuit\, Singapore
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Marina B
+ ay Street Circuit, Singapore":geo:1.2914,103.864
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 British GT – Donington Decider (2h)
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271018
+DTSTAMP:20261108T000000Z
+UID:6d83ff8fcec5e8dea465@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The season finale\, where the titles are settled at the Craner
+  Curves.\n\nStatus: ✅ Confirmed\nOfficial info: https://www.britishgt.co
+ m
+GEO:52.8306;-1.375
+LOCATION:Donington Park\, Leicestershire\, UK
+TRANSP:TRANSPARENT
+URL:https://www.britishgt.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Doningto
+ n Park, Leicestershire, UK":geo:52.8306,-1.375
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Rally del Paraguay
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271025
+DTSTAMP:20261108T000000Z
+UID:285ea5bd2e190a958a17@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Red-earth gravel and passionate South American crowds. Paragua
+ y's second year in the championship.\n\nStatus: ✅ Confirmed\nOfficial in
+ fo: https://www.wrc.com
+GEO:-27.3306;-55.8667
+LOCATION:Encarnación\, Paraguay
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Encarnac
+ ión, Paraguay":geo:-27.3306,-55.8667
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 GTWC Europe – Barcelona (Endurance finale)
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271025
+DTSTAMP:20261108T000000Z
+UID:e58dabb6055cb1969d7f@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The overall GTWC Europe title showdown. Six hours of tyre mana
+ gement in the Catalan sun.\n\nStatus: ✅ Confirmed\nOfficial info: https:
+ //www.gt-world-challenge-europe.com
+GEO:41.57;2.2611
+LOCATION:Circuit de Barcelona-Catalunya\, Spain
+TRANSP:TRANSPARENT
+URL:https://www.gt-world-challenge-europe.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ de Barcelona-Catalunya, Spain":geo:41.57,2.2611
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 United States GP – Qualifying
+DTSTART:20271023T220000Z
+DTEND:20271023T230000Z
+DTSTAMP:20261108T000000Z
+UID:75d8b7c4e6093d3839bf@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Turn 1 is a blind uphill hairpin\, the esses are Silverstone-s
+ tyle\, and Austin brings BBQ and live music.\n\nStatus: ✅ Date confirmed
+  · 🟡 start time estimated (from the circuit's usual slot)\nF1 publishe
+ s exact session times a few months out\; the monthly refresh will lock thi
+ s in.\nLocal start: Sat 23 Oct 17:00 (CDT). Your calendar shows it in your
+  own time zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:30.1328;-97.6411
+LOCATION:Circuit of the Americas\, Austin\, Texas\, USA
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ of the Americas, Austin, Texas, USA":geo:30.1328,-97.6411
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 W2RC Rallye du Maroc
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271030
+DTSTAMP:20261108T000000Z
+UID:b2d99a938dbe89096e97@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The season finale\, and traditionally the dress rehearsal for 
+ Dakar: Saharan dunes\, oued crossings and Atlas Mountain tracks.\n\nStatus
+ : ✅ Confirmed\nOfficial info: https://www.dakar.com/en/w2rc
+GEO:30.9335;-6.937
+LOCATION:Morocco
+TRANSP:TRANSPARENT
+URL:https://www.dakar.com/en/w2rc
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Morocco"
+ :geo:30.9335,-6.937
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 United States GP – Race
+DTSTART:20271024T190000Z
+DTEND:20271024T210000Z
+DTSTAMP:20261108T000000Z
+UID:b2b9711550ae45abadf6@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Turn 1 is a blind uphill hairpin\, the esses are Silverstone-s
+ tyle\, and Austin brings BBQ and live music.\n\nStatus: ✅ Date confirmed
+  · 🟡 start time estimated (from the circuit's usual slot)\nF1 publishe
+ s exact session times a few months out\; the monthly refresh will lock thi
+ s in.\nLocal start: Sun 24 Oct 14:00 (CDT). Your calendar shows it in your
+  own time zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:30.1328;-97.6411
+LOCATION:Circuit of the Americas\, Austin\, Texas\, USA
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Circuit 
+ of the Americas, Austin, Texas, USA":geo:30.1328,-97.6411
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Mexico City GP – Qualifying
+DTSTART:20271030T210000Z
+DTEND:20271030T220000Z
+DTSTAMP:20261108T000000Z
+UID:846da339788831d35566@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:At 2\,240 m the thin air kills downforce\, and the stadium sec
+ tion is pure carnival. It's also Día de Muertos weekend.\n\nStatus: ✅ D
+ ate confirmed · 🟡 start time estimated (from the circuit's usual slot)
+ \nF1 publishes exact session times a few months out\; the monthly refresh 
+ will lock this in.\nLocal start: Sat 30 Oct 15:00 (CST). Your calendar sho
+ ws it in your own time zone.\nOfficial info: https://www.formula1.com/en/r
+ acing
+GEO:19.4042;-99.0907
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autódro
+ mo Hermanos Rodríguez, Mexico City":geo:19.4042,-99.0907
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 F1 Mexico City GP – Race
+DTSTART:20271031T200000Z
+DTEND:20271031T220000Z
+DTSTAMP:20261108T000000Z
+UID:7d7d7f4aa2051bc12c27@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:At 2\,240 m the thin air kills downforce\, and the stadium sec
+ tion is pure carnival. It's also Día de Muertos weekend.\n\nStatus: ✅ D
+ ate confirmed · 🟡 start time estimated (from the circuit's usual slot)
+ \nF1 publishes exact session times a few months out\; the monthly refresh 
+ will lock this in.\n✈️ Trip-worthy: there's a booking nudge in the 
+ 📅 Booking Nudges feed ~3 months ahead.\nLocal start: Sun 31 Oct 14:00 (
+ CST). Your calendar shows it in your own time zone.\nOfficial info: https:
+ //www.formula1.com/en/racing
+GEO:19.4042;-99.0907
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autódro
+ mo Hermanos Rodríguez, Mexico City":geo:19.4042,-99.0907
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: F1 Mexico City GP – Race is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Rally Chile Bío Bío
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271108
+DTSTAMP:20261108T000000Z
+UID:b099ac8f20819accdc62@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Flowing gravel through pine and eucalyptus forest with the Pac
+ ific nearby. Rhythm is everything here.\n\nStatus: ✅ Confirmed\nOfficial
+  info: https://www.wrc.com
+GEO:-36.827;-73.0498
+LOCATION:Concepción\, Chile
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Concepci
+ ón, Chile":geo:-36.827,-73.0498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 São Paulo GP – Sprint
+DTSTART:20271106T140000Z
+DTEND:20271106T150000Z
+DTSTAMP:20261108T000000Z
+UID:1b92915ac5f314dbe046@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Interlagos\, a Sprint weekend\, and the São Paulo rain lotter
+ y. Some of the best races of the modern era have happened here.\n\nStatus:
+  ✅ Date confirmed · 🟡 start time estimated (from the circuit's usual
+  slot)\nF1 publishes exact session times a few months out\; the monthly re
+ fresh will lock this in.\nLocal start: Sat 06 Nov 11:00 (-03). Your calend
+ ar shows it in your own time zone.\nOfficial info: https://www.formula1.co
+ m/en/racing
+GEO:-23.7036;-46.6997
+LOCATION:Autódromo José Carlos Pace (Interlagos)\, São Paulo\, Brazil
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autódro
+ mo José Carlos Pace (Interlagos), São Paulo, Brazil":geo:-23.7036,-46.69
+ 97
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 São Paulo GP – Qualifying
+DTSTART:20271106T180000Z
+DTEND:20271106T190000Z
+DTSTAMP:20261108T000000Z
+UID:4e37ed394b419880961b@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Interlagos\, a Sprint weekend\, and the São Paulo rain lotter
+ y. Some of the best races of the modern era have happened here.\n\nStatus:
+  ✅ Date confirmed · 🟡 start time estimated (from the circuit's usual
+  slot)\nF1 publishes exact session times a few months out\; the monthly re
+ fresh will lock this in.\nLocal start: Sat 06 Nov 15:00 (-03). Your calend
+ ar shows it in your own time zone.\nOfficial info: https://www.formula1.co
+ m/en/racing
+GEO:-23.7036;-46.6997
+LOCATION:Autódromo José Carlos Pace (Interlagos)\, São Paulo\, Brazil
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autódro
+ mo José Carlos Pace (Interlagos), São Paulo, Brazil":geo:-23.7036,-46.69
+ 97
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 São Paulo GP – Race
+DTSTART:20271107T170000Z
+DTEND:20271107T190000Z
+DTSTAMP:20261108T000000Z
+UID:8db4838729e285563ab0@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Interlagos\, a Sprint weekend\, and the São Paulo rain lotter
+ y. Some of the best races of the modern era have happened here.\n\nStatus:
+  ✅ Date confirmed · 🟡 start time estimated (from the circuit's usual
+  slot)\nF1 publishes exact session times a few months out\; the monthly re
+ fresh will lock this in.\nLocal start: Sun 07 Nov 14:00 (-03). Your calend
+ ar shows it in your own time zone.\nOfficial info: https://www.formula1.co
+ m/en/racing
+GEO:-23.7036;-46.6997
+LOCATION:Autódromo José Carlos Pace (Interlagos)\, São Paulo\, Brazil
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Autódro
+ mo José Carlos Pace (Interlagos), São Paulo, Brazil":geo:-23.7036,-46.69
+ 97
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Las Vegas GP – Qualifying
+DTSTART:20271120T040000Z
+DTEND:20271120T050000Z
+DTSTAMP:20261108T000000Z
+UID:2cc4ba2c506c323c5409@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The only Saturday-night Grand Prix of 2027\, flat out down the
+  Strip. Set an early Sunday alarm in the UK.\n\nStatus: ✅ Date confirmed
+  · 🟡 start time estimated (from the circuit's usual slot)\nF1 publishe
+ s exact session times a few months out\; the monthly refresh will lock thi
+ s in. Qualifying is Friday night local time\; the race is Saturday night l
+ ocal (early Sunday UK).\nLocal start: Fri 19 Nov 20:00 (PST). Your calenda
+ r shows it in your own time zone.\nOfficial info: https://www.formula1.com
+ /en/racing
+GEO:36.1147;-115.1728
+LOCATION:Las Vegas Strip Circuit\, Nevada\, USA
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Las Vega
+ s Strip Circuit, Nevada, USA":geo:36.1147,-115.1728
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Las Vegas GP – Race
+DTSTART:20271121T040000Z
+DTEND:20271121T060000Z
+DTSTAMP:20261108T000000Z
+UID:1306bc09d346951f0c3e@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The only Saturday-night Grand Prix of 2027\, flat out down the
+  Strip. Set an early Sunday alarm in the UK.\n\nStatus: ✅ Date confirmed
+  · 🟡 start time estimated (from the circuit's usual slot)\nF1 publishe
+ s exact session times a few months out\; the monthly refresh will lock thi
+ s in. Qualifying is Friday night local time\; the race is Saturday night l
+ ocal (early Sunday UK).\nLocal start: Sat 20 Nov 20:00 (PST). Your calenda
+ r shows it in your own time zone.\nOfficial info: https://www.formula1.com
+ /en/racing
+GEO:36.1147;-115.1728
+LOCATION:Las Vegas Strip Circuit\, Nevada\, USA
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Las Vega
+ s Strip Circuit, Nevada, USA":geo:36.1147,-115.1728
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 WRC Rally Saudi Arabia
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271129
+DTSTAMP:20261108T000000Z
+UID:0fdd6b5c8640d14ae64f@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The desert finale. The title could be decided on fast\, dusty 
+ gravel near the Red Sea.\n\nStatus: ✅ Confirmed\nThe 2026 Saudi round wa
+ s cancelled over Middle East unrest\, so treat this as provisional.\nOffic
+ ial info: https://www.wrc.com
+GEO:21.4858;39.1925
+LOCATION:Jeddah\, Saudi Arabia
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Jeddah, 
+ Saudi Arabia":geo:21.4858,39.1925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Qatar GP – Sprint
+DTSTART:20271204T140000Z
+DTEND:20271204T150000Z
+DTSTAMP:20261108T000000Z
+UID:060f322aa71182254eb6@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A floodlit Sprint weekend in the desert\, fast and flowing. Th
+ e penultimate round.\n\nStatus: ✅ Date confirmed · 🟡 start time esti
+ mated (from the circuit's usual slot)\nF1 publishes exact session times a 
+ few months out\; the monthly refresh will lock this in.\nLocal start: Sat 
+ 04 Dec 17:00 (+03). Your calendar shows it in your own time zone.\nOfficia
+ l info: https://www.formula1.com/en/racing
+GEO:25.49;51.4542
+LOCATION:Lusail International Circuit\, Qatar
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Lusail I
+ nternational Circuit, Qatar":geo:25.49,51.4542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Qatar GP – Qualifying
+DTSTART:20271204T180000Z
+DTEND:20271204T190000Z
+DTSTAMP:20261108T000000Z
+UID:054b053b5841b7efbdf5@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A floodlit Sprint weekend in the desert\, fast and flowing. Th
+ e penultimate round.\n\nStatus: ✅ Date confirmed · 🟡 start time esti
+ mated (from the circuit's usual slot)\nF1 publishes exact session times a 
+ few months out\; the monthly refresh will lock this in.\nLocal start: Sat 
+ 04 Dec 21:00 (+03). Your calendar shows it in your own time zone.\nOfficia
+ l info: https://www.formula1.com/en/racing
+GEO:25.49;51.4542
+LOCATION:Lusail International Circuit\, Qatar
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Lusail I
+ nternational Circuit, Qatar":geo:25.49,51.4542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Qatar GP – Race
+DTSTART:20271205T160000Z
+DTEND:20271205T180000Z
+DTSTAMP:20261108T000000Z
+UID:3920df540bf12ccb52e5@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:A floodlit Sprint weekend in the desert\, fast and flowing. Th
+ e penultimate round.\n\nStatus: ✅ Date confirmed · 🟡 start time esti
+ mated (from the circuit's usual slot)\nF1 publishes exact session times a 
+ few months out\; the monthly refresh will lock this in.\nLocal start: Sun 
+ 05 Dec 19:00 (+03). Your calendar shows it in your own time zone.\nOfficia
+ l info: https://www.formula1.com/en/racing
+GEO:25.49;51.4542
+LOCATION:Lusail International Circuit\, Qatar
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Lusail I
+ nternational Circuit, Qatar":geo:25.49,51.4542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Abu Dhabi GP – Sprint
+DTSTART:20271211T100000Z
+DTEND:20271211T110000Z
+DTSTAMP:20261108T000000Z
+UID:a6b1afa2a31d8def8a42@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The twilight finale\, with a Sprint added this time. Title dec
+ iders and end-of-season fireworks.\n\nStatus: ✅ Date confirmed · 🟡 s
+ tart time estimated (from the circuit's usual slot)\nF1 publishes exact se
+ ssion times a few months out\; the monthly refresh will lock this in.\nLoc
+ al start: Sat 11 Dec 14:00 (+04). Your calendar shows it in your own time 
+ zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:24.4672;54.6031
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Yas Mari
+ na Circuit, Abu Dhabi, UAE":geo:24.4672,54.6031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Abu Dhabi GP – Qualifying
+DTSTART:20271211T140000Z
+DTEND:20271211T150000Z
+DTSTAMP:20261108T000000Z
+UID:3dfffb89246b4f7d6aff@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The twilight finale\, with a Sprint added this time. Title dec
+ iders and end-of-season fireworks.\n\nStatus: ✅ Date confirmed · 🟡 s
+ tart time estimated (from the circuit's usual slot)\nF1 publishes exact se
+ ssion times a few months out\; the monthly refresh will lock this in.\nLoc
+ al start: Sat 11 Dec 18:00 (+04). Your calendar shows it in your own time 
+ zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:24.4672;54.6031
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Yas Mari
+ na Circuit, Abu Dhabi, UAE":geo:24.4672,54.6031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 F1 Abu Dhabi GP – Race
+DTSTART:20271212T130000Z
+DTEND:20271212T150000Z
+DTSTAMP:20261108T000000Z
+UID:86141497ee7bcefb1041@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The twilight finale\, with a Sprint added this time. Title dec
+ iders and end-of-season fireworks.\n\nStatus: ✅ Date confirmed · 🟡 s
+ tart time estimated (from the circuit's usual slot)\nF1 publishes exact se
+ ssion times a few months out\; the monthly refresh will lock this in.\nLoc
+ al start: Sun 12 Dec 17:00 (+04). Your calendar shows it in your own time 
+ zone.\nOfficial info: https://www.formula1.com/en/racing
+GEO:24.4672;54.6031
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+URL:https://www.formula1.com/en/racing
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Yas Mari
+ na Circuit, Abu Dhabi, UAE":geo:24.4672,54.6031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 Dakar Rally 2028 (50th edition\, Saudi Arabia) (TBC)
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280117
+DTSTAMP:20261108T000000Z
+UID:89b9f7ae0abdad72d96d@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:The 50th Dakar\, planned for a return to Saudi Arabia after th
+ e 2027 Africa detour. Expect a special anniversary edition.\n\nStatus: ❓
+  Date TBC (placeholder until the organisers announce)\nPlaceholder\; dates
+  and route not yet announced.\nOfficial info: https://www.dakar.com
+GEO:22.33;39.1
+LOCATION:Saudi Arabia
+TRANSP:TRANSPARENT
+URL:https://www.dakar.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Saudi Ar
+ abia":geo:22.33,39.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🏁 WRC Rallye Monte-Carlo 2028 (est.)
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280124
+DTSTAMP:20261108T000000Z
+UID:af0fcdc53bec6c8cf3ce@global-events-calendar
+CATEGORIES:Motorsport
+DESCRIPTION:Monte opens the season every year\, almost always in the third
+  or fourth week of January. Ice\, snow and the Col de Turini at night.\n\n
+ Status: 🟡 Estimated (pattern-based or provisional\; check before bookin
+ g)\nEstimated from the usual January slot\; the 2028 calendar is due mid-2
+ 027.\n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudg
+ es feed ~3 months ahead.\nOfficial info: https://www.wrc.com
+GEO:43.7384;7.4246
+LOCATION:Monaco & the French Alps
+TRANSP:TRANSPARENT
+URL:https://www.wrc.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Monaco &
+  the French Alps":geo:43.7384,7.4246
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: WRC Rallye Monte-Carlo 2028 is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

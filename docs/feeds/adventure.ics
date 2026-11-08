@@ -1,0 +1,774 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ben St John//Global Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Sailing, paragliding, MTB, ultra and marquee sporting events.
+X-WR-CALNAME:🪂 Adventure & Sport
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-APPLE-CALENDAR-COLOR:#17BEBB
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:✈️ 🪂 Kendal Mountain Festival
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261108T000000Z
+UID:b1733caf5719ad232038@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The world's biggest outdoor-culture festival. Adventure films
+ \, expedition talks\, climbing legends in the pub and a free Basecamp vill
+ age. Ideal inspiration for the next big trip\, with a vlogging masterclass
+  vibe.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a booking nud
+ ge in the 📅 Booking Nudges feed ~3 months ahead.\nOfficial info: https:
+ //www.kendalmountainfestival.com
+GEO:54.328;-2.7463
+LOCATION:Kendal\, Cumbria (Lake District)\, UK
+TRANSP:TRANSPARENT
+URL:https://www.kendalmountainfestival.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Kendal, 
+ Cumbria (Lake District), UK":geo:54.328,-2.7463
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Kendal Mountain Festival is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Rolex Sydney Hobart Yacht Race – start
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20261108T000000Z
+UID:bfd4044ec3ba293a3897@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The Boxing Day blue-water classic. 628 nm across the Bass Stra
+ it\, among the nastiest stretches of water anywhere. The harbour start wit
+ h a thousand spectator boats is spectacular.\n\nStatus: ✅ Confirmed\nOff
+ icial info: https://www.rolexsydneyhobart.com
+GEO:-33.8568;151.2153
+LOCATION:Sydney Harbour → Hobart\, Tasmania\, Australia
+TRANSP:TRANSPARENT
+URL:https://www.rolexsydneyhobart.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Sydney H
+ arbour → Hobart, Tasmania, Australia":geo:-33.8568,151.2153
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Six Nations Championship – opening weekend (est.)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261108T000000Z
+UID:f9dee8d53ce29aa749da@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:Rugby's oldest international tournament kicks off. Cardiff on 
+ match day\, with the roof closed and the anthems\, is something else.\n\nS
+ tatus: 🟡 Estimated (pattern-based or provisional\; check before booking
+ )\nFixtures usually run early Feb to mid-March.\nOfficial info: https://ww
+ w.sixnationsrugby.com
+GEO:51.456;-0.3415
+LOCATION:Twickenham / Murrayfield / Principality / Aviva / Stade de France
+  / Stadio Olimpico
+TRANSP:TRANSPARENT
+URL:https://www.sixnationsrugby.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Twickenh
+ am / Murrayfield / Principality / Aviva / Stade de France / Stadio Olimpic
+ o":geo:51.456,-0.3415
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 RORC Caribbean 600 (est.)
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+DTSTAMP:20261108T000000Z
+UID:4232f55f7575e6462645@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:600 nm around 11 Caribbean islands in trade-wind sunshine. The
+  RORC's winter jewel\, and a great crewing opportunity for a Day Skipper.
+ \n\nStatus: 🟡 Estimated (pattern-based or provisional\; check before bo
+ oking)\nUsually the third or fourth Monday of February.\nOfficial info: ht
+ tps://caribbean600.rorc.org
+GEO:17.006;-61.764
+LOCATION:Antigua\, Caribbean
+TRANSP:TRANSPARENT
+URL:https://caribbean600.rorc.org
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Antigua,
+  Caribbean":geo:17.006,-61.764
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Iditarod Trail Sled Dog Race – start (est.)
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+DTSTAMP:20261108T000000Z
+UID:f88d1e9c9c77ae88640c@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:'The Last Great Race'. Around 1\,000 miles of Alaskan wilderne
+ ss by dog team\, in −40°C and blizzards.\n\nStatus: 🟡 Estimated (pat
+ tern-based or provisional\; check before booking)\nCeremonial start on the
+  first Saturday in March.\nOfficial info: https://iditarod.com
+GEO:61.2181;-149.9003
+LOCATION:Anchorage → Nome\, Alaska\, USA
+TRANSP:TRANSPARENT
+URL:https://iditarod.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Anchorag
+ e → Nome, Alaska, USA":geo:61.2181,-149.9003
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Red Bull X-Alps route reveal
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+DTSTAMP:20261108T000000Z
+UID:11f9aa7f6fb9cd91afb5@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:Which turnpoints and summits will the 2027 race use? Plan wher
+ e to go and watch the athletes fly over.\n\nStatus: ✅ Confirmed\nOfficia
+ l info: https://www.redbullxalps.com
+LOCATION:Online
+TRANSP:TRANSPARENT
+URL:https://www.redbullxalps.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 The Boat Race (est.)
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+DTSTAMP:20261108T000000Z
+UID:4da74e76b61b0162ef78@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:Oxford vs Cambridge over 6.8 km of the Tideway\, watched by 25
+ 0\,000 people along the banks with a pint.\n\nStatus: 🟡 Estimated (patt
+ ern-based or provisional\; check before booking)\nOfficial info: https://w
+ ww.theboatrace.org
+GEO:51.467;-0.224
+LOCATION:Putney → Mortlake\, River Thames\, London\, UK
+TRANSP:TRANSPARENT
+URL:https://www.theboatrace.org
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Putney 
+ → Mortlake, River Thames, London, UK":geo:51.467,-0.224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Marathon des Sables (est.)
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270420
+DTSTAMP:20261108T000000Z
+UID:64bcb0e51ed117c4ee2e@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:About 250 km self-supported across the Sahara over six stages
+ \, carrying all your food. It's like a Mongol Rally on foot.\n\nStatus: 
+ 🟡 Estimated (pattern-based or provisional\; check before booking)\nOffi
+ cial info: https://www.marathondessables.com
+GEO:30.9335;-6.937
+LOCATION:Sahara\, southern Morocco
+TRANSP:TRANSPARENT
+URL:https://www.marathondessables.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Sahara, 
+ southern Morocco":geo:30.9335,-6.937
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Antigua Sailing Week (est.)
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270501
+DTSTAMP:20261108T000000Z
+UID:d29452dc0d224175683a@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:One of the Caribbean's great regattas. Five days of racing rou
+ nd Antigua's coast\, with Shirley Heights reggae parties after.\n\nStatus:
+  🟡 Estimated (pattern-based or provisional\; check before booking)\nOff
+ icial info: https://www.sailingweek.com
+GEO:17.0073;-61.7629
+LOCATION:English Harbour\, Antigua
+TRANSP:TRANSPARENT
+URL:https://www.sailingweek.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="English 
+ Harbour, Antigua":geo:17.0073,-61.7629
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 UCI MTB World Cup opener (XCO)\, Nové Město
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261108T000000Z
+UID:724ccd0ebd44e60d7210@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:Cross-country's cathedral. A forest bowl with 30\,000+ screami
+ ng Czech fans opens the 2027 World Series.\n\nStatus: ✅ Confirmed\nOffic
+ ial info: https://www.ucimtbworldseries.com
+GEO:49.5614;16.0742
+LOCATION:Nové Město na Moravě\, Czechia
+TRANSP:TRANSPARENT
+URL:https://www.ucimtbworldseries.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Nové M
+ ěsto na Moravě, Czechia":geo:49.5614,16.0742
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Louis Vuitton Cup opens (America's Cup challengers)
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261108T000000Z
+UID:93f7d47c47bb4f8ac921@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:All seven AC75 foiling monohulls racing together for the first
+  time in a new fleet-racing opener\, with Vesuvius in the background.\n\nS
+ tatus: ✅ Confirmed\nOfficial info: https://www.americascup.com
+GEO:40.8359;14.2488
+LOCATION:Bay of Naples\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.americascup.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Bay of N
+ aples, Italy":geo:40.8359,14.2488
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 UCI MTB World Cup – DH & Enduro round (Europe) (est.)
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270531
+DTSTAMP:20261108T000000Z
+UID:f8ac27d4010a3fdae62a@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The downhill season gets underway.\n\nStatus: 🟡 Estimated (
+ pattern-based or provisional\; check before booking)\nDate from the UCI dr
+ aft calendar\; venue to be confirmed.\nOfficial info: https://www.ucimtbwo
+ rldseries.com
+LOCATION:Europe (venue TBC)
+TRANSP:TRANSPARENT
+URL:https://www.ucimtbworldseries.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Youth America's Cup
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270607
+DTSTAMP:20261108T000000Z
+UID:a4e16b44a9f9738ec96f@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The next generation of foiling sailors in AC40s.\n\nStatus: 
+ ✅ Confirmed\nOfficial info: https://www.americascup.com
+GEO:40.8359;14.2488
+LOCATION:Bay of Naples\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.americascup.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Bay of N
+ aples, Italy":geo:40.8359,14.2488
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🪂 Red Bull X-Alps 2027
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270626
+DTSTAMP:20261108T000000Z
+UID:2c8821c941aad65a45b7@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The world's toughest adventure race. 35 athletes cross ~1\,200
+  km of Alps on foot or by paraglider for nearly two weeks. Watch at a turn
+ point\, follow the live tracking\, and get inspired for your own paraglidi
+ ng training.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a booki
+ ng nudge in the 📅 Booking Nudges feed ~3 months ahead.\nOfficial info: 
+ https://www.redbullxalps.com
+GEO:46.689;11.187
+LOCATION:The Alps (route revealed 17 Mar 2027\; Schenna\, South Tyrol is a
+  confirmed turnpoint)
+TRANSP:TRANSPARENT
+URL:https://www.redbullxalps.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="The Alps
+  (route revealed 17 Mar 2027; Schenna, South Tyrol is a confirmed turnpoin
+ t)":geo:46.689,11.187
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Red Bull X-Alps 2027 is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Round the Island Race (est.)
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+DTSTAMP:20261108T000000Z
+UID:8015ee2d8cdb5600db3d@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:1\,000+ boats racing 50 nm round the Isle of Wight past the Ne
+ edles. Britain's biggest yacht race and a classic one to crew on.\n\nStatu
+ s: 🟡 Estimated (pattern-based or provisional\; check before booking)\nU
+ sually late June / early July\; set by the tides.\nOfficial info: https://
+ www.roundtheisland.org.uk
+GEO:50.7628;-1.2973
+LOCATION:Cowes\, Isle of Wight\, UK
+TRANSP:TRANSPARENT
+URL:https://www.roundtheisland.org.uk
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Cowes, I
+ sle of Wight, UK":geo:50.7628,-1.2973
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 The Championships\, Wimbledon (est.)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270712
+DTSTAMP:20261108T000000Z
+UID:c793282f1047dbeecad5@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:Strawberries\, the Queue (a national institution) and grass-co
+ urt tennis. Queue overnight once in your life.\n\nStatus: 🟡 Estimated (
+ pattern-based or provisional\; check before booking)\nOfficial info: https
+ ://www.wimbledon.com
+GEO:51.434;-0.214
+LOCATION:All England Club\, Wimbledon\, London\, UK
+TRANSP:TRANSPARENT
+URL:https://www.wimbledon.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="All Engl
+ and Club, Wimbledon, London, UK":geo:51.434,-0.214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🪂 Tour de France Grand Départ – Stage 1\, Edinburgh 
+ → Carlisle
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+DTSTAMP:20261108T000000Z
+UID:f9dcedfcf7c3deeb1295@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The Tour starts in Scotland for the first time ever\, from Edi
+ nburgh Castle through the Borders to Carlisle (184 km). Then stages throug
+ h England and a Welshpool → Cardiff finale on 4 July. Free to watch from
+  the roadside.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a boo
+ king nudge in the 📅 Booking Nudges feed ~3 months ahead.\nOfficial info
+ : https://www.letourgb.com
+GEO:55.9486;-3.1999
+LOCATION:Edinburgh Castle\, Scotland\, UK
+TRANSP:TRANSPARENT
+URL:https://www.letourgb.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Edinburg
+ h Castle, Scotland, UK":geo:55.9486,-3.1999
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Tour de France Grand Départ – Stage 1\, Edin
+ burgh → Carlisle is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Megavalanche (est.)
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270712
+DTSTAMP:20261108T000000Z
+UID:69071428a617753a6350@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:A mass-start enduro from the 3\,300 m glacier at Pic Blanc dow
+ n 2\,600 m vertical to Allemond. Hundreds of riders sliding down snow at t
+ he start. Chaos on two wheels.\n\nStatus: 🟡 Estimated (pattern-based or
+  provisional\; check before booking)\nOfficial info: https://www.megavalan
+ che.com
+GEO:45.092;6.07
+LOCATION:Alpe d'Huez\, France
+TRANSP:TRANSPARENT
+URL:https://www.megavalanche.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Alpe d'H
+ uez, France":geo:45.092,6.07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Tour de France – Stage 3\, Welshpool → Cardiff
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+DTSTAMP:20261108T000000Z
+UID:7f4d68e5435154990d6b@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The final British stage finishes in Cardiff\, a cheap day trip
+  from Bristol over the bridge. Pick a hill and get there early.\n\nStatus:
+  ✅ Confirmed\nOfficial info: https://www.letourgb.com
+GEO:51.4816;-3.1791
+LOCATION:Welshpool → Cardiff\, Wales\, UK
+TRANSP:TRANSPARENT
+URL:https://www.letourgb.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Welshpoo
+ l → Cardiff, Wales, UK":geo:51.4816,-3.1791
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Women's America's Cup
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270710
+DTSTAMP:20261108T000000Z
+UID:aa57b722d2f597ca3fbf@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The world's best female sailors foiling AC40s in front of the 
+ Naples waterfront.\n\nStatus: ✅ Confirmed\nOfficial info: https://www.am
+ ericascup.com
+GEO:40.8359;14.2488
+LOCATION:Bay of Naples\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.americascup.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Bay of N
+ aples, Italy":geo:40.8359,14.2488
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🪂 38th America's Cup Match
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270719
+DTSTAMP:20261108T000000Z
+UID:35a75858d13b17315bfb@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The oldest trophy in international sport\, sailed in Italy for
+  the first time. Emirates Team NZ defend against the Louis Vuitton Cup win
+ ner in 50-knot foiling AC75s. First to seven wins. Pizza in its birthplace
+ .\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a booking nudge in
+  the 📅 Booking Nudges feed ~3 months ahead.\nOfficial info: https://www
+ .americascup.com
+GEO:40.8359;14.2488
+LOCATION:Bay of Naples\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.americascup.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Bay of N
+ aples, Italy":geo:40.8359,14.2488
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: 38th America's Cup Match is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Mongol Rally 2027 launch (TBC)
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+DTSTAMP:20261108T000000Z
+UID:727374a96697d15736b2@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:A new batch of fools heads off in unsuitable cars. You know ex
+ actly what's coming for them. Go to the launch party\, wave them off\, and
+  hand out unsolicited advice about Kazakh border crossings.\n\nStatus: ❓
+  Date TBC (placeholder until the organisers announce)\n2026 launched on 12
+  July\; the 2027 dates aren't published yet.\nOfficial info: https://www.t
+ headventurists.com/guides/mongol-rally/
+LOCATION:Europe (2026 launched from the Czech Republic)
+TRANSP:TRANSPARENT
+URL:https://www.theadventurists.com/guides/mongol-rally/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Admiral's Cup
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270729
+DTSTAMP:20261108T000000Z
+UID:ecf4cf01caec82669181@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The revived 'world championship of offshore racing'. National 
+ teams battle through Solent inshore races\, a short offshore and the Fastn
+ et (triple points).\n\nStatus: ✅ Confirmed\nOfficial info: https://www.r
+ orc.org
+GEO:50.7628;-1.2973
+LOCATION:Cowes\, Isle of Wight\, UK
+TRANSP:TRANSPARENT
+URL:https://www.rorc.org
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Cowes, I
+ sle of Wight, UK":geo:50.7628,-1.2973
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🪂 Rolex Fastnet Race – start
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+DTSTAMP:20261108T000000Z
+UID:682931aaed93bb7be736@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The world's largest offshore race. 400+ boats\, 695 nm\, aroun
+ d the Fastnet Rock off Ireland and finishing in Cherbourg. Watch the start
+  from Cowes or the Needles\, or go one better and find a crew berth. You'v
+ e got the Day Skipper.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there
+ 's a booking nudge in the 📅 Booking Nudges feed ~3 months ahead.\nOffic
+ ial info: https://www.rolexfastnetrace.com
+GEO:50.7669;-1.3008
+LOCATION:Royal Yacht Squadron line\, Cowes → Fastnet Rock → Cherbourg
+TRANSP:TRANSPARENT
+URL:https://www.rolexfastnetrace.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Royal Ya
+ cht Squadron line, Cowes → Fastnet Rock → Cherbourg":geo:50.7669,-1.30
+ 08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Rolex Fastnet Race – start is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Crankworx Whistler (est.)
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270809
+DTSTAMP:20261108T000000Z
+UID:fb6dfaa4039fc4f0a6fc@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The world's biggest MTB festival\, home of Red Bull Joyride sl
+ opestyle. Ten days of mountain-bike madness in the best bike park on Earth
+ .\n\nStatus: 🟡 Estimated (pattern-based or provisional\; check before b
+ ooking)\nOfficial info: https://www.crankworx.com
+GEO:50.1163;-122.9574
+LOCATION:Whistler Mountain Bike Park\, BC\, Canada
+TRANSP:TRANSPARENT
+URL:https://www.crankworx.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Whistler
+  Mountain Bike Park, BC, Canada":geo:50.1163,-122.9574
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Tour de France Femmes – Grand Départ\, Leeds
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+DTSTAMP:20261108T000000Z
+UID:214fcdfa5d1ee97243d7@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The women's Tour starts in Yorkshire\, cycling country that we
+ nt Tour-crazy in 2014.\n\nStatus: ✅ Confirmed\nOfficial info: https://ww
+ w.letourgb.com
+GEO:53.8008;-1.5491
+LOCATION:Leeds\, Yorkshire\, UK
+TRANSP:TRANSPARENT
+URL:https://www.letourgb.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Leeds, Y
+ orkshire, UK":geo:53.8008,-1.5491
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Cowes Week (est.)
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270808
+DTSTAMP:20261108T000000Z
+UID:3ebbcd1295953964dd18@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:One of the oldest and biggest sailing regattas in the world. 4
+ 0 daily races in the Solent\, with Friday-night fireworks.\n\nStatus: 🟡
+  Estimated (pattern-based or provisional\; check before booking)\nOfficial
+  info: https://www.cowesweek.co.uk
+GEO:50.7628;-1.2973
+LOCATION:Cowes\, Isle of Wight\, UK
+TRANSP:TRANSPARENT
+URL:https://www.cowesweek.co.uk
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Cowes, I
+ sle of Wight, UK":geo:50.7628,-1.2973
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🪂 UTMB (Ultra-Trail du Mont-Blanc) (est.)
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270830
+DTSTAMP:20261108T000000Z
+UID:7f69891cac3d75fdaa87@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:171 km and 10\,000 m of climbing around Mont Blanc through thr
+ ee countries. Chamonix becomes the trail-running capital of the world for 
+ the week\; the finish-line atmosphere is electric.\n\nStatus: 🟡 Estimat
+ ed (pattern-based or provisional\; check before booking)\n✈️ Trip-wort
+ hy: there's a booking nudge in the 📅 Booking Nudges feed ~3 months ahea
+ d.\nOfficial info: https://utmb.world
+GEO:45.9237;6.8694
+LOCATION:Chamonix\, France (via Italy & Switzerland)
+TRANSP:TRANSPARENT
+URL:https://utmb.world
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Chamonix
+ , France (via Italy & Switzerland)":geo:45.9237,6.8694
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: UTMB (Ultra-Trail du Mont-Blanc) is ~3 months a
+ way
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🪂 UCI Cycling World Championships (incl. MTB) (est.)
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270906
+DTSTAMP:20261108T000000Z
+UID:0c157d95c62fff9cf13f@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:All the cycling world championships in one Alpine region\, inc
+ luding MTB XCO and downhill\, with Mont Blanc as a backdrop. Bring the bik
+ e.\n\nStatus: 🟡 Estimated (pattern-based or provisional\; check before 
+ booking)\nFrom the UCI draft calendar\; exact discipline days TBC.\n✈️
+  Trip-worthy: there's a booking nudge in the 📅 Booking Nudges feed ~3 m
+ onths ahead.\nOfficial info: https://www.uci.org
+GEO:45.8992;6.1294
+LOCATION:Haute-Savoie\, France
+TRANSP:TRANSPARENT
+URL:https://www.uci.org
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Haute-Sa
+ voie, France":geo:45.8992,6.1294
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: UCI Cycling World Championships (incl. MTB) is 
+ ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Red Bull Hardline (est.)
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+DTSTAMP:20261108T000000Z
+UID:2abb83717d50f4e46989@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The world's gnarliest downhill race\, in Wales. Huge gaps and 
+ brutal steeps on a track built by Dan Atherton. Only a short drive from Br
+ istol.\n\nStatus: 🟡 Estimated (pattern-based or provisional\; check bef
+ ore booking)\nOfficial info: https://www.redbull.com/gb-en/events/red-bull
+ -hardline
+GEO:52.5917;-3.85
+LOCATION:Dyfi Valley\, Machynlleth\, Wales
+TRANSP:TRANSPARENT
+URL:https://www.redbull.com/gb-en/events/red-bull-hardline
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Dyfi Val
+ ley, Machynlleth, Wales":geo:52.5917,-3.85
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🪂 Coupe Icare (est.)
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270920
+DTSTAMP:20261108T000000Z
+UID:542d6d83f77df643621b@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The world's biggest free-flight festival. 80\,000 people\, hun
+ dreds of pilots\, and a costume flying contest where people launch off a c
+ liff dressed as a giant croissant. Try a tandem flight.\n\nStatus: 🟡 Es
+ timated (pattern-based or provisional\; check before booking)\nMid/late Se
+ ptember pattern.\n✈️ Trip-worthy: there's a booking nudge in the 📅 
+ Booking Nudges feed ~3 months ahead.\nOfficial info: https://www.coupe-ica
+ re.org
+GEO:45.308;5.889
+LOCATION:Saint-Hilaire-du-Touvet\, Chartreuse\, France
+TRANSP:TRANSPARENT
+URL:https://www.coupe-icare.org
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Saint-Hi
+ laire-du-Touvet, Chartreuse, France":geo:45.308,5.889
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Coupe Icare is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Les Voiles de Saint-Tropez (est.)
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20271004
+DTSTAMP:20261108T000000Z
+UID:191ec1f6eea4324d6a51@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:Classic wooden schooners and modern maxis racing in the autumn
+  Mediterranean. It's the most beautiful regatta there is.\n\nStatus: 🟡 
+ Estimated (pattern-based or provisional\; check before booking)\nOfficial 
+ info: https://www.lesvoilesdesaint-tropez.fr
+GEO:43.2692;6.639
+LOCATION:Saint-Tropez\, France
+TRANSP:TRANSPARENT
+URL:https://www.lesvoilesdesaint-tropez.fr
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Saint-Tr
+ opez, France":geo:43.2692,6.639
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 UCI XCO World Cup finale\, Soldier Hollow
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270927
+DTSTAMP:20261108T000000Z
+UID:321bd94705a4ec8b212a@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The cross-country season decider at the 2002 Olympic venue in 
+ the Wasatch.\n\nStatus: ✅ Confirmed\nOfficial info: https://www.ucimtbwo
+ rldseries.com
+GEO:40.4847;-111.505
+LOCATION:Soldier Hollow\, Midway\, Utah\, USA
+TRANSP:TRANSPARENT
+URL:https://www.ucimtbworldseries.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Soldier 
+ Hollow, Midway, Utah, USA":geo:40.4847,-111.505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Rugby World Cup 2027 – opening match
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+DTSTAMP:20261108T000000Z
+UID:9e2d44a9399269386217@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The first 24-team Rugby World Cup kicks off: Australia vs Hong
+  Kong China. Six weeks\, seven host cities and a new Round of 16.\n\nStatu
+ s: ✅ Confirmed\nOfficial info: https://www.rugbyworldcup.com/2027
+GEO:-31.9512;115.889
+LOCATION:Perth Stadium\, Perth\, Australia
+TRANSP:TRANSPARENT
+URL:https://www.rugbyworldcup.com/2027
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Perth St
+ adium, Perth, Australia":geo:-31.9512,115.889
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 UCI DH World Cup finale\, Whistler
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271004
+DTSTAMP:20261108T000000Z
+UID:42af566f0d0e94841b3b@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The downhill title decided on the most famous bike-park mounta
+ in in the world.\n\nStatus: ✅ Confirmed\nOfficial info: https://www.ucim
+ tbworldseries.com
+GEO:50.1163;-122.9574
+LOCATION:Whistler Mountain Bike Park\, BC\, Canada
+TRANSP:TRANSPARENT
+URL:https://www.ucimtbworldseries.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Whistler
+  Mountain Bike Park, BC, Canada":geo:50.1163,-122.9574
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Red Bull Rampage (est.)
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+DTSTAMP:20261108T000000Z
+UID:a5274b9b136c919505f7@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:Freeride on knife-edge desert ridgelines. Riders and dig crews
+  build their own lines down sheer red-rock cliffs. It's the most audacious
+  event in mountain biking.\n\nStatus: 🟡 Estimated (pattern-based or pro
+ visional\; check before booking)\nMid-October pattern.\nOfficial info: htt
+ ps://www.redbull.com/int-en/events/red-bull-rampage
+GEO:37.205;-113.19
+LOCATION:Virgin\, Utah\, USA
+TRANSP:TRANSPARENT
+URL:https://www.redbull.com/int-en/events/red-bull-rampage
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Virgin, 
+ Utah, USA":geo:37.205,-113.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Rugby World Cup 2027 – Final
+DTSTART:20271113T090000Z
+DTEND:20271113T110000Z
+DTSTAMP:20261108T000000Z
+UID:58a004ff2c05ba56420a@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The final in Sydney. A 9am kick-off in the UK\, so bacon sandw
+ iches at the ready.\n\nStatus: ✅ Confirmed\nLocal start: Sat 13 Nov 20:0
+ 0 (AEDT). Your calendar shows it in your own time zone.\nOfficial info: ht
+ tps://www.rugbyworldcup.com/2027
+GEO:-33.847;151.0634
+LOCATION:Stadium Australia\, Sydney\, Australia
+URL:https://www.rugbyworldcup.com/2027
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Stadium 
+ Australia, Sydney, Australia":geo:-33.847,151.0634
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🪂 Kendal Mountain Festival (est.)
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271122
+DTSTAMP:20261108T000000Z
+UID:b597a6b935bda124dca8@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:Adventure films\, expedition talks and the outdoor tribe in on
+ e Lakeland town. Mongol Rally film submission\, anyone?\n\nStatus: 🟡 Es
+ timated (pattern-based or provisional\; check before booking)\nAlways the 
+ third weekend of November (Thu–Sun).\n✈️ Trip-worthy: there's a book
+ ing nudge in the 📅 Booking Nudges feed ~3 months ahead.\nOfficial info:
+  https://www.kendalmountainfestival.com
+GEO:54.328;-2.7463
+LOCATION:Kendal\, Cumbria (Lake District)\, UK
+TRANSP:TRANSPARENT
+URL:https://www.kendalmountainfestival.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Kendal, 
+ Cumbria (Lake District), UK":geo:54.328,-2.7463
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Kendal Mountain Festival is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Rolex Sydney Hobart Yacht Race – start
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+DTSTAMP:20261108T000000Z
+UID:e4eda8c5d1c7c25903b4@global-events-calendar
+CATEGORIES:Adventure & Sport
+DESCRIPTION:The Boxing Day blue-water classic. 628 nm across the Bass Stra
+ it\, among the nastiest stretches of water anywhere. The harbour start wit
+ h a thousand spectator boats is spectacular.\n\nStatus: ✅ Confirmed\nOff
+ icial info: https://www.rolexsydneyhobart.com
+GEO:-33.8568;151.2153
+LOCATION:Sydney Harbour → Hobart\, Tasmania\, Australia
+TRANSP:TRANSPARENT
+URL:https://www.rolexsydneyhobart.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Sydney H
+ arbour → Hobart, Tasmania, Australia":geo:-33.8568,151.2153
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,346 @@
+# Motorsport (non-F1-session) events. All-day multi-day entries unless timed.
+# F1 sessions are generated from f1.yaml.
+
+# ---------------- Rallycross ----------------
+- title: "FIA Rallycross World Cup, Jakarta"
+  start: 2026-12-05
+  end: 2026-12-06
+  location: "Jakarta International E-Prix Circuit, Ancol, Jakarta, Indonesia"
+  geo: [-6.1236, 106.8326]
+  url: https://www.fia.com/events/fia-european-rallycross-championship
+  hook: "The first ever Rallycross World Cup, a one-off global showdown on a mixed asphalt-and-gravel layout carved out of Jakarta's Formula E track. Loeb and Kevin Hansen are among the names. World RX folded into Euro RX for 2026, so for now this is rallycross's only world stage."
+- title: "Euro RX 2027 season (calendar not yet announced)"
+  start: 2027-05-08
+  location: "Europe"
+  status: tbc
+  url: https://www.fia.com/events/fia-european-rallycross-championship
+  hook: "World RX became the FIA European Rallycross Championship (Euro RX) in 2026. The 2026 calendar was announced in late November, so expect the 2027 rounds soon. The monthly refresh will replace this placeholder with the real rounds (Höljes, Lohéac, Lousada and co.)."
+  notes: "Placeholder date. The 2026 season opened in early May."
+
+# ---------------- WRC 2027 (announced 8 Oct 2026, 15 rounds) ----------------
+- title: "WRC Rallye Monte-Carlo"
+  start: 2027-01-21
+  end: 2027-01-24
+  location: "Monaco & the French Alps"
+  geo: [43.7384, 7.4246]
+  url: https://www.wrc.com
+  trip: true
+  hook: "The season opener and the first event of WRC's new 2027 technical era. Ice, snow and dry tarmac all on the same stage, and night runs over the Col de Turini. The most unpredictable rally of the year."
+- title: "WRC Rally Sweden"
+  start: 2027-02-18
+  end: 2027-02-21
+  location: "Umeå, Västerbotten, Sweden"
+  geo: [63.8258, 20.2630]
+  url: https://www.wrc.com
+  trip: true
+  hook: "The only full-snow round. Studded tyres, 200 km/h through frozen forests, cars leaning on the snowbanks, and a decent chance of aurora at night."
+- title: "WRC Safari Rally Kenya"
+  start: 2027-03-18
+  end: 2027-03-21
+  location: "Naivasha, Kenya"
+  geo: [-0.7167, 36.4333]
+  url: https://www.wrc.com
+  hook: "Rough roads, fesh-fesh dust, rain-soaked mud and zebras on the stages. Cars wear snorkels for the river crossings. The Safari is back for 2027."
+- title: "WRC Croatia Rally"
+  start: 2027-04-08
+  end: 2027-04-11
+  location: "Croatia"
+  geo: [45.8150, 15.9819]
+  url: https://www.wrc.com
+  hook: "Narrow, twisty asphalt that changes grip from corner to corner, where cutting the inside drags gravel onto the line. The first of three tarmac rounds in a row."
+- title: "WRC Rally Islas Canarias"
+  start: 2027-05-06
+  end: 2027-05-09
+  location: "Las Palmas, Gran Canaria, Spain"
+  geo: [28.1235, -15.4363]
+  url: https://www.wrc.com
+  hook: "Smooth, grippy volcanic tarmac with ocean views. It's basically a circuit race on mountain roads, with a beach afterwards."
+- title: "WRC Rally Japan"
+  start: 2027-06-03
+  end: 2027-06-06
+  location: "Aichi & Gifu, Japan"
+  geo: [35.1815, 136.9066]
+  url: https://www.wrc.com
+  hook: "Narrow, tree-lined mountain asphalt in Toyota's back yard, with some of the most enthusiastic fans in the sport."
+- title: "WRC Acropolis Rally Greece"
+  start: 2027-06-24
+  end: 2027-06-27
+  location: "Loutraki, Greece"
+  geo: [37.9750, 22.9770]
+  url: https://www.wrc.com
+  hook: "The 'Rally of Gods'. Rocky, car-breaking mountain gravel in 35°C heat. Survival comes before speed."
+- title: "WRC Rally d'Italia (Rome)"
+  start: 2027-07-08
+  end: 2027-07-11
+  location: "Rome, Italy"
+  geo: [41.9028, 12.4964]
+  url: https://www.wrc.com
+  hook: "New for 2027. Italy's round moves from Sardinia to Rome and switches to tarmac. Rally cars and Roman ruins in the same weekend."
+- title: "WRC Rally Estonia"
+  start: 2027-07-22
+  end: 2027-07-25
+  location: "Tartu, Estonia"
+  geo: [58.3776, 26.7290]
+  url: https://www.wrc.com
+  hook: "Super-fast, smooth gravel with huge jumps. It's like Finland's little brother, and almost as quick."
+- title: "WRC Rally Finland"
+  start: 2027-07-29
+  end: 2027-08-01
+  location: "Jyväskylä, Finland"
+  geo: [62.2426, 25.7473]
+  url: https://www.wrc.com
+  trip: true
+  hook: "The Grand Prix of rallying. Blind crests at 180 km/h, cars flying 50 m off Ouninpohja-style jumps, and lakeside campsites full of sausage-grilling fans. Bucket-list stuff."
+- title: "WRC Rally United States"
+  start: 2027-08-26
+  end: 2027-08-29
+  location: "Knoxville, Tennessee (stages in TN & KY), USA"
+  geo: [35.9606, -83.9207]
+  url: https://www.wrc.com
+  hook: "WRC's first US round since 1988, on new gravel stages through the Tennessee and Kentucky hills. History in the making."
+- title: "WRC Rally Scotland"
+  start: 2027-09-30
+  end: 2027-10-03
+  location: "Aberdeen, Scotland, UK"
+  geo: [57.1497, -2.0943]
+  url: https://www.wrc.com
+  trip: true
+  hook: "The WRC comes home to Britain. Fast Scottish forest gravel in autumn colours, the first UK round since Wales Rally GB. Camp out, get muddy and watch the new Rally1 cars up close."
+- title: "WRC Rally del Paraguay"
+  start: 2027-10-21
+  end: 2027-10-24
+  location: "Encarnación, Paraguay"
+  geo: [-27.3306, -55.8667]
+  url: https://www.wrc.com
+  hook: "Red-earth gravel and passionate South American crowds. Paraguay's second year in the championship."
+- title: "WRC Rally Chile Bío Bío"
+  start: 2027-11-04
+  end: 2027-11-07
+  location: "Concepción, Chile"
+  geo: [-36.8270, -73.0498]
+  url: https://www.wrc.com
+  hook: "Flowing gravel through pine and eucalyptus forest with the Pacific nearby. Rhythm is everything here."
+- title: "WRC Rally Saudi Arabia"
+  start: 2027-11-25
+  end: 2027-11-28
+  location: "Jeddah, Saudi Arabia"
+  geo: [21.4858, 39.1925]
+  url: https://www.wrc.com
+  hook: "The desert finale. The title could be decided on fast, dusty gravel near the Red Sea."
+  notes: "The 2026 Saudi round was cancelled over Middle East unrest, so treat this as provisional."
+- title: "WRC Rallye Monte-Carlo 2028"
+  start: 2028-01-20
+  end: 2028-01-23
+  status: estimated
+  location: "Monaco & the French Alps"
+  geo: [43.7384, 7.4246]
+  url: https://www.wrc.com
+  trip: true
+  hook: "Monte opens the season every year, almost always in the third or fourth week of January. Ice, snow and the Col de Turini at night."
+  notes: "Estimated from the usual January slot; the 2028 calendar is due mid-2027."
+
+# ---------------- Dakar & W2RC 2027 ----------------
+- title: "Dakar Rally 2027 (Portugal → Morocco)"
+  start: 2027-01-09
+  end: 2027-01-23
+  location: "Loulé-Faro, Portugal → Marrakech, Morocco"
+  geo: [31.6295, -7.9811]
+  url: https://www.dakar.com
+  trip: true
+  hook: "Dakar returns to Africa for the first time since 2008, from the Algarve to Marrakech by way of a Mediterranean night crossing. 7,824 km, 4,341 km of special stages, six bivouacs. After driving to Kazakhstan, you'll know exactly how they feel."
+  notes: "Moved from Saudi Arabia late in the day. Dates are pending final FIA World Motor Sport Council approval."
+- title: "W2RC Abu Dhabi Desert Challenge"
+  start: 2027-03-21
+  end: 2027-03-26
+  location: "Liwa, Abu Dhabi, UAE"
+  geo: [23.1000, 53.7500]
+  url: https://www.dakar.com/en/w2rc
+  hook: "Round 2 of the World Rally-Raid Championship, in the towering Empty Quarter dunes of Liwa. Some of the biggest dunes anywhere."
+- title: "W2RC South African Safari Rally"
+  start: 2027-06-14
+  end: 2027-06-19
+  location: "Northern Cape, South Africa (with stages into Botswana)"
+  geo: [-28.7282, 24.7499]
+  url: https://www.dakar.com/en/w2rc
+  hook: "Rally-raid through the Kalahari, crossing into Botswana for the first time. Wild, remote and properly African."
+- title: "W2RC bp Ultimate Rally-Raid Portugal"
+  start: 2027-09-21
+  end: 2027-09-26
+  location: "Portugal"
+  geo: [39.3999, -8.2245]
+  url: https://www.dakar.com/en/w2rc
+  hook: "Europe's rally-raid, through cork forests, sandy tracks and river valleys. It's the easiest W2RC round to reach from the UK."
+- title: "W2RC Rallye du Maroc"
+  start: 2027-10-24
+  end: 2027-10-29
+  location: "Morocco"
+  geo: [30.9335, -6.9370]
+  url: https://www.dakar.com/en/w2rc
+  hook: "The season finale, and traditionally the dress rehearsal for Dakar: Saharan dunes, oued crossings and Atlas Mountain tracks."
+- title: "Dakar Rally 2028 (50th edition, Saudi Arabia)"
+  start: 2028-01-02
+  end: 2028-01-16
+  status: tbc
+  location: "Saudi Arabia"
+  geo: [22.3300, 39.1000]
+  url: https://www.dakar.com
+  hook: "The 50th Dakar, planned for a return to Saudi Arabia after the 2027 Africa detour. Expect a special anniversary edition."
+  notes: "Placeholder; dates and route not yet announced."
+
+# ---------------- British GT 2027 (revised provisional calendar) ----------------
+- title: "British GT – Snetterton 300 (2× 1h)"
+  start: 2027-04-10
+  end: 2027-04-11
+  location: "Snetterton Circuit, Norfolk, UK"
+  geo: [52.4636, 0.9461]
+  url: https://www.britishgt.com
+  hook: "Season opener on Snetterton's 300 layout. GT3 and GT4 share the track, with Pro-Am driver changes mid-race."
+  notes: "Provisional SRO calendar (revised July 2026)."
+- title: "British GT – Oulton Park (2× 1h)"
+  start: 2027-05-29
+  end: 2027-05-31
+  location: "Oulton Park, Cheshire, UK"
+  geo: [53.1797, -2.6131]
+  url: https://www.britishgt.com
+  hook: "The best track in Britain for GT cars, tight and undulating through Cheshire parkland. Bank holiday Monday race day."
+  notes: "Qualifying Saturday, race on Bank Holiday Monday; no action Sunday."
+- title: "British GT – Spa Speedweek (2h)"
+  start: 2027-06-19
+  end: 2027-06-20
+  location: "Circuit de Spa-Francorchamps, Belgium"
+  geo: [50.4372, 5.9714]
+  url: https://www.britishgt.com
+  hook: "The British championship goes abroad to the greatest circuit of them all."
+- title: "British GT – Silverstone 500 (3h)"
+  start: 2027-08-07
+  end: 2027-08-08
+  location: "Silverstone Circuit, Northamptonshire, UK"
+  geo: [52.0786, -1.0169]
+  url: https://www.silverstone.co.uk/events/british-gt-championship
+  trip: true
+  hook: "The blue-riband event and the only 3-hour race of the season. A full grid on the GP circuit with pit-stop strategy deciding it. Early-bird tickets end 4 Jan 2027."
+- title: "British GT – Brands Hatch GP (2h)"
+  start: 2027-09-11
+  end: 2027-09-12
+  location: "Brands Hatch, Kent, UK"
+  geo: [51.3569, 0.2631]
+  url: https://www.britishgt.com
+  hook: "The full GP loop through the Kent woods. Paddock Hill Bend in a GT3 is terrifying to watch."
+- title: "British GT – Donington Decider (2h)"
+  start: 2027-10-16
+  end: 2027-10-17
+  location: "Donington Park, Leicestershire, UK"
+  geo: [52.8306, -1.3750]
+  url: https://www.britishgt.com
+  hook: "The season finale, where the titles are settled at the Craner Curves."
+
+# ---------------- GT World Challenge Europe 2027 ----------------
+- title: "GTWC Europe – Paul Ricard 1000km (Endurance)"
+  start: 2027-04-16
+  end: 2027-04-17
+  location: "Circuit Paul Ricard, Le Castellet, France"
+  geo: [43.2506, 5.7917]
+  url: https://www.gt-world-challenge-europe.com
+  hook: "Endurance Cup opener on the blue-and-red striped run-off near the Côte d'Azur, with 50+ GT3 cars."
+- title: "GTWC Europe – Brands Hatch (Sprint)"
+  start: 2027-05-01
+  end: 2027-05-02
+  location: "Brands Hatch, Kent, UK"
+  geo: [51.3569, 0.2631]
+  url: https://www.gt-world-challenge-europe.com
+  hook: "The full GT3 world-class grid on a British track. Sprint Cup, two one-hour races and lots of contact."
+- title: "GTWC Europe – Imola (Endurance)"
+  start: 2027-05-21
+  end: 2027-05-23
+  status: estimated
+  location: "Autodromo Enzo e Dino Ferrari, Imola, Italy"
+  geo: [44.3439, 11.7167]
+  url: https://www.gt-world-challenge-europe.com
+  hook: "Old-school, anticlockwise and narrow. Imola stands in for Monza while Monza is renovated."
+  notes: "The date is 'subject to agreement' per SRO."
+- title: "CrowdStrike 24 Hours of Spa"
+  start: 2027-06-24
+  end: 2027-06-27
+  location: "Circuit de Spa-Francorchamps, Belgium"
+  geo: [50.4372, 5.9714]
+  url: https://www.24hoursofspa.com
+  trip: true
+  hook: "The biggest GT race on Earth. 60+ GT3 cars, Eau Rouge in the dark, Ardennes rain at 3am and a fan village that never sleeps. A cheap Eurotunnel road trip."
+- title: "GTWC Europe – Misano (Sprint)"
+  start: 2027-07-16
+  end: 2027-07-18
+  location: "Misano World Circuit, Italy"
+  geo: [43.9617, 12.6833]
+  url: https://www.gt-world-challenge-europe.com
+  hook: "A summer night race on the Adriatic coast. Floodlit GT3 sprint racing, then the beach."
+- title: "GTWC Europe – Magny-Cours (Sprint)"
+  start: 2027-07-30
+  end: 2027-08-01
+  location: "Circuit de Nevers Magny-Cours, France"
+  geo: [46.8642, 3.1636]
+  url: https://www.gt-world-challenge-europe.com
+  hook: "Former French GP venue in the heart of rural France, with the famous Adelaide hairpin."
+- title: "GTWC Europe – Nürburgring (Endurance)"
+  start: 2027-08-28
+  end: 2027-08-29
+  location: "Nürburgring GP-Strecke, Germany"
+  geo: [50.3356, 6.9475]
+  url: https://www.gt-world-challenge-europe.com
+  hook: "Endurance Cup round at the 'Ring. Go a day early and drive the Nordschleife yourself on a tourist day."
+- title: "GTWC Europe – Zandvoort (Sprint)"
+  start: 2027-09-17
+  end: 2027-09-19
+  location: "Circuit Zandvoort, Netherlands"
+  geo: [52.3888, 4.5409]
+  url: https://www.gt-world-challenge-europe.com
+  hook: "Banked corners in the North Sea dunes, and a seaside track party."
+- title: "GTWC Europe – Hungaroring (Sprint)"
+  start: 2027-10-01
+  end: 2027-10-03
+  location: "Hungaroring, Budapest, Hungary"
+  geo: [47.5789, 19.2486]
+  url: https://www.gt-world-challenge-europe.com
+  hook: "GTWC's first visit since 2019 and the Sprint Cup decider."
+- title: "GTWC Europe – Barcelona (Endurance finale)"
+  start: 2027-10-23
+  end: 2027-10-24
+  location: "Circuit de Barcelona-Catalunya, Spain"
+  geo: [41.5700, 2.2611]
+  url: https://www.gt-world-challenge-europe.com
+  hook: "The overall GTWC Europe title showdown. Six hours of tyre management in the Catalan sun."
+
+# ---------------- Legends (bonus) ----------------
+- title: "F1 pre-season testing, Bahrain"
+  start: 2027-02-24
+  end: 2027-02-27
+  location: "Bahrain International Circuit, Sakhir"
+  geo: [26.0325, 50.5106]
+  url: https://www.formula1.com
+  hook: "The first proper look at the 2027 cars. Lap times don't mean much, but the engineering gossip is worth it."
+- title: "Isle of Man TT"
+  start: 2027-05-31
+  end: 2027-06-12
+  location: "Snaefell Mountain Course, Isle of Man"
+  geo: [54.1676, -4.4818]
+  url: https://www.iomttraces.com
+  trip: true
+  hook: "60 km of public roads closed for 200 mph road racing past stone walls and front doors. The most dangerous, and maybe the most awe-inspiring, race in the world. Book ferries VERY early."
+  notes: "Bonus pick outside your chosen series. Senior TT on Sat 12 June."
+- title: "24 Hours of Le Mans (95th edition)"
+  start: 2027-06-09
+  end: 2027-06-13
+  location: "Circuit de la Sarthe, Le Mans, France"
+  geo: [47.9560, 0.2077]
+  url: https://www.24h-lemans.com
+  trip: true
+  hook: "The greatest endurance race there is. Hypercars at 330 km/h down the Mulsanne in the dark, a Ferris wheel, and a campsite full of Brits who drove over. A legendary road trip."
+  notes: "Bonus pick outside your chosen series. Race Sat 12–Sun 13 June."
+- title: "Goodwood Festival of Speed"
+  start: 2027-07-08
+  end: 2027-07-11
+  status: estimated
+  location: "Goodwood House, West Sussex, UK"
+  geo: [50.8615, -0.7514]
+  url: https://www.goodwood.com
+  hook: "Up the hill past the house in everything from 1900s racers to this year's F1 cars. It's a garden party for petrolheads, and you might remember Goodwood as the old Mongol Rally launch site."
+  notes: "Estimated from the usual early/mid-July weekend. Bonus pick."

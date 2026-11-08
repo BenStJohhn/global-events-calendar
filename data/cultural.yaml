@@ -1,0 +1,382 @@
+# Cultural festivals worldwide.
+# rule types: fixed (month/day), nth_weekday (month, weekday 0=Mon, n; -1=last), easter (offset),
+#             chinese (lunar month/day), hijri (month/day), hebrew (month/day; Nisan=1, Kislev=9, Adar=12)
+# 'days' = length in days. Explicit start/end entries are for researched one-off dates.
+
+# ======================= Lunar & religious (computed) =======================
+- title: "Chinese New Year"
+  rule: {type: chinese, month: 1, day: 1, days: 1}
+  location: "China & Chinese communities worldwide (London Chinatown, Singapore, Penang…)"
+  geo: [39.9042, 116.4074]
+  trip: true
+  hook: "The biggest human migration on Earth as hundreds of millions travel home. Firecrackers, lion dances, red envelopes and dumplings at midnight. For something close to home, London's Trafalgar Square celebration is the biggest outside Asia."
+  url: https://www.travelchinaguide.com/essential/holidays/new-year/
+- title: "Lantern Festival (Yuanxiao)"
+  rule: {type: chinese, month: 1, day: 15, days: 1}
+  location: "China & Taiwan (Pingxi sky lanterns)"
+  geo: [25.0260, 121.7410]
+  hook: "The finale of the New Year season on the first full moon. Lantern riddles, sweet rice dumplings, and in Taiwan's Pingxi, thousands of sky lanterns let go at once."
+- title: "Dragon Boat Festival"
+  rule: {type: chinese, month: 5, day: 5, days: 1}
+  location: "China, Hong Kong, Taiwan"
+  geo: [22.3193, 114.1694]
+  hook: "Drummers pound out the rhythm as long dragon-headed boats race, in memory of the poet Qu Yuan. Plenty of zongzi (sticky rice parcels) to eat."
+- title: "Mid-Autumn (Moon) Festival"
+  rule: {type: chinese, month: 8, day: 15, days: 1}
+  location: "China, Hong Kong, Vietnam, Singapore"
+  geo: [22.3193, 114.1694]
+  hook: "Mooncakes, lanterns and family reunions under the fullest moon of the year. Hong Kong's Tai Hang fire dragon is a sight to see."
+- title: "Ramadan begins"
+  rule: {type: hijri, month: 9, day: 1, days: 1}
+  status: estimated
+  location: "Muslim world"
+  geo: [21.4225, 39.8262]
+  hook: "A month of dawn-to-dusk fasting. Travelling in Muslim-majority countries changes completely, with sleepy days and electric nights, and iftar street-food markets after sunset. Istanbul, Marrakech and Cairo are unforgettable."
+  notes: "Calculated from the Umm al-Qura calendar; the actual start depends on moon sighting and can shift by a day."
+- title: "Eid al-Fitr"
+  rule: {type: hijri, month: 10, day: 1, days: 1}
+  status: estimated
+  location: "Muslim world"
+  geo: [21.4225, 39.8262]
+  hook: "The festival marking the end of Ramadan. New clothes, morning prayers, family feasts and sweets everywhere. Expect closures and big crowds if you're travelling."
+  notes: "Depends on the crescent-moon sighting, so it can shift by ±1 day."
+- title: "Eid al-Adha"
+  rule: {type: hijri, month: 12, day: 10, days: 1}
+  status: estimated
+  location: "Muslim world"
+  geo: [21.4225, 39.8262]
+  hook: "The Feast of Sacrifice, at the climax of the Hajj pilgrimage to Mecca. It's Kurban Ait across Central Asia, where you'll remember the hospitality from the rally route."
+  notes: "Depends on moon sighting (±1 day)."
+- title: "Hanukkah begins"
+  rule: {type: hebrew, month: 9, day: 25, days: 8, offset: -1}
+  location: "Jewish communities worldwide (Jerusalem, New York, London)"
+  geo: [31.7683, 35.2137]
+  hook: "Eight nights of the Festival of Lights. Menorahs in windows, doughnuts (sufganiyot) and latkes. Jerusalem's Old City glows."
+  notes: "The first candle is lit on the evening this begins."
+- title: "Purim"
+  rule: {type: hebrew, month: 12, day: 14, days: 1}
+  location: "Israel & Jewish communities worldwide"
+  geo: [32.0853, 34.7818]
+  hook: "Fancy dress, noisemakers and street parties. Tel Aviv turns into one big carnival."
+- title: "Passover (Pesach) begins"
+  rule: {type: hebrew, month: 1, day: 15, days: 8, offset: -1}
+  location: "Jewish communities worldwide"
+  geo: [31.7683, 35.2137]
+  hook: "The Exodus story told over the Seder meal, with matzah for a week."
+  notes: "The Seder is held on the first evening."
+- title: "Easter Sunday"
+  rule: {type: easter, offset: 0, days: 1}
+  location: "Christian world (Rome, Jerusalem, Seville…)"
+  geo: [41.9022, 12.4539]
+  hook: "Easter Sunday Mass in St Peter's Square, or Holy Week processions across Spain and Latin America."
+- title: "Semana Santa, Seville"
+  rule: {type: easter, offset: -7, days: 8}
+  location: "Seville, Andalusia, Spain"
+  geo: [37.3891, -5.9845]
+  trip: true
+  hook: "Holy Week, Spanish style. Hooded nazarenos, swaying gold floats carried by unseen costaleros, incense, saetas sung from balconies, and the all-night Madrugá. Haunting and unforgettable."
+- title: "Orthodox Easter"
+  rule: {type: easter, orthodox: true, offset: 0, days: 1}
+  location: "Greece, Cyprus, Eastern Europe, Georgia, Ethiopia"
+  geo: [37.9838, 23.7275]
+  hook: "Midnight candles passed hand to hand, then \"Christos Anesti!\" and fireworks. Lamb on the spit the next day. Greek islands like Corfu (pot-smashing!) do it best."
+- title: "Rio de Janeiro Carnival"
+  rule: {type: easter, offset: -50, days: 5}
+  location: "Sambadrome, Rio de Janeiro, Brazil"
+  geo: [-22.9112, -43.1966]
+  trip: true
+  hook: "The greatest party on Earth. Samba schools parading floats the size of buildings through the Sambódromo until dawn, and blocos (street parties) in every neighbourhood. Book a year out."
+  notes: "Carnival Saturday to Ash Wednesday morning, set by the date of Easter."
+- title: "Venice Carnival"
+  rule: {type: easter, offset: -64, days: 18}
+  status: estimated
+  location: "Venice, Italy"
+  geo: [45.4408, 12.3155]
+  trip: true
+  hook: "Masks, capes and 18th-century costumes on misty canals, with the Flight of the Angel over St Mark's Square. Eerie and elegant, and easy to reach on a cheap flight."
+  notes: "The exact start varies year to year; it always ends on Shrove Tuesday."
+- title: "Battle of the Oranges, Ivrea"
+  rule: {type: easter, offset: -49, days: 3}
+  location: "Ivrea, Piedmont, Italy"
+  geo: [45.4669, 7.8758]
+  hook: "Italy's biggest food fight. Teams on foot pelt armoured carts with half a million oranges, re-enacting a medieval revolt. Wear the red hat (berretto frigio) if you don't want to be a target."
+- title: "Binche Carnival (Gilles)"
+  rule: {type: easter, offset: -49, days: 3}
+  location: "Binche, Belgium"
+  geo: [50.4108, 4.1653]
+  hook: "UNESCO-listed. Hundreds of Gilles in wax masks and ostrich-feather hats stomp through town in clogs, throwing blood oranges at the crowd."
+- title: "Mardi Gras, New Orleans"
+  rule: {type: easter, offset: -47, days: 1}
+  location: "New Orleans, Louisiana, USA"
+  geo: [29.9511, -90.0715]
+  hook: "Fat Tuesday. Bead-throwing parades, brass bands and Mardi Gras Indians, with jazz pouring out of the French Quarter all day."
+- title: "Holi (Festival of Colours)"
+  start: 2027-03-22
+  location: "India & Nepal (Mathura/Vrindavan, Jaipur, Kathmandu)"
+  geo: [27.4924, 77.6737]
+  trip: true
+  hook: "Total chromatic chaos. Strangers smother each other in coloured powder, water pistols everywhere, and bonfires (Holika Dahan) the night before. Mathura and Vrindavan, Krishna's homeland, go wildest."
+  notes: "Holika Dahan bonfires on the evening of 21 Mar."
+- title: "Holi (Festival of Colours)"
+  start: 2028-03-11
+  status: estimated
+  location: "India & Nepal (Mathura/Vrindavan, Jaipur, Kathmandu)"
+  geo: [27.4924, 77.6737]
+  trip: true
+  key: holi-2028
+  hook: "Total chromatic chaos. Strangers smother each other in coloured powder, water pistols everywhere, and bonfires the night before."
+  notes: "Phalguna Purnima 2028 estimate; confirm against the panchang."
+- title: "Diwali (Festival of Lights)"
+  start: 2026-11-08
+  location: "India & diaspora (Varanasi, Jaipur, Amritsar, Leicester)"
+  geo: [25.3176, 82.9739]
+  hook: "Oil lamps on every ledge, rangoli on doorsteps, fireworks all night and sweets everywhere. Leicester's Golden Mile hosts one of the biggest celebrations outside India."
+- title: "Diwali (Festival of Lights)"
+  start: 2027-10-29
+  location: "India & diaspora (Varanasi, Jaipur, Amritsar, Leicester)"
+  geo: [25.3176, 82.9739]
+  trip: true
+  key: diwali-2027
+  hook: "Oil lamps on every ledge, rangoli on doorsteps and fireworks all night. Varanasi's ghats and Amritsar's Golden Temple lit up are breathtaking. Leicester's Golden Mile is the closest big celebration to home."
+- title: "Pushkar Camel Fair"
+  start: 2026-11-17
+  end: 2026-11-24
+  status: estimated
+  location: "Pushkar, Rajasthan, India"
+  geo: [26.4897, 74.5511]
+  hook: "Tens of thousands of camels, horses and cattle traders in the Thar desert, plus moustache contests, camel races and pilgrims bathing in the holy lake at the Kartik Purnima full moon."
+  notes: "Built around Kartik Purnima (full moon 24 Nov 2026); exact fair days vary."
+- title: "Pushkar Camel Fair"
+  start: 2027-11-07
+  end: 2027-11-14
+  status: estimated
+  key: pushkar-2027
+  location: "Pushkar, Rajasthan, India"
+  geo: [26.4897, 74.5511]
+  trip: true
+  hook: "Tens of thousands of camels and traders in the Thar desert, with moustache contests, races and a full-moon holy dip. As raw and photogenic as India gets."
+  notes: "Built around Kartik Purnima (full moon ~14 Nov 2027); exact fair days vary."
+- title: "Loy Krathong & Yi Peng, Chiang Mai"
+  start: 2026-11-24
+  end: 2026-11-25
+  location: "Chiang Mai, Thailand"
+  geo: [18.7883, 98.9853]
+  hook: "Candlelit krathong floats drift down the Ping River while thousands of sky lanterns (khom loi) rise overhead under the full moon. One of the most photogenic nights on the planet."
+  notes: "Mass lantern releases now happen only at authorised (often ticketed) venues."
+- title: "Loy Krathong & Yi Peng, Chiang Mai"
+  start: 2027-11-13
+  end: 2027-11-14
+  status: estimated
+  key: loykrathong-2027
+  location: "Chiang Mai, Thailand"
+  geo: [18.7883, 98.9853]
+  trip: true
+  hook: "Candlelit floats on the Ping River and thousands of sky lanterns rising under the full moon. Book Chiang Mai rooms early."
+  notes: "Full moon of the 12th Thai lunar month; confirm with TAT closer to the time."
+- title: "Songkran (Thai New Year water festival)"
+  rule: {type: fixed, month: 4, day: 13, days: 3}
+  location: "Thailand (Chiang Mai, Bangkok's Silom & Khao San)"
+  geo: [18.7883, 98.9853]
+  trip: true
+  hook: "The whole country turns into a three-day water fight. Super Soakers, buckets and elephants, with no dry escape. It's also the hottest week of the year, so you'll be grateful."
+- title: "Tsagaan Sar (Mongolian Lunar New Year)"
+  start: 2027-02-07
+  end: 2027-02-09
+  status: estimated
+  location: "Mongolia (Ulaanbaatar & countryside gers)"
+  geo: [47.8864, 106.9057]
+  hook: "The 'White Month'. Families visit every relative's ger in strict order of seniority, with mountains of buuz dumplings, airag and a sheep's tail on the table. You were nearly in Mongolia this summer."
+  notes: "Sources give 6–9 Feb 2027; the main day is most likely the 7th."
+- title: "Tsagaan Sar (Mongolian Lunar New Year)"
+  start: 2028-02-24
+  end: 2028-02-26
+  status: tbc
+  key: tsagaansar-2028
+  location: "Mongolia"
+  geo: [47.8864, 106.9057]
+  hook: "Mongolia's biggest holiday. Buuz marathons and ger-hopping across the steppe."
+  notes: "Sources disagree (late Jan vs late Feb 2028); the Mongolian astrological calendar is fixed nearer the time."
+
+# ======================= Fixed & rule-based annual festivals =======================
+- title: "Harbin Ice & Snow World opens"
+  rule: {type: fixed, month: 1, day: 5, days: 1}
+  location: "Harbin, Heilongjiang, China"
+  geo: [45.8038, 126.5350]
+  trip: true
+  hook: "Full-size castles, pagodas and slides carved from Songhua River ice, lit up in neon at −25°C. The world's biggest ice festival runs into February."
+- title: "Timkat (Ethiopian Epiphany)"
+  rule: {type: fixed, month: 1, day: 19, days: 1, only_years: [2027]}
+  location: "Gondar & Lalibela, Ethiopia"
+  geo: [12.6030, 37.4521]
+  hook: "Priests carry the tabots (replicas of the Ark of the Covenant) wrapped in brocade, all-night chanting, then Gondar's Fasilides Bath turns into a joyous mass baptism splash."
+- title: "Timkat (Ethiopian Epiphany)"
+  start: 2028-01-20
+  key: timkat-2028
+  location: "Gondar & Lalibela, Ethiopia"
+  geo: [12.6030, 37.4521]
+  hook: "Brocade-wrapped tabots, all-night chanting and Gondar's mass baptism splash."
+  notes: "Falls on 20 Jan in years after an Ethiopian leap year."
+- title: "Burns Night"
+  rule: {type: fixed, month: 1, day: 25, days: 1}
+  location: "Scotland & everywhere with a Scot"
+  geo: [55.4586, -4.6292]
+  hook: "Haggis piped in, the Address to a Haggis stabbed out with gusto, neeps, tatties, whisky and a ceilidh to finish."
+- title: "Up Helly Aa"
+  rule: {type: nth_weekday, month: 1, weekday: 1, n: -1, days: 1}
+  location: "Lerwick, Shetland, UK"
+  geo: [60.1546, -1.1494]
+  trip: true
+  hook: "Europe's largest fire festival. A thousand torch-bearing guizers in Viking armour march a full-size longship through Lerwick and set it ablaze. Shetland in January is wild in every sense."
+- title: "Sapporo Snow Festival"
+  start: 2027-02-04
+  end: 2027-02-11
+  location: "Odori Park, Susukino & Tsudome, Sapporo, Hokkaido, Japan"
+  geo: [43.0598, 141.3478]
+  trip: true
+  hook: "Building-sized snow sculptures with projection-mapped light shows, an ice sculpture street in Susukino, and hot ramen everywhere. Pair it with Niseko powder and Otaru's Snow Light Path (6–13 Feb)."
+- title: "Las Fallas"
+  rule: {type: fixed, month: 3, day: 15, days: 5}
+  location: "Valencia, Spain"
+  geo: [39.4699, -0.3763]
+  trip: true
+  hook: "Valencia builds hundreds of giant satirical sculptures, ninots several storeys high, then burns them all on the final night (La Cremà). Daily 2pm mascletà firecracker barrages shake your ribcage."
+- title: "St Patrick's Day"
+  rule: {type: fixed, month: 3, day: 17, days: 1}
+  location: "Dublin, Ireland (and Chicago's green river)"
+  geo: [53.3498, -6.2603]
+  hook: "Dublin's parade, céilí music and a sea of green. Chicago dyes its whole river emerald."
+- title: "Nowruz / Nauryz (Persian & Central Asian New Year)"
+  rule: {type: fixed, month: 3, day: 21, days: 3}
+  location: "Iran, Kazakhstan, Uzbekistan, Kyrgyzstan, Azerbaijan…"
+  geo: [49.9500, 82.6167]
+  hook: "Spring New Year across the Silk Road. Bonfire-jumping, haft-sin tables, sumalak cooked all night, and in Kazakhstan, Nauryz yurts and kokpar on the steppe. Oskemen will be celebrating."
+  notes: "The astronomical start is the March equinox; Central Asian public holidays run 21–23 Mar."
+- title: "Kanamara Matsuri"
+  rule: {type: nth_weekday, month: 4, weekday: 6, n: 1, days: 1}
+  location: "Kawasaki, Japan"
+  geo: [35.5316, 139.7360]
+  hook: "The 'Festival of the Steel Phallus'. Giant pink shrines paraded through the streets, raising money for HIV research. Japan at its most gloriously unembarrassed."
+- title: "Cherry blossom peak (Tokyo & Kyoto)"
+  rule: {type: fixed, month: 3, day: 28, days: 10}
+  status: estimated
+  location: "Tokyo & Kyoto, Japan"
+  geo: [35.0116, 135.7681]
+  trip: true
+  hook: "Hanami season. Picnics under clouds of pink in Ueno and Maruyama parks, the Philosopher's Path petal-strewn, and night-lit sakura along the canals. It lines up with the Japanese GP weekend in 2027."
+  notes: "The bloom varies by ±1 week with the weather; the Japan Meteorological Corporation forecast firms up in Feb/March."
+- title: "King's Day (Koningsdag)"
+  rule: {type: fixed, month: 4, day: 27, days: 1}
+  location: "Amsterdam, Netherlands"
+  geo: [52.3676, 4.9041]
+  hook: "The whole country dresses in orange. Amsterdam's canals are rammed with party boats and the city becomes one giant street market (vrijmarkt)."
+- title: "Cheese Rolling, Cooper's Hill"
+  rule: {type: nth_weekday, month: 5, weekday: 0, n: -1, days: 1}
+  location: "Cooper's Hill, Brockworth, Gloucestershire, UK"
+  geo: [51.8336, -2.1650]
+  hook: "Lunatics hurl themselves down a near-vertical hill after a 4 kg Double Gloucester. Bones get broken. It's quintessentially, gloriously British, and only an hour from Bristol."
+- title: "Inti Raymi (Festival of the Sun)"
+  rule: {type: fixed, month: 6, day: 24, days: 1}
+  location: "Sacsayhuamán, Cusco, Peru"
+  geo: [-13.5089, -71.9817]
+  trip: true
+  hook: "The Inca winter-solstice festival re-enacted at Sacsayhuamán's giant zigzag walls. An emperor on a golden throne, hundreds of costumed performers, then on to Machu Picchu."
+- title: "Midsummer Eve (Midsommar)"
+  rule: {type: weekday_on_or_after, month: 6, day: 19, weekday: 4, days: 1}
+  location: "Sweden (Dalarna is the classic)"
+  geo: [60.6065, 15.6355]
+  hook: "Maypoles, flower crowns, pickled herring, schnapps songs and frog-dancing under a sun that never quite sets. Peak Scandinavian joy."
+  notes: "Midsummer Eve is the Friday between 19 and 25 June."
+- title: "Palio di Siena"
+  rule: {type: fixed, month: 7, day: 2, days: 1}
+  location: "Piazza del Campo, Siena, Italy"
+  geo: [43.3188, 11.3308]
+  hook: "Ninety seconds of bareback, no-rules horse racing around a medieval piazza packed with 60,000 people. Rival contrade bribe jockeys and weep openly. Pure Renaissance mayhem."
+- title: "Palio di Siena (Assunta)"
+  rule: {type: fixed, month: 8, day: 16, days: 1}
+  location: "Piazza del Campo, Siena, Italy"
+  geo: [43.3188, 11.3308]
+  hook: "The second Palio of the summer. Same madness, different saint."
+- title: "San Fermín (Running of the Bulls)"
+  rule: {type: fixed, month: 7, day: 6, days: 9}
+  location: "Pamplona, Navarre, Spain"
+  geo: [42.8125, -1.6458]
+  trip: true
+  hook: "Hemingway's fiesta. White clothes and red scarves, the 8am encierro through the old town, and nine days of non-stop street partying."
+- title: "Naadam Festival"
+  rule: {type: fixed, month: 7, day: 11, days: 5}
+  location: "Ulaanbaatar & across Mongolia"
+  geo: [47.8864, 106.9057]
+  trip: true
+  hook: "The 'Three Manly Games' of wrestling, horse racing (with child jockeys over 25 km of steppe) and archery. Mongolia's Olympics, dating back to Genghis Khan. Unfinished business after the rally?"
+- title: "Bastille Day"
+  rule: {type: fixed, month: 7, day: 14, days: 1}
+  location: "Paris, France"
+  geo: [48.8738, 2.2950]
+  hook: "Military parade down the Champs-Élysées and fireworks over the Eiffel Tower. The firemen's balls the night before are the real party."
+- title: "Gion Matsuri (Yamaboko Junkō parade)"
+  rule: {type: fixed, month: 7, day: 17, days: 1}
+  location: "Kyoto, Japan"
+  geo: [35.0037, 135.7788]
+  hook: "Japan's most famous festival. Towering wooden yama and hoko floats, some 25 m tall, hauled through Kyoto by hand. The evenings before (yoiyama) are lantern-lit street-food heaven."
+- title: "Notting Hill Carnival"
+  rule: {type: nth_weekday, month: 8, weekday: 0, n: -1, days: 2, offset: -1}
+  location: "Notting Hill, London, UK"
+  geo: [51.5160, -0.2050]
+  hook: "Europe's biggest street party. Two million people, steel bands, sound systems, mas costumes and jerk chicken smoke over west London. Bank holiday Sunday and Monday."
+- title: "La Tomatina"
+  rule: {type: nth_weekday, month: 8, weekday: 2, n: -1, days: 1}
+  location: "Buñol, Valencia, Spain"
+  geo: [39.4204, -0.7903]
+  hook: "One hour, 120 tonnes of over-ripe tomatoes, 20,000 people. The world's biggest food fight. Wear goggles, bring clothes you'll bin."
+- title: "Oktoberfest"
+  start: 2027-09-18
+  end: 2027-10-03
+  location: "Theresienwiese, Munich, Germany"
+  geo: [48.1316, 11.5494]
+  trip: true
+  hook: "Six million visitors, 14 giant beer tents, litre steins, oompah bands, lederhosen and roast chicken. Go on a weekday for the best chance at a table."
+  notes: "Rule: ends on the first Sunday in October (or 3 Oct if later), starts the Saturday 15 days earlier."
+- title: "Golden Eagle Festival"
+  rule: {type: nth_weekday, month: 10, weekday: 5, n: 1, days: 2}
+  status: estimated
+  location: "Ölgii, Bayan-Ölgii, western Mongolia"
+  geo: [48.9683, 89.9628]
+  trip: true
+  hook: "Kazakh eagle hunters in fox-fur hats compete with golden eagles in the Altai mountains. Calling the bird from a ridge to the glove, horseback tug-of-war over a goat skin. Practically next door to Oskemen."
+  notes: "Usually the first weekend of October; a second festival runs in Sagsai in late September."
+- title: "Albuquerque International Balloon Fiesta"
+  rule: {type: nth_weekday, month: 10, weekday: 5, n: 1, days: 9}
+  location: "Balloon Fiesta Park, Albuquerque, New Mexico, USA"
+  geo: [35.1960, -106.5975]
+  trip: true
+  hook: "500+ hot-air balloons lifting off together at dawn in the Mass Ascension, and the Balloon Glow at dusk. The most photographed event in the world."
+- title: "Día de Muertos"
+  rule: {type: fixed, month: 11, day: 1, days: 2}
+  location: "Mexico City & Oaxaca, Mexico"
+  geo: [17.0732, -96.7266]
+  trip: true
+  hook: "Marigold-strewn altars, sugar skulls, candlelit all-night cemetery vigils in Oaxaca and Mexico City's huge parade. Joyful, colourful remembrance. In 2027 it's straight after the Mexico City GP."
+- title: "Bonfire Night (Lewes Bonfire)"
+  rule: {type: fixed, month: 11, day: 5, days: 1}
+  location: "Lewes, East Sussex, UK"
+  geo: [50.8739, 0.0088]
+  hook: "Lewes takes Guy Fawkes Night to unhinged levels. Seven bonfire societies, 30,000 visitors, flaming tar barrels dragged through the streets and giant effigies blown up."
+  notes: "Moves to 4 Nov when the 5th falls on a Sunday."
+- title: "Strasbourg Christmas Market (Christkindelsmärik)"
+  rule: {type: fixed, month: 11, day: 26, days: 29}
+  status: estimated
+  location: "Strasbourg, Alsace, France"
+  geo: [48.5734, 7.7521]
+  hook: "The oldest Christmas market in France (1570), a 30 m tree in Place Kléber, mulled wine, bredele biscuits and half-timbered houses dripping with decorations. Pair it with Colmar's."
+  notes: "Typically runs late November to 24 Dec."
+- title: "Junkanoo"
+  rule: {type: fixed, month: 12, day: 26, days: 1}
+  location: "Bay Street, Nassau, Bahamas"
+  geo: [25.0480, -77.3554]
+  hook: "The Bahamas' explosive Boxing Day street parade. Cowbells, goatskin drums, brass and towering crêpe-paper costumes from 2am until dawn."
+- title: "Edinburgh's Hogmanay"
+  rule: {type: fixed, month: 12, day: 29, days: 4}
+  location: "Edinburgh, Scotland, UK"
+  geo: [55.9486, -3.1999]
+  trip: true
+  hook: "Torchlight procession, the Princes Street street party under the castle, fireworks at midnight, a mass Auld Lang Syne, then the Loony Dook into the freezing Forth on New Year's Day."

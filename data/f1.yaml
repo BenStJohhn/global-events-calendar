@@ -1,0 +1,259 @@
+# F1 weekends. race_date = race day (local). Times are LOCAL to the circuit (tz).
+# times_status: confirmed | estimated. Estimated = the circuit's usual slot; refresh once F1 publishes.
+# Sprint weekends add a Sprint session (Saturday, default 4h before quali unless sprint_time is set).
+# Source: FIA/F1 2027 calendar announced 16 Sep 2026 (24 rounds, 10 sprints).
+rounds:
+  # ---------------- 2026 (remaining) ----------------
+  - name: "São Paulo GP"
+    race_date: 2026-11-08
+    tz: America/Sao_Paulo
+    quali_time: "15:00"
+    race_time: "14:00"
+    times_status: confirmed
+    location: "Autódromo José Carlos Pace (Interlagos), São Paulo, Brazil"
+    geo: [-23.7036, -46.6997]
+    hook: "Interlagos runs anticlockwise, it's bumpy and it nearly always rains. Brazilian crowds make it the loudest race of the year."
+  - name: "Las Vegas GP"
+    race_date: 2026-11-21
+    tz: America/Los_Angeles
+    quali_time: "20:00"
+    race_time: "20:00"
+    times_status: confirmed
+    location: "Las Vegas Strip Circuit, Nevada, USA"
+    geo: [36.1147, -115.1728]
+    hook: "A Saturday-night race down the Strip at 340 km/h, past the Bellagio fountains and the Sphere. It's pure spectacle, and the race starts at 4am UK time."
+    notes: "Saturday-night race; that's early Sunday morning in the UK."
+  - name: "Qatar GP"
+    race_date: 2026-11-29
+    tz: Asia/Qatar
+    quali_time: "21:00"
+    race_time: "19:00"
+    times_status: confirmed
+    location: "Lusail International Circuit, Qatar"
+    geo: [25.4900, 51.4542]
+    hook: "A floodlit desert circuit with fast, flowing corners that punish necks and tyres. The championship is often settled around here."
+    notes: "Middle East security contingency plans are in place; F1 says the race is confirmed."
+  - name: "Abu Dhabi GP"
+    race_date: 2026-12-06
+    tz: Asia/Dubai
+    quali_time: "18:00"
+    race_time: "17:00"
+    times_status: estimated
+    location: "Yas Marina Circuit, Abu Dhabi, UAE"
+    geo: [24.4672, 54.6031]
+    hook: "The twilight finale. It starts in sunshine and finishes under lights past the colour-changing hotel. End-of-season parties included."
+  # ---------------- 2027 ----------------
+  - name: "Bahrain GP"
+    race_date: 2027-03-14
+    tz: Asia/Bahrain
+    sprint: true
+    quali_time: "19:00"
+    race_time: "18:00"
+    location: "Bahrain International Circuit, Sakhir"
+    geo: [26.0325, 50.5106]
+    hook: "Season opener under the lights. It's also the first time a season has ever opened with a Sprint weekend."
+    notes: "Flagged by F1 as subject to the Middle East situation."
+  - name: "Saudi Arabian GP"
+    race_date: 2027-03-21
+    tz: Asia/Riyadh
+    quali_time: "20:00"
+    race_time: "20:00"
+    location: "Jeddah Corniche Circuit, Saudi Arabia"
+    geo: [21.6319, 39.1044]
+    hook: "The fastest street circuit on the calendar, with blind walled corners along the Red Sea at an average of 250 km/h. No room for errors."
+    notes: "Flagged by F1 as subject to the Middle East situation."
+  - name: "Australian GP"
+    race_date: 2027-04-04
+    tz: Australia/Melbourne
+    sprint: true
+    quali_time: "16:00"
+    race_time: "15:00"
+    location: "Albert Park, Melbourne, Australia"
+    geo: [-37.8497, 144.9680]
+    hook: "Parkland street circuit around a lake, with a festival atmosphere and a city that lives for sport. A pre-dawn alarm in the UK."
+    trip: true
+  - name: "Japanese GP"
+    race_date: 2027-04-11
+    tz: Asia/Tokyo
+    sprint: true
+    quali_time: "15:00"
+    race_time: "14:00"
+    location: "Suzuka Circuit, Japan"
+    geo: [34.8431, 136.5410]
+    hook: "A figure-of-eight drivers' favourite (S-curves, Degner, 130R), the most devoted fans in F1, and it's cherry-blossom season."
+    trip: true
+  - name: "Chinese GP"
+    race_date: 2027-04-18
+    tz: Asia/Shanghai
+    quali_time: "15:00"
+    race_time: "15:00"
+    location: "Shanghai International Circuit, China"
+    geo: [31.3389, 121.2197]
+    hook: "Laid out in the shape of the character 'shang'. The never-ending Turn 1 snail and one of the longest back straights in F1."
+  - name: "Miami GP"
+    race_date: 2027-05-02
+    tz: America/New_York
+    quali_time: "16:00"
+    race_time: "16:00"
+    location: "Miami International Autodrome, Florida, USA"
+    geo: [25.9581, -80.2389]
+    hook: "Built around the Hard Rock Stadium, with a fake marina and a lot of celebrities. Very Miami."
+  - name: "Canadian GP"
+    race_date: 2027-05-23
+    tz: America/Toronto
+    sprint: true
+    quali_time: "16:00"
+    race_time: "14:00"
+    location: "Circuit Gilles Villeneuve, Montréal, Canada"
+    geo: [45.5000, -73.5228]
+    hook: "Island circuit on the St Lawrence. Drivers brush the Wall of Champions, groundhogs wander across the track, and Montréal throws a city-wide party."
+  - name: "Monaco GP"
+    race_date: 2027-06-06
+    tz: Europe/Monaco
+    sprint: true
+    quali_time: "16:00"
+    race_time: "15:00"
+    location: "Circuit de Monaco, Monte Carlo"
+    geo: [43.7347, 7.4206]
+    hook: "The jewel in the crown, and Monaco's first ever Sprint. Barriers millimetres away, yachts in the harbour, and qualifying is half the race."
+    trip: true
+  - name: "Portuguese GP"
+    race_date: 2027-06-20
+    tz: Europe/Lisbon
+    quali_time: "16:00"
+    race_time: "15:00"
+    location: "Autódromo Internacional do Algarve, Portimão, Portugal"
+    geo: [37.2270, -8.6267]
+    hook: "The rollercoaster is back. Blind crests and plunging drops on the Algarve, with beaches 20 minutes away. A cheap, sunny race trip from the UK."
+    trip: true
+  - name: "British GP"
+    race_date: 2027-07-04
+    tz: Europe/London
+    sprint: true
+    quali_time: "15:00"
+    race_time: "15:00"
+    location: "Silverstone Circuit, Northamptonshire, UK"
+    geo: [52.0786, -1.0169]
+    hook: "Home race. Maggotts–Becketts–Chapel is the best sequence of corners in F1, and this year it's a Sprint weekend too."
+    trip: true
+  - name: "Austrian GP"
+    race_date: 2027-07-11
+    tz: Europe/Vienna
+    quali_time: "16:00"
+    race_time: "15:00"
+    location: "Red Bull Ring, Spielberg, Austria"
+    geo: [47.2197, 14.7647]
+    hook: "Short, fast lap in the Styrian Alps, with a camping-and-hiking festival vibe and a sea of orange."
+  - name: "Belgian GP"
+    race_date: 2027-07-25
+    tz: Europe/Brussels
+    quali_time: "16:00"
+    race_time: "15:00"
+    location: "Circuit de Spa-Francorchamps, Belgium"
+    geo: [50.4372, 5.9714]
+    hook: "Eau Rouge–Raidillon, the Ardennes forest and weather that can be dry at one end of the lap and soaking at the other. Spa now alternates with Barcelona, so 2027 is a Spa year."
+    trip: true
+  - name: "Hungarian GP"
+    race_date: 2027-08-01
+    tz: Europe/Budapest
+    quali_time: "16:00"
+    race_time: "15:00"
+    location: "Hungaroring, Budapest, Hungary"
+    geo: [47.5789, 19.2486]
+    hook: "Monaco without the walls. Twisty, hot and all about strategy, followed by a night out in Budapest's ruin bars."
+  - name: "Italian GP"
+    race_date: 2027-09-05
+    tz: Europe/Rome
+    sprint: true
+    quali_time: "16:00"
+    race_time: "15:00"
+    location: "Autodromo Nazionale Monza, Italy"
+    geo: [45.6156, 9.2811]
+    hook: "The Temple of Speed and the tifosi in red. Monza's first Sprint since the format began."
+    trip: true
+  - name: "Spanish GP (Madrid)"
+    race_date: 2027-09-12
+    tz: Europe/Madrid
+    quali_time: "16:00"
+    race_time: "15:00"
+    location: "Madring, IFEMA, Madrid, Spain"
+    geo: [40.4637, -3.6158]
+    hook: "Madrid's semi-street circuit, including the 'La Monumental' banked corner, in its second year."
+  - name: "Azerbaijan GP"
+    race_date: 2027-09-26
+    tz: Asia/Baku
+    quali_time: "16:00"
+    race_time: "15:00"
+    location: "Baku City Circuit, Azerbaijan"
+    geo: [40.3725, 49.8533]
+    hook: "A 2 km flat-out run along the Caspian waterfront, then a castle section barely wider than a car. Chaos is guaranteed. It's also just across the Caspian from the rally route."
+  - name: "Turkish GP"
+    race_date: 2027-10-03
+    tz: Europe/Istanbul
+    quali_time: "16:00"
+    race_time: "15:00"
+    location: "Istanbul Park, Türkiye"
+    geo: [40.9517, 29.4050]
+    hook: "Turn 8 is back, a quadruple-apex left-hander that's one of F1's great corners. It's Istanbul's first GP since 2021, and you can go via the Bosphorus."
+    trip: true
+  - name: "Singapore GP"
+    race_date: 2027-10-10
+    tz: Asia/Singapore
+    quali_time: "21:00"
+    race_time: "20:00"
+    location: "Marina Bay Street Circuit, Singapore"
+    geo: [1.2914, 103.8640]
+    hook: "The original night race. Drivers lose ~3 kg in sweat, the skyline is lit up, and the safety car almost always comes out."
+  - name: "United States GP"
+    race_date: 2027-10-24
+    tz: America/Chicago
+    quali_time: "17:00"
+    race_time: "14:00"
+    location: "Circuit of the Americas, Austin, Texas, USA"
+    geo: [30.1328, -97.6411]
+    hook: "Turn 1 is a blind uphill hairpin, the esses are Silverstone-style, and Austin brings BBQ and live music."
+  - name: "Mexico City GP"
+    race_date: 2027-10-31
+    tz: America/Mexico_City
+    quali_time: "15:00"
+    race_time: "14:00"
+    location: "Autódromo Hermanos Rodríguez, Mexico City"
+    geo: [19.4042, -99.0907]
+    hook: "At 2,240 m the thin air kills downforce, and the stadium section is pure carnival. It's also Día de Muertos weekend."
+    trip: true
+  - name: "São Paulo GP"
+    race_date: 2027-11-07
+    tz: America/Sao_Paulo
+    sprint: true
+    quali_time: "15:00"
+    race_time: "14:00"
+    location: "Autódromo José Carlos Pace (Interlagos), São Paulo, Brazil"
+    geo: [-23.7036, -46.6997]
+    hook: "Interlagos, a Sprint weekend, and the São Paulo rain lottery. Some of the best races of the modern era have happened here."
+  - name: "Las Vegas GP"
+    race_date: 2027-11-20
+    tz: America/Los_Angeles
+    quali_time: "20:00"
+    race_time: "20:00"
+    location: "Las Vegas Strip Circuit, Nevada, USA"
+    geo: [36.1147, -115.1728]
+    hook: "The only Saturday-night Grand Prix of 2027, flat out down the Strip. Set an early Sunday alarm in the UK."
+    notes: "Qualifying is Friday night local time; the race is Saturday night local (early Sunday UK)."
+  - name: "Qatar GP"
+    race_date: 2027-12-05
+    tz: Asia/Qatar
+    sprint: true
+    quali_time: "21:00"
+    race_time: "19:00"
+    location: "Lusail International Circuit, Qatar"
+    geo: [25.4900, 51.4542]
+    hook: "A floodlit Sprint weekend in the desert, fast and flowing. The penultimate round."
+  - name: "Abu Dhabi GP"
+    race_date: 2027-12-12
+    tz: Asia/Dubai
+    sprint: true
+    quali_time: "18:00"
+    race_time: "17:00"
+    location: "Yas Marina Circuit, Abu Dhabi, UAE"
+    geo: [24.4672, 54.6031]
+    hook: "The twilight finale, with a Sprint added this time. Title deciders and end-of-season fireworks."

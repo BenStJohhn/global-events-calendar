@@ -1,0 +1,1760 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ben St John//Global Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Festivals, carnivals, lunar and religious celebrations worldw
+ ide.
+X-WR-CALNAME:🎭 Global Cultural Festivals
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-APPLE-CALENDAR-COLOR:#E4572E
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Día de Muertos
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261103
+DTSTAMP:20261108T000000Z
+UID:9eb7213c5275cd08b00b@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Marigold-strewn altars\, sugar skulls\, candlelit all-night ce
+ metery vigils in Oaxaca and Mexico City's huge parade. Joyful\, colourful 
+ remembrance. In 2027 it's straight after the Mexico City GP.\n\nStatus: 
+ ✅ Confirmed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Boo
+ king Nudges feed ~3 months ahead.
+GEO:17.0732;-96.7266
+LOCATION:Mexico City & Oaxaca\, Mexico
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Mexico C
+ ity & Oaxaca, Mexico":geo:17.0732,-96.7266
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Día de Muertos is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Bonfire Night (Lewes Bonfire)
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261108T000000Z
+UID:87b2b6deab35f14bd2e5@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Lewes takes Guy Fawkes Night to unhinged levels. Seven bonfire
+  societies\, 30\,000 visitors\, flaming tar barrels dragged through the st
+ reets and giant effigies blown up.\n\nStatus: ✅ Confirmed\nMoves to 4 No
+ v when the 5th falls on a Sunday.
+GEO:50.8739;0.0088
+LOCATION:Lewes\, East Sussex\, UK
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Lewes, E
+ ast Sussex, UK":geo:50.8739,0.0088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Diwali (Festival of Lights)
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261108T000000Z
+UID:ece7303c16ca25051e5e@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Oil lamps on every ledge\, rangoli on doorsteps\, fireworks al
+ l night and sweets everywhere. Leicester's Golden Mile hosts one of the bi
+ ggest celebrations outside India.\n\nStatus: ✅ Confirmed
+GEO:25.3176;82.9739
+LOCATION:India & diaspora (Varanasi\, Jaipur\, Amritsar\, Leicester)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="India & 
+ diaspora (Varanasi, Jaipur, Amritsar, Leicester)":geo:25.3176,82.9739
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Pushkar Camel Fair (est.)
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261108T000000Z
+UID:cf899155bce12f4722b5@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Tens of thousands of camels\, horses and cattle traders in the
+  Thar desert\, plus moustache contests\, camel races and pilgrims bathing 
+ in the holy lake at the Kartik Purnima full moon.\n\nStatus: 🟡 Estimate
+ d (pattern-based or provisional\; check before booking)\nBuilt around Kart
+ ik Purnima (full moon 24 Nov 2026)\; exact fair days vary.
+GEO:26.4897;74.5511
+LOCATION:Pushkar\, Rajasthan\, India
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Pushkar,
+  Rajasthan, India":geo:26.4897,74.5511
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Loy Krathong & Yi Peng\, Chiang Mai
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261108T000000Z
+UID:8e429d67f7c6685ca54f@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Candlelit krathong floats drift down the Ping River while thou
+ sands of sky lanterns (khom loi) rise overhead under the full moon. One of
+  the most photogenic nights on the planet.\n\nStatus: ✅ Confirmed\nMass 
+ lantern releases now happen only at authorised (often ticketed) venues.
+GEO:18.7883;98.9853
+LOCATION:Chiang Mai\, Thailand
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Chiang M
+ ai, Thailand":geo:18.7883,98.9853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Strasbourg Christmas Market (Christkindelsmärik) (est.)
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261108T000000Z
+UID:a27407a626bb0303bad4@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The oldest Christmas market in France (1570)\, a 30 m tree in 
+ Place Kléber\, mulled wine\, bredele biscuits and half-timbered houses dr
+ ipping with decorations. Pair it with Colmar's.\n\nStatus: 🟡 Estimated 
+ (pattern-based or provisional\; check before booking)\nTypically runs late
+  November to 24 Dec.
+GEO:48.5734;7.7521
+LOCATION:Strasbourg\, Alsace\, France
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Strasbou
+ rg, Alsace, France":geo:48.5734,7.7521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Hanukkah begins
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20261108T000000Z
+UID:b29455edce2d4fc1f695@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Eight nights of the Festival of Lights. Menorahs in windows\, 
+ doughnuts (sufganiyot) and latkes. Jerusalem's Old City glows.\n\nStatus: 
+ ✅ Confirmed\nThe first candle is lit on the evening this begins.
+GEO:31.7683;35.2137
+LOCATION:Jewish communities worldwide (Jerusalem\, New York\, London)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Jewish c
+ ommunities worldwide (Jerusalem, New York, London)":geo:31.7683,35.2137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Junkanoo
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20261108T000000Z
+UID:059e73b6f1511a2c92a4@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The Bahamas' explosive Boxing Day street parade. Cowbells\, go
+ atskin drums\, brass and towering crêpe-paper costumes from 2am until daw
+ n.\n\nStatus: ✅ Confirmed
+GEO:25.048;-77.3554
+LOCATION:Bay Street\, Nassau\, Bahamas
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Bay Stre
+ et, Nassau, Bahamas":geo:25.048,-77.3554
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Edinburgh's Hogmanay
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20261108T000000Z
+UID:00ff2e25997dcddd0361@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Torchlight procession\, the Princes Street street party under 
+ the castle\, fireworks at midnight\, a mass Auld Lang Syne\, then the Loon
+ y Dook into the freezing Forth on New Year's Day.\n\nStatus: ✅ Confirmed
+ \n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges f
+ eed ~3 months ahead.
+GEO:55.9486;-3.1999
+LOCATION:Edinburgh\, Scotland\, UK
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Edinburg
+ h, Scotland, UK":geo:55.9486,-3.1999
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Edinburgh's Hogmanay is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Harbin Ice & Snow World opens
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+DTSTAMP:20261108T000000Z
+UID:a0271c3e707468ecfc81@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Full-size castles\, pagodas and slides carved from Songhua Riv
+ er ice\, lit up in neon at −25°C. The world's biggest ice festival runs
+  into February.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a bo
+ oking nudge in the 📅 Booking Nudges feed ~3 months ahead.
+GEO:45.8038;126.535
+LOCATION:Harbin\, Heilongjiang\, China
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Harbin, 
+ Heilongjiang, China":geo:45.8038,126.535
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Harbin Ice & Snow World opens is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Timkat (Ethiopian Epiphany)
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+DTSTAMP:20261108T000000Z
+UID:7f0b4025951b05fcccf6@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Priests carry the tabots (replicas of the Ark of the Covenant)
+  wrapped in brocade\, all-night chanting\, then Gondar's Fasilides Bath tu
+ rns into a joyous mass baptism splash.\n\nStatus: ✅ Confirmed
+GEO:12.603;37.4521
+LOCATION:Gondar & Lalibela\, Ethiopia
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Gondar &
+  Lalibela, Ethiopia":geo:12.603,37.4521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Venice Carnival (est.)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270210
+DTSTAMP:20261108T000000Z
+UID:f902b72f0e38fca09f4e@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Masks\, capes and 18th-century costumes on misty canals\, with
+  the Flight of the Angel over St Mark's Square. Eerie and elegant\, and ea
+ sy to reach on a cheap flight.\n\nStatus: 🟡 Estimated (pattern-based or
+  provisional\; check before booking)\nThe exact start varies year to year
+ \; it always ends on Shrove Tuesday.\n✈️ Trip-worthy: there's a bookin
+ g nudge in the 📅 Booking Nudges feed ~3 months ahead.
+GEO:45.4408;12.3155
+LOCATION:Venice\, Italy
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Venice, 
+ Italy":geo:45.4408,12.3155
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Venice Carnival is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Burns Night
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+DTSTAMP:20261108T000000Z
+UID:b8a1714f2ce68bd2790e@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Haggis piped in\, the Address to a Haggis stabbed out with gus
+ to\, neeps\, tatties\, whisky and a ceilidh to finish.\n\nStatus: ✅ Conf
+ irmed
+GEO:55.4586;-4.6292
+LOCATION:Scotland & everywhere with a Scot
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Scotland
+  & everywhere with a Scot":geo:55.4586,-4.6292
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Up Helly Aa
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+DTSTAMP:20261108T000000Z
+UID:e2d772e5a0d2a4e02a56@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Europe's largest fire festival. A thousand torch-bearing guize
+ rs in Viking armour march a full-size longship through Lerwick and set it 
+ ablaze. Shetland in January is wild in every sense.\n\nStatus: ✅ Confirm
+ ed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges
+  feed ~3 months ahead.
+GEO:60.1546;-1.1494
+LOCATION:Lerwick\, Shetland\, UK
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Lerwick,
+  Shetland, UK":geo:60.1546,-1.1494
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Up Helly Aa is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Sapporo Snow Festival
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270212
+DTSTAMP:20261108T000000Z
+UID:10f304c3c2fb094d8956@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Building-sized snow sculptures with projection-mapped light sh
+ ows\, an ice sculpture street in Susukino\, and hot ramen everywhere. Pair
+  it with Niseko powder and Otaru's Snow Light Path (6–13 Feb).\n\nStatus
+ : ✅ Confirmed\n✈️ Trip-worthy: there's a booking nudge in the 📅 B
+ ooking Nudges feed ~3 months ahead.
+GEO:43.0598;141.3478
+LOCATION:Odori Park\, Susukino & Tsudome\, Sapporo\, Hokkaido\, Japan
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Odori Pa
+ rk, Susukino & Tsudome, Sapporo, Hokkaido, Japan":geo:43.0598,141.3478
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Sapporo Snow Festival is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Chinese New Year
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261108T000000Z
+UID:d5ab9e42c1de5c24c630@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The biggest human migration on Earth as hundreds of millions t
+ ravel home. Firecrackers\, lion dances\, red envelopes and dumplings at mi
+ dnight. For something close to home\, London's Trafalgar Square celebratio
+ n is the biggest outside Asia.\n\nStatus: ✅ Confirmed\n✈️ Trip-worth
+ y: there's a booking nudge in the 📅 Booking Nudges feed ~3 months ahead
+ .\nOfficial info: https://www.travelchinaguide.com/essential/holidays/new-
+ year/
+GEO:39.9042;116.4074
+LOCATION:China & Chinese communities worldwide (London Chinatown\, Singapo
+ re\, Penang…)
+TRANSP:TRANSPARENT
+URL:https://www.travelchinaguide.com/essential/holidays/new-year/
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="China & 
+ Chinese communities worldwide (London Chinatown, Singapore, Penang…)":ge
+ o:39.9042,116.4074
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Chinese New Year is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Rio de Janeiro Carnival
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270211
+DTSTAMP:20261108T000000Z
+UID:5a13344ff8ddbebc52e3@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The greatest party on Earth. Samba schools parading floats the
+  size of buildings through the Sambódromo until dawn\, and blocos (street
+  parties) in every neighbourhood. Book a year out.\n\nStatus: ✅ Confirme
+ d\nCarnival Saturday to Ash Wednesday morning\, set by the date of Easter.
+ \n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges f
+ eed ~3 months ahead.
+GEO:-22.9112;-43.1966
+LOCATION:Sambadrome\, Rio de Janeiro\, Brazil
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Sambadro
+ me, Rio de Janeiro, Brazil":geo:-22.9112,-43.1966
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Rio de Janeiro Carnival is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Battle of the Oranges\, Ivrea
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270210
+DTSTAMP:20261108T000000Z
+UID:9d43962489ba0bc81432@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Italy's biggest food fight. Teams on foot pelt armoured carts 
+ with half a million oranges\, re-enacting a medieval revolt. Wear the red 
+ hat (berretto frigio) if you don't want to be a target.\n\nStatus: ✅ Con
+ firmed
+GEO:45.4669;7.8758
+LOCATION:Ivrea\, Piedmont\, Italy
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Ivrea, P
+ iedmont, Italy":geo:45.4669,7.8758
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Binche Carnival (Gilles)
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270210
+DTSTAMP:20261108T000000Z
+UID:81fdfd2220d5d009a7e9@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:UNESCO-listed. Hundreds of Gilles in wax masks and ostrich-fea
+ ther hats stomp through town in clogs\, throwing blood oranges at the crow
+ d.\n\nStatus: ✅ Confirmed
+GEO:50.4108;4.1653
+LOCATION:Binche\, Belgium
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Binche, 
+ Belgium":geo:50.4108,4.1653
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Tsagaan Sar (Mongolian Lunar New Year) (est.)
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270210
+DTSTAMP:20261108T000000Z
+UID:435aeff9a15ff1054ca7@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The 'White Month'. Families visit every relative's ger in stri
+ ct order of seniority\, with mountains of buuz dumplings\, airag and a she
+ ep's tail on the table. You were nearly in Mongolia this summer.\n\nStatus
+ : 🟡 Estimated (pattern-based or provisional\; check before booking)\nSo
+ urces give 6–9 Feb 2027\; the main day is most likely the 7th.
+GEO:47.8864;106.9057
+LOCATION:Mongolia (Ulaanbaatar & countryside gers)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Mongolia
+  (Ulaanbaatar & countryside gers)":geo:47.8864,106.9057
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Ramadan begins (est.)
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+DTSTAMP:20261108T000000Z
+UID:e6c4d4bac34280d08bb6@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:A month of dawn-to-dusk fasting. Travelling in Muslim-majority
+  countries changes completely\, with sleepy days and electric nights\, and
+  iftar street-food markets after sunset. Istanbul\, Marrakech and Cairo ar
+ e unforgettable.\n\nStatus: 🟡 Estimated (pattern-based or provisional\;
+  check before booking)\nCalculated from the Umm al-Qura calendar\; the act
+ ual start depends on moon sighting and can shift by a day.
+GEO:21.4225;39.8262
+LOCATION:Muslim world
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Muslim w
+ orld":geo:21.4225,39.8262
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Mardi Gras\, New Orleans
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+DTSTAMP:20261108T000000Z
+UID:5a07d31e61c6e090713c@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Fat Tuesday. Bead-throwing parades\, brass bands and Mardi Gra
+ s Indians\, with jazz pouring out of the French Quarter all day.\n\nStatus
+ : ✅ Confirmed
+GEO:29.9511;-90.0715
+LOCATION:New Orleans\, Louisiana\, USA
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="New Orle
+ ans, Louisiana, USA":geo:29.9511,-90.0715
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Lantern Festival (Yuanxiao)
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261108T000000Z
+UID:53bc3b1b72f84cba01e3@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The finale of the New Year season on the first full moon. Lant
+ ern riddles\, sweet rice dumplings\, and in Taiwan's Pingxi\, thousands of
+  sky lanterns let go at once.\n\nStatus: ✅ Confirmed
+GEO:25.026;121.741
+LOCATION:China & Taiwan (Pingxi sky lanterns)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="China & 
+ Taiwan (Pingxi sky lanterns)":geo:25.026,121.741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Eid al-Fitr (est.)
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+DTSTAMP:20261108T000000Z
+UID:18710edd3fb6a02e47f1@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The festival marking the end of Ramadan. New clothes\, morning
+  prayers\, family feasts and sweets everywhere. Expect closures and big cr
+ owds if you're travelling.\n\nStatus: 🟡 Estimated (pattern-based or pro
+ visional\; check before booking)\nDepends on the crescent-moon sighting\, 
+ so it can shift by ±1 day.
+GEO:21.4225;39.8262
+LOCATION:Muslim world
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Muslim w
+ orld":geo:21.4225,39.8262
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Las Fallas
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+DTSTAMP:20261108T000000Z
+UID:9e812274248d898f3266@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Valencia builds hundreds of giant satirical sculptures\, ninot
+ s several storeys high\, then burns them all on the final night (La Cremà
+ ). Daily 2pm mascletà firecracker barrages shake your ribcage.\n\nStatus:
+  ✅ Confirmed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Bo
+ oking Nudges feed ~3 months ahead.
+GEO:39.4699;-0.3763
+LOCATION:Valencia\, Spain
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Valencia
+ , Spain":geo:39.4699,-0.3763
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Las Fallas is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 St Patrick's Day
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+DTSTAMP:20261108T000000Z
+UID:e9a8895ff4e800946f46@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Dublin's parade\, céilí music and a sea of green. Chicago dy
+ es its whole river emerald.\n\nStatus: ✅ Confirmed
+GEO:53.3498;-6.2603
+LOCATION:Dublin\, Ireland (and Chicago's green river)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Dublin, 
+ Ireland (and Chicago's green river)":geo:53.3498,-6.2603
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Semana Santa\, Seville
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20261108T000000Z
+UID:0612fe433e59f50a1df8@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Holy Week\, Spanish style. Hooded nazarenos\, swaying gold flo
+ ats carried by unseen costaleros\, incense\, saetas sung from balconies\, 
+ and the all-night Madrugá. Haunting and unforgettable.\n\nStatus: ✅ Con
+ firmed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nu
+ dges feed ~3 months ahead.
+GEO:37.3891;-5.9845
+LOCATION:Seville\, Andalusia\, Spain
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Seville,
+  Andalusia, Spain":geo:37.3891,-5.9845
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Semana Santa\, Seville is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Nowruz / Nauryz (Persian & Central Asian New Year)
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270324
+DTSTAMP:20261108T000000Z
+UID:e013d6094695aac0a7d0@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Spring New Year across the Silk Road. Bonfire-jumping\, haft-s
+ in tables\, sumalak cooked all night\, and in Kazakhstan\, Nauryz yurts an
+ d kokpar on the steppe. Oskemen will be celebrating.\n\nStatus: ✅ Confir
+ med\nThe astronomical start is the March equinox\; Central Asian public ho
+ lidays run 21–23 Mar.
+GEO:49.95;82.6167
+LOCATION:Iran\, Kazakhstan\, Uzbekistan\, Kyrgyzstan\, Azerbaijan…
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Iran, Ka
+ zakhstan, Uzbekistan, Kyrgyzstan, Azerbaijan…":geo:49.95,82.6167
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Holi (Festival of Colours)
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20261108T000000Z
+UID:817f6711752eb900461b@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Total chromatic chaos. Strangers smother each other in coloure
+ d powder\, water pistols everywhere\, and bonfires (Holika Dahan) the nigh
+ t before. Mathura and Vrindavan\, Krishna's homeland\, go wildest.\n\nStat
+ us: ✅ Confirmed\nHolika Dahan bonfires on the evening of 21 Mar.\n✈️
+  Trip-worthy: there's a booking nudge in the 📅 Booking Nudges feed ~3 m
+ onths ahead.
+GEO:27.4924;77.6737
+LOCATION:India & Nepal (Mathura/Vrindavan\, Jaipur\, Kathmandu)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="India & 
+ Nepal (Mathura/Vrindavan, Jaipur, Kathmandu)":geo:27.4924,77.6737
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Holi (Festival of Colours) is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Purim
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+DTSTAMP:20261108T000000Z
+UID:bea76282a202f0aa48c5@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Fancy dress\, noisemakers and street parties. Tel Aviv turns i
+ nto one big carnival.\n\nStatus: ✅ Confirmed
+GEO:32.0853;34.7818
+LOCATION:Israel & Jewish communities worldwide
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Israel &
+  Jewish communities worldwide":geo:32.0853,34.7818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Easter Sunday
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20261108T000000Z
+UID:abdae6276dc3ec1ec5c4@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Easter Sunday Mass in St Peter's Square\, or Holy Week process
+ ions across Spain and Latin America.\n\nStatus: ✅ Confirmed
+GEO:41.9022;12.4539
+LOCATION:Christian world (Rome\, Jerusalem\, Seville…)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Christia
+ n world (Rome, Jerusalem, Seville…)":geo:41.9022,12.4539
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Cherry blossom peak (Tokyo & Kyoto) (est.)
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270407
+DTSTAMP:20261108T000000Z
+UID:42876290ea85d3ccdc71@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Hanami season. Picnics under clouds of pink in Ueno and Maruya
+ ma parks\, the Philosopher's Path petal-strewn\, and night-lit sakura alon
+ g the canals. It lines up with the Japanese GP weekend in 2027.\n\nStatus:
+  🟡 Estimated (pattern-based or provisional\; check before booking)\nThe
+  bloom varies by ±1 week with the weather\; the Japan Meteorological Corp
+ oration forecast firms up in Feb/March.\n✈️ Trip-worthy: there's a boo
+ king nudge in the 📅 Booking Nudges feed ~3 months ahead.
+GEO:35.0116;135.7681
+LOCATION:Tokyo & Kyoto\, Japan
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Tokyo & 
+ Kyoto, Japan":geo:35.0116,135.7681
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Cherry blossom peak (Tokyo & Kyoto) is ~3 month
+ s away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Kanamara Matsuri
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DTSTAMP:20261108T000000Z
+UID:06e4c461584cf566e097@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The 'Festival of the Steel Phallus'. Giant pink shrines parade
+ d through the streets\, raising money for HIV research. Japan at its most 
+ gloriously unembarrassed.\n\nStatus: ✅ Confirmed
+GEO:35.5316;139.736
+LOCATION:Kawasaki\, Japan
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Kawasaki
+ , Japan":geo:35.5316,139.736
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Songkran (Thai New Year water festival)
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270416
+DTSTAMP:20261108T000000Z
+UID:6a48ee5a11626bf54542@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The whole country turns into a three-day water fight. Super So
+ akers\, buckets and elephants\, with no dry escape. It's also the hottest 
+ week of the year\, so you'll be grateful.\n\nStatus: ✅ Confirmed\n✈️
+  Trip-worthy: there's a booking nudge in the 📅 Booking Nudges feed ~3 m
+ onths ahead.
+GEO:18.7883;98.9853
+LOCATION:Thailand (Chiang Mai\, Bangkok's Silom & Khao San)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Thailand
+  (Chiang Mai, Bangkok's Silom & Khao San)":geo:18.7883,98.9853
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Songkran (Thai New Year water festival) is ~3 m
+ onths away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Passover (Pesach) begins
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270429
+DTSTAMP:20261108T000000Z
+UID:2bb6afec9f37d160bd13@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The Exodus story told over the Seder meal\, with matzah for a 
+ week.\n\nStatus: ✅ Confirmed\nThe Seder is held on the first evening.
+GEO:31.7683;35.2137
+LOCATION:Jewish communities worldwide
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Jewish c
+ ommunities worldwide":geo:31.7683,35.2137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 King's Day (Koningsdag)
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+DTSTAMP:20261108T000000Z
+UID:fb7066a39e746deeaa3b@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The whole country dresses in orange. Amsterdam's canals are ra
+ mmed with party boats and the city becomes one giant street market (vrijma
+ rkt).\n\nStatus: ✅ Confirmed
+GEO:52.3676;4.9041
+LOCATION:Amsterdam\, Netherlands
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Amsterda
+ m, Netherlands":geo:52.3676,4.9041
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Orthodox Easter
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20261108T000000Z
+UID:6128670312d4bab5e38d@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Midnight candles passed hand to hand\, then "Christos Anesti!"
+  and fireworks. Lamb on the spit the next day. Greek islands like Corfu (p
+ ot-smashing!) do it best.\n\nStatus: ✅ Confirmed
+GEO:37.9838;23.7275
+LOCATION:Greece\, Cyprus\, Eastern Europe\, Georgia\, Ethiopia
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Greece, 
+ Cyprus, Eastern Europe, Georgia, Ethiopia":geo:37.9838,23.7275
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Eid al-Adha (est.)
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DTSTAMP:20261108T000000Z
+UID:5c5d8310d133cd0d89c5@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The Feast of Sacrifice\, at the climax of the Hajj pilgrimage 
+ to Mecca. It's Kurban Ait across Central Asia\, where you'll remember the 
+ hospitality from the rally route.\n\nStatus: 🟡 Estimated (pattern-based
+  or provisional\; check before booking)\nDepends on moon sighting (±1 day
+ ).
+GEO:21.4225;39.8262
+LOCATION:Muslim world
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Muslim w
+ orld":geo:21.4225,39.8262
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Cheese Rolling\, Cooper's Hill
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DTSTAMP:20261108T000000Z
+UID:2364f0c64471b273972b@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Lunatics hurl themselves down a near-vertical hill after a 4 k
+ g Double Gloucester. Bones get broken. It's quintessentially\, gloriously 
+ British\, and only an hour from Bristol.\n\nStatus: ✅ Confirmed
+GEO:51.8336;-2.165
+LOCATION:Cooper's Hill\, Brockworth\, Gloucestershire\, UK
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Cooper's
+  Hill, Brockworth, Gloucestershire, UK":geo:51.8336,-2.165
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Dragon Boat Festival
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20261108T000000Z
+UID:0e7aacab5d6541e00009@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Drummers pound out the rhythm as long dragon-headed boats race
+ \, in memory of the poet Qu Yuan. Plenty of zongzi (sticky rice parcels) t
+ o eat.\n\nStatus: ✅ Confirmed
+GEO:22.3193;114.1694
+LOCATION:China\, Hong Kong\, Taiwan
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="China, H
+ ong Kong, Taiwan":geo:22.3193,114.1694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Inti Raymi (Festival of the Sun)
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+DTSTAMP:20261108T000000Z
+UID:30df84006691e4a124f3@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The Inca winter-solstice festival re-enacted at Sacsayhuamán'
+ s giant zigzag walls. An emperor on a golden throne\, hundreds of costumed
+  performers\, then on to Machu Picchu.\n\nStatus: ✅ Confirmed\n✈️ Tr
+ ip-worthy: there's a booking nudge in the 📅 Booking Nudges feed ~3 mont
+ hs ahead.
+GEO:-13.5089;-71.9817
+LOCATION:Sacsayhuamán\, Cusco\, Peru
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Sacsayhu
+ amán, Cusco, Peru":geo:-13.5089,-71.9817
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Inti Raymi (Festival of the Sun) is ~3 months a
+ way
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Midsummer Eve (Midsommar)
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+DTSTAMP:20261108T000000Z
+UID:c1859ba0e18c64c19e02@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Maypoles\, flower crowns\, pickled herring\, schnapps songs an
+ d frog-dancing under a sun that never quite sets. Peak Scandinavian joy.\n
+ \nStatus: ✅ Confirmed\nMidsummer Eve is the Friday between 19 and 25 Jun
+ e.
+GEO:60.6065;15.6355
+LOCATION:Sweden (Dalarna is the classic)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Sweden (
+ Dalarna is the classic)":geo:60.6065,15.6355
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Palio di Siena
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+DTSTAMP:20261108T000000Z
+UID:738cf4db754c6023d146@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Ninety seconds of bareback\, no-rules horse racing around a me
+ dieval piazza packed with 60\,000 people. Rival contrade bribe jockeys and
+  weep openly. Pure Renaissance mayhem.\n\nStatus: ✅ Confirmed
+GEO:43.3188;11.3308
+LOCATION:Piazza del Campo\, Siena\, Italy
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Piazza d
+ el Campo, Siena, Italy":geo:43.3188,11.3308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 San Fermín (Running of the Bulls)
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270715
+DTSTAMP:20261108T000000Z
+UID:68e26dc77512e38feb9d@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Hemingway's fiesta. White clothes and red scarves\, the 8am en
+ cierro through the old town\, and nine days of non-stop street partying.\n
+ \nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a booking nudge in th
+ e 📅 Booking Nudges feed ~3 months ahead.
+GEO:42.8125;-1.6458
+LOCATION:Pamplona\, Navarre\, Spain
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Pamplona
+ , Navarre, Spain":geo:42.8125,-1.6458
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: San Fermín (Running of the Bulls) is ~3 months
+  away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Naadam Festival
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270716
+DTSTAMP:20261108T000000Z
+UID:a4967b778b5f3cc2cfdf@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The 'Three Manly Games' of wrestling\, horse racing (with chil
+ d jockeys over 25 km of steppe) and archery. Mongolia's Olympics\, dating 
+ back to Genghis Khan. Unfinished business after the rally?\n\nStatus: ✅ 
+ Confirmed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking
+  Nudges feed ~3 months ahead.
+GEO:47.8864;106.9057
+LOCATION:Ulaanbaatar & across Mongolia
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Ulaanbaa
+ tar & across Mongolia":geo:47.8864,106.9057
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Naadam Festival is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Bastille Day
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+DTSTAMP:20261108T000000Z
+UID:5d9c8cccb20882521d20@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Military parade down the Champs-Élysées and fireworks over t
+ he Eiffel Tower. The firemen's balls the night before are the real party.
+ \n\nStatus: ✅ Confirmed
+GEO:48.8738;2.295
+LOCATION:Paris\, France
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Paris, F
+ rance":geo:48.8738,2.295
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Gion Matsuri (Yamaboko Junkō parade)
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+DTSTAMP:20261108T000000Z
+UID:755891a490326d19414e@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Japan's most famous festival. Towering wooden yama and hoko fl
+ oats\, some 25 m tall\, hauled through Kyoto by hand. The evenings before 
+ (yoiyama) are lantern-lit street-food heaven.\n\nStatus: ✅ Confirmed
+GEO:35.0037;135.7788
+LOCATION:Kyoto\, Japan
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Kyoto, J
+ apan":geo:35.0037,135.7788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Palio di Siena (Assunta)
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+DTSTAMP:20261108T000000Z
+UID:451af7dec3dde28a8eaf@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The second Palio of the summer. Same madness\, different saint
+ .\n\nStatus: ✅ Confirmed
+GEO:43.3188;11.3308
+LOCATION:Piazza del Campo\, Siena\, Italy
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Piazza d
+ el Campo, Siena, Italy":geo:43.3188,11.3308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 La Tomatina
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+DTSTAMP:20261108T000000Z
+UID:dbeadb47cfdd940a11d2@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:One hour\, 120 tonnes of over-ripe tomatoes\, 20\,000 people. 
+ The world's biggest food fight. Wear goggles\, bring clothes you'll bin.\n
+ \nStatus: ✅ Confirmed
+GEO:39.4204;-0.7903
+LOCATION:Buñol\, Valencia\, Spain
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Buñol, 
+ Valencia, Spain":geo:39.4204,-0.7903
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Notting Hill Carnival
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270831
+DTSTAMP:20261108T000000Z
+UID:46b0ebe50d43ef046347@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Europe's biggest street party. Two million people\, steel band
+ s\, sound systems\, mas costumes and jerk chicken smoke over west London. 
+ Bank holiday Sunday and Monday.\n\nStatus: ✅ Confirmed
+GEO:51.516;-0.205
+LOCATION:Notting Hill\, London\, UK
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Notting 
+ Hill, London, UK":geo:51.516,-0.205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Mid-Autumn (Moon) Festival
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+DTSTAMP:20261108T000000Z
+UID:4eb7f166a491856071c8@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Mooncakes\, lanterns and family reunions under the fullest moo
+ n of the year. Hong Kong's Tai Hang fire dragon is a sight to see.\n\nStat
+ us: ✅ Confirmed
+GEO:22.3193;114.1694
+LOCATION:China\, Hong Kong\, Vietnam\, Singapore
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="China, H
+ ong Kong, Vietnam, Singapore":geo:22.3193,114.1694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Oktoberfest
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20271004
+DTSTAMP:20261108T000000Z
+UID:a65716d800e4e225d8b5@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Six million visitors\, 14 giant beer tents\, litre steins\, oo
+ mpah bands\, lederhosen and roast chicken. Go on a weekday for the best ch
+ ance at a table.\n\nStatus: ✅ Confirmed\nRule: ends on the first Sunday 
+ in October (or 3 Oct if later)\, starts the Saturday 15 days earlier.\n✈
+ ️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges feed ~
+ 3 months ahead.
+GEO:48.1316;11.5494
+LOCATION:Theresienwiese\, Munich\, Germany
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Theresie
+ nwiese, Munich, Germany":geo:48.1316,11.5494
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Oktoberfest is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Golden Eagle Festival (est.)
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271004
+DTSTAMP:20261108T000000Z
+UID:94935e6e38589b482421@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Kazakh eagle hunters in fox-fur hats compete with golden eagle
+ s in the Altai mountains. Calling the bird from a ridge to the glove\, hor
+ seback tug-of-war over a goat skin. Practically next door to Oskemen.\n\nS
+ tatus: 🟡 Estimated (pattern-based or provisional\; check before booking
+ )\nUsually the first weekend of October\; a second festival runs in Sagsai
+  in late September.\n✈️ Trip-worthy: there's a booking nudge in the 
+ 📅 Booking Nudges feed ~3 months ahead.
+GEO:48.9683;89.9628
+LOCATION:Ölgii\, Bayan-Ölgii\, western Mongolia
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Ölgii, 
+ Bayan-Ölgii, western Mongolia":geo:48.9683,89.9628
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Golden Eagle Festival is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Albuquerque International Balloon Fiesta
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271011
+DTSTAMP:20261108T000000Z
+UID:2ee78f237aad4eb156cc@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:500+ hot-air balloons lifting off together at dawn in the Mass
+  Ascension\, and the Balloon Glow at dusk. The most photographed event in 
+ the world.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a booking
+  nudge in the 📅 Booking Nudges feed ~3 months ahead.
+GEO:35.196;-106.5975
+LOCATION:Balloon Fiesta Park\, Albuquerque\, New Mexico\, USA
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Balloon 
+ Fiesta Park, Albuquerque, New Mexico, USA":geo:35.196,-106.5975
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Albuquerque International Balloon Fiesta is ~3 
+ months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Diwali (Festival of Lights)
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+DTSTAMP:20261108T000000Z
+UID:fef9df5c66c80d09c6a8@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Oil lamps on every ledge\, rangoli on doorsteps and fireworks 
+ all night. Varanasi's ghats and Amritsar's Golden Temple lit up are breath
+ taking. Leicester's Golden Mile is the closest big celebration to home.\n
+ \nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a booking nudge in th
+ e 📅 Booking Nudges feed ~3 months ahead.
+GEO:25.3176;82.9739
+LOCATION:India & diaspora (Varanasi\, Jaipur\, Amritsar\, Leicester)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="India & 
+ diaspora (Varanasi, Jaipur, Amritsar, Leicester)":geo:25.3176,82.9739
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Diwali (Festival of Lights) is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Día de Muertos
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271103
+DTSTAMP:20261108T000000Z
+UID:aff476ab950c58236fec@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Marigold-strewn altars\, sugar skulls\, candlelit all-night ce
+ metery vigils in Oaxaca and Mexico City's huge parade. Joyful\, colourful 
+ remembrance. In 2027 it's straight after the Mexico City GP.\n\nStatus: 
+ ✅ Confirmed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Boo
+ king Nudges feed ~3 months ahead.
+GEO:17.0732;-96.7266
+LOCATION:Mexico City & Oaxaca\, Mexico
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Mexico C
+ ity & Oaxaca, Mexico":geo:17.0732,-96.7266
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Día de Muertos is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Bonfire Night (Lewes Bonfire)
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+DTSTAMP:20261108T000000Z
+UID:411894b4c226dded8ed7@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Lewes takes Guy Fawkes Night to unhinged levels. Seven bonfire
+  societies\, 30\,000 visitors\, flaming tar barrels dragged through the st
+ reets and giant effigies blown up.\n\nStatus: ✅ Confirmed\nMoves to 4 No
+ v when the 5th falls on a Sunday.
+GEO:50.8739;0.0088
+LOCATION:Lewes\, East Sussex\, UK
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Lewes, E
+ ast Sussex, UK":geo:50.8739,0.0088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Pushkar Camel Fair (est.)
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271115
+DTSTAMP:20261108T000000Z
+UID:083d1eb945324f75fc55@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Tens of thousands of camels and traders in the Thar desert\, w
+ ith moustache contests\, races and a full-moon holy dip. As raw and photog
+ enic as India gets.\n\nStatus: 🟡 Estimated (pattern-based or provisiona
+ l\; check before booking)\nBuilt around Kartik Purnima (full moon ~14 Nov 
+ 2027)\; exact fair days vary.\n✈️ Trip-worthy: there's a booking nudge
+  in the 📅 Booking Nudges feed ~3 months ahead.
+GEO:26.4897;74.5511
+LOCATION:Pushkar\, Rajasthan\, India
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Pushkar,
+  Rajasthan, India":geo:26.4897,74.5511
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Pushkar Camel Fair is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Loy Krathong & Yi Peng\, Chiang Mai (est.)
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271115
+DTSTAMP:20261108T000000Z
+UID:46ea1b094d41353ed581@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Candlelit floats on the Ping River and thousands of sky lanter
+ ns rising under the full moon. Book Chiang Mai rooms early.\n\nStatus: 
+ 🟡 Estimated (pattern-based or provisional\; check before booking)\nFull
+  moon of the 12th Thai lunar month\; confirm with TAT closer to the time.
+ \n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges f
+ eed ~3 months ahead.
+GEO:18.7883;98.9853
+LOCATION:Chiang Mai\, Thailand
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Chiang M
+ ai, Thailand":geo:18.7883,98.9853
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Loy Krathong & Yi Peng\, Chiang Mai is ~3 month
+ s away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Strasbourg Christmas Market (Christkindelsmärik) (est.)
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271225
+DTSTAMP:20261108T000000Z
+UID:499f7a1f6279a55ab224@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The oldest Christmas market in France (1570)\, a 30 m tree in 
+ Place Kléber\, mulled wine\, bredele biscuits and half-timbered houses dr
+ ipping with decorations. Pair it with Colmar's.\n\nStatus: 🟡 Estimated 
+ (pattern-based or provisional\; check before booking)\nTypically runs late
+  November to 24 Dec.
+GEO:48.5734;7.7521
+LOCATION:Strasbourg\, Alsace\, France
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Strasbou
+ rg, Alsace, France":geo:48.5734,7.7521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Hanukkah begins
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20280101
+DTSTAMP:20261108T000000Z
+UID:3f90c0365fe3ab3f92e8@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Eight nights of the Festival of Lights. Menorahs in windows\, 
+ doughnuts (sufganiyot) and latkes. Jerusalem's Old City glows.\n\nStatus: 
+ ✅ Confirmed\nThe first candle is lit on the evening this begins.
+GEO:31.7683;35.2137
+LOCATION:Jewish communities worldwide (Jerusalem\, New York\, London)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Jewish c
+ ommunities worldwide (Jerusalem, New York, London)":geo:31.7683,35.2137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Junkanoo
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+DTSTAMP:20261108T000000Z
+UID:fa7f44d3268a3302c5e2@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The Bahamas' explosive Boxing Day street parade. Cowbells\, go
+ atskin drums\, brass and towering crêpe-paper costumes from 2am until daw
+ n.\n\nStatus: ✅ Confirmed
+GEO:25.048;-77.3554
+LOCATION:Bay Street\, Nassau\, Bahamas
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Bay Stre
+ et, Nassau, Bahamas":geo:25.048,-77.3554
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Edinburgh's Hogmanay
+DTSTART;VALUE=DATE:20271229
+DTEND;VALUE=DATE:20280102
+DTSTAMP:20261108T000000Z
+UID:7d27112fe8b061ebdaed@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Torchlight procession\, the Princes Street street party under 
+ the castle\, fireworks at midnight\, a mass Auld Lang Syne\, then the Loon
+ y Dook into the freezing Forth on New Year's Day.\n\nStatus: ✅ Confirmed
+ \n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges f
+ eed ~3 months ahead.
+GEO:55.9486;-3.1999
+LOCATION:Edinburgh\, Scotland\, UK
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Edinburg
+ h, Scotland, UK":geo:55.9486,-3.1999
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Edinburgh's Hogmanay is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Harbin Ice & Snow World opens
+DTSTART;VALUE=DATE:20280105
+DTEND;VALUE=DATE:20280106
+DTSTAMP:20261108T000000Z
+UID:f72365739fbba25f3167@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Full-size castles\, pagodas and slides carved from Songhua Riv
+ er ice\, lit up in neon at −25°C. The world's biggest ice festival runs
+  into February.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a bo
+ oking nudge in the 📅 Booking Nudges feed ~3 months ahead.
+GEO:45.8038;126.535
+LOCATION:Harbin\, Heilongjiang\, China
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Harbin, 
+ Heilongjiang, China":geo:45.8038,126.535
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Harbin Ice & Snow World opens is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Timkat (Ethiopian Epiphany)
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+DTSTAMP:20261108T000000Z
+UID:b64aa4335a71bd6a1bf8@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Brocade-wrapped tabots\, all-night chanting and Gondar's mass 
+ baptism splash.\n\nStatus: ✅ Confirmed\nFalls on 20 Jan in years after a
+ n Ethiopian leap year.
+GEO:12.603;37.4521
+LOCATION:Gondar & Lalibela\, Ethiopia
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Gondar &
+  Lalibela, Ethiopia":geo:12.603,37.4521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Burns Night
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+DTSTAMP:20261108T000000Z
+UID:f7305f88150339d464e3@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Haggis piped in\, the Address to a Haggis stabbed out with gus
+ to\, neeps\, tatties\, whisky and a ceilidh to finish.\n\nStatus: ✅ Conf
+ irmed
+GEO:55.4586;-4.6292
+LOCATION:Scotland & everywhere with a Scot
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Scotland
+  & everywhere with a Scot":geo:55.4586,-4.6292
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Up Helly Aa
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+DTSTAMP:20261108T000000Z
+UID:7eb26815e62efdbd3a3e@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Europe's largest fire festival. A thousand torch-bearing guize
+ rs in Viking armour march a full-size longship through Lerwick and set it 
+ ablaze. Shetland in January is wild in every sense.\n\nStatus: ✅ Confirm
+ ed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges
+  feed ~3 months ahead.
+GEO:60.1546;-1.1494
+LOCATION:Lerwick\, Shetland\, UK
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Lerwick,
+  Shetland, UK":geo:60.1546,-1.1494
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Up Helly Aa is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Chinese New Year
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+DTSTAMP:20261108T000000Z
+UID:00b487030d1fad8726e2@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The biggest human migration on Earth as hundreds of millions t
+ ravel home. Firecrackers\, lion dances\, red envelopes and dumplings at mi
+ dnight. For something close to home\, London's Trafalgar Square celebratio
+ n is the biggest outside Asia.\n\nStatus: ✅ Confirmed\n✈️ Trip-worth
+ y: there's a booking nudge in the 📅 Booking Nudges feed ~3 months ahead
+ .\nOfficial info: https://www.travelchinaguide.com/essential/holidays/new-
+ year/
+GEO:39.9042;116.4074
+LOCATION:China & Chinese communities worldwide (London Chinatown\, Singapo
+ re\, Penang…)
+TRANSP:TRANSPARENT
+URL:https://www.travelchinaguide.com/essential/holidays/new-year/
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="China & 
+ Chinese communities worldwide (London Chinatown, Singapore, Penang…)":ge
+ o:39.9042,116.4074
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Chinese New Year is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Ramadan begins (est.)
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+DTSTAMP:20261108T000000Z
+UID:ab28b7075747c2ba3200@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:A month of dawn-to-dusk fasting. Travelling in Muslim-majority
+  countries changes completely\, with sleepy days and electric nights\, and
+  iftar street-food markets after sunset. Istanbul\, Marrakech and Cairo ar
+ e unforgettable.\n\nStatus: 🟡 Estimated (pattern-based or provisional\;
+  check before booking)\nCalculated from the Umm al-Qura calendar\; the act
+ ual start depends on moon sighting and can shift by a day.
+GEO:21.4225;39.8262
+LOCATION:Muslim world
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Muslim w
+ orld":geo:21.4225,39.8262
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Lantern Festival (Yuanxiao)
+DTSTART;VALUE=DATE:20280209
+DTEND;VALUE=DATE:20280210
+DTSTAMP:20261108T000000Z
+UID:f021a2d9a601bbee753d@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The finale of the New Year season on the first full moon. Lant
+ ern riddles\, sweet rice dumplings\, and in Taiwan's Pingxi\, thousands of
+  sky lanterns let go at once.\n\nStatus: ✅ Confirmed
+GEO:25.026;121.741
+LOCATION:China & Taiwan (Pingxi sky lanterns)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="China & 
+ Taiwan (Pingxi sky lanterns)":geo:25.026,121.741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Venice Carnival (est.)
+DTSTART;VALUE=DATE:20280212
+DTEND;VALUE=DATE:20280301
+DTSTAMP:20261108T000000Z
+UID:21a8d56dfec974f22b46@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Masks\, capes and 18th-century costumes on misty canals\, with
+  the Flight of the Angel over St Mark's Square. Eerie and elegant\, and ea
+ sy to reach on a cheap flight.\n\nStatus: 🟡 Estimated (pattern-based or
+  provisional\; check before booking)\nThe exact start varies year to year
+ \; it always ends on Shrove Tuesday.\n✈️ Trip-worthy: there's a bookin
+ g nudge in the 📅 Booking Nudges feed ~3 months ahead.
+GEO:45.4408;12.3155
+LOCATION:Venice\, Italy
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Venice, 
+ Italy":geo:45.4408,12.3155
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Venice Carnival is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Tsagaan Sar (Mongolian Lunar New Year) (TBC)
+DTSTART;VALUE=DATE:20280224
+DTEND;VALUE=DATE:20280227
+DTSTAMP:20261108T000000Z
+UID:393f3531457a9b9f2324@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Mongolia's biggest holiday. Buuz marathons and ger-hopping acr
+ oss the steppe.\n\nStatus: ❓ Date TBC (placeholder until the organisers 
+ announce)\nSources disagree (late Jan vs late Feb 2028)\; the Mongolian as
+ trological calendar is fixed nearer the time.
+GEO:47.8864;106.9057
+LOCATION:Mongolia
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Mongolia
+ ":geo:47.8864,106.9057
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Eid al-Fitr (est.)
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+DTSTAMP:20261108T000000Z
+UID:20d678da51dc9972c91a@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The festival marking the end of Ramadan. New clothes\, morning
+  prayers\, family feasts and sweets everywhere. Expect closures and big cr
+ owds if you're travelling.\n\nStatus: 🟡 Estimated (pattern-based or pro
+ visional\; check before booking)\nDepends on the crescent-moon sighting\, 
+ so it can shift by ±1 day.
+GEO:21.4225;39.8262
+LOCATION:Muslim world
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Muslim w
+ orld":geo:21.4225,39.8262
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Rio de Janeiro Carnival
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280302
+DTSTAMP:20261108T000000Z
+UID:35bc57b78a3678a7d851@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The greatest party on Earth. Samba schools parading floats the
+  size of buildings through the Sambódromo until dawn\, and blocos (street
+  parties) in every neighbourhood. Book a year out.\n\nStatus: ✅ Confirme
+ d\nCarnival Saturday to Ash Wednesday morning\, set by the date of Easter.
+ \n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges f
+ eed ~3 months ahead.
+GEO:-22.9112;-43.1966
+LOCATION:Sambadrome\, Rio de Janeiro\, Brazil
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Sambadro
+ me, Rio de Janeiro, Brazil":geo:-22.9112,-43.1966
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Rio de Janeiro Carnival is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Battle of the Oranges\, Ivrea
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280301
+DTSTAMP:20261108T000000Z
+UID:8b077547362d22a35e46@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Italy's biggest food fight. Teams on foot pelt armoured carts 
+ with half a million oranges\, re-enacting a medieval revolt. Wear the red 
+ hat (berretto frigio) if you don't want to be a target.\n\nStatus: ✅ Con
+ firmed
+GEO:45.4669;7.8758
+LOCATION:Ivrea\, Piedmont\, Italy
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Ivrea, P
+ iedmont, Italy":geo:45.4669,7.8758
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Binche Carnival (Gilles)
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280301
+DTSTAMP:20261108T000000Z
+UID:1c13f1857918fd3f46ed@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:UNESCO-listed. Hundreds of Gilles in wax masks and ostrich-fea
+ ther hats stomp through town in clogs\, throwing blood oranges at the crow
+ d.\n\nStatus: ✅ Confirmed
+GEO:50.4108;4.1653
+LOCATION:Binche\, Belgium
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Binche, 
+ Belgium":geo:50.4108,4.1653
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Mardi Gras\, New Orleans
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+DTSTAMP:20261108T000000Z
+UID:0e4491b08cb2dcf9ad94@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Fat Tuesday. Bead-throwing parades\, brass bands and Mardi Gra
+ s Indians\, with jazz pouring out of the French Quarter all day.\n\nStatus
+ : ✅ Confirmed
+GEO:29.9511;-90.0715
+LOCATION:New Orleans\, Louisiana\, USA
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="New Orle
+ ans, Louisiana, USA":geo:29.9511,-90.0715
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Holi (Festival of Colours) (est.)
+DTSTART;VALUE=DATE:20280311
+DTEND;VALUE=DATE:20280312
+DTSTAMP:20261108T000000Z
+UID:2f1dbcf8f5507eb8adaa@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Total chromatic chaos. Strangers smother each other in coloure
+ d powder\, water pistols everywhere\, and bonfires the night before.\n\nSt
+ atus: 🟡 Estimated (pattern-based or provisional\; check before booking)
+ \nPhalguna Purnima 2028 estimate\; confirm against the panchang.\n✈️ T
+ rip-worthy: there's a booking nudge in the 📅 Booking Nudges feed ~3 mon
+ ths ahead.
+GEO:27.4924;77.6737
+LOCATION:India & Nepal (Mathura/Vrindavan\, Jaipur\, Kathmandu)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="India & 
+ Nepal (Mathura/Vrindavan, Jaipur, Kathmandu)":geo:27.4924,77.6737
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Holi (Festival of Colours) is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Purim
+DTSTART;VALUE=DATE:20280312
+DTEND;VALUE=DATE:20280313
+DTSTAMP:20261108T000000Z
+UID:7498b45c92bd379eae0b@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Fancy dress\, noisemakers and street parties. Tel Aviv turns i
+ nto one big carnival.\n\nStatus: ✅ Confirmed
+GEO:32.0853;34.7818
+LOCATION:Israel & Jewish communities worldwide
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Israel &
+  Jewish communities worldwide":geo:32.0853,34.7818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Las Fallas
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280320
+DTSTAMP:20261108T000000Z
+UID:aab5eaa2610a51b9719c@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Valencia builds hundreds of giant satirical sculptures\, ninot
+ s several storeys high\, then burns them all on the final night (La Cremà
+ ). Daily 2pm mascletà firecracker barrages shake your ribcage.\n\nStatus:
+  ✅ Confirmed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Bo
+ oking Nudges feed ~3 months ahead.
+GEO:39.4699;-0.3763
+LOCATION:Valencia\, Spain
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Valencia
+ , Spain":geo:39.4699,-0.3763
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Las Fallas is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 St Patrick's Day
+DTSTART;VALUE=DATE:20280317
+DTEND;VALUE=DATE:20280318
+DTSTAMP:20261108T000000Z
+UID:1224f8dc80f4ebf8cee6@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Dublin's parade\, céilí music and a sea of green. Chicago dy
+ es its whole river emerald.\n\nStatus: ✅ Confirmed
+GEO:53.3498;-6.2603
+LOCATION:Dublin\, Ireland (and Chicago's green river)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Dublin, 
+ Ireland (and Chicago's green river)":geo:53.3498,-6.2603
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Nowruz / Nauryz (Persian & Central Asian New Year)
+DTSTART;VALUE=DATE:20280321
+DTEND;VALUE=DATE:20280324
+DTSTAMP:20261108T000000Z
+UID:c6ca3839d2b393ab9d79@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Spring New Year across the Silk Road. Bonfire-jumping\, haft-s
+ in tables\, sumalak cooked all night\, and in Kazakhstan\, Nauryz yurts an
+ d kokpar on the steppe. Oskemen will be celebrating.\n\nStatus: ✅ Confir
+ med\nThe astronomical start is the March equinox\; Central Asian public ho
+ lidays run 21–23 Mar.
+GEO:49.95;82.6167
+LOCATION:Iran\, Kazakhstan\, Uzbekistan\, Kyrgyzstan\, Azerbaijan…
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Iran, Ka
+ zakhstan, Uzbekistan, Kyrgyzstan, Azerbaijan…":geo:49.95,82.6167
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Cherry blossom peak (Tokyo & Kyoto) (est.)
+DTSTART;VALUE=DATE:20280328
+DTEND;VALUE=DATE:20280407
+DTSTAMP:20261108T000000Z
+UID:49ad342fc2c09e792354@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Hanami season. Picnics under clouds of pink in Ueno and Maruya
+ ma parks\, the Philosopher's Path petal-strewn\, and night-lit sakura alon
+ g the canals. It lines up with the Japanese GP weekend in 2027.\n\nStatus:
+  🟡 Estimated (pattern-based or provisional\; check before booking)\nThe
+  bloom varies by ±1 week with the weather\; the Japan Meteorological Corp
+ oration forecast firms up in Feb/March.\n✈️ Trip-worthy: there's a boo
+ king nudge in the 📅 Booking Nudges feed ~3 months ahead.
+GEO:35.0116;135.7681
+LOCATION:Tokyo & Kyoto\, Japan
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Tokyo & 
+ Kyoto, Japan":geo:35.0116,135.7681
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Cherry blossom peak (Tokyo & Kyoto) is ~3 month
+ s away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Kanamara Matsuri
+DTSTART;VALUE=DATE:20280402
+DTEND;VALUE=DATE:20280403
+DTSTAMP:20261108T000000Z
+UID:e96fdbf3ccf461a71aa0@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The 'Festival of the Steel Phallus'. Giant pink shrines parade
+ d through the streets\, raising money for HIV research. Japan at its most 
+ gloriously unembarrassed.\n\nStatus: ✅ Confirmed
+GEO:35.5316;139.736
+LOCATION:Kawasaki\, Japan
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Kawasaki
+ , Japan":geo:35.5316,139.736
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Semana Santa\, Seville
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280417
+DTSTAMP:20261108T000000Z
+UID:ff22c37129bff8878823@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Holy Week\, Spanish style. Hooded nazarenos\, swaying gold flo
+ ats carried by unseen costaleros\, incense\, saetas sung from balconies\, 
+ and the all-night Madrugá. Haunting and unforgettable.\n\nStatus: ✅ Con
+ firmed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nu
+ dges feed ~3 months ahead.
+GEO:37.3891;-5.9845
+LOCATION:Seville\, Andalusia\, Spain
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Seville,
+  Andalusia, Spain":geo:37.3891,-5.9845
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Semana Santa\, Seville is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Passover (Pesach) begins
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280418
+DTSTAMP:20261108T000000Z
+UID:4df4cf56f6d47090b023@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The Exodus story told over the Seder meal\, with matzah for a 
+ week.\n\nStatus: ✅ Confirmed\nThe Seder is held on the first evening.
+GEO:31.7683;35.2137
+LOCATION:Jewish communities worldwide
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Jewish c
+ ommunities worldwide":geo:31.7683,35.2137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎭 Songkran (Thai New Year water festival)
+DTSTART;VALUE=DATE:20280413
+DTEND;VALUE=DATE:20280416
+DTSTAMP:20261108T000000Z
+UID:15a6983636fe04ed7f52@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The whole country turns into a three-day water fight. Super So
+ akers\, buckets and elephants\, with no dry escape. It's also the hottest 
+ week of the year\, so you'll be grateful.\n\nStatus: ✅ Confirmed\n✈️
+  Trip-worthy: there's a booking nudge in the 📅 Booking Nudges feed ~3 m
+ onths ahead.
+GEO:18.7883;98.9853
+LOCATION:Thailand (Chiang Mai\, Bangkok's Silom & Khao San)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Thailand
+  (Chiang Mai, Bangkok's Silom & Khao San)":geo:18.7883,98.9853
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Songkran (Thai New Year water festival) is ~3 m
+ onths away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Easter Sunday
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+DTSTAMP:20261108T000000Z
+UID:f7107bb36d0760337a17@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Easter Sunday Mass in St Peter's Square\, or Holy Week process
+ ions across Spain and Latin America.\n\nStatus: ✅ Confirmed
+GEO:41.9022;12.4539
+LOCATION:Christian world (Rome\, Jerusalem\, Seville…)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Christia
+ n world (Rome, Jerusalem, Seville…)":geo:41.9022,12.4539
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Orthodox Easter
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+DTSTAMP:20261108T000000Z
+UID:6dde8cb760247618776d@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:Midnight candles passed hand to hand\, then "Christos Anesti!"
+  and fireworks. Lamb on the spit the next day. Greek islands like Corfu (p
+ ot-smashing!) do it best.\n\nStatus: ✅ Confirmed
+GEO:37.9838;23.7275
+LOCATION:Greece\, Cyprus\, Eastern Europe\, Georgia\, Ethiopia
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Greece, 
+ Cyprus, Eastern Europe, Georgia, Ethiopia":geo:37.9838,23.7275
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 King's Day (Koningsdag)
+DTSTART;VALUE=DATE:20280427
+DTEND;VALUE=DATE:20280428
+DTSTAMP:20261108T000000Z
+UID:a95b9a90e9b22623cd05@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The whole country dresses in orange. Amsterdam's canals are ra
+ mmed with party boats and the city becomes one giant street market (vrijma
+ rkt).\n\nStatus: ✅ Confirmed
+GEO:52.3676;4.9041
+LOCATION:Amsterdam\, Netherlands
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Amsterda
+ m, Netherlands":geo:52.3676,4.9041
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Eid al-Adha (est.)
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+DTSTAMP:20261108T000000Z
+UID:6f887c40c06bc3010c50@global-events-calendar
+CATEGORIES:Global Cultural Festivals
+DESCRIPTION:The Feast of Sacrifice\, at the climax of the Hajj pilgrimage 
+ to Mecca. It's Kurban Ait across Central Asia\, where you'll remember the 
+ hospitality from the rally route.\n\nStatus: 🟡 Estimated (pattern-based
+  or provisional\; check before booking)\nDepends on moon sighting (±1 day
+ ).
+GEO:21.4225;39.8262
+LOCATION:Muslim world
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Muslim w
+ orld":geo:21.4225,39.8262
+END:VEVENT
+END:VCALENDAR

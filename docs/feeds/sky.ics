@@ -1,0 +1,1540 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ben St John//Global Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Moons, meteor showers, eclipses, planets and UK wildlife seas
+ ons, visible from the UK.
+X-WR-CALNAME:🌌 Sky & Nature (UK)
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-APPLE-CALENDAR-COLOR:#2E4057
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:🌌 Autumn colour peak (est.)
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261108T000000Z
+UID:ede219f01d861d1a3c12@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Japanese maples in full flame at Westonbirt\, the national arb
+ oretum\, 40 minutes from Bristol. Also great: the Wye Valley\, Snowdonia a
+ nd Perthshire ('Big Tree Country').\n\nStatus: 🟡 Estimated (pattern-bas
+ ed or provisional\; check before booking)
+GEO:51.606;-2.216
+LOCATION:Westonbirt Arboretum\, Gloucestershire
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Westonbi
+ rt Arboretum, Gloucestershire":geo:51.606,-2.216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Clocks go back (GMT returns)
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261108T000000Z
+UID:8c0c079f467bc931d62a@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Extra hour in bed. Darker evenings mean stargazing before dinn
+ er.\n\nStatus: ✅ Confirmed
+LOCATION:UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Hunter's Moon
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261108T000000Z
+UID:44cf4b3a5f3bc426f08f@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Hunter's Moon: bright autumn nights once used for hunting
+  ahead of winter. Peak at 04:11 UK time\; catch it rising at dusk on the e
+ vening closest to the peak for the classic giant-on-the-horizon photo.\n\n
+ Status: ✅ Confirmed\nExact full moon: Mon 26 Oct 2026 04:11 GMT. Earth
+ –Moon distance 368\,874 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Starling murmurations (est.)
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261108T000000Z
+UID:0807b96dd839f3871b00@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Up to a million starlings swirling in hypnotic shape-shifting 
+ clouds at dusk\, then all diving into the reeds at once. Ham Wall on the S
+ omerset Levels is under an hour from Bristol.\n\nStatus: 🟡 Estimated (p
+ attern-based or provisional\; check before booking)\nBest November–Febru
+ ary at dusk\; the Starling Hotline tells you where they're roosting.\nOffi
+ cial info: https://www.rspb.org.uk/days-out/reserves/ham-wall
+GEO:51.153;-2.787
+LOCATION:Somerset Levels (RSPB Ham Wall)\, Brighton Palace Pier\, Aberystw
+ yth Pier
+TRANSP:TRANSPARENT
+URL:https://www.rspb.org.uk/days-out/reserves/ham-wall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Somerset
+  Levels (RSPB Ham Wall), Brighton Palace Pier, Aberystwyth Pier":geo:51.15
+ 3,-2.787
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261108T000000Z
+UID:c03e30ec37b865c297d7@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Mon 09 Nov 2026 07:0
+ 2 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Grey seal pupping season (est.)
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261108T000000Z
+UID:54558827632bce9b6a48@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Thousands of fluffy white pups on the beaches at Horsey Gap\, 
+ watched from the dunes. Peak is mid-November to early January.\n\nStatus: 
+ 🟡 Estimated (pattern-based or provisional\; check before booking)
+GEO:52.792;1.646
+LOCATION:Horsey & Blakeney (Norfolk)\, Farne Islands\, Pembrokeshire
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Horsey &
+  Blakeney (Norfolk), Farne Islands, Pembrokeshire":geo:52.792,1.646
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Leonids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261108T000000Z
+UID:ff798a2c70e2fb5b09d4@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Fastest meteors of the year at 71 km/s. Famous for historic st
+ orms\; usually a modest show nowadays. Up to ~15/hr under perfect skies (r
+ ealistically a fraction of that). 🌓 Moon 56% lit: decent\, observe whil
+ e it's below the horizon.\n\nStatus: 🟡 Estimated (pattern-based or prov
+ isional\; check before booking)\nPeak night shown\; the night either side 
+ is usually worthwhile too.\nOfficial info: https://www.imo.net/resources/c
+ alendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Beaver Moon (Supermoon)
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261108T000000Z
+UID:69b78dc8ac3f042cdc3c@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Beaver Moon (Supermoon): the time to set traps before the
+  swamps froze. Peak at 14:53 UK time\; catch it rising at dusk on the even
+ ing closest to the peak for the classic giant-on-the-horizon photo. Only 3
+ 60\,765 km away\, up to ~14% bigger and ~30% brighter than a micromoon.\n
+ \nStatus: ✅ Confirmed\nExact full moon: Tue 24 Nov 2026 14:53 GMT. Earth
+ –Moon distance 360\,765 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20261108T000000Z
+UID:f38940b17f7d7d16c9aa@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Wed 09 Dec 2026 00:5
+ 1 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Geminids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DTSTAMP:20261108T000000Z
+UID:9b102af08e435cfba63c@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:The king of showers: slow\, bright\, colourful\, and visible f
+ rom mid-evening. Wrap up warm\; it's worth it. Up to ~150/hr under perfect
+  skies (realistically a fraction of that). 🌓 Moon 29% lit: decent\, obs
+ erve while it's below the horizon.\n\nStatus: 🟡 Estimated (pattern-base
+ d or provisional\; check before booking)\nPeak night shown\; the night eit
+ her side is usually worthwhile too.\nOfficial info: https://www.imo.net/re
+ sources/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Winter Solstice: shortest day
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261108T000000Z
+UID:bafc3d83c4ef906169ad@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:The turning point. Stonehenge and Newgrange both frame the mid
+ winter sun. From here the evenings start getting lighter.\n\nStatus: ✅ C
+ onfirmed\nExact moment: Mon 21 Dec 2026 20:49 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Cold Moon (Supermoon)
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261108T000000Z
+UID:4dfe902017b945f8b9e5@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Cold Moon (Supermoon): the long-nights moon\, riding high
+ est in the sky of the whole year. Peak at 01:28 UK time\; catch it rising 
+ at dusk on the evening closest to the peak for the classic giant-on-the-ho
+ rizon photo. Only 356\,738 km away\, up to ~14% bigger and ~30% brighter t
+ han a micromoon.\n\nStatus: ✅ Confirmed\nExact full moon: Thu 24 Dec 202
+ 6 01:28 GMT. Earth–Moon distance 356\,738 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Quadrantids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20261108T000000Z
+UID:4b2c0b1728c598f3dad3@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Short\, sharp peak of only a few hours\, so it's a gamble\, bu
+ t one of the year's strongest. Radiant high in the north-east after midnig
+ ht. Up to ~110/hr under perfect skies (realistically a fraction of that). 
+ 🌑 Moon only 12% lit: excellent\, dark skies.\n\nStatus: 🟡 Estimated 
+ (pattern-based or provisional\; check before booking)\nPeak night shown\; 
+ the night either side is usually worthwhile too.\nOfficial info: https://w
+ ww.imo.net/resources/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+DTSTAMP:20261108T000000Z
+UID:61b21e1a016bde4b8673@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Thu 07 Jan 2027 20:2
+ 4 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Wolf Moon (Supermoon)
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+DTSTAMP:20261108T000000Z
+UID:b3c8e9b5352551ab8528@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Wolf Moon (Supermoon): named for hungry winter packs howl
+ ing outside Anglo-Saxon villages. Peak at 12:17 UK time\; catch it rising 
+ at dusk on the evening closest to the peak for the classic giant-on-the-ho
+ rizon photo. Only 357\,644 km away\, up to ~14% bigger and ~30% brighter t
+ han a micromoon.\n\nStatus: ✅ Confirmed\nExact full moon: Fri 22 Jan 202
+ 7 12:17 GMT. Earth–Moon distance 357\,644 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Snowdrop season peaks (est.)
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+DTSTAMP:20261108T000000Z
+UID:e04eb6f09baa3c2eee79@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Carpets of white in the woods\, the first sign that winter's b
+ reaking. Painswick's snowdrop valley is an easy trip from Bristol.\n\nStat
+ us: 🟡 Estimated (pattern-based or provisional\; check before booking)
+GEO:51.795;-2.195
+LOCATION:Woodland gardens UK (Painswick Rococo Garden\, Glos.)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Woodland
+  gardens UK (Painswick Rococo Garden, Glos.)":geo:51.795,-2.195
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261108T000000Z
+UID:48bfabfd152a29679c2a@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Sat 06 Feb 2027 15:5
+ 6 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Jupiter at opposition
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+DTSTAMP:20261108T000000Z
+UID:cb9c463491c99a00f064@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Jupiter at its biggest and brightest\, up all night. Binocular
+ s show the four Galilean moons lined up.\n\nStatus: ✅ Confirmed\nOpposit
+ ion: the planet is opposite the Sun\, so it's visible all night and at its
+  brightest. Good for a couple of weeks either side.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Penumbral lunar eclipse
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261108T000000Z
+UID:3845bd435db03e8998a6@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:The Moon slips into Earth's faint outer shadow. It's a subtle 
+ dusky shading on one side rather than a red 'blood moon'\, but it's a nice
+  excuse to look up\, and it's the warm-up for the eclipse season ahead.\n
+ \nStatus: ✅ Confirmed\nPenumbral eclipses are subtle\; best seen near ma
+ ximum. Check timeanddate for exact local times.\nOfficial info: https://ww
+ w.timeanddate.com/eclipse/in/uk
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.timeanddate.com/eclipse/in/uk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Snow Moon
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261108T000000Z
+UID:8a63f71d7d6eaa482453@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Snow Moon: traditionally the snowiest month in the northe
+ rn hemisphere. Peak at 23:23 UK time\; catch it rising at dusk on the even
+ ing closest to the peak for the classic giant-on-the-horizon photo.\n\nSta
+ tus: ✅ Confirmed\nExact full moon: Sat 20 Feb 2027 23:23 GMT. Earth–Mo
+ on distance 363\,305 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Mars at opposition
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261108T000000Z
+UID:2ee57185b7c2791fd452@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Mars at its closest and brightest\, glowing orange all night. 
+ Even small telescopes can pick out the polar cap.\n\nStatus: ✅ Confirmed
+ \nOpposition: the planet is opposite the Sun\, so it's visible all night a
+ nd at its brightest. Good for a couple of weeks either side.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+DTSTAMP:20261108T000000Z
+UID:f0850682399951c32c8b@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Mon 08 Mar 2027 09:2
+ 9 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Aurora watch: equinox boost window (est.)
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+DTSTAMP:20261108T000000Z
+UID:e2521edee9c2499c52b5@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Geomagnetic storms are statistically more likely in the weeks 
+ around the equinoxes\, because of how Earth's field lines up with the sola
+ r wind. Get AuroraWatch UK alerts on your phone and take every clear night
+  seriously.\n\nStatus: 🟡 Estimated (pattern-based or provisional\; chec
+ k before booking)\nStatistical window (late Feb–early April)\, not a for
+ ecast.\nOfficial info: https://aurorawatch.lancs.ac.uk
+GEO:58.5;-3.5
+LOCATION:Northern Scotland best\; often visible further south during storm
+ s
+TRANSP:TRANSPARENT
+URL:https://aurorawatch.lancs.ac.uk
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Northern
+  Scotland best; often visible further south during storms":geo:58.5,-3.5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 March Equinox: spring begins
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261108T000000Z
+UID:dd07cd615a5b51bb08a7@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Day and night roughly equal. Equinoxes also tilt the odds towa
+ rds geomagnetic storms (the Russell–McPherron effect)\, so it's a good f
+ ortnight for aurora alerts. Also Nowruz\, Persian New Year.\n\nStatus: ✅
+  Confirmed\nExact moment: Sat 20 Mar 2027 20:24 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Worm Moon
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20261108T000000Z
+UID:b20714dd58a946b9c9da@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Worm Moon: when thawing soil brings the earthworms (and t
+ he birds) back. Peak at 10:43 UK time\; catch it rising at dusk on the eve
+ ning closest to the peak for the classic giant-on-the-horizon photo.\n\nSt
+ atus: ✅ Confirmed\nExact full moon: Mon 22 Mar 2027 10:43 GMT. Earth–M
+ oon distance 372\,526 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Clocks go forward (BST begins)
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20261108T000000Z
+UID:3225851a76d016565b78@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Lose an hour in bed\, gain light evenings. Sunsets jump past 7
+ pm.\n\nStatus: ✅ Confirmed
+LOCATION:UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+DTSTAMP:20261108T000000Z
+UID:5fbb8c68b1d00eb6b086@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ Milky Way core is up late\; head somewhere properly dark. Exmoor\, the Bre
+ con Beacons and Galloway are International Dark Sky Reserves.\n\nStatus: 
+ ✅ Confirmed\nExact new moon: Wed 07 Apr 2027 00:51 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Milky Way core season begins (est.)
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+DTSTAMP:20261108T000000Z
+UID:005d5e183d1fa242152a@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:The bright galactic core starts rising in the small hours. Tim
+ e trips with new moons\; by July and August it's up at a civilised hour\, 
+ low in the south.\n\nStatus: 🟡 Estimated (pattern-based or provisional
+ \; check before booking)
+LOCATION:Dark-sky sites: Exmoor\, Brecon Beacons\, Galloway\, Northumberla
+ nd
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Pink Moon
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+DTSTAMP:20261108T000000Z
+UID:e58bed5c4af290b124b9@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Pink Moon: named for the pink wild phlox of spring\, not 
+ the Moon's colour\, sadly. Peak at 23:27 UK time\; catch it rising at dusk
+  on the evening closest to the peak for the classic giant-on-the-horizon p
+ hoto.\n\nStatus: ✅ Confirmed\nExact full moon: Tue 20 Apr 2027 23:27 BST
+ . Earth–Moon distance 383\,429 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Lyrids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+DTSTAMP:20261108T000000Z
+UID:754cdc8117a7a3991758@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:One of the oldest recorded showers (Chinese records from 687 B
+ C). Modest rates\, occasional bright fireballs\, best before dawn. Up to ~
+ 18/hr under perfect skies (realistically a fraction of that). 🌕 Moon 95
+ % lit: the moonlight will drown the fainter meteors\; look for fireballs.
+ \n\nStatus: 🟡 Estimated (pattern-based or provisional\; check before bo
+ oking)\nPeak night shown\; the night either side is usually worthwhile too
+ .\nOfficial info: https://www.imo.net/resources/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Bluebell woods at their best (est.)
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20261108T000000Z
+UID:5a23dab2d958a0a2639c@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Half the world's bluebells grow in Britain. Late April to mid-
+ May\, ancient woods turn into violet-blue haze with that heady scent. Get 
+ out at golden hour.\n\nStatus: 🟡 Estimated (pattern-based or provisiona
+ l\; check before booking)
+GEO:51.456;-2.637
+LOCATION:Ancient woodland across the UK (Ashton Court\, Leigh Woods near B
+ ristol)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Ancient 
+ woodland across the UK (Ashton Court, Leigh Woods near Bristol)":geo:51.45
+ 6,-2.637
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Swifts return from Africa (est.)
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+DTSTAMP:20261108T000000Z
+UID:7e84641bcdc15739bb1f@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Screaming parties of swifts arrive after a 10\,000 km flight. 
+ They eat\, sleep and mate on the wing and won't touch the ground until the
+ y nest. Summer has officially started.\n\nStatus: 🟡 Estimated (pattern-
+ based or provisional\; check before booking)
+LOCATION:UK skies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20261108T000000Z
+UID:f87b318e43c09a790f36@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ Milky Way core is up late\; head somewhere properly dark. Exmoor\, the Bre
+ con Beacons and Galloway are International Dark Sky Reserves.\n\nStatus: 
+ ✅ Confirmed\nExact new moon: Thu 06 May 2027 11:58 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Eta Aquariids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20261108T000000Z
+UID:d07d91d5700c90932a6e@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Debris from Halley's Comet itself. Low radiant from the UK\, s
+ o expect a handful of long 'earthgrazers' just before dawn. Up to ~50/hr u
+ nder perfect skies (realistically a fraction of that). 🌑 Moon only 1% l
+ it: excellent\, dark skies.\n\nStatus: 🟡 Estimated (pattern-based or pr
+ ovisional\; check before booking)\nPeak night shown\; the night either sid
+ e is usually worthwhile too.\nOfficial info: https://www.imo.net/resources
+ /calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🌌 Puffin season (Skomer & Farne Islands) (est.)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261108T000000Z
+UID:4d102db96efe6bc9d61a@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Around 40\,000 puffins on Skomer\, so close you have to give w
+ ay to them on the path. Boats from Martin's Haven fill fast\, so book ahea
+ d. Season runs mid-May to late July.\n\nStatus: 🟡 Estimated (pattern-ba
+ sed or provisional\; check before booking)\n✈️ Trip-worthy: there's a 
+ booking nudge in the 📅 Booking Nudges feed ~3 months ahead.\nOfficial i
+ nfo: https://www.welshwildlife.org/skomer-skokholm/skomer
+GEO:51.737;-5.296
+LOCATION:Skomer Island\, Pembrokeshire
+TRANSP:TRANSPARENT
+URL:https://www.welshwildlife.org/skomer-skokholm/skomer
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Skomer I
+ sland, Pembrokeshire":geo:51.737,-5.296
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Puffin season (Skomer & Farne Islands) is ~3 mo
+ nths away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Flower Moon
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+DTSTAMP:20261108T000000Z
+UID:d840c061454a2ab65ca3@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Flower Moon: everything's blooming\; bluebell woods are a
+ t their best around now. Peak at 11:58 UK time\; catch it rising at dusk o
+ n the evening closest to the peak for the classic giant-on-the-horizon pho
+ to.\n\nStatus: ✅ Confirmed\nExact full moon: Thu 20 May 2027 11:58 BST. 
+ Earth–Moon distance 393\,899 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Noctilucent cloud season begins (est.)
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+DTSTAMP:20261108T000000Z
+UID:09e13a6b0a3fff9eabfe@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Electric-blue night-shining clouds 80 km up\, the highest clou
+ ds on Earth\, glowing in the northern sky long after sunset. Season runs t
+ o early August\, peaking mid-June to mid-July.\n\nStatus: 🟡 Estimated (
+ pattern-based or provisional\; check before booking)
+LOCATION:Northern horizon\, best from Scotland & northern England
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Basking shark season begins (est.)
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DTSTAMP:20261108T000000Z
+UID:fd8ae877ea015db80a16@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:The world's second-biggest fish\, up to 10 m long\, cruising t
+ he surface with mouths agape. Kayak or snorkel trips from Cornwall and the
+  Hebrides through to September.\n\nStatus: 🟡 Estimated (pattern-based o
+ r provisional\; check before booking)
+GEO:56.6;-6.6
+LOCATION:Cornwall\, Isle of Man & the Hebrides (Coll/Tiree)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Cornwall
+ , Isle of Man & the Hebrides (Coll/Tiree)":geo:56.6,-6.6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+DTSTAMP:20261108T000000Z
+UID:e91e3a340e57d9219f45@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ Milky Way core is up late\; head somewhere properly dark. Exmoor\, the Bre
+ con Beacons and Galloway are International Dark Sky Reserves.\n\nStatus: 
+ ✅ Confirmed\nExact new moon: Fri 04 Jun 2027 20:40 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Strawberry Moon
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+DTSTAMP:20261108T000000Z
+UID:74642a5dc0e3792f9096@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Strawberry Moon: the lowest-riding full moon of the year:
+  big\, golden and syrupy on the horizon. Peak at 01:44 UK time\; catch it 
+ rising at dusk on the evening closest to the peak for the classic giant-on
+ -the-horizon photo.\n\nStatus: ✅ Confirmed\nExact full moon: Sat 19 Jun 
+ 2027 01:44 BST. Earth–Moon distance 401\,952 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Summer Solstice: longest day
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+DTSTAMP:20261108T000000Z
+UID:20b3f7402bf2530be0dd@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Peak daylight: northern Scotland barely gets dark at all. Sunr
+ ise at Stonehenge lines up with the Heel Stone\, and the free solstice ope
+ n access draws thousands.\n\nStatus: ✅ Confirmed\nExact moment: Mon 21 J
+ un 2027 15:10 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+DTSTAMP:20261108T000000Z
+UID:48e8d9e67a208cf90013@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ Milky Way core is up late\; head somewhere properly dark. Exmoor\, the Bre
+ con Beacons and Galloway are International Dark Sky Reserves.\n\nStatus: 
+ ✅ Confirmed\nExact new moon: Sun 04 Jul 2027 04:01 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Buck Moon (Micromoon)
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+DTSTAMP:20261108T000000Z
+UID:9d07e95608f2755b8ed1@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Buck Moon (Micromoon): when deer antlers are in full velv
+ et growth. Peak at 16:44 UK time\; catch it rising at dusk on the evening 
+ closest to the peak for the classic giant-on-the-horizon photo.\n\nStatus:
+  ✅ Confirmed\nExact full moon: Sun 18 Jul 2027 16:44 BST. Earth–Moon d
+ istance 405\,978 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🌌 Total solar eclipse: SPAIN · MOROCCO · EGYPT (partia
+ l ~35% from UK)
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+DTSTAMP:20261108T000000Z
+UID:d11f150ddff872ab4e51@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:The eclipse of the decade. Totality reaches about 6 m 23 s nea
+ r Luxor\, one of the longest totalities over land this century. The path o
+ f darkness crosses southern Spain and the Strait of Gibraltar\, so Tarifa 
+ or Cádiz is a cheap flight away. You get midday darkness\, stars\, the co
+ rona and a 360° sunset. From the UK it's only a ~35% partial (around 09:0
+ 0–11:00 BST). Go to the path. Do not miss this.\n\nStatus: ✅ Confirmed
+ \nRule exception\, approved by you: not fully visible from the UK\, but it
+ 's a ✈️ priority. Book accommodation in the path EARLY\, because it wi
+ ll sell out. Proper ISO 12312-2 eclipse glasses are essential for the part
+ ial phases.\n✈️ Trip-worthy: there's a booking nudge in the 📅 Booki
+ ng Nudges feed ~3 months ahead.\nOfficial info: https://www.timeanddate.co
+ m/eclipse/solar/2027-august-2
+GEO:36.0143;-5.6044
+LOCATION:Totality path: Cádiz/Tarifa\, Gibraltar\, northern Morocco\, Tun
+ isia\, Libya\, Luxor (Egypt)
+TRANSP:TRANSPARENT
+URL:https://www.timeanddate.com/eclipse/solar/2027-august-2
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Totality
+  path: Cádiz/Tarifa, Gibraltar, northern Morocco, Tunisia, Libya, Luxor (
+ Egypt)":geo:36.0143,-5.6044
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Total solar eclipse: SPAIN · MOROCCO · EGYPT 
+ (partial ~35% from UK) is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+DTSTAMP:20261108T000000Z
+UID:834c3a3cf0febe80f40d@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ Milky Way core is up late\; head somewhere properly dark. Exmoor\, the Bre
+ con Beacons and Galloway are International Dark Sky Reserves.\n\nStatus: 
+ ✅ Confirmed\nExact new moon: Mon 02 Aug 2027 11:05 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Partial solar eclipse from the UK (~35%)
+DTSTART:20270802T090000Z
+DTEND:20270802T110000Z
+DTSTAMP:20261108T000000Z
+UID:9f86f7b3bfbb5ede9f7c@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:If you can't make it to Spain\, the Moon still takes a decent 
+ bite out of the morning Sun across the UK\, around 09:00–11:00 BST with 
+ maximum near 10:00. Use eclipse glasses or a pinhole projector\, never loo
+ k directly.\n\nStatus: ✅ Confirmed\nTimes approximate for southern Engla
+ nd\; varies by a few minutes across the UK.\nLocal start: Mon 02 Aug 10:00
+  (BST). Your calendar shows it in your own time zone.\nOfficial info: http
+ s://www.timeanddate.com/eclipse/in/uk
+LOCATION:Visible across the UK (south-east ~35%)
+URL:https://www.timeanddate.com/eclipse/in/uk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Heather in bloom (purple moors) (est.)
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20261108T000000Z
+UID:256bcac7b83e99634ba4@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Moorland turns purple from mid-August into September. Glorious
+  hiking and MTB season\, with honey-scented air.\n\nStatus: 🟡 Estimated
+  (pattern-based or provisional\; check before booking)
+GEO:54.36;-0.88
+LOCATION:North York Moors\, Exmoor\, Dartmoor\, Highlands
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="North Yo
+ rk Moors, Exmoor, Dartmoor, Highlands":geo:54.36,-0.88
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Perseids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20261108T000000Z
+UID:f93446fc3a7ace74f032@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:The summer classic: warm nights\, fast bright meteors with tra
+ ins. Lie back facing north-east after 11pm. Up to ~100/hr under perfect sk
+ ies (realistically a fraction of that). 🌕 Moon 85% lit: the moonlight w
+ ill drown the fainter meteors\; look for fireballs.\n\nStatus: 🟡 Estima
+ ted (pattern-based or provisional\; check before booking)\nPeak night show
+ n\; the night either side is usually worthwhile too.\nOfficial info: https
+ ://www.imo.net/resources/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Penumbral lunar eclipse (morning\, Moon setting)
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+DTSTAMP:20261108T000000Z
+UID:c467507b12084c928428@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:A subtle shading of the setting Moon low in the west around da
+ wn. A photo opportunity if you have a clear western horizon.\n\nStatus: 
+ ✅ Confirmed\nOfficial info: https://www.timeanddate.com/eclipse/in/uk
+LOCATION:Visible across the UK (low in the west at dawn)
+TRANSP:TRANSPARENT
+URL:https://www.timeanddate.com/eclipse/in/uk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Sturgeon Moon (Micromoon)
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+DTSTAMP:20261108T000000Z
+UID:132de740e5eb9bed1aea@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Sturgeon Moon (Micromoon): named for when the Great Lakes
+  sturgeon were easiest to catch. Peak at 08:28 UK time\; catch it rising a
+ t dusk on the evening closest to the peak for the classic giant-on-the-hor
+ izon photo.\n\nStatus: ✅ Confirmed\nExact full moon: Tue 17 Aug 2027 08:
+ 28 BST. Earth–Moon distance 405\,081 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+DTSTAMP:20261108T000000Z
+UID:3b5eb57342c40cc1e30f@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ Milky Way core is up late\; head somewhere properly dark. Exmoor\, the Bre
+ con Beacons and Galloway are International Dark Sky Reserves.\n\nStatus: 
+ ✅ Confirmed\nExact new moon: Tue 31 Aug 2027 18:41 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Aurora watch: equinox boost window (est.)
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+DTSTAMP:20261108T000000Z
+UID:fc5153c489b4e16fbbc2@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Autumn equinox storm season\, and the nights are dark again. Y
+ our phone camera sees aurora better than your eyes do.\n\nStatus: 🟡 Est
+ imated (pattern-based or provisional\; check before booking)\nStatistical 
+ window (late Aug–early Oct)\, not a forecast.\nOfficial info: https://au
+ rorawatch.lancs.ac.uk
+GEO:58.5;-3.5
+LOCATION:Northern Scotland best\; often visible further south during storm
+ s
+TRANSP:TRANSPARENT
+URL:https://aurorawatch.lancs.ac.uk
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Northern
+  Scotland best; often visible further south during storms":geo:58.5,-3.5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Harvest Moon
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+DTSTAMP:20261108T000000Z
+UID:409506616b221e99fc94@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Harvest Moon: the full moon nearest the autumn equinox\, 
+ rising at almost the same time several nights running. Peak at 00:03 UK ti
+ me\; catch it rising at dusk on the evening closest to the peak for the cl
+ assic giant-on-the-horizon photo.\n\nStatus: ✅ Confirmed\nExact full moo
+ n: Thu 16 Sep 2027 00:03 BST. Earth–Moon distance 399\,353 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 September Equinox: autumn begins
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+DTSTAMP:20261108T000000Z
+UID:98b737f471ac0466f5f7@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Equal day and night\, and the start of the equinox aurora boos
+ t. Also the gateway to proper dark-sky season.\n\nStatus: ✅ Confirmed\nE
+ xact moment: Thu 23 Sep 2027 07:01 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Red deer rut (est.)
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+DTSTAMP:20261108T000000Z
+UID:c5fe67cd90b2ff4088d6@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Stags roaring and clashing antlers in the misty autumn dawn. E
+ xmoor is easy from Bristol\, and the season runs late September to early N
+ ovember. Keep 50 m back.\n\nStatus: 🟡 Estimated (pattern-based or provi
+ sional\; check before booking)
+GEO:51.15;-3.6
+LOCATION:Exmoor\, Richmond Park\, Isle of Rum\, Highlands
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Exmoor, 
+ Richmond Park, Isle of Rum, Highlands":geo:51.15,-3.6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+DTSTAMP:20261108T000000Z
+UID:4359d89e8b97c382b658@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ Milky Way core is up late\; head somewhere properly dark. Exmoor\, the Bre
+ con Beacons and Galloway are International Dark Sky Reserves.\n\nStatus: 
+ ✅ Confirmed\nExact new moon: Thu 30 Sep 2027 03:35 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Draconids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+DTSTAMP:20261108T000000Z
+UID:b67ba104441e463a2617@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Usually a trickle\, occasionally a storm. Unusually\, best in 
+ the evening rather than before dawn. Up to ~10/hr under perfect skies (rea
+ listically a fraction of that). 🌕 Moon 65% lit: the moonlight will drow
+ n the fainter meteors\; look for fireballs.\n\nStatus: 🟡 Estimated (pat
+ tern-based or provisional\; check before booking)\nPeak night shown\; the 
+ night either side is usually worthwhile too.\nOfficial info: https://www.i
+ mo.net/resources/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Hunter's Moon
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+DTSTAMP:20261108T000000Z
+UID:fd677d7dacfb73e2b11a@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Hunter's Moon: the first full moon after the Harvest Moon
+ \, traditionally the hunting moon. Peak at 14:46 UK time\; catch it rising
+  at dusk on the evening closest to the peak for the classic giant-on-the-h
+ orizon photo.\n\nStatus: ✅ Confirmed\nExact full moon: Fri 15 Oct 2027 1
+ 4:46 BST. Earth–Moon distance 389\,940 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Saturn at opposition
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+DTSTAMP:20261108T000000Z
+UID:9f7f1cdf945a729c6f7d@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Saturn at its best for the year\, rising at sunset. Any telesc
+ ope shows the rings.\n\nStatus: ✅ Confirmed\nOpposition: the planet is o
+ pposite the Sun\, so it's visible all night and at its brightest. Good for
+  a couple of weeks either side.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Leaping salmon season (est.)
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+DTSTAMP:20261108T000000Z
+UID:db4ed470e9aae64e8444@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Atlantic salmon hurling themselves up waterfalls to spawn\, af
+ ter years at sea. Cenarth Falls in Wales is the closest spot.\n\nStatus: 
+ 🟡 Estimated (pattern-based or provisional\; check before booking)
+GEO:56.56;-3.6
+LOCATION:Falls of Shin (Sutherland)\, Hermitage (Perthshire)\, Teifi (Cena
+ rth)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Falls of
+  Shin (Sutherland), Hermitage (Perthshire), Teifi (Cenarth)":geo:56.56,-3.
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Orionids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+DTSTAMP:20261108T000000Z
+UID:738625d364e3e81baa68@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Halley's Comet again\, the autumn return leg. Swift meteors fr
+ om Orion's raised club\, best after midnight. Up to ~20/hr under perfect s
+ kies (realistically a fraction of that). 🌓 Moon 57% lit: decent\, obser
+ ve while it's below the horizon.\n\nStatus: 🟡 Estimated (pattern-based 
+ or provisional\; check before booking)\nPeak night shown\; the night eithe
+ r side is usually worthwhile too.\nOfficial info: https://www.imo.net/reso
+ urces/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Autumn colour peak (est.)
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+DTSTAMP:20261108T000000Z
+UID:7b0d53f93457467da665@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Japanese maples in full flame at Westonbirt\, the national arb
+ oretum\, 40 minutes from Bristol. Also great: the Wye Valley\, Snowdonia a
+ nd Perthshire ('Big Tree Country').\n\nStatus: 🟡 Estimated (pattern-bas
+ ed or provisional\; check before booking)
+GEO:51.606;-2.216
+LOCATION:Westonbirt Arboretum\, Gloucestershire
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Westonbi
+ rt Arboretum, Gloucestershire":geo:51.606,-2.216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+DTSTAMP:20261108T000000Z
+UID:0e92883a7f6c2c588ec5@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Fri 29 Oct 2027 14:3
+ 6 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Clocks go back (GMT returns)
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+DTSTAMP:20261108T000000Z
+UID:0da655bed9d94590c9e4@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Extra hour in bed. Darker evenings mean stargazing before dinn
+ er.\n\nStatus: ✅ Confirmed
+LOCATION:UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Starling murmurations (est.)
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+DTSTAMP:20261108T000000Z
+UID:37272a3508cfe694d534@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Up to a million starlings swirling in hypnotic shape-shifting 
+ clouds at dusk\, then all diving into the reeds at once. Ham Wall on the S
+ omerset Levels is under an hour from Bristol.\n\nStatus: 🟡 Estimated (p
+ attern-based or provisional\; check before booking)\nBest November–Febru
+ ary at dusk\; the Starling Hotline tells you where they're roosting.\nOffi
+ cial info: https://www.rspb.org.uk/days-out/reserves/ham-wall
+GEO:51.153;-2.787
+LOCATION:Somerset Levels (RSPB Ham Wall)\, Brighton Palace Pier\, Aberystw
+ yth Pier
+TRANSP:TRANSPARENT
+URL:https://www.rspb.org.uk/days-out/reserves/ham-wall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Somerset
+  Levels (RSPB Ham Wall), Brighton Palace Pier, Aberystwyth Pier":geo:51.15
+ 3,-2.787
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Beaver Moon
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+DTSTAMP:20261108T000000Z
+UID:bd854d18833cebac28c4@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Beaver Moon: the time to set traps before the swamps froz
+ e. Peak at 03:25 UK time\; catch it rising at dusk on the evening closest 
+ to the peak for the classic giant-on-the-horizon photo.\n\nStatus: ✅ Con
+ firmed\nExact full moon: Sun 14 Nov 2027 03:25 GMT. Earth–Moon distance 
+ 378\,768 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Grey seal pupping season (est.)
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+DTSTAMP:20261108T000000Z
+UID:f2d834c369ca29c14eec@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Thousands of fluffy white pups on the beaches at Horsey Gap\, 
+ watched from the dunes. Peak is mid-November to early January.\n\nStatus: 
+ 🟡 Estimated (pattern-based or provisional\; check before booking)
+GEO:52.792;1.646
+LOCATION:Horsey & Blakeney (Norfolk)\, Farne Islands\, Pembrokeshire
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Horsey &
+  Blakeney (Norfolk), Farne Islands, Pembrokeshire":geo:52.792,1.646
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Leonids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+DTSTAMP:20261108T000000Z
+UID:3a9ef0b18615919aa721@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Fastest meteors of the year at 71 km/s. Famous for historic st
+ orms\; usually a modest show nowadays. Up to ~15/hr under perfect skies (r
+ ealistically a fraction of that). 🌕 Moon 81% lit: the moonlight will dr
+ own the fainter meteors\; look for fireballs.\n\nStatus: 🟡 Estimated (p
+ attern-based or provisional\; check before booking)\nPeak night shown\; th
+ e night either side is usually worthwhile too.\nOfficial info: https://www
+ .imo.net/resources/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+DTSTAMP:20261108T000000Z
+UID:44e08bd0eeec67e8f299@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Sun 28 Nov 2027 03:2
+ 4 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Cold Moon
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+DTSTAMP:20261108T000000Z
+UID:fb52f3e225fa34941898@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Cold Moon: the long-nights moon\, riding highest in the s
+ ky of the whole year. Peak at 16:08 UK time\; catch it rising at dusk on t
+ he evening closest to the peak for the classic giant-on-the-horizon photo.
+ \n\nStatus: ✅ Confirmed\nExact full moon: Mon 13 Dec 2027 16:08 GMT. Ear
+ th–Moon distance 368\,143 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Geminids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
+DTSTAMP:20261108T000000Z
+UID:f9b2ddc686e2b4d3ef0b@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:The king of showers: slow\, bright\, colourful\, and visible f
+ rom mid-evening. Wrap up warm\; it's worth it. Up to ~150/hr under perfect
+  skies (realistically a fraction of that). 🌕 Moon 97% lit: the moonligh
+ t will drown the fainter meteors\; look for fireballs.\n\nStatus: 🟡 Est
+ imated (pattern-based or provisional\; check before booking)\nPeak night s
+ hown\; the night either side is usually worthwhile too.\nOfficial info: ht
+ tps://www.imo.net/resources/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Winter Solstice: shortest day
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+DTSTAMP:20261108T000000Z
+UID:ab10cc07c0f1e54d9190@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:The turning point. Stonehenge and Newgrange both frame the mid
+ winter sun. From here the evenings start getting lighter.\n\nStatus: ✅ C
+ onfirmed\nExact moment: Wed 22 Dec 2027 02:41 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+DTSTAMP:20261108T000000Z
+UID:0f1ddde89a95b5bd2829@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Mon 27 Dec 2027 20:1
+ 2 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Quadrantids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20280103
+DTEND;VALUE=DATE:20280104
+DTSTAMP:20261108T000000Z
+UID:c62031b97cc94b856d47@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Short\, sharp peak of only a few hours\, so it's a gamble\, bu
+ t one of the year's strongest. Radiant high in the north-east after midnig
+ ht. Up to ~110/hr under perfect skies (realistically a fraction of that). 
+ 🌓 Moon 41% lit: decent\, observe while it's below the horizon.\n\nStatu
+ s: 🟡 Estimated (pattern-based or provisional\; check before booking)\nP
+ eak night shown\; the night either side is usually worthwhile too.\nOffici
+ al info: https://www.imo.net/resources/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Wolf Moon (Supermoon)
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+DTSTAMP:20261108T000000Z
+UID:ddae1611bce3441b83ad@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Wolf Moon (Supermoon): named for hungry winter packs howl
+ ing outside Anglo-Saxon villages. Peak at 04:02 UK time\; catch it rising 
+ at dusk on the evening closest to the peak for the classic giant-on-the-ho
+ rizon photo. Only 360\,269 km away\, up to ~14% bigger and ~30% brighter t
+ han a micromoon.\n\nStatus: ✅ Confirmed\nExact full moon: Wed 12 Jan 202
+ 8 04:02 GMT. Earth–Moon distance 360\,269 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Partial lunar eclipse: ~90% of the Moon in shadow
+DTSTART:20280112T040300Z
+DTEND:20280112T053300Z
+DTSTAMP:20261108T000000Z
+UID:76140fcdc37a05d1da24@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:A deep partial eclipse. Around 90% of the Moon dives into Eart
+ h's dark umbra\, turning a coppery red with just a bright sliver left. The
+  best lunar eclipse from the UK in this window. Set an alarm\; it's worth 
+ it.\n\nStatus: ✅ Confirmed\nVisible roughly 02:30–05:30 GMT\; maximum 
+ ~04:03 GMT.\nLocal start: Wed 12 Jan 04:03 (GMT). Your calendar shows it i
+ n your own time zone.\nOfficial info: https://www.timeanddate.com/eclipse/
+ in/uk
+LOCATION:Visible across the UK
+URL:https://www.timeanddate.com/eclipse/in/uk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+DTSTAMP:20261108T000000Z
+UID:70b6c29f4488f68c5963@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Wed 26 Jan 2028 15:1
+ 2 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Partial solar eclipse at sunset (~45%)
+DTSTART:20280126T164000Z
+DTEND:20280126T181000Z
+DTSTAMP:20261108T000000Z
+UID:e5573b21ea038eea5f8a@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:An annular eclipse elsewhere that's seen from the UK as a part
+ ial\, low in the south-west as the Sun sets. A crescent Sun setting over t
+ he sea is a dream photo\; head to a west-facing coast like Pembrokeshire o
+ r Cornwall.\n\nStatus: ✅ Confirmed\nMaximum ~16:40 GMT\; the Sun is very
+  low\, so you need a clear south-west horizon. Use eclipse glasses.\nLocal
+  start: Wed 26 Jan 16:40 (GMT). Your calendar shows it in your own time zo
+ ne.\nOfficial info: https://www.timeanddate.com/eclipse/in/uk
+LOCATION:Visible across the UK (west favoured)
+URL:https://www.timeanddate.com/eclipse/in/uk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Snowdrop season peaks (est.)
+DTSTART;VALUE=DATE:20280205
+DTEND;VALUE=DATE:20280206
+DTSTAMP:20261108T000000Z
+UID:e5e5574ef8dc6dd24412@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Carpets of white in the woods\, the first sign that winter's b
+ reaking. Painswick's snowdrop valley is an easy trip from Bristol.\n\nStat
+ us: 🟡 Estimated (pattern-based or provisional\; check before booking)
+GEO:51.795;-2.195
+LOCATION:Woodland gardens UK (Painswick Rococo Garden\, Glos.)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Woodland
+  gardens UK (Painswick Rococo Garden, Glos.)":geo:51.795,-2.195
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Snow Moon (Supermoon)
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+DTSTAMP:20261108T000000Z
+UID:0cb7d4ad2a9cd0c8a160@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Snow Moon (Supermoon): traditionally the snowiest month i
+ n the northern hemisphere. Peak at 15:03 UK time\; catch it rising at dusk
+  on the evening closest to the peak for the classic giant-on-the-horizon p
+ hoto. Only 356\,721 km away\, up to ~14% bigger and ~30% brighter than a m
+ icromoon.\n\nStatus: ✅ Confirmed\nExact full moon: Thu 10 Feb 2028 15:03
+  GMT. Earth–Moon distance 356\,721 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20280225
+DTEND;VALUE=DATE:20280226
+DTSTAMP:20261108T000000Z
+UID:13b402bc1aebd810ecc9@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Fri 25 Feb 2028 10:3
+ 7 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Aurora watch: equinox boost window (est.)
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+DTSTAMP:20261108T000000Z
+UID:adf46cfcf3161f8022f7@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Geomagnetic storms are statistically more likely in the weeks 
+ around the equinoxes\, because of how Earth's field lines up with the sola
+ r wind. Get AuroraWatch UK alerts on your phone and take every clear night
+  seriously.\n\nStatus: 🟡 Estimated (pattern-based or provisional\; chec
+ k before booking)\nStatistical window (late Feb–early April)\, not a for
+ ecast.\nOfficial info: https://aurorawatch.lancs.ac.uk
+GEO:58.5;-3.5
+LOCATION:Northern Scotland best\; often visible further south during storm
+ s
+TRANSP:TRANSPARENT
+URL:https://aurorawatch.lancs.ac.uk
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Northern
+  Scotland best; often visible further south during storms":geo:58.5,-3.5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Worm Moon (Supermoon)
+DTSTART;VALUE=DATE:20280311
+DTEND;VALUE=DATE:20280312
+DTSTAMP:20261108T000000Z
+UID:63c14a585be82890c41d@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Worm Moon (Supermoon): when thawing soil brings the earth
+ worms (and the birds) back. Peak at 01:05 UK time\; catch it rising at dus
+ k on the evening closest to the peak for the classic giant-on-the-horizon 
+ photo. Only 358\,070 km away\, up to ~14% bigger and ~30% brighter than a 
+ micromoon.\n\nStatus: ✅ Confirmed\nExact full moon: Sat 11 Mar 2028 01:0
+ 5 GMT. Earth–Moon distance 358\,070 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Jupiter at opposition
+DTSTART;VALUE=DATE:20280313
+DTEND;VALUE=DATE:20280314
+DTSTAMP:20261108T000000Z
+UID:d9dcf74f4332e1900bb3@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Jupiter at its biggest and brightest\, up all night. Binocular
+ s show the four Galilean moons lined up.\n\nStatus: ✅ Confirmed\nOpposit
+ ion: the planet is opposite the Sun\, so it's visible all night and at its
+  brightest. Good for a couple of weeks either side.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 March Equinox: spring begins
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+DTSTAMP:20261108T000000Z
+UID:3997b792b78103a8ca69@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Day and night roughly equal. Equinoxes also tilt the odds towa
+ rds geomagnetic storms (the Russell–McPherron effect)\, so it's a good f
+ ortnight for aurora alerts. Also Nowruz\, Persian New Year.\n\nStatus: ✅
+  Confirmed\nExact moment: Mon 20 Mar 2028 02:16 GMT.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+DTSTAMP:20261108T000000Z
+UID:1d26a41964d233a9c5f0@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ long\, moonless nights: ideal for deep-sky photography and spotting faint 
+ aurora. Exmoor\, the Brecon Beacons and Galloway are International Dark Sk
+ y Reserves.\n\nStatus: ✅ Confirmed\nExact new moon: Sun 26 Mar 2028 05:3
+ 1 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Clocks go forward (BST begins)
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+DTSTAMP:20261108T000000Z
+UID:87fea599b4f63bab1aaa@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Lose an hour in bed\, gain light evenings. Sunsets jump past 7
+ pm.\n\nStatus: ✅ Confirmed
+LOCATION:UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Pink Moon
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+DTSTAMP:20261108T000000Z
+UID:86ea3f99901e504ae144@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Pink Moon: named for the pink wild phlox of spring\, not 
+ the Moon's colour\, sadly. Peak at 11:26 UK time\; catch it rising at dusk
+  on the evening closest to the peak for the classic giant-on-the-horizon p
+ hoto.\n\nStatus: ✅ Confirmed\nExact full moon: Sun 09 Apr 2028 11:26 BST
+ . Earth–Moon distance 363\,865 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Milky Way core season begins (est.)
+DTSTART;VALUE=DATE:20280415
+DTEND;VALUE=DATE:20280416
+DTSTAMP:20261108T000000Z
+UID:627552cc73703e187d8e@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:The bright galactic core starts rising in the small hours. Tim
+ e trips with new moons\; by July and August it's up at a civilised hour\, 
+ low in the south.\n\nStatus: 🟡 Estimated (pattern-based or provisional
+ \; check before booking)
+LOCATION:Dark-sky sites: Exmoor\, Brecon Beacons\, Galloway\, Northumberla
+ nd
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Lyrids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20280422
+DTEND;VALUE=DATE:20280423
+DTSTAMP:20261108T000000Z
+UID:5fe1b2076be159b873fa@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:One of the oldest recorded showers (Chinese records from 687 B
+ C). Modest rates\, occasional bright fireballs\, best before dawn. Up to ~
+ 18/hr under perfect skies (realistically a fraction of that). 🌑 Moon on
+ ly 3% lit: excellent\, dark skies.\n\nStatus: 🟡 Estimated (pattern-base
+ d or provisional\; check before booking)\nPeak night shown\; the night eit
+ her side is usually worthwhile too.\nOfficial info: https://www.imo.net/re
+ sources/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 New Moon: dark-sky window
+DTSTART;VALUE=DATE:20280424
+DTEND;VALUE=DATE:20280425
+DTSTAMP:20261108T000000Z
+UID:191620042618860d4c92@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:No moon to wash out the stars for the few nights either side. 
+ Milky Way core is up late\; head somewhere properly dark. Exmoor\, the Bre
+ con Beacons and Galloway are International Dark Sky Reserves.\n\nStatus: 
+ ✅ Confirmed\nExact new moon: Mon 24 Apr 2028 20:46 BST.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Bluebell woods at their best (est.)
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280426
+DTSTAMP:20261108T000000Z
+UID:40bef93548fe99411300@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Half the world's bluebells grow in Britain. Late April to mid-
+ May\, ancient woods turn into violet-blue haze with that heady scent. Get 
+ out at golden hour.\n\nStatus: 🟡 Estimated (pattern-based or provisiona
+ l\; check before booking)
+GEO:51.456;-2.637
+LOCATION:Ancient woodland across the UK (Ashton Court\, Leigh Woods near B
+ ristol)
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Ancient 
+ woodland across the UK (Ashton Court, Leigh Woods near Bristol)":geo:51.45
+ 6,-2.637
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Swifts return from Africa (est.)
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+DTSTAMP:20261108T000000Z
+UID:3ab7ad8eb2764d135901@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Screaming parties of swifts arrive after a 10\,000 km flight. 
+ They eat\, sleep and mate on the wing and won't touch the ground until the
+ y nest. Summer has officially started.\n\nStatus: 🟡 Estimated (pattern-
+ based or provisional\; check before booking)
+LOCATION:UK skies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Eta Aquariids meteor shower peak (est.)
+DTSTART;VALUE=DATE:20280506
+DTEND;VALUE=DATE:20280507
+DTSTAMP:20261108T000000Z
+UID:fc97c60f9bec3f7b0f64@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Debris from Halley's Comet itself. Low radiant from the UK\, s
+ o expect a handful of long 'earthgrazers' just before dawn. Up to ~50/hr u
+ nder perfect skies (realistically a fraction of that). 🌕 Moon 96% lit: 
+ the moonlight will drown the fainter meteors\; look for fireballs.\n\nStat
+ us: 🟡 Estimated (pattern-based or provisional\; check before booking)\n
+ Peak night shown\; the night either side is usually worthwhile too.\nOffic
+ ial info: https://www.imo.net/resources/calendar/
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+URL:https://www.imo.net/resources/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌌 Full Flower Moon
+DTSTART;VALUE=DATE:20280508
+DTEND;VALUE=DATE:20280509
+DTSTAMP:20261108T000000Z
+UID:1f2a43cca5de0bccd292@global-events-calendar
+CATEGORIES:Sky & Nature (UK)
+DESCRIPTION:Full Flower Moon: everything's blooming\; bluebell woods are a
+ t their best around now. Peak at 20:48 UK time\; catch it rising at dusk o
+ n the evening closest to the peak for the classic giant-on-the-horizon pho
+ to.\n\nStatus: ✅ Confirmed\nExact full moon: Mon 08 May 2028 20:48 BST. 
+ Earth–Moon distance 372\,911 km.
+LOCATION:Visible across the UK
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

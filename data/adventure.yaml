@@ -1,0 +1,301 @@
+# Adventure & sport: sailing, paragliding, MTB, endurance, and a few marquee sporting events.
+
+# ---------------- Adventure culture ----------------
+- title: "Kendal Mountain Festival"
+  start: 2026-11-19
+  end: 2026-11-22
+  location: "Kendal, Cumbria (Lake District), UK"
+  geo: [54.3280, -2.7463]
+  url: https://www.kendalmountainfestival.com
+  trip: true
+  hook: "The world's biggest outdoor-culture festival. Adventure films, expedition talks, climbing legends in the pub and a free Basecamp village. Ideal inspiration for the next big trip, with a vlogging masterclass vibe."
+- title: "Kendal Mountain Festival"
+  start: 2027-11-18
+  end: 2027-11-21
+  status: estimated
+  key: kendal-2027
+  location: "Kendal, Cumbria (Lake District), UK"
+  geo: [54.3280, -2.7463]
+  url: https://www.kendalmountainfestival.com
+  trip: true
+  hook: "Adventure films, expedition talks and the outdoor tribe in one Lakeland town. Mongol Rally film submission, anyone?"
+  notes: "Always the third weekend of November (Thu–Sun)."
+- title: "Mongol Rally 2027 launch"
+  start: 2027-07-11
+  status: tbc
+  location: "Europe (2026 launched from the Czech Republic)"
+  url: https://www.theadventurists.com/guides/mongol-rally/
+  hook: "A new batch of fools heads off in unsuitable cars. You know exactly what's coming for them. Go to the launch party, wave them off, and hand out unsolicited advice about Kazakh border crossings."
+  notes: "2026 launched on 12 July; the 2027 dates aren't published yet."
+
+# ---------------- Sailing ----------------
+- title: "Rolex Sydney Hobart Yacht Race – start"
+  rule: {type: fixed, month: 12, day: 26, days: 1}
+  location: "Sydney Harbour → Hobart, Tasmania, Australia"
+  geo: [-33.8568, 151.2153]
+  url: https://www.rolexsydneyhobart.com
+  hook: "The Boxing Day blue-water classic. 628 nm across the Bass Strait, among the nastiest stretches of water anywhere. The harbour start with a thousand spectator boats is spectacular."
+- title: "RORC Caribbean 600"
+  start: 2027-02-22
+  status: estimated
+  location: "Antigua, Caribbean"
+  geo: [17.0060, -61.7640]
+  url: https://caribbean600.rorc.org
+  hook: "600 nm around 11 Caribbean islands in trade-wind sunshine. The RORC's winter jewel, and a great crewing opportunity for a Day Skipper."
+  notes: "Usually the third or fourth Monday of February."
+- title: "Antigua Sailing Week"
+  start: 2027-04-24
+  end: 2027-04-30
+  status: estimated
+  location: "English Harbour, Antigua"
+  geo: [17.0073, -61.7629]
+  url: https://www.sailingweek.com
+  hook: "One of the Caribbean's great regattas. Five days of racing round Antigua's coast, with Shirley Heights reggae parties after."
+- title: "Louis Vuitton Cup opens (America's Cup challengers)"
+  start: 2027-05-22
+  end: 2027-05-23
+  location: "Bay of Naples, Italy"
+  geo: [40.8359, 14.2488]
+  url: https://www.americascup.com
+  hook: "All seven AC75 foiling monohulls racing together for the first time in a new fleet-racing opener, with Vesuvius in the background."
+- title: "Youth America's Cup"
+  start: 2027-06-02
+  end: 2027-06-06
+  location: "Bay of Naples, Italy"
+  geo: [40.8359, 14.2488]
+  url: https://www.americascup.com
+  hook: "The next generation of foiling sailors in AC40s."
+- title: "Round the Island Race"
+  start: 2027-06-26
+  status: estimated
+  location: "Cowes, Isle of Wight, UK"
+  geo: [50.7628, -1.2973]
+  url: https://www.roundtheisland.org.uk
+  hook: "1,000+ boats racing 50 nm round the Isle of Wight past the Needles. Britain's biggest yacht race and a classic one to crew on."
+  notes: "Usually late June / early July; set by the tides."
+- title: "Women's America's Cup"
+  start: 2027-07-05
+  end: 2027-07-09
+  location: "Bay of Naples, Italy"
+  geo: [40.8359, 14.2488]
+  url: https://www.americascup.com
+  hook: "The world's best female sailors foiling AC40s in front of the Naples waterfront."
+- title: "38th America's Cup Match"
+  start: 2027-07-10
+  end: 2027-07-18
+  location: "Bay of Naples, Italy"
+  geo: [40.8359, 14.2488]
+  url: https://www.americascup.com
+  trip: true
+  hook: "The oldest trophy in international sport, sailed in Italy for the first time. Emirates Team NZ defend against the Louis Vuitton Cup winner in 50-knot foiling AC75s. First to seven wins. Pizza in its birthplace."
+- title: "Admiral's Cup"
+  start: 2027-07-13
+  end: 2027-07-28
+  location: "Cowes, Isle of Wight, UK"
+  geo: [50.7628, -1.2973]
+  url: https://www.rorc.org
+  hook: "The revived 'world championship of offshore racing'. National teams battle through Solent inshore races, a short offshore and the Fastnet (triple points)."
+- title: "Rolex Fastnet Race – start"
+  start: 2027-07-24
+  location: "Royal Yacht Squadron line, Cowes → Fastnet Rock → Cherbourg"
+  geo: [50.7669, -1.3008]
+  url: https://www.rolexfastnetrace.com
+  trip: true
+  hook: "The world's largest offshore race. 400+ boats, 695 nm, around the Fastnet Rock off Ireland and finishing in Cherbourg. Watch the start from Cowes or the Needles, or go one better and find a crew berth. You've got the Day Skipper."
+- title: "Cowes Week"
+  start: 2027-07-31
+  end: 2027-08-07
+  status: estimated
+  location: "Cowes, Isle of Wight, UK"
+  geo: [50.7628, -1.2973]
+  url: https://www.cowesweek.co.uk
+  hook: "One of the oldest and biggest sailing regattas in the world. 40 daily races in the Solent, with Friday-night fireworks."
+- title: "Les Voiles de Saint-Tropez"
+  start: 2027-09-25
+  end: 2027-10-03
+  status: estimated
+  location: "Saint-Tropez, France"
+  geo: [43.2692, 6.6390]
+  url: https://www.lesvoilesdesaint-tropez.fr
+  hook: "Classic wooden schooners and modern maxis racing in the autumn Mediterranean. It's the most beautiful regatta there is."
+# ---------------- Paragliding ----------------
+- title: "Red Bull X-Alps route reveal"
+  start: 2027-03-17
+  location: "Online"
+  url: https://www.redbullxalps.com
+  hook: "Which turnpoints and summits will the 2027 race use? Plan where to go and watch the athletes fly over."
+- title: "Red Bull X-Alps 2027"
+  start: 2027-06-13
+  end: 2027-06-25
+  location: "The Alps (route revealed 17 Mar 2027; Schenna, South Tyrol is a confirmed turnpoint)"
+  geo: [46.6890, 11.1870]
+  url: https://www.redbullxalps.com
+  trip: true
+  hook: "The world's toughest adventure race. 35 athletes cross ~1,200 km of Alps on foot or by paraglider for nearly two weeks. Watch at a turnpoint, follow the live tracking, and get inspired for your own paragliding training."
+- title: "Coupe Icare"
+  start: 2027-09-16
+  end: 2027-09-19
+  status: estimated
+  location: "Saint-Hilaire-du-Touvet, Chartreuse, France"
+  geo: [45.3080, 5.8890]
+  url: https://www.coupe-icare.org
+  trip: true
+  hook: "The world's biggest free-flight festival. 80,000 people, hundreds of pilots, and a costume flying contest where people launch off a cliff dressed as a giant croissant. Try a tandem flight."
+  notes: "Mid/late September pattern."
+
+# ---------------- Mountain biking ----------------
+- title: "UCI MTB World Cup opener (XCO), Nové Město"
+  start: 2027-05-21
+  end: 2027-05-23
+  location: "Nové Město na Moravě, Czechia"
+  geo: [49.5614, 16.0742]
+  url: https://www.ucimtbworldseries.com
+  hook: "Cross-country's cathedral. A forest bowl with 30,000+ screaming Czech fans opens the 2027 World Series."
+- title: "UCI MTB World Cup – DH & Enduro round (Europe)"
+  start: 2027-05-29
+  end: 2027-05-30
+  status: estimated
+  location: "Europe (venue TBC)"
+  url: https://www.ucimtbworldseries.com
+  hook: "The downhill season gets underway."
+  notes: "Date from the UCI draft calendar; venue to be confirmed."
+- title: "Megavalanche"
+  start: 2027-07-04
+  end: 2027-07-11
+  status: estimated
+  location: "Alpe d'Huez, France"
+  geo: [45.0920, 6.0700]
+  url: https://www.megavalanche.com
+  hook: "A mass-start enduro from the 3,300 m glacier at Pic Blanc down 2,600 m vertical to Allemond. Hundreds of riders sliding down snow at the start. Chaos on two wheels."
+- title: "Crankworx Whistler"
+  start: 2027-07-30
+  end: 2027-08-08
+  status: estimated
+  location: "Whistler Mountain Bike Park, BC, Canada"
+  geo: [50.1163, -122.9574]
+  url: https://www.crankworx.com
+  hook: "The world's biggest MTB festival, home of Red Bull Joyride slopestyle. Ten days of mountain-bike madness in the best bike park on Earth."
+- title: "UCI Cycling World Championships (incl. MTB)"
+  start: 2027-08-24
+  end: 2027-09-05
+  status: estimated
+  location: "Haute-Savoie, France"
+  geo: [45.8992, 6.1294]
+  url: https://www.uci.org
+  trip: true
+  hook: "All the cycling world championships in one Alpine region, including MTB XCO and downhill, with Mont Blanc as a backdrop. Bring the bike."
+  notes: "From the UCI draft calendar; exact discipline days TBC."
+- title: "Red Bull Hardline"
+  start: 2027-09-11
+  status: estimated
+  location: "Dyfi Valley, Machynlleth, Wales"
+  geo: [52.5917, -3.8500]
+  url: https://www.redbull.com/gb-en/events/red-bull-hardline
+  hook: "The world's gnarliest downhill race, in Wales. Huge gaps and brutal steeps on a track built by Dan Atherton. Only a short drive from Bristol."
+- title: "UCI XCO World Cup finale, Soldier Hollow"
+  start: 2027-09-25
+  end: 2027-09-26
+  location: "Soldier Hollow, Midway, Utah, USA"
+  geo: [40.4847, -111.5050]
+  url: https://www.ucimtbworldseries.com
+  hook: "The cross-country season decider at the 2002 Olympic venue in the Wasatch."
+- title: "UCI DH World Cup finale, Whistler"
+  start: 2027-10-02
+  end: 2027-10-03
+  location: "Whistler Mountain Bike Park, BC, Canada"
+  geo: [50.1163, -122.9574]
+  url: https://www.ucimtbworldseries.com
+  hook: "The downhill title decided on the most famous bike-park mountain in the world."
+- title: "Red Bull Rampage"
+  start: 2027-10-15
+  status: estimated
+  location: "Virgin, Utah, USA"
+  geo: [37.2050, -113.1900]
+  url: https://www.redbull.com/int-en/events/red-bull-rampage
+  hook: "Freeride on knife-edge desert ridgelines. Riders and dig crews build their own lines down sheer red-rock cliffs. It's the most audacious event in mountain biking."
+  notes: "Mid-October pattern."
+
+# ---------------- Endurance ----------------
+- title: "Iditarod Trail Sled Dog Race – start"
+  start: 2027-03-06
+  status: estimated
+  location: "Anchorage → Nome, Alaska, USA"
+  geo: [61.2181, -149.9003]
+  url: https://iditarod.com
+  hook: "'The Last Great Race'. Around 1,000 miles of Alaskan wilderness by dog team, in −40°C and blizzards."
+  notes: "Ceremonial start on the first Saturday in March."
+- title: "Marathon des Sables"
+  start: 2027-04-09
+  end: 2027-04-19
+  status: estimated
+  location: "Sahara, southern Morocco"
+  geo: [30.9335, -6.9370]
+  url: https://www.marathondessables.com
+  hook: "About 250 km self-supported across the Sahara over six stages, carrying all your food. It's like a Mongol Rally on foot."
+- title: "UTMB (Ultra-Trail du Mont-Blanc)"
+  start: 2027-08-23
+  end: 2027-08-29
+  status: estimated
+  location: "Chamonix, France (via Italy & Switzerland)"
+  geo: [45.9237, 6.8694]
+  url: https://utmb.world
+  trip: true
+  hook: "171 km and 10,000 m of climbing around Mont Blanc through three countries. Chamonix becomes the trail-running capital of the world for the week; the finish-line atmosphere is electric."
+
+# ---------------- Marquee sport ----------------
+- title: "Six Nations Championship – opening weekend"
+  start: 2027-02-06
+  status: estimated
+  location: "Twickenham / Murrayfield / Principality / Aviva / Stade de France / Stadio Olimpico"
+  geo: [51.4560, -0.3415]
+  url: https://www.sixnationsrugby.com
+  hook: "Rugby's oldest international tournament kicks off. Cardiff on match day, with the roof closed and the anthems, is something else."
+  notes: "Fixtures usually run early Feb to mid-March."
+- title: "The Boat Race"
+  start: 2027-03-27
+  status: estimated
+  location: "Putney → Mortlake, River Thames, London, UK"
+  geo: [51.4670, -0.2240]
+  url: https://www.theboatrace.org
+  hook: "Oxford vs Cambridge over 6.8 km of the Tideway, watched by 250,000 people along the banks with a pint."
+- title: "The Championships, Wimbledon"
+  start: 2027-06-28
+  end: 2027-07-11
+  status: estimated
+  location: "All England Club, Wimbledon, London, UK"
+  geo: [51.4340, -0.2140]
+  url: https://www.wimbledon.com
+  hook: "Strawberries, the Queue (a national institution) and grass-court tennis. Queue overnight once in your life."
+- title: "Tour de France Grand Départ – Stage 1, Edinburgh → Carlisle"
+  start: 2027-07-02
+  location: "Edinburgh Castle, Scotland, UK"
+  geo: [55.9486, -3.1999]
+  url: https://www.letourgb.com
+  trip: true
+  hook: "The Tour starts in Scotland for the first time ever, from Edinburgh Castle through the Borders to Carlisle (184 km). Then stages through England and a Welshpool → Cardiff finale on 4 July. Free to watch from the roadside."
+- title: "Tour de France – Stage 3, Welshpool → Cardiff"
+  start: 2027-07-04
+  location: "Welshpool → Cardiff, Wales, UK"
+  geo: [51.4816, -3.1791]
+  url: https://www.letourgb.com
+  hook: "The final British stage finishes in Cardiff, a cheap day trip from Bristol over the bridge. Pick a hill and get there early."
+- title: "Tour de France Femmes – Grand Départ, Leeds"
+  start: 2027-07-30
+  location: "Leeds, Yorkshire, UK"
+  geo: [53.8008, -1.5491]
+  url: https://www.letourgb.com
+  hook: "The women's Tour starts in Yorkshire, cycling country that went Tour-crazy in 2014."
+- title: "Rugby World Cup 2027 – opening match"
+  start: 2027-10-01
+  location: "Perth Stadium, Perth, Australia"
+  geo: [-31.9512, 115.8890]
+  url: https://www.rugbyworldcup.com/2027
+  hook: "The first 24-team Rugby World Cup kicks off: Australia vs Hong Kong China. Six weeks, seven host cities and a new Round of 16."
+- title: "Rugby World Cup 2027 – Final"
+  start: 2027-11-13T20:00
+  tz: Australia/Sydney
+  duration: 120
+  location: "Stadium Australia, Sydney, Australia"
+  geo: [-33.8470, 151.0634]
+  url: https://www.rugbyworldcup.com/2027
+  hook: "The final in Sydney. A 9am kick-off in the UK, so bacon sandwiches at the ready."

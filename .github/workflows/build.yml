@@ -1,0 +1,30 @@
+name: Build calendar feeds
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "generator/**", ".github/workflows/build.yml"]
+  schedule:
+    - cron: "17 4 * * 1"   # weekly (Mon 04:17 UTC): rolls the 18-month window and recomputes sky events
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python generator/build.py
+      - name: Commit updated feeds
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "Rebuild feeds $(date -u +%F)"
+          git push

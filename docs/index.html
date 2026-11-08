@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ben's Global Events Calendar</title>
+<style>
+:root{--bg:#0f1115;--card:#181b22;--ink:#e9ecf1;--muted:#9aa3b2;--line:#2a2f3a}
+@media (prefers-color-scheme:light){:root{--bg:#f6f5f2;--card:#fff;--ink:#16181d;--muted:#5d6574;--line:#e3e1dc}}
+*{box-sizing:border-box}body{margin:0;font:16px/1.5 system-ui,-apple-system,Segoe UI,sans-serif;background:var(--bg);color:var(--ink)}
+main{max-width:760px;margin:0 auto;padding:32px 18px 64px}
+h1{font-size:28px;margin:0 0 6px} .sub{color:var(--muted);margin:0 0 24px}
+.feed{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--c);border-radius:12px;padding:16px 18px;margin:12px 0}
+.feed-head{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.feed h2{font-size:18px;margin:0} .count{color:var(--muted);font-size:13px;white-space:nowrap}
+.feed p{color:var(--muted);margin:6px 0 12px;font-size:14px}
+.btns{display:flex;flex-wrap:wrap;gap:8px}
+.btn{font:inherit;font-size:14px;padding:8px 12px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--ink);text-decoration:none;cursor:pointer}
+.btn.primary{background:var(--c);border-color:var(--c);color:#fff}
+.legend,.up{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin:20px 0;font-size:14px}
+.up ul{list-style:none;padding:0;margin:8px 0 0} .up li{padding:3px 0;border-bottom:1px dashed var(--line)}
+.d{display:inline-block;width:56px;color:var(--muted);font-variant-numeric:tabular-nums}
+footer{color:var(--muted);font-size:13px;margin-top:28px}
+</style></head><body><main>
+<h1>🌍 Ben's Global Events Calendar</h1>
+<p class="sub">Festivals, motorsport, adventure, sky events and the arts, picked for an engineer with itchy feet.
+Covers 25 Oct 2026 → 10 May 2028 (always 18 months ahead) and rebuilds itself every month.</p>
+<div class="legend"><b>Reading an entry</b><br>
+✈️ worth a trip (booking nudge ~3 months ahead) · <b>(est.)</b> date estimated from pattern/provisional · <b>(TBC)</b> placeholder until announced.
+Every event has a hook, official link and map pin in its notes.</div>
+
+      <div class="feed" style="--c:#E4572E">
+        <div class="feed-head"><h2>🎭 Global Cultural Festivals</h2><span class="count">91 events</span></div>
+        <p>Festivals, carnivals, lunar and religious celebrations worldwide.</p>
+        <div class="btns">
+          <a class="btn primary" href="webcal://benstjohhn.github.io/global-events-calendar/feeds/cultural.ics">Subscribe (Apple / Outlook)</a>
+          <a class="btn" href="https://calendar.google.com/calendar/r?cid=webcal://benstjohhn.github.io/global-events-calendar/feeds/cultural.ics" target="_blank" rel="noopener">Add to Google</a>
+          <button class="btn" onclick="copy('https://benstjohhn.github.io/global-events-calendar/feeds/cultural.ics', this)">Copy link</button>
+        </div>
+      </div>
+      <div class="feed" style="--c:#17BEBB">
+        <div class="feed-head"><h2>🪂 Adventure &amp; Sport</h2><span class="count">39 events</span></div>
+        <p>Sailing, paragliding, MTB, ultra and marquee sporting events.</p>
+        <div class="btns">
+          <a class="btn primary" href="webcal://benstjohhn.github.io/global-events-calendar/feeds/adventure.ics">Subscribe (Apple / Outlook)</a>
+          <a class="btn" href="https://calendar.google.com/calendar/r?cid=webcal://benstjohhn.github.io/global-events-calendar/feeds/adventure.ics" target="_blank" rel="noopener">Add to Google</a>
+          <button class="btn" onclick="copy('https://benstjohhn.github.io/global-events-calendar/feeds/adventure.ics', this)">Copy link</button>
+        </div>
+      </div>
+      <div class="feed" style="--c:#2E4057">
+        <div class="feed-head"><h2>🌌 Sky &amp; Nature (UK)</h2><span class="count">95 events</span></div>
+        <p>Moons, meteor showers, eclipses, planets and UK wildlife seasons, visible from the UK.</p>
+        <div class="btns">
+          <a class="btn primary" href="webcal://benstjohhn.github.io/global-events-calendar/feeds/sky.ics">Subscribe (Apple / Outlook)</a>
+          <a class="btn" href="https://calendar.google.com/calendar/r?cid=webcal://benstjohhn.github.io/global-events-calendar/feeds/sky.ics" target="_blank" rel="noopener">Add to Google</a>
+          <button class="btn" onclick="copy('https://benstjohhn.github.io/global-events-calendar/feeds/sky.ics', this)">Copy link</button>
+        </div>
+      </div>
+      <div class="feed" style="--c:#76B041">
+        <div class="feed-head"><h2>🎸 Music &amp; Arts</h2><span class="count">36 events</span></div>
+        <p>Major music festivals, biennales, film and literature festivals.</p>
+        <div class="btns">
+          <a class="btn primary" href="webcal://benstjohhn.github.io/global-events-calendar/feeds/music_arts.ics">Subscribe (Apple / Outlook)</a>
+          <a class="btn" href="https://calendar.google.com/calendar/r?cid=webcal://benstjohhn.github.io/global-events-calendar/feeds/music_arts.ics" target="_blank" rel="noopener">Add to Google</a>
+          <button class="btn" onclick="copy('https://benstjohhn.github.io/global-events-calendar/feeds/music_arts.ics', this)">Copy link</button>
+        </div>
+      </div>
+      <div class="feed" style="--c:#D7263D">
+        <div class="feed-head"><h2>🏁 Motorsport</h2><span class="count">110 events</span></div>
+        <p>F1 (quali, sprint, race), WRC, Dakar &amp; W2RC, British GT, GTWC Europe, rallycross.</p>
+        <div class="btns">
+          <a class="btn primary" href="webcal://benstjohhn.github.io/global-events-calendar/feeds/motorsport.ics">Subscribe (Apple / Outlook)</a>
+          <a class="btn" href="https://calendar.google.com/calendar/r?cid=webcal://benstjohhn.github.io/global-events-calendar/feeds/motorsport.ics" target="_blank" rel="noopener">Add to Google</a>
+          <button class="btn" onclick="copy('https://benstjohhn.github.io/global-events-calendar/feeds/motorsport.ics', this)">Copy link</button>
+        </div>
+      </div>
+      <div class="feed" style="--c:#FFC914">
+        <div class="feed-head"><h2>📅 Booking Nudges</h2><span class="count">62 events</span></div>
+        <p>A heads-up ~3 months before every ✈️ trip-worthy event, so flights and tickets are still sane.</p>
+        <div class="btns">
+          <a class="btn primary" href="webcal://benstjohhn.github.io/global-events-calendar/feeds/nudges.ics">Subscribe (Apple / Outlook)</a>
+          <a class="btn" href="https://calendar.google.com/calendar/r?cid=webcal://benstjohhn.github.io/global-events-calendar/feeds/nudges.ics" target="_blank" rel="noopener">Add to Google</a>
+          <button class="btn" onclick="copy('https://benstjohhn.github.io/global-events-calendar/feeds/nudges.ics', this)">Copy link</button>
+        </div>
+      </div>
+      <div class="feed" style="--c:#888888">
+        <div class="feed-head"><h2>🌍 Everything</h2><span class="count">371 events</span></div>
+        <p>Every feed combined in one calendar.</p>
+        <div class="btns">
+          <a class="btn primary" href="webcal://benstjohhn.github.io/global-events-calendar/feeds/all.ics">Subscribe (Apple / Outlook)</a>
+          <a class="btn" href="https://calendar.google.com/calendar/r?cid=webcal://benstjohhn.github.io/global-events-calendar/feeds/all.ics" target="_blank" rel="noopener">Add to Google</a>
+          <button class="btn" onclick="copy('https://benstjohhn.github.io/global-events-calendar/feeds/all.ics', this)">Copy link</button>
+        </div>
+      </div>
+<div class="up"><b>Coming up next</b><ul><li><span class='d'>08 Nov</span> 🎭 Diwali (Festival of Lights)</li><li><span class='d'>08 Nov</span> 🏁 F1 São Paulo GP – Race</li><li><span class='d'>09 Nov</span> 🌌 New Moon: dark-sky window</li><li><span class='d'>15 Nov</span> 🌌 Grey seal pupping season (est.)</li><li><span class='d'>17 Nov</span> 🎭 Pushkar Camel Fair (est.)</li><li><span class='d'>17 Nov</span> 🌌 Leonids meteor shower peak (est.)</li><li><span class='d'>19 Nov</span> ✈️ 🪂 Kendal Mountain Festival</li><li><span class='d'>21 Nov</span> 🏁 F1 Las Vegas GP – Qualifying</li><li><span class='d'>22 Nov</span> 🏁 F1 Las Vegas GP – Race</li><li><span class='d'>24 Nov</span> 🎭 Loy Krathong &amp; Yi Peng, Chiang Mai</li><li><span class='d'>24 Nov</span> 🌌 Full Beaver Moon (Supermoon)</li><li><span class='d'>26 Nov</span> 🎭 Strasbourg Christmas Market (Christkindelsmärik) (est.)</li></ul></div>
+<footer>Built 08 Nov 2026 17:44 UK. Subscribe to the individual feeds to switch categories on and off, or to 🌍 Everything for one calendar.
+Google Calendar refreshes subscribed feeds every ~12–24h; Apple lets you choose under the calendar's settings.</footer>
+</main>
+<script>function copy(t,b){navigator.clipboard.writeText(t).then(()=>{const o=b.textContent;b.textContent='Copied ✓';setTimeout(()=>b.textContent=o,1500)})}</script>
+</body></html>

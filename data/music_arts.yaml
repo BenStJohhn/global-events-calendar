@@ -1,0 +1,306 @@
+# Music, arts, film and literature.
+
+# ---------------- 2026 ----------------
+- title: "Art Basel Miami Beach"
+  start: 2026-12-04
+  end: 2026-12-06
+  status: estimated
+  location: "Miami Beach Convention Center, Florida, USA"
+  geo: [25.7953, -80.1340]
+  url: https://www.artbasel.com/miami-beach
+  hook: "The art world decamps to Miami. Blue-chip galleries, satellite fairs, Wynwood street murals and rooftop parties."
+  notes: "Early-December pattern; check the official dates."
+
+# ---------------- 2027 ----------------
+- title: "Sundance Film Festival (first year in Boulder)"
+  start: 2027-01-21
+  end: 2027-01-31
+  status: estimated
+  location: "Boulder, Colorado, USA"
+  geo: [40.0150, -105.2705]
+  url: https://www.sundance.org
+  hook: "Indie cinema's launchpad moves from Park City to Boulder in 2027, a new era for the festival that found Tarantino and Soderbergh."
+  notes: "Late-January pattern; dates TBC by Sundance Institute."
+- title: "Berlinale (Berlin International Film Festival)"
+  start: 2027-02-11
+  end: 2027-02-21
+  status: estimated
+  location: "Potsdamer Platz, Berlin, Germany"
+  geo: [52.5096, 13.3759]
+  url: https://www.berlinale.de
+  hook: "The most public of the big film festivals, with 300,000+ tickets sold to ordinary cinema-goers. Golden Bears, snowy red carpets, Berlin nightlife."
+- title: "SXSW"
+  start: 2027-03-12
+  end: 2027-03-20
+  status: estimated
+  location: "Austin, Texas, USA"
+  geo: [30.2672, -97.7431]
+  url: https://www.sxsw.com
+  hook: "Tech, film and 1,000+ bands in every bar on 6th Street. The place to catch the next big thing (Twitter broke out here in 2007)."
+- title: "Coachella – Weekend 1"
+  start: 2027-04-09
+  end: 2027-04-11
+  location: "Empire Polo Club, Indio, California, USA"
+  geo: [33.6823, -116.2370]
+  url: https://www.coachella.com
+  trip: true
+  hook: "Desert sunsets, giant art installations, the Ferris wheel and a lineup that defines the festival summer. Weekend 2 has the same lineup a week later."
+- title: "Coachella – Weekend 2"
+  start: 2027-04-16
+  end: 2027-04-18
+  location: "Empire Polo Club, Indio, California, USA"
+  geo: [33.6823, -116.2370]
+  url: https://www.coachella.com
+  hook: "Same lineup as Weekend 1. Usually a little cheaper and a little less influencer-heavy."
+- title: "Yokohama Triennale"
+  start: 2027-04-23
+  end: 2027-09-12
+  location: "Yokohama, Japan"
+  geo: [35.4437, 139.6380]
+  hook: "Japan's major contemporary-art triennial, spread across the waterfront city. A good extra stop on a cherry-blossom trip."
+- title: "Venice Architecture Biennale – opens"
+  start: 2027-05-08
+  location: "Giardini & Arsenale, Venice, Italy"
+  geo: [45.4287, 12.3615]
+  url: https://www.labiennale.org/en/architecture/2027
+  trip: true
+  hook: "The 20th Architecture Biennale, 'Do Architecture', curated by Pritzker winner Wang Shu with Lu Wenyu. National pavilions rethink how we build. It's catnip for an engineer and runs until 21 Nov."
+  notes: "Runs 8 May – 21 Nov 2027 (previews 6–7 May)."
+- title: "Eurovision Song Contest – Semi-final 1"
+  start: 2027-05-11T21:00
+  tz: Europe/Sofia
+  duration: 120
+  location: "Arena Burgas, Burgas, Bulgaria"
+  geo: [42.5048, 27.4626]
+  url: https://eurovision.tv
+  hook: "The first Eurovision ever held in Bulgaria, on the Black Sea coast, after DARA's 'Bangaranga' won in Vienna."
+  notes: "Shows start 21:00 CEST (20:00 UK)."
+- title: "Eurovision Song Contest – Semi-final 2"
+  start: 2027-05-13T21:00
+  tz: Europe/Sofia
+  duration: 120
+  location: "Arena Burgas, Burgas, Bulgaria"
+  geo: [42.5048, 27.4626]
+  url: https://eurovision.tv
+  hook: "Second semi; the UK, as a Big Five member, goes straight to the final."
+- title: "Eurovision Song Contest – Grand Final"
+  start: 2027-05-15T21:00
+  tz: Europe/Sofia
+  duration: 240
+  location: "Arena Burgas, Burgas, Bulgaria"
+  geo: [42.5048, 27.4626]
+  url: https://eurovision.tv
+  hook: "Key changes, wind machines and geopolitical voting. Get the party snacks in."
+- title: "Cannes Film Festival"
+  start: 2027-05-11
+  end: 2027-05-22
+  status: estimated
+  location: "Palais des Festivals, Cannes, France"
+  geo: [43.5511, 7.0174]
+  url: https://www.festival-cannes.com
+  hook: "Red carpets on the Croisette and the Palme d'Or. Public screenings on the beach (Cinéma de la Plage) are free."
+- title: "Hay Festival"
+  start: 2027-05-27
+  end: 2027-06-06
+  status: estimated
+  location: "Hay-on-Wye, Powys, Wales"
+  geo: [52.0740, -3.1253]
+  url: https://www.hayfestival.com
+  hook: "Bill Clinton once called it 'the Woodstock of the mind'. Authors, scientists and adventurers in tents, in a town with 20+ bookshops. Perfect for the reading list."
+- title: "Primavera Sound"
+  start: 2027-06-02
+  end: 2027-06-06
+  status: estimated
+  location: "Parc del Fòrum, Barcelona, Spain"
+  geo: [41.4108, 2.2214]
+  url: https://www.primaverasound.com
+  trip: true
+  hook: "Indie heaven by the Mediterranean, with sets until 6am and sunrise over the sea. The musician's festival."
+- title: "Liverpool Biennial"
+  start: 2027-06-05
+  end: 2027-09-12
+  location: "Liverpool, UK"
+  geo: [53.4084, -2.9916]
+  hook: "The UK's biggest contemporary-art festival, taking over galleries, docks and derelict buildings across the city."
+- title: "Helsinki Biennial"
+  start: 2027-06-06
+  end: 2027-09-19
+  location: "Vallisaari island & Helsinki, Finland"
+  geo: [60.1580, 25.0000]
+  hook: "Contemporary art on a car-free island fortress in the Helsinki archipelago. Take the ferry and stay for the midnight sun. Rally Finland is a few weeks later."
+- title: "documenta 16"
+  start: 2027-06-12
+  end: 2027-09-19
+  location: "Kassel, Germany"
+  geo: [51.3127, 9.4797]
+  url: https://www.documenta.de
+  trip: true
+  hook: "The once-every-five-years 'museum of 100 days', arguably the most important contemporary-art exhibition in the world. Curated by Naomi Beckwith, the whole of Kassel becomes the gallery."
+- title: "Art Basel"
+  start: 2027-06-17
+  end: 2027-06-20
+  status: estimated
+  location: "Messe Basel, Switzerland"
+  geo: [47.5636, 7.6000]
+  url: https://www.artbasel.com/basel
+  hook: "The world's premier art fair. Unlimited, its hall of building-scale works, is the highlight."
+- title: "Glastonbury Festival"
+  start: 2027-06-23
+  end: 2027-06-27
+  location: "Worthy Farm, Pilton, Somerset, UK"
+  geo: [51.1550, -2.5850]
+  url: https://www.glastonburyfestivals.co.uk
+  trip: true
+  hook: "Back after the 2026 fallow year. 200,000 people, the Pyramid Stage, Arcadia's fire-breathing spider, Shangri-La after dark and the Stone Circle at sunrise. 40 minutes from Bristol."
+  notes: "Resale happens in spring 2027, so set a reminder."
+- title: "Roskilde Festival"
+  start: 2027-06-26
+  end: 2027-07-03
+  status: estimated
+  location: "Roskilde, Denmark"
+  geo: [55.6189, 12.0786]
+  url: https://www.roskilde-festival.dk
+  hook: "Northern Europe's biggest non-profit festival. A week of camping-ground madness before the big Orange Stage lineup."
+- title: "Montreux Jazz Festival"
+  start: 2027-07-02
+  end: 2027-07-17
+  status: estimated
+  location: "Montreux, Lake Geneva, Switzerland"
+  geo: [46.4312, 6.9107]
+  url: https://www.montreuxjazzfestival.com
+  hook: "Lakeside legends, of 'Smoke on the Water' fame. Free stages along the promenade with the Alps behind."
+- title: "BBC Proms"
+  start: 2027-07-16
+  end: 2027-09-11
+  status: estimated
+  location: "Royal Albert Hall, London, UK"
+  geo: [51.5009, -0.1774]
+  url: https://www.bbc.co.uk/proms
+  hook: "Eight weeks of world-class concerts with £8 standing 'Promming' tickets. Ends with the flag-waving Last Night."
+- title: "Tomorrowland"
+  start: 2027-07-16
+  end: 2027-07-25
+  status: estimated
+  location: "De Schorre, Boom, Belgium"
+  geo: [51.0910, 4.3830]
+  url: https://www.tomorrowland.com
+  hook: "The most theatrical dance festival on the planet, with the main stage built like a fairytale city. It sells out in minutes."
+  notes: "Two weekends; pattern-based dates."
+- title: "Fuji Rock Festival"
+  start: 2027-07-30
+  end: 2027-08-01
+  status: estimated
+  location: "Naeba Ski Resort, Niigata, Japan"
+  geo: [36.8500, 138.7833]
+  url: https://www.fujirockfestival.com
+  hook: "Japan's biggest festival, in a mountain ski resort with forest boardwalks and a gondola up to a hilltop stage. Spotlessly clean, too."
+- title: "Edinburgh Festival Fringe (80th)"
+  start: 2027-08-06
+  end: 2027-08-30
+  location: "Edinburgh, Scotland, UK"
+  geo: [55.9533, -3.1883]
+  url: https://www.edfringe.com
+  trip: true
+  hook: "The world's largest arts festival in its 80th year. 3,000+ shows in pub cellars, churches and lecture theatres. See five shows a day, flyer-dodge the Royal Mile and catch the comedy breakouts."
+- title: "Sziget Festival"
+  start: 2027-08-11
+  end: 2027-08-16
+  status: estimated
+  location: "Óbuda Island, Budapest, Hungary"
+  geo: [47.5530, 19.0530]
+  url: https://szigetfestival.com
+  hook: "A week-long 'Island of Freedom' on the Danube, with circus tents, art and every genre going."
+- title: "Reading & Leeds Festivals"
+  start: 2027-08-27
+  end: 2027-08-29
+  status: estimated
+  location: "Reading & Leeds, UK"
+  geo: [51.4637, -0.9876]
+  url: https://www.readingfestival.com
+  hook: "The bank-holiday rite of passage. Twin sites, same lineup, carnage in the campsites."
+- title: "Burning Man"
+  start: 2027-08-29
+  end: 2027-09-06
+  status: estimated
+  location: "Black Rock Desert, Nevada, USA"
+  geo: [40.7864, -119.2065]
+  url: https://burningman.org
+  trip: true
+  hook: "A city of 70,000 built from scratch in the desert, then gone without a trace. Mutant vehicles, colossal art, dust storms, gifting and the burning of the Man. A self-reliance test you'd ace."
+  notes: "Runs from the last Sunday in August to Labor Day; confirmed by BRC in winter."
+- title: "Venice Film Festival"
+  start: 2027-09-01
+  end: 2027-09-11
+  status: estimated
+  location: "Lido di Venezia, Italy"
+  geo: [45.4065, 12.3670]
+  url: https://www.labiennale.org/en/cinema
+  hook: "The oldest film festival in the world, with stars arriving by water taxi and Oscar contenders premiering. The Architecture Biennale is on at the same time."
+- title: "Frieze London"
+  start: 2027-10-13
+  end: 2027-10-17
+  status: estimated
+  location: "Regent's Park, London, UK"
+  geo: [51.5313, -0.1570]
+  url: https://www.frieze.com
+  hook: "London's art week. Frieze, Frieze Masters, and a free sculpture park in Regent's Park."
+- title: "Venice Architecture Biennale – final day"
+  start: 2027-11-21
+  location: "Giardini & Arsenale, Venice, Italy"
+  geo: [45.4287, 12.3615]
+  url: https://www.labiennale.org/en/architecture/2027
+  hook: "Last chance to see 'Do Architecture'."
+- title: "Art Basel Miami Beach"
+  start: 2027-12-03
+  end: 2027-12-05
+  status: estimated
+  key: abmb-2027
+  location: "Miami Beach Convention Center, Florida, USA"
+  geo: [25.7953, -80.1340]
+  url: https://www.artbasel.com/miami-beach
+  hook: "The art world in Miami for a week, with fairs, parties and Wynwood murals."
+
+# ---------------- 2028 ----------------
+- title: "Sundance Film Festival"
+  start: 2028-01-20
+  end: 2028-01-30
+  status: estimated
+  key: sundance-2028
+  location: "Boulder, Colorado, USA"
+  geo: [40.0150, -105.2705]
+  url: https://www.sundance.org
+  hook: "Indie cinema's launchpad, in its second year in Boulder."
+- title: "Berlinale"
+  start: 2028-02-10
+  end: 2028-02-20
+  status: estimated
+  key: berlinale-2028
+  location: "Potsdamer Platz, Berlin, Germany"
+  geo: [52.5096, 13.3759]
+  url: https://www.berlinale.de
+  hook: "Golden Bears and the most public of the big film festivals."
+- title: "SXSW"
+  start: 2028-03-10
+  end: 2028-03-18
+  status: estimated
+  key: sxsw-2028
+  location: "Austin, Texas, USA"
+  geo: [30.2672, -97.7431]
+  url: https://www.sxsw.com
+  hook: "Tech, film and music overload in Austin."
+- title: "Coachella – Weekend 1"
+  start: 2028-04-14
+  end: 2028-04-16
+  status: estimated
+  key: coachella-2028-w1
+  location: "Empire Polo Club, Indio, California, USA"
+  geo: [33.6823, -116.2370]
+  url: https://www.coachella.com
+  hook: "Desert festival season opens. 2028 dates are usually announced the day after the 2027 festival."
+- title: "Eurovision Song Contest 2028"
+  start: 2028-05-13
+  status: tbc
+  key: eurovision-2028
+  location: "Host country = 2027 winner"
+  url: https://eurovision.tv
+  hook: "The host is decided by whoever wins in Burgas. Grand final normally the second or third Saturday in May."

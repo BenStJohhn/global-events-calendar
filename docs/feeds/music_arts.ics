@@ -1,0 +1,698 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ben St John//Global Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Major music festivals, biennales, film and literature festiva
+ ls.
+X-WR-CALNAME:🎸 Music & Arts
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-APPLE-CALENDAR-COLOR:#76B041
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:🎸 Art Basel Miami Beach (est.)
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261108T000000Z
+UID:804e49fde53dc4dd451a@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The art world decamps to Miami. Blue-chip galleries\, satellit
+ e fairs\, Wynwood street murals and rooftop parties.\n\nStatus: 🟡 Estim
+ ated (pattern-based or provisional\; check before booking)\nEarly-December
+  pattern\; check the official dates.\nOfficial info: https://www.artbasel.
+ com/miami-beach
+GEO:25.7953;-80.134
+LOCATION:Miami Beach Convention Center\, Florida\, USA
+TRANSP:TRANSPARENT
+URL:https://www.artbasel.com/miami-beach
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Miami Be
+ ach Convention Center, Florida, USA":geo:25.7953,-80.134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Sundance Film Festival (first year in Boulder) (est.)
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261108T000000Z
+UID:dd75a2220dd3a3a11c83@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Indie cinema's launchpad moves from Park City to Boulder in 20
+ 27\, a new era for the festival that found Tarantino and Soderbergh.\n\nSt
+ atus: 🟡 Estimated (pattern-based or provisional\; check before booking)
+ \nLate-January pattern\; dates TBC by Sundance Institute.\nOfficial info: 
+ https://www.sundance.org
+GEO:40.015;-105.2705
+LOCATION:Boulder\, Colorado\, USA
+TRANSP:TRANSPARENT
+URL:https://www.sundance.org
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Boulder,
+  Colorado, USA":geo:40.015,-105.2705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Berlinale (Berlin International Film Festival) (est.)
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261108T000000Z
+UID:79cbf247823488c8d948@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The most public of the big film festivals\, with 300\,000+ tic
+ kets sold to ordinary cinema-goers. Golden Bears\, snowy red carpets\, Ber
+ lin nightlife.\n\nStatus: 🟡 Estimated (pattern-based or provisional\; c
+ heck before booking)\nOfficial info: https://www.berlinale.de
+GEO:52.5096;13.3759
+LOCATION:Potsdamer Platz\, Berlin\, Germany
+TRANSP:TRANSPARENT
+URL:https://www.berlinale.de
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Potsdame
+ r Platz, Berlin, Germany":geo:52.5096,13.3759
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 SXSW (est.)
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261108T000000Z
+UID:35a359c3320a9bdfa556@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Tech\, film and 1\,000+ bands in every bar on 6th Street. The 
+ place to catch the next big thing (Twitter broke out here in 2007).\n\nSta
+ tus: 🟡 Estimated (pattern-based or provisional\; check before booking)
+ \nOfficial info: https://www.sxsw.com
+GEO:30.2672;-97.7431
+LOCATION:Austin\, Texas\, USA
+TRANSP:TRANSPARENT
+URL:https://www.sxsw.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Austin, 
+ Texas, USA":geo:30.2672,-97.7431
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎸 Coachella – Weekend 1
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261108T000000Z
+UID:39f38eb6f9ae5af731c1@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Desert sunsets\, giant art installations\, the Ferris wheel an
+ d a lineup that defines the festival summer. Weekend 2 has the same lineup
+  a week later.\n\nStatus: ✅ Confirmed\n✈️ Trip-worthy: there's a boo
+ king nudge in the 📅 Booking Nudges feed ~3 months ahead.\nOfficial info
+ : https://www.coachella.com
+GEO:33.6823;-116.237
+LOCATION:Empire Polo Club\, Indio\, California\, USA
+TRANSP:TRANSPARENT
+URL:https://www.coachella.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Empire P
+ olo Club, Indio, California, USA":geo:33.6823,-116.237
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Coachella – Weekend 1 is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Coachella – Weekend 2
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+DTSTAMP:20261108T000000Z
+UID:d24913978e89a2361e8e@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Same lineup as Weekend 1. Usually a little cheaper and a littl
+ e less influencer-heavy.\n\nStatus: ✅ Confirmed\nOfficial info: https://
+ www.coachella.com
+GEO:33.6823;-116.237
+LOCATION:Empire Polo Club\, Indio\, California\, USA
+TRANSP:TRANSPARENT
+URL:https://www.coachella.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Empire P
+ olo Club, Indio, California, USA":geo:33.6823,-116.237
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Yokohama Triennale
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20261108T000000Z
+UID:d3e9985ec60e9b7a203f@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Japan's major contemporary-art triennial\, spread across the w
+ aterfront city. A good extra stop on a cherry-blossom trip.\n\nStatus: ✅
+  Confirmed
+GEO:35.4437;139.638
+LOCATION:Yokohama\, Japan
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Yokohama
+ , Japan":geo:35.4437,139.638
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎸 Venice Architecture Biennale – opens
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261108T000000Z
+UID:9bae042e09ba7b095bef@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The 20th Architecture Biennale\, 'Do Architecture'\, curated b
+ y Pritzker winner Wang Shu with Lu Wenyu. National pavilions rethink how w
+ e build. It's catnip for an engineer and runs until 21 Nov.\n\nStatus: ✅
+  Confirmed\nRuns 8 May – 21 Nov 2027 (previews 6–7 May).\n✈️ Trip-
+ worthy: there's a booking nudge in the 📅 Booking Nudges feed ~3 months 
+ ahead.\nOfficial info: https://www.labiennale.org/en/architecture/2027
+GEO:45.4287;12.3615
+LOCATION:Giardini & Arsenale\, Venice\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.labiennale.org/en/architecture/2027
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Giardini
+  & Arsenale, Venice, Italy":geo:45.4287,12.3615
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Venice Architecture Biennale – opens is ~3 mo
+ nths away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Cannes Film Festival (est.)
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270523
+DTSTAMP:20261108T000000Z
+UID:3337becd7282f804ead3@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Red carpets on the Croisette and the Palme d'Or. Public screen
+ ings on the beach (Cinéma de la Plage) are free.\n\nStatus: 🟡 Estimate
+ d (pattern-based or provisional\; check before booking)\nOfficial info: ht
+ tps://www.festival-cannes.com
+GEO:43.5511;7.0174
+LOCATION:Palais des Festivals\, Cannes\, France
+TRANSP:TRANSPARENT
+URL:https://www.festival-cannes.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Palais d
+ es Festivals, Cannes, France":geo:43.5511,7.0174
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Eurovision Song Contest – Semi-final 1
+DTSTART:20270511T180000Z
+DTEND:20270511T200000Z
+DTSTAMP:20261108T000000Z
+UID:e226dc26c8ba5c87b06f@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The first Eurovision ever held in Bulgaria\, on the Black Sea 
+ coast\, after DARA's 'Bangaranga' won in Vienna.\n\nStatus: ✅ Confirmed
+ \nShows start 21:00 CEST (20:00 UK).\nLocal start: Tue 11 May 21:00 (EEST)
+ . Your calendar shows it in your own time zone.\nOfficial info: https://eu
+ rovision.tv
+GEO:42.5048;27.4626
+LOCATION:Arena Burgas\, Burgas\, Bulgaria
+URL:https://eurovision.tv
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Arena Bu
+ rgas, Burgas, Bulgaria":geo:42.5048,27.4626
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Eurovision Song Contest – Semi-final 2
+DTSTART:20270513T180000Z
+DTEND:20270513T200000Z
+DTSTAMP:20261108T000000Z
+UID:bf85817f046e5e5b6f19@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Second semi\; the UK\, as a Big Five member\, goes straight to
+  the final.\n\nStatus: ✅ Confirmed\nLocal start: Thu 13 May 21:00 (EEST)
+ . Your calendar shows it in your own time zone.\nOfficial info: https://eu
+ rovision.tv
+GEO:42.5048;27.4626
+LOCATION:Arena Burgas\, Burgas\, Bulgaria
+URL:https://eurovision.tv
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Arena Bu
+ rgas, Burgas, Bulgaria":geo:42.5048,27.4626
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Eurovision Song Contest – Grand Final
+DTSTART:20270515T180000Z
+DTEND:20270515T220000Z
+DTSTAMP:20261108T000000Z
+UID:92e060932f6e63076194@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Key changes\, wind machines and geopolitical voting. Get the p
+ arty snacks in.\n\nStatus: ✅ Confirmed\nLocal start: Sat 15 May 21:00 (E
+ EST). Your calendar shows it in your own time zone.\nOfficial info: https:
+ //eurovision.tv
+GEO:42.5048;27.4626
+LOCATION:Arena Burgas\, Burgas\, Bulgaria
+URL:https://eurovision.tv
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Arena Bu
+ rgas, Burgas, Bulgaria":geo:42.5048,27.4626
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Hay Festival (est.)
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270607
+DTSTAMP:20261108T000000Z
+UID:6054646df567559e6d63@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Bill Clinton once called it 'the Woodstock of the mind'. Autho
+ rs\, scientists and adventurers in tents\, in a town with 20+ bookshops. P
+ erfect for the reading list.\n\nStatus: 🟡 Estimated (pattern-based or p
+ rovisional\; check before booking)\nOfficial info: https://www.hayfestival
+ .com
+GEO:52.074;-3.1253
+LOCATION:Hay-on-Wye\, Powys\, Wales
+TRANSP:TRANSPARENT
+URL:https://www.hayfestival.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Hay-on-W
+ ye, Powys, Wales":geo:52.074,-3.1253
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎸 Primavera Sound (est.)
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270607
+DTSTAMP:20261108T000000Z
+UID:b13d26042e5298a8115b@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Indie heaven by the Mediterranean\, with sets until 6am and su
+ nrise over the sea. The musician's festival.\n\nStatus: 🟡 Estimated (pa
+ ttern-based or provisional\; check before booking)\n✈️ Trip-worthy: th
+ ere's a booking nudge in the 📅 Booking Nudges feed ~3 months ahead.\nOf
+ ficial info: https://www.primaverasound.com
+GEO:41.4108;2.2214
+LOCATION:Parc del Fòrum\, Barcelona\, Spain
+TRANSP:TRANSPARENT
+URL:https://www.primaverasound.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Parc del
+  Fòrum, Barcelona, Spain":geo:41.4108,2.2214
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Primavera Sound is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Liverpool Biennial
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20261108T000000Z
+UID:6766824bc7fe8c206f64@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The UK's biggest contemporary-art festival\, taking over galle
+ ries\, docks and derelict buildings across the city.\n\nStatus: ✅ Confir
+ med
+GEO:53.4084;-2.9916
+LOCATION:Liverpool\, UK
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Liverpoo
+ l, UK":geo:53.4084,-2.9916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Helsinki Biennial
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270920
+DTSTAMP:20261108T000000Z
+UID:2cc6ed12c1c2ab1cb8d5@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Contemporary art on a car-free island fortress in the Helsinki
+  archipelago. Take the ferry and stay for the midnight sun. Rally Finland 
+ is a few weeks later.\n\nStatus: ✅ Confirmed
+GEO:60.158;25.0
+LOCATION:Vallisaari island & Helsinki\, Finland
+TRANSP:TRANSPARENT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Vallisaa
+ ri island & Helsinki, Finland":geo:60.158,25.0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎸 documenta 16
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270920
+DTSTAMP:20261108T000000Z
+UID:35a3652e40adfe6e920b@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The once-every-five-years 'museum of 100 days'\, arguably the 
+ most important contemporary-art exhibition in the world. Curated by Naomi 
+ Beckwith\, the whole of Kassel becomes the gallery.\n\nStatus: ✅ Confirm
+ ed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges
+  feed ~3 months ahead.\nOfficial info: https://www.documenta.de
+GEO:51.3127;9.4797
+LOCATION:Kassel\, Germany
+TRANSP:TRANSPARENT
+URL:https://www.documenta.de
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Kassel, 
+ Germany":geo:51.3127,9.4797
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: documenta 16 is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Art Basel (est.)
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270621
+DTSTAMP:20261108T000000Z
+UID:013e60a4d6e8564463c6@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The world's premier art fair. Unlimited\, its hall of building
+ -scale works\, is the highlight.\n\nStatus: 🟡 Estimated (pattern-based 
+ or provisional\; check before booking)\nOfficial info: https://www.artbase
+ l.com/basel
+GEO:47.5636;7.6
+LOCATION:Messe Basel\, Switzerland
+TRANSP:TRANSPARENT
+URL:https://www.artbasel.com/basel
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Messe Ba
+ sel, Switzerland":geo:47.5636,7.6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎸 Glastonbury Festival
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20261108T000000Z
+UID:5268570a6c7fac24d061@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Back after the 2026 fallow year. 200\,000 people\, the Pyramid
+  Stage\, Arcadia's fire-breathing spider\, Shangri-La after dark and the S
+ tone Circle at sunrise. 40 minutes from Bristol.\n\nStatus: ✅ Confirmed
+ \nResale happens in spring 2027\, so set a reminder.\n✈️ Trip-worthy: 
+ there's a booking nudge in the 📅 Booking Nudges feed ~3 months ahead.\n
+ Official info: https://www.glastonburyfestivals.co.uk
+GEO:51.155;-2.585
+LOCATION:Worthy Farm\, Pilton\, Somerset\, UK
+TRANSP:TRANSPARENT
+URL:https://www.glastonburyfestivals.co.uk
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Worthy F
+ arm, Pilton, Somerset, UK":geo:51.155,-2.585
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Glastonbury Festival is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Roskilde Festival (est.)
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270704
+DTSTAMP:20261108T000000Z
+UID:bc0eda7a5247865d7b25@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Northern Europe's biggest non-profit festival. A week of campi
+ ng-ground madness before the big Orange Stage lineup.\n\nStatus: 🟡 Esti
+ mated (pattern-based or provisional\; check before booking)\nOfficial info
+ : https://www.roskilde-festival.dk
+GEO:55.6189;12.0786
+LOCATION:Roskilde\, Denmark
+TRANSP:TRANSPARENT
+URL:https://www.roskilde-festival.dk
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Roskilde
+ , Denmark":geo:55.6189,12.0786
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Montreux Jazz Festival (est.)
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270718
+DTSTAMP:20261108T000000Z
+UID:bfca99913290774463a3@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Lakeside legends\, of 'Smoke on the Water' fame. Free stages a
+ long the promenade with the Alps behind.\n\nStatus: 🟡 Estimated (patter
+ n-based or provisional\; check before booking)\nOfficial info: https://www
+ .montreuxjazzfestival.com
+GEO:46.4312;6.9107
+LOCATION:Montreux\, Lake Geneva\, Switzerland
+TRANSP:TRANSPARENT
+URL:https://www.montreuxjazzfestival.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Montreux
+ , Lake Geneva, Switzerland":geo:46.4312,6.9107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 BBC Proms (est.)
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270912
+DTSTAMP:20261108T000000Z
+UID:e95c33c0303831cf800f@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Eight weeks of world-class concerts with £8 standing 'Prommin
+ g' tickets. Ends with the flag-waving Last Night.\n\nStatus: 🟡 Estimate
+ d (pattern-based or provisional\; check before booking)\nOfficial info: ht
+ tps://www.bbc.co.uk/proms
+GEO:51.5009;-0.1774
+LOCATION:Royal Albert Hall\, London\, UK
+TRANSP:TRANSPARENT
+URL:https://www.bbc.co.uk/proms
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Royal Al
+ bert Hall, London, UK":geo:51.5009,-0.1774
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Tomorrowland (est.)
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270726
+DTSTAMP:20261108T000000Z
+UID:d52d84ca60980f8d7329@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The most theatrical dance festival on the planet\, with the ma
+ in stage built like a fairytale city. It sells out in minutes.\n\nStatus: 
+ 🟡 Estimated (pattern-based or provisional\; check before booking)\nTwo 
+ weekends\; pattern-based dates.\nOfficial info: https://www.tomorrowland.c
+ om
+GEO:51.091;4.383
+LOCATION:De Schorre\, Boom\, Belgium
+TRANSP:TRANSPARENT
+URL:https://www.tomorrowland.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="De Schor
+ re, Boom, Belgium":geo:51.091,4.383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Fuji Rock Festival (est.)
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270802
+DTSTAMP:20261108T000000Z
+UID:7f37c970dd3abe09cea0@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Japan's biggest festival\, in a mountain ski resort with fores
+ t boardwalks and a gondola up to a hilltop stage. Spotlessly clean\, too.
+ \n\nStatus: 🟡 Estimated (pattern-based or provisional\; check before bo
+ oking)\nOfficial info: https://www.fujirockfestival.com
+GEO:36.85;138.7833
+LOCATION:Naeba Ski Resort\, Niigata\, Japan
+TRANSP:TRANSPARENT
+URL:https://www.fujirockfestival.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Naeba Sk
+ i Resort, Niigata, Japan":geo:36.85,138.7833
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎸 Edinburgh Festival Fringe (80th)
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270831
+DTSTAMP:20261108T000000Z
+UID:418ee35d2d5bcbcbf659@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The world's largest arts festival in its 80th year. 3\,000+ sh
+ ows in pub cellars\, churches and lecture theatres. See five shows a day\,
+  flyer-dodge the Royal Mile and catch the comedy breakouts.\n\nStatus: ✅
+  Confirmed\n✈️ Trip-worthy: there's a booking nudge in the 📅 Bookin
+ g Nudges feed ~3 months ahead.\nOfficial info: https://www.edfringe.com
+GEO:55.9533;-3.1883
+LOCATION:Edinburgh\, Scotland\, UK
+TRANSP:TRANSPARENT
+URL:https://www.edfringe.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Edinburg
+ h, Scotland, UK":geo:55.9533,-3.1883
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Edinburgh Festival Fringe (80th) is ~3 months a
+ way
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Sziget Festival (est.)
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270817
+DTSTAMP:20261108T000000Z
+UID:106f95e88336c0c5d54d@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:A week-long 'Island of Freedom' on the Danube\, with circus te
+ nts\, art and every genre going.\n\nStatus: 🟡 Estimated (pattern-based 
+ or provisional\; check before booking)\nOfficial info: https://szigetfesti
+ val.com
+GEO:47.553;19.053
+LOCATION:Óbuda Island\, Budapest\, Hungary
+TRANSP:TRANSPARENT
+URL:https://szigetfestival.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Óbuda I
+ sland, Budapest, Hungary":geo:47.553,19.053
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Reading & Leeds Festivals (est.)
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+DTSTAMP:20261108T000000Z
+UID:f1382248792ba2df81a3@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The bank-holiday rite of passage. Twin sites\, same lineup\, c
+ arnage in the campsites.\n\nStatus: 🟡 Estimated (pattern-based or provi
+ sional\; check before booking)\nOfficial info: https://www.readingfestival
+ .com
+GEO:51.4637;-0.9876
+LOCATION:Reading & Leeds\, UK
+TRANSP:TRANSPARENT
+URL:https://www.readingfestival.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Reading 
+ & Leeds, UK":geo:51.4637,-0.9876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ 🎸 Burning Man (est.)
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270907
+DTSTAMP:20261108T000000Z
+UID:4db62468670e0e7b0398@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:A city of 70\,000 built from scratch in the desert\, then gone
+  without a trace. Mutant vehicles\, colossal art\, dust storms\, gifting a
+ nd the burning of the Man. A self-reliance test you'd ace.\n\nStatus: 🟡
+  Estimated (pattern-based or provisional\; check before booking)\nRuns fro
+ m the last Sunday in August to Labor Day\; confirmed by BRC in winter.\n
+ ✈️ Trip-worthy: there's a booking nudge in the 📅 Booking Nudges fee
+ d ~3 months ahead.\nOfficial info: https://burningman.org
+GEO:40.7864;-119.2065
+LOCATION:Black Rock Desert\, Nevada\, USA
+TRANSP:TRANSPARENT
+URL:https://burningman.org
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Black Ro
+ ck Desert, Nevada, USA":geo:40.7864,-119.2065
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Booking nudge: Burning Man is ~3 months away
+TRIGGER:-P90D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Venice Film Festival (est.)
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270912
+DTSTAMP:20261108T000000Z
+UID:17d30d178afb3ee73780@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The oldest film festival in the world\, with stars arriving by
+  water taxi and Oscar contenders premiering. The Architecture Biennale is 
+ on at the same time.\n\nStatus: 🟡 Estimated (pattern-based or provision
+ al\; check before booking)\nOfficial info: https://www.labiennale.org/en/c
+ inema
+GEO:45.4065;12.367
+LOCATION:Lido di Venezia\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.labiennale.org/en/cinema
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Lido di 
+ Venezia, Italy":geo:45.4065,12.367
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Frieze London (est.)
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271018
+DTSTAMP:20261108T000000Z
+UID:a9968fcb67ec787a8627@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:London's art week. Frieze\, Frieze Masters\, and a free sculpt
+ ure park in Regent's Park.\n\nStatus: 🟡 Estimated (pattern-based or pro
+ visional\; check before booking)\nOfficial info: https://www.frieze.com
+GEO:51.5313;-0.157
+LOCATION:Regent's Park\, London\, UK
+TRANSP:TRANSPARENT
+URL:https://www.frieze.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Regent's
+  Park, London, UK":geo:51.5313,-0.157
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Venice Architecture Biennale – final day
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+DTSTAMP:20261108T000000Z
+UID:7f6e6fb8f9fec72363e2@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Last chance to see 'Do Architecture'.\n\nStatus: ✅ Confirmed
+ \nOfficial info: https://www.labiennale.org/en/architecture/2027
+GEO:45.4287;12.3615
+LOCATION:Giardini & Arsenale\, Venice\, Italy
+TRANSP:TRANSPARENT
+URL:https://www.labiennale.org/en/architecture/2027
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Giardini
+  & Arsenale, Venice, Italy":geo:45.4287,12.3615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Art Basel Miami Beach (est.)
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271206
+DTSTAMP:20261108T000000Z
+UID:bb4bb35507e088082826@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:The art world in Miami for a week\, with fairs\, parties and W
+ ynwood murals.\n\nStatus: 🟡 Estimated (pattern-based or provisional\; c
+ heck before booking)\nOfficial info: https://www.artbasel.com/miami-beach
+GEO:25.7953;-80.134
+LOCATION:Miami Beach Convention Center\, Florida\, USA
+TRANSP:TRANSPARENT
+URL:https://www.artbasel.com/miami-beach
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Miami Be
+ ach Convention Center, Florida, USA":geo:25.7953,-80.134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Sundance Film Festival (est.)
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280131
+DTSTAMP:20261108T000000Z
+UID:509b57f3aef222a76afc@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Indie cinema's launchpad\, in its second year in Boulder.\n\nS
+ tatus: 🟡 Estimated (pattern-based or provisional\; check before booking
+ )\nOfficial info: https://www.sundance.org
+GEO:40.015;-105.2705
+LOCATION:Boulder\, Colorado\, USA
+TRANSP:TRANSPARENT
+URL:https://www.sundance.org
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Boulder,
+  Colorado, USA":geo:40.015,-105.2705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Berlinale (est.)
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280221
+DTSTAMP:20261108T000000Z
+UID:ef9bcf3347923ec5bd89@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Golden Bears and the most public of the big film festivals.\n
+ \nStatus: 🟡 Estimated (pattern-based or provisional\; check before book
+ ing)\nOfficial info: https://www.berlinale.de
+GEO:52.5096;13.3759
+LOCATION:Potsdamer Platz\, Berlin\, Germany
+TRANSP:TRANSPARENT
+URL:https://www.berlinale.de
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Potsdame
+ r Platz, Berlin, Germany":geo:52.5096,13.3759
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 SXSW (est.)
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280319
+DTSTAMP:20261108T000000Z
+UID:406649b22b24b4b46028@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Tech\, film and music overload in Austin.\n\nStatus: 🟡 Esti
+ mated (pattern-based or provisional\; check before booking)\nOfficial info
+ : https://www.sxsw.com
+GEO:30.2672;-97.7431
+LOCATION:Austin\, Texas\, USA
+TRANSP:TRANSPARENT
+URL:https://www.sxsw.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Austin, 
+ Texas, USA":geo:30.2672,-97.7431
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎸 Coachella – Weekend 1 (est.)
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280417
+DTSTAMP:20261108T000000Z
+UID:b6e5b0a2e17a01ff3573@global-events-calendar
+CATEGORIES:Music & Arts
+DESCRIPTION:Desert festival season opens. 2028 dates are usually announced
+  the day after the 2027 festival.\n\nStatus: 🟡 Estimated (pattern-based
+  or provisional\; check before booking)\nOfficial info: https://www.coache
+ lla.com
+GEO:33.6823;-116.237
+LOCATION:Empire Polo Club\, Indio\, California\, USA
+TRANSP:TRANSPARENT
+URL:https://www.coachella.com
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Empire P
+ olo Club, Indio, California, USA":geo:33.6823,-116.237
+END:VEVENT
+END:VCALENDAR
