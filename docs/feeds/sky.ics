@@ -11,39 +11,10 @@ X-APPLE-CALENDAR-COLOR:#2E4057
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-SUMMARY:🌌 Autumn colour peak (est.)
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261108T000000Z
-UID:ede219f01d861d1a3c12@global-events-calendar
-CATEGORIES:Sky & Nature (UK)
-DESCRIPTION:Japanese maples in full flame at Westonbirt\, the national arb
- oretum\, 40 minutes from Bristol. Also great: the Wye Valley\, Snowdonia a
- nd Perthshire ('Big Tree Country').\n\nStatus: 🟡 Estimated (pattern-bas
- ed or provisional\; check before booking)
-GEO:51.606;-2.216
-LOCATION:Westonbirt Arboretum\, Gloucestershire
-TRANSP:TRANSPARENT
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Westonbi
- rt Arboretum, Gloucestershire":geo:51.606,-2.216
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🌌 Clocks go back (GMT returns)
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261108T000000Z
-UID:8c0c079f467bc931d62a@global-events-calendar
-CATEGORIES:Sky & Nature (UK)
-DESCRIPTION:Extra hour in bed. Darker evenings mean stargazing before dinn
- er.\n\nStatus: ✅ Confirmed
-LOCATION:UK
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🌌 Full Hunter's Moon
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:44cf4b3a5f3bc426f08f@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Hunter's Moon: bright autumn nights once used for hunting
@@ -58,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Starling murmurations (est.)
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0807b96dd839f3871b00@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Up to a million starlings swirling in hypnotic shape-shifting 
@@ -80,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c03e30ec37b865c297d7@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -95,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Grey seal pupping season (est.)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:54558827632bce9b6a48@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Thousands of fluffy white pups on the beaches at Horsey Gap\, 
@@ -111,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Leonids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ff798a2c70e2fb5b09d4@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Fastest meteors of the year at 71 km/s. Famous for historic st
@@ -129,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Beaver Moon (Supermoon)
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:69b78dc8ac3f042cdc3c@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Beaver Moon (Supermoon): the time to set traps before the
@@ -145,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f38940b17f7d7d16c9aa@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -160,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Geminids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9b102af08e435cfba63c@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The king of showers: slow\, bright\, colourful\, and visible f
@@ -178,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Winter Solstice: shortest day
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bafc3d83c4ef906169ad@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The turning point. Stonehenge and Newgrange both frame the mid
@@ -191,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Cold Moon (Supermoon)
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4dfe902017b945f8b9e5@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Cold Moon (Supermoon): the long-nights moon\, riding high
@@ -207,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Quadrantids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4b2c0b1728c598f3dad3@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Short\, sharp peak of only a few hours\, so it's a gamble\, bu
@@ -225,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:61b21e1a016bde4b8673@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -240,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Wolf Moon (Supermoon)
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b3c8e9b5352551ab8528@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Wolf Moon (Supermoon): named for hungry winter packs howl
@@ -256,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Snowdrop season peaks (est.)
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e04eb6f09baa3c2eee79@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Carpets of white in the woods\, the first sign that winter's b
@@ -272,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:48bfabfd152a29679c2a@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -287,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Jupiter at opposition
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:cb9c463491c99a00f064@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Jupiter at its biggest and brightest\, up all night. Binocular
@@ -301,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Penumbral lunar eclipse
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3845bd435db03e8998a6@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The Moon slips into Earth's faint outer shadow. It's a subtle 
@@ -318,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Snow Moon
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:8a63f71d7d6eaa482453@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Snow Moon: traditionally the snowiest month in the northe
@@ -333,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Mars at opposition
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2ee57185b7c2791fd452@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Mars at its closest and brightest\, glowing orange all night. 
@@ -347,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f0850682399951c32c8b@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -362,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Aurora watch: equinox boost window (est.)
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e2521edee9c2499c52b5@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Geomagnetic storms are statistically more likely in the weeks 
@@ -383,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 March Equinox: spring begins
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:dd07cd615a5b51bb08a7@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Day and night roughly equal. Equinoxes also tilt the odds towa
@@ -397,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Worm Moon
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b20714dd58a946b9c9da@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Worm Moon: when thawing soil brings the earthworms (and t
@@ -412,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Clocks go forward (BST begins)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3225851a76d016565b78@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Lose an hour in bed\, gain light evenings. Sunsets jump past 7
@@ -424,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5fbb8c68b1d00eb6b086@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -438,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Milky Way core season begins (est.)
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:005d5e183d1fa242152a@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The bright galactic core starts rising in the small hours. Tim
@@ -453,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Pink Moon
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e58bed5c4af290b124b9@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Pink Moon: named for the pink wild phlox of spring\, not 
@@ -468,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Lyrids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:754cdc8117a7a3991758@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:One of the oldest recorded showers (Chinese records from 687 B
@@ -486,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Bluebell woods at their best (est.)
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5a23dab2d958a0a2639c@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Half the world's bluebells grow in Britain. Late April to mid-
@@ -505,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Swifts return from Africa (est.)
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7e84641bcdc15739bb1f@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Screaming parties of swifts arrive after a 10\,000 km flight. 
@@ -519,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f87b318e43c09a790f36@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -533,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Eta Aquariids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d07d91d5700c90932a6e@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Debris from Halley's Comet itself. Low radiant from the UK\, s
@@ -551,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🌌 Puffin season (Skomer & Farne Islands) (est.)
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4d102db96efe6bc9d61a@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Around 40\,000 puffins on Skomer\, so close you have to give w
@@ -577,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Flower Moon
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d840c061454a2ab65ca3@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Flower Moon: everything's blooming\; bluebell woods are a
@@ -592,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Noctilucent cloud season begins (est.)
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:09e13a6b0a3fff9eabfe@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Electric-blue night-shining clouds 80 km up\, the highest clou
@@ -606,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Basking shark season begins (est.)
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fd8ae877ea015db80a16@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The world's second-biggest fish\, up to 10 m long\, cruising t
@@ -623,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e91e3a340e57d9219f45@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -637,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Strawberry Moon
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:74642a5dc0e3792f9096@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Strawberry Moon: the lowest-riding full moon of the year:
@@ -652,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Summer Solstice: longest day
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:20b3f7402bf2530be0dd@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Peak daylight: northern Scotland barely gets dark at all. Sunr
@@ -666,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:48e8d9e67a208cf90013@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -680,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Buck Moon (Micromoon)
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9d07e95608f2755b8ed1@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Buck Moon (Micromoon): when deer antlers are in full velv
@@ -696,7 +667,7 @@ SUMMARY:✈️ 🌌 Total solar eclipse: SPAIN · MOROCCO · EGYPT (partia
  l ~35% from UK)
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d11f150ddff872ab4e51@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The eclipse of the decade. Totality reaches about 6 m 23 s nea
@@ -730,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:834c3a3cf0febe80f40d@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -744,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Partial solar eclipse from the UK (~35%)
 DTSTART:20270802T090000Z
 DTEND:20270802T110000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9f86f7b3bfbb5ede9f7c@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:If you can't make it to Spain\, the Moon still takes a decent 
@@ -761,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Heather in bloom (purple moors) (est.)
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:256bcac7b83e99634ba4@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Moorland turns purple from mid-August into September. Glorious
@@ -777,7 +748,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Perseids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f93446fc3a7ace74f032@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The summer classic: warm nights\, fast bright meteors with tra
@@ -795,7 +766,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Penumbral lunar eclipse (morning\, Moon setting)
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c467507b12084c928428@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:A subtle shading of the setting Moon low in the west around da
@@ -809,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Sturgeon Moon (Micromoon)
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:132de740e5eb9bed1aea@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Sturgeon Moon (Micromoon): named for when the Great Lakes
@@ -824,7 +795,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3b5eb57342c40cc1e30f@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -838,7 +809,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Aurora watch: equinox boost window (est.)
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fc5153c489b4e16fbbc2@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Autumn equinox storm season\, and the nights are dark again. Y
@@ -858,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Harvest Moon
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:409506616b221e99fc94@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Harvest Moon: the full moon nearest the autumn equinox\, 
@@ -873,7 +844,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 September Equinox: autumn begins
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:98b737f471ac0466f5f7@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Equal day and night\, and the start of the equinox aurora boos
@@ -886,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Red deer rut (est.)
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c5fe67cd90b2ff4088d6@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Stags roaring and clashing antlers in the misty autumn dawn. E
@@ -903,7 +874,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4359d89e8b97c382b658@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -917,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Draconids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20271008
 DTEND;VALUE=DATE:20271009
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b67ba104441e463a2617@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Usually a trickle\, occasionally a storm. Unusually\, best in 
@@ -935,7 +906,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Hunter's Moon
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fd677d7dacfb73e2b11a@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Hunter's Moon: the first full moon after the Harvest Moon
@@ -950,7 +921,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Saturn at opposition
 DTSTART;VALUE=DATE:20271018
 DTEND;VALUE=DATE:20271019
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9f7f1cdf945a729c6f7d@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Saturn at its best for the year\, rising at sunset. Any telesc
@@ -964,7 +935,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Leaping salmon season (est.)
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:db4ed470e9aae64e8444@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Atlantic salmon hurling themselves up waterfalls to spawn\, af
@@ -982,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Orionids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20271021
 DTEND;VALUE=DATE:20271022
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:738625d364e3e81baa68@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Halley's Comet again\, the autumn return leg. Swift meteors fr
@@ -1000,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Autumn colour peak (est.)
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271026
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7b0d53f93457467da665@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Japanese maples in full flame at Westonbirt\, the national arb
@@ -1017,7 +988,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271030
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0e92883a7f6c2c588ec5@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -1032,7 +1003,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Clocks go back (GMT returns)
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0da655bed9d94590c9e4@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Extra hour in bed. Darker evenings mean stargazing before dinn
@@ -1044,7 +1015,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Starling murmurations (est.)
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:37272a3508cfe694d534@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Up to a million starlings swirling in hypnotic shape-shifting 
@@ -1066,7 +1037,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Beaver Moon
 DTSTART;VALUE=DATE:20271114
 DTEND;VALUE=DATE:20271115
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bd854d18833cebac28c4@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Beaver Moon: the time to set traps before the swamps froz
@@ -1081,7 +1052,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Grey seal pupping season (est.)
 DTSTART;VALUE=DATE:20271115
 DTEND;VALUE=DATE:20271116
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f2d834c369ca29c14eec@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Thousands of fluffy white pups on the beaches at Horsey Gap\, 
@@ -1097,7 +1068,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Leonids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3a9ef0b18615919aa721@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Fastest meteors of the year at 71 km/s. Famous for historic st
@@ -1115,7 +1086,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20271128
 DTEND;VALUE=DATE:20271129
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:44e08bd0eeec67e8f299@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -1130,7 +1101,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Cold Moon
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271214
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fb52f3e225fa34941898@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Cold Moon: the long-nights moon\, riding highest in the s
@@ -1145,7 +1116,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Geminids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20271214
 DTEND;VALUE=DATE:20271215
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f9b2ddc686e2b4d3ef0b@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The king of showers: slow\, bright\, colourful\, and visible f
@@ -1163,7 +1134,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Winter Solstice: shortest day
 DTSTART;VALUE=DATE:20271222
 DTEND;VALUE=DATE:20271223
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ab10cc07c0f1e54d9190@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The turning point. Stonehenge and Newgrange both frame the mid
@@ -1176,7 +1147,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20271227
 DTEND;VALUE=DATE:20271228
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0f1ddde89a95b5bd2829@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -1191,7 +1162,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Quadrantids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20280103
 DTEND;VALUE=DATE:20280104
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c62031b97cc94b856d47@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Short\, sharp peak of only a few hours\, so it's a gamble\, bu
@@ -1209,7 +1180,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Wolf Moon (Supermoon)
 DTSTART;VALUE=DATE:20280112
 DTEND;VALUE=DATE:20280113
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ddae1611bce3441b83ad@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Wolf Moon (Supermoon): named for hungry winter packs howl
@@ -1225,7 +1196,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Partial lunar eclipse: ~90% of the Moon in shadow
 DTSTART:20280112T040300Z
 DTEND:20280112T053300Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:76140fcdc37a05d1da24@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:A deep partial eclipse. Around 90% of the Moon dives into Eart
@@ -1242,7 +1213,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20280126
 DTEND;VALUE=DATE:20280127
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:70b6c29f4488f68c5963@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -1257,7 +1228,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Partial solar eclipse at sunset (~45%)
 DTSTART:20280126T164000Z
 DTEND:20280126T181000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e5573b21ea038eea5f8a@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:An annular eclipse elsewhere that's seen from the UK as a part
@@ -1274,7 +1245,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Snowdrop season peaks (est.)
 DTSTART;VALUE=DATE:20280205
 DTEND;VALUE=DATE:20280206
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e5e5574ef8dc6dd24412@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Carpets of white in the woods\, the first sign that winter's b
@@ -1290,7 +1261,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Snow Moon (Supermoon)
 DTSTART;VALUE=DATE:20280210
 DTEND;VALUE=DATE:20280211
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0cb7d4ad2a9cd0c8a160@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Snow Moon (Supermoon): traditionally the snowiest month i
@@ -1306,7 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20280225
 DTEND;VALUE=DATE:20280226
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:13b402bc1aebd810ecc9@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -1321,7 +1292,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Aurora watch: equinox boost window (est.)
 DTSTART;VALUE=DATE:20280310
 DTEND;VALUE=DATE:20280311
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:adf46cfcf3161f8022f7@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Geomagnetic storms are statistically more likely in the weeks 
@@ -1342,7 +1313,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Worm Moon (Supermoon)
 DTSTART;VALUE=DATE:20280311
 DTEND;VALUE=DATE:20280312
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:63c14a585be82890c41d@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Worm Moon (Supermoon): when thawing soil brings the earth
@@ -1358,7 +1329,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Jupiter at opposition
 DTSTART;VALUE=DATE:20280313
 DTEND;VALUE=DATE:20280314
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d9dcf74f4332e1900bb3@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Jupiter at its biggest and brightest\, up all night. Binocular
@@ -1372,7 +1343,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 March Equinox: spring begins
 DTSTART;VALUE=DATE:20280320
 DTEND;VALUE=DATE:20280321
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3997b792b78103a8ca69@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Day and night roughly equal. Equinoxes also tilt the odds towa
@@ -1386,7 +1357,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20280326
 DTEND;VALUE=DATE:20280327
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1d26a41964d233a9c5f0@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -1401,7 +1372,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Clocks go forward (BST begins)
 DTSTART;VALUE=DATE:20280326
 DTEND;VALUE=DATE:20280327
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:87fea599b4f63bab1aaa@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Lose an hour in bed\, gain light evenings. Sunsets jump past 7
@@ -1413,7 +1384,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Pink Moon
 DTSTART;VALUE=DATE:20280409
 DTEND;VALUE=DATE:20280410
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:86ea3f99901e504ae144@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Pink Moon: named for the pink wild phlox of spring\, not 
@@ -1428,7 +1399,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Milky Way core season begins (est.)
 DTSTART;VALUE=DATE:20280415
 DTEND;VALUE=DATE:20280416
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:627552cc73703e187d8e@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The bright galactic core starts rising in the small hours. Tim
@@ -1443,7 +1414,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Lyrids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20280422
 DTEND;VALUE=DATE:20280423
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5fe1b2076be159b873fa@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:One of the oldest recorded showers (Chinese records from 687 B
@@ -1461,7 +1432,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20280424
 DTEND;VALUE=DATE:20280425
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:191620042618860d4c92@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -1475,7 +1446,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Bluebell woods at their best (est.)
 DTSTART;VALUE=DATE:20280425
 DTEND;VALUE=DATE:20280426
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:40bef93548fe99411300@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Half the world's bluebells grow in Britain. Late April to mid-
@@ -1494,7 +1465,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Swifts return from Africa (est.)
 DTSTART;VALUE=DATE:20280505
 DTEND;VALUE=DATE:20280506
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3ab7ad8eb2764d135901@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Screaming parties of swifts arrive after a 10\,000 km flight. 
@@ -1508,7 +1479,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Eta Aquariids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20280506
 DTEND;VALUE=DATE:20280507
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fc97c60f9bec3f7b0f64@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Debris from Halley's Comet itself. Low radiant from the UK\, s
@@ -1526,7 +1497,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Flower Moon
 DTSTART;VALUE=DATE:20280508
 DTEND;VALUE=DATE:20280509
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1f2a43cca5de0bccd292@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Flower Moon: everything's blooming\; bluebell woods are a

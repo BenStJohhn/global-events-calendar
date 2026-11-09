@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 Kendal Mountain Festival
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b1733caf5719ad232038@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's biggest outdoor-culture festival. Adventure films
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Rolex Sydney Hobart Yacht Race – start
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bfd4044ec3ba293a3897@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The Boxing Day blue-water classic. 628 nm across the Bass Stra
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Six Nations Championship – opening weekend (est.)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f9dee8d53ce29aa749da@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Rugby's oldest international tournament kicks off. Cardiff on 
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 RORC Caribbean 600 (est.)
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4232f55f7575e6462645@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:600 nm around 11 Caribbean islands in trade-wind sunshine. The
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Iditarod Trail Sled Dog Race – start (est.)
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f88d1e9c9c77ae88640c@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:'The Last Great Race'. Around 1\,000 miles of Alaskan wilderne
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Red Bull X-Alps route reveal
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:11f9aa7f6fb9cd91afb5@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Which turnpoints and summits will the 2027 race use? Plan wher
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 The Boat Race (est.)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4da74e76b61b0162ef78@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Oxford vs Cambridge over 6.8 km of the Tideway\, watched by 25
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Marathon des Sables (est.)
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270420
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:64bcb0e51ed117c4ee2e@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:About 250 km self-supported across the Sahara over six stages
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Antigua Sailing Week (est.)
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d29452dc0d224175683a@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:One of the Caribbean's great regattas. Five days of racing rou
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 UCI MTB World Cup opener (XCO)\, Nové Město
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:724ccd0ebd44e60d7210@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Cross-country's cathedral. A forest bowl with 30\,000+ screami
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Louis Vuitton Cup opens (America's Cup challengers)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:93f7d47c47bb4f8ac921@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:All seven AC75 foiling monohulls racing together for the first
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 UCI MTB World Cup – DH & Enduro round (Europe) (est.)
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270531
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f8ac27d4010a3fdae62a@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The downhill season gets underway.\n\nStatus: 🟡 Estimated (
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Youth America's Cup
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a4e16b44a9f9738ec96f@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The next generation of foiling sailors in AC40s.\n\nStatus: 
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 Red Bull X-Alps 2027
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270626
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2c8821c941aad65a45b7@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's toughest adventure race. 35 athletes cross ~1\,200
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Round the Island Race (est.)
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:8015ee2d8cdb5600db3d@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:1\,000+ boats racing 50 nm round the Isle of Wight past the Ne
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 The Championships\, Wimbledon (est.)
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270712
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c793282f1047dbeecad5@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Strawberries\, the Queue (a national institution) and grass-co
@@ -312,7 +312,7 @@ SUMMARY:✈️ 🪂 Tour de France Grand Départ – Stage 1\, Edinburgh
  → Carlisle
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f9dcedfcf7c3deeb1295@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The Tour starts in Scotland for the first time ever\, from Edi
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Megavalanche (est.)
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270712
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:69071428a617753a6350@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:A mass-start enduro from the 3\,300 m glacier at Pic Blanc dow
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Tour de France – Stage 3\, Welshpool → Cardiff
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7f4d68e5435154990d6b@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The final British stage finishes in Cardiff\, a cheap day trip
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Women's America's Cup
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270710
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:aa57b722d2f597ca3fbf@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's best female sailors foiling AC40s in front of the 
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 38th America's Cup Match
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270719
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:35a75858d13b17315bfb@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The oldest trophy in international sport\, sailed in Italy for
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Mongol Rally 2027 launch (TBC)
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:727374a96697d15736b2@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:A new batch of fools heads off in unsuitable cars. You know ex
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Admiral's Cup
 DTSTART;VALUE=DATE:20270713
 DTEND;VALUE=DATE:20270729
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ecf4cf01caec82669181@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The revived 'world championship of offshore racing'. National 
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 Rolex Fastnet Race – start
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:682931aaed93bb7be736@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's largest offshore race. 400+ boats\, 695 nm\, aroun
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Crankworx Whistler (est.)
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270809
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fb6dfaa4039fc4f0a6fc@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's biggest MTB festival\, home of Red Bull Joyride sl
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Tour de France Femmes – Grand Départ\, Leeds
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:214fcdfa5d1ee97243d7@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The women's Tour starts in Yorkshire\, cycling country that we
@@ -512,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Cowes Week (est.)
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270808
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3ebbcd1295953964dd18@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:One of the oldest and biggest sailing regattas in the world. 4
@@ -530,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 UTMB (Ultra-Trail du Mont-Blanc) (est.)
 DTSTART;VALUE=DATE:20270823
 DTEND;VALUE=DATE:20270830
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7f69891cac3d75fdaa87@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:171 km and 10\,000 m of climbing around Mont Blanc through thr
@@ -556,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 UCI Cycling World Championships (incl. MTB) (est.)
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270906
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0c157d95c62fff9cf13f@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:All the cycling world championships in one Alpine region\, inc
@@ -582,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Red Bull Hardline (est.)
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2abb83717d50f4e46989@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's gnarliest downhill race\, in Wales. Huge gaps and 
@@ -601,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 Coupe Icare (est.)
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:542d6d83f77df643621b@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's biggest free-flight festival. 80\,000 people\, hun
@@ -627,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Les Voiles de Saint-Tropez (est.)
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20271004
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:191ec1f6eea4324d6a51@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Classic wooden schooners and modern maxis racing in the autumn
@@ -645,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 UCI XCO World Cup finale\, Soldier Hollow
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270927
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:321bd94705a4ec8b212a@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The cross-country season decider at the 2002 Olympic venue in 
@@ -662,7 +662,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Rugby World Cup 2027 – opening match
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9e2d44a9399269386217@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The first 24-team Rugby World Cup kicks off: Australia vs Hong
@@ -679,7 +679,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 UCI DH World Cup finale\, Whistler
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271004
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:42af566f0d0e94841b3b@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The downhill title decided on the most famous bike-park mounta
@@ -696,7 +696,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Red Bull Rampage (est.)
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a5274b9b136c919505f7@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Freeride on knife-edge desert ridgelines. Riders and dig crews
@@ -715,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Rugby World Cup 2027 – Final
 DTSTART:20271113T090000Z
 DTEND:20271113T110000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:58a004ff2c05ba56420a@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The final in Sydney. A 9am kick-off in the UK\, so bacon sandw
@@ -732,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 Kendal Mountain Festival (est.)
 DTSTART;VALUE=DATE:20271118
 DTEND;VALUE=DATE:20271122
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b597a6b935bda124dca8@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Adventure films\, expedition talks and the outdoor tribe in on
@@ -757,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Rolex Sydney Hobart Yacht Race – start
 DTSTART;VALUE=DATE:20271226
 DTEND;VALUE=DATE:20271227
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e4eda8c5d1c7c25903b4@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The Boxing Day blue-water classic. 628 nm across the Bass Stra

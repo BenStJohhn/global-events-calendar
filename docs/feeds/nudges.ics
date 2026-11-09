@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Chinese New Year (in ~3 months)
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e9e8b7a979b8391b7937@global-events-calendar
 DESCRIPTION:Chinese New Year starts Sat 06 Feb 2027 in China & Chinese com
  munities worldwide (London Chinatown\, Singapore\, Penang…). Now's the t
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Rio de Janeiro Carnival (in ~3 months)
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3b8f81ad49d295030527@global-events-calendar
 DESCRIPTION:Rio de Janeiro Carnival starts Sat 06 Feb 2027 in Sambadrome\,
   Rio de Janeiro\, Brazil. Now's the time to sort flights\, tickets and som
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: WRC Rally Sweden (in ~3 months)
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6d51e74a07d5eae3b521@global-events-calendar
 DESCRIPTION:WRC Rally Sweden starts Thu 18 Feb 2027 in Umeå\, Västerbott
  en\, Sweden. Now's the time to sort flights\, tickets and somewhere to sle
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Las Fallas (in ~3 months)
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c14d388c30cc63eee29d@global-events-calendar
 DESCRIPTION:Las Fallas starts Mon 15 Mar 2027 in Valencia\, Spain. Now's t
  he time to sort flights\, tickets and somewhere to sleep.\n\nValencia buil
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Semana Santa\, Seville (in ~3 months)
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fca4795ff99b7167401e@global-events-calendar
 DESCRIPTION:Semana Santa\, Seville starts Sun 21 Mar 2027 in Seville\, And
  alusia\, Spain. Now's the time to sort flights\, tickets and somewhere to 
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Holi (Festival of Colours) (in ~3 months)
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d82535fec4c38b89378f@global-events-calendar
 DESCRIPTION:Holi (Festival of Colours) starts Mon 22 Mar 2027 in India & N
  epal (Mathura/Vrindavan\, Jaipur\, Kathmandu). Now's the time to sort flig
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Cherry blossom peak (Tokyo & Kyoto) (in ~3 months)
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4db786f894b2d3567a25@global-events-calendar
 DESCRIPTION:Cherry blossom peak (Tokyo & Kyoto) starts Sun 28 Mar 2027 in 
  Tokyo & Kyoto\, Japan. Now's the time to sort flights\, tickets and somewh
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: F1 Australian GP – Race (in ~3 months)
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4802a5f4903d48fd02b8@global-events-calendar
 DESCRIPTION:F1 Australian GP – Race starts Sun 04 Apr 2027 in Albert Par
  k\, Melbourne\, Australia. Now's the time to sort flights\, tickets and so
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Coachella – Weekend 1 (in ~3 months)
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:13b699680101635967b2@global-events-calendar
 DESCRIPTION:Coachella – Weekend 1 starts Fri 09 Apr 2027 in Empire Polo 
  Club\, Indio\, California\, USA. Now's the time to sort flights\, tickets 
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: F1 Japanese GP – Race (in ~3 months)
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3ce618045529310e4fb4@global-events-calendar
 DESCRIPTION:F1 Japanese GP – Race starts Sun 11 Apr 2027 in Suzuka Circu
  it\, Japan. Now's the time to sort flights\, tickets and somewhere to slee
@@ -174,7 +174,7 @@ SUMMARY:📅 Book now: Songkran (Thai New Year water festival) (in ~3 mont
  hs)
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:95d8deedd4534a8e31bf@global-events-calendar
 DESCRIPTION:Songkran (Thai New Year water festival) starts Tue 13 Apr 2027
   in Thailand (Chiang Mai\, Bangkok's Silom & Khao San). Now's the time to 
@@ -190,7 +190,7 @@ SUMMARY:📅 Book now: Venice Architecture Biennale – opens (in ~3 month
  s)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a8f91bb8201bf83acbc4@global-events-calendar
 DESCRIPTION:Venice Architecture Biennale – opens starts Sat 08 May 2027 
  in Giardini & Arsenale\, Venice\, Italy. Now's the time to sort flights\, 
@@ -208,7 +208,7 @@ SUMMARY:📅 Book now: Puffin season (Skomer & Farne Islands) (in ~3 month
  s)
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:12be4cf02bd7bc604ed8@global-events-calendar
 DESCRIPTION:Puffin season (Skomer & Farne Islands) starts Sat 15 May 2027 
  in Skomer Island\, Pembrokeshire. Now's the time to sort flights\, tickets
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Isle of Man TT (in ~3 months)
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c7b7d2e5272c49b8a9b6@global-events-calendar
 DESCRIPTION:Isle of Man TT starts Mon 31 May 2027 in Snaefell Mountain Cou
  rse\, Isle of Man. Now's the time to sort flights\, tickets and somewhere 
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Primavera Sound (in ~3 months)
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d2925534b8339b47e936@global-events-calendar
 DESCRIPTION:Primavera Sound starts Wed 02 Jun 2027 in Parc del Fòrum\, Ba
  rcelona\, Spain. Now's the time to sort flights\, tickets and somewhere to
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: F1 Monaco GP – Race (in ~3 months)
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4b22e3490edcf3b7d90d@global-events-calendar
 DESCRIPTION:F1 Monaco GP – Race starts Sun 06 Jun 2027 in Circuit de Mon
  aco\, Monte Carlo. Now's the time to sort flights\, tickets and somewhere 
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: 24 Hours of Le Mans (95th edition) (in ~3 months)
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:54777a49bd7d1108c864@global-events-calendar
 DESCRIPTION:24 Hours of Le Mans (95th edition) starts Wed 09 Jun 2027 in C
  ircuit de la Sarthe\, Le Mans\, France. Now's the time to sort flights\, t
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: documenta 16 (in ~3 months)
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b6743605f088174aa66b@global-events-calendar
 DESCRIPTION:documenta 16 starts Sat 12 Jun 2027 in Kassel\, Germany. Now's
   the time to sort flights\, tickets and somewhere to sleep.\n\nThe once-ev
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Red Bull X-Alps 2027 (in ~3 months)
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c1153b9774904b23ea0d@global-events-calendar
 DESCRIPTION:Red Bull X-Alps 2027 starts Sun 13 Jun 2027 in The Alps (route
   revealed 17 Mar 2027\; Schenna\, South Tyrol is a confirmed turnpoint). N
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: F1 Portuguese GP – Race (in ~3 months)
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:cd5e4574208e15f9dcfd@global-events-calendar
 DESCRIPTION:F1 Portuguese GP – Race starts Sun 20 Jun 2027 in Autódromo
   Internacional do Algarve\, Portimão\, Portugal. Now's the time to sort f
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Glastonbury Festival (in ~3 months)
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a8b3c3a4b3842a4a80cd@global-events-calendar
 DESCRIPTION:Glastonbury Festival starts Wed 23 Jun 2027 in Worthy Farm\, P
  ilton\, Somerset\, UK. Now's the time to sort flights\, tickets and somewh
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Inti Raymi (Festival of the Sun) (in ~3 months)
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:10045a61640135d8793a@global-events-calendar
 DESCRIPTION:Inti Raymi (Festival of the Sun) starts Thu 24 Jun 2027 in Sac
  sayhuamán\, Cusco\, Peru. Now's the time to sort flights\, tickets and so
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: CrowdStrike 24 Hours of Spa (in ~3 months)
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b8b791e545f6e3ee4128@global-events-calendar
 DESCRIPTION:CrowdStrike 24 Hours of Spa starts Thu 24 Jun 2027 in Circuit 
  de Spa-Francorchamps\, Belgium. Now's the time to sort flights\, tickets a
@@ -389,7 +389,7 @@ SUMMARY:📅 Book now: Tour de France Grand Départ – Stage 1\, Edinburg
  h → Carlisle (in ~3 months)
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:de9497a44010aeca9a39@global-events-calendar
 DESCRIPTION:Tour de France Grand Départ – Stage 1\, Edinburgh → Carli
  sle starts Fri 02 Jul 2027 in Edinburgh Castle\, Scotland\, UK. Now's the 
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: F1 British GP – Race (in ~3 months)
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:84ee52f26f0286fc6578@global-events-calendar
 DESCRIPTION:F1 British GP – Race starts Sun 04 Jul 2027 in Silverstone C
  ircuit\, Northamptonshire\, UK. Now's the time to sort flights\, tickets a
@@ -422,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: San Fermín (Running of the Bulls) (in ~3 months)
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:24d628155351c686aff3@global-events-calendar
 DESCRIPTION:San Fermín (Running of the Bulls) starts Tue 06 Jul 2027 in P
  amplona\, Navarre\, Spain. Now's the time to sort flights\, tickets and so
@@ -436,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: 38th America's Cup Match (in ~3 months)
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7754fb970e72be2619d6@global-events-calendar
 DESCRIPTION:38th America's Cup Match starts Sat 10 Jul 2027 in Bay of Napl
  es\, Italy. Now's the time to sort flights\, tickets and somewhere to slee
@@ -453,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Naadam Festival (in ~3 months)
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3dd32b0fddd337edf681@global-events-calendar
 DESCRIPTION:Naadam Festival starts Sun 11 Jul 2027 in Ulaanbaatar & across
   Mongolia. Now's the time to sort flights\, tickets and somewhere to sleep
@@ -468,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Rolex Fastnet Race – start (in ~3 months)
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0ef3d3e292796aa9dd1d@global-events-calendar
 DESCRIPTION:Rolex Fastnet Race – start starts Sat 24 Jul 2027 in Royal Y
  acht Squadron line\, Cowes → Fastnet Rock → Cherbourg. Now's the time 
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: F1 Belgian GP – Race (in ~3 months)
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:45e155df7cf6e8460780@global-events-calendar
 DESCRIPTION:F1 Belgian GP – Race starts Sun 25 Jul 2027 in Circuit de Sp
  a-Francorchamps\, Belgium. Now's the time to sort flights\, tickets and so
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: WRC Rally Finland (in ~3 months)
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c2cd45dff7c1fb5b21bb@global-events-calendar
 DESCRIPTION:WRC Rally Finland starts Thu 29 Jul 2027 in Jyväskylä\, Finl
  and. Now's the time to sort flights\, tickets and somewhere to sleep.\n\nT
@@ -519,7 +519,7 @@ SUMMARY:📅 Book now: Total solar eclipse: SPAIN · MOROCCO · EGYPT (par
  tial ~35% from UK) (in ~3 months)
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1339767f2ecb6dea6249@global-events-calendar
 DESCRIPTION:Total solar eclipse: SPAIN · MOROCCO · EGYPT (partial ~35% f
  rom UK) starts Mon 02 Aug 2027 in Totality path: Cádiz/Tarifa\, Gibraltar
@@ -541,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Edinburgh Festival Fringe (80th) (in ~3 months)
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:de156838e551531e32c3@global-events-calendar
 DESCRIPTION:Edinburgh Festival Fringe (80th) starts Fri 06 Aug 2027 in Edi
  nburgh\, Scotland\, UK. Now's the time to sort flights\, tickets and somew
@@ -558,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: British GT – Silverstone 500 (3h) (in ~3 months)
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b30a916f61a1029d5225@global-events-calendar
 DESCRIPTION:British GT – Silverstone 500 (3h) starts Sat 07 Aug 2027 in 
  Silverstone Circuit\, Northamptonshire\, UK. Now's the time to sort flight
@@ -575,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: UTMB (Ultra-Trail du Mont-Blanc) (in ~3 months)
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9b03fc86174fc8ecb276@global-events-calendar
 DESCRIPTION:UTMB (Ultra-Trail du Mont-Blanc) starts Mon 23 Aug 2027 in Cha
  monix\, France (via Italy & Switzerland). Now's the time to sort flights\,
@@ -593,7 +593,7 @@ SUMMARY:📅 Book now: UCI Cycling World Championships (incl. MTB) (in ~3
  months)
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:45c4aa26c5da28b1e15e@global-events-calendar
 DESCRIPTION:UCI Cycling World Championships (incl. MTB) starts Tue 24 Aug 
  2027 in Haute-Savoie\, France. Now's the time to sort flights\, tickets an
@@ -610,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Burning Man (in ~3 months)
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:46d473be130dbc3bb312@global-events-calendar
 DESCRIPTION:Burning Man starts Sun 29 Aug 2027 in Black Rock Desert\, Neva
  da\, USA. Now's the time to sort flights\, tickets and somewhere to sleep.
@@ -627,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: F1 Italian GP – Race (in ~3 months)
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270608
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:51388bbed0383bf91017@global-events-calendar
 DESCRIPTION:F1 Italian GP – Race starts Sun 05 Sep 2027 in Autodromo Naz
  ionale Monza\, Italy. Now's the time to sort flights\, tickets and somewhe
@@ -642,7 +642,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Coupe Icare (in ~3 months)
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270619
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4d0c75c0acac41eed6ee@global-events-calendar
 DESCRIPTION:Coupe Icare starts Thu 16 Sep 2027 in Saint-Hilaire-du-Touvet
  \, Chartreuse\, France. Now's the time to sort flights\, tickets and somew
@@ -659,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Oktoberfest (in ~3 months)
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bdc720941a939f8b195b@global-events-calendar
 DESCRIPTION:Oktoberfest starts Sat 18 Sep 2027 in Theresienwiese\, Munich
  \, Germany. Now's the time to sort flights\, tickets and somewhere to slee
@@ -673,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: WRC Rally Scotland (in ~3 months)
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ab3324bfc4c2b2355fd2@global-events-calendar
 DESCRIPTION:WRC Rally Scotland starts Thu 30 Sep 2027 in Aberdeen\, Scotla
  nd\, UK. Now's the time to sort flights\, tickets and somewhere to sleep.
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Golden Eagle Festival (in ~3 months)
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b0dd9835716fdf15c02e@global-events-calendar
 DESCRIPTION:Golden Eagle Festival starts Sat 02 Oct 2027 in Ölgii\, Bayan
  -Ölgii\, western Mongolia. Now's the time to sort flights\, tickets and s
@@ -706,7 +706,7 @@ SUMMARY:📅 Book now: Albuquerque International Balloon Fiesta (in ~3 mon
  ths)
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:98d0c7095f2aad4946db@global-events-calendar
 DESCRIPTION:Albuquerque International Balloon Fiesta starts Sat 02 Oct 202
  7 in Balloon Fiesta Park\, Albuquerque\, New Mexico\, USA. Now's the time 
@@ -721,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: F1 Turkish GP – Race (in ~3 months)
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270706
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:cc7012c614975eb1fb96@global-events-calendar
 DESCRIPTION:F1 Turkish GP – Race starts Sun 03 Oct 2027 in Istanbul Park
  \, Türkiye. Now's the time to sort flights\, tickets and somewhere to sle
@@ -737,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Diwali (Festival of Lights) (in ~3 months)
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1c3b8af4197c0b834e40@global-events-calendar
 DESCRIPTION:Diwali (Festival of Lights) starts Fri 29 Oct 2027 in India & 
  diaspora (Varanasi\, Jaipur\, Amritsar\, Leicester). Now's the time to sor
@@ -753,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: F1 Mexico City GP – Race (in ~3 months)
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5e86d8c0895fa382c420@global-events-calendar
 DESCRIPTION:F1 Mexico City GP – Race starts Sun 31 Oct 2027 in Autódrom
  o Hermanos Rodríguez\, Mexico City. Now's the time to sort flights\, tick
@@ -769,7 +769,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Día de Muertos (in ~3 months)
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:8b43de31e5dfb19f5361@global-events-calendar
 DESCRIPTION:Día de Muertos starts Mon 01 Nov 2027 in Mexico City & Oaxaca
  \, Mexico. Now's the time to sort flights\, tickets and somewhere to sleep
@@ -784,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Pushkar Camel Fair (in ~3 months)
 DTSTART;VALUE=DATE:20270809
 DTEND;VALUE=DATE:20270810
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:48e21cce6dd190352fc6@global-events-calendar
 DESCRIPTION:Pushkar Camel Fair starts Sun 07 Nov 2027 in Pushkar\, Rajasth
  an\, India. Now's the time to sort flights\, tickets and somewhere to slee
@@ -799,7 +799,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Loy Krathong & Yi Peng\, Chiang Mai (in ~3 months)
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5c4730d1aae75dcdd233@global-events-calendar
 DESCRIPTION:Loy Krathong & Yi Peng\, Chiang Mai starts Sat 13 Nov 2027 in 
  Chiang Mai\, Thailand. Now's the time to sort flights\, tickets and somewh
@@ -814,7 +814,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Kendal Mountain Festival (in ~3 months)
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270821
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:193fa12f7cce0f11708c@global-events-calendar
 DESCRIPTION:Kendal Mountain Festival starts Thu 18 Nov 2027 in Kendal\, Cu
  mbria (Lake District)\, UK. Now's the time to sort flights\, tickets and s
@@ -830,7 +830,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Edinburgh's Hogmanay (in ~3 months)
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6cdd014e507c4486e563@global-events-calendar
 DESCRIPTION:Edinburgh's Hogmanay starts Wed 29 Dec 2027 in Edinburgh\, Sco
  tland\, UK. Now's the time to sort flights\, tickets and somewhere to slee
@@ -845,7 +845,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Harbin Ice & Snow World opens (in ~3 months)
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271008
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d3cb854bee834fffbaf1@global-events-calendar
 DESCRIPTION:Harbin Ice & Snow World opens starts Wed 05 Jan 2028 in Harbin
  \, Heilongjiang\, China. Now's the time to sort flights\, tickets and some
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: WRC Rallye Monte-Carlo 2028 (in ~3 months)
 DTSTART;VALUE=DATE:20271022
 DTEND;VALUE=DATE:20271023
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:8e2fa9da66926481a433@global-events-calendar
 DESCRIPTION:WRC Rallye Monte-Carlo 2028 starts Thu 20 Jan 2028 in Monaco &
   the French Alps. Now's the time to sort flights\, tickets and somewhere t
@@ -875,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Up Helly Aa (in ~3 months)
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271028
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1d474801c72d3e4a9a21@global-events-calendar
 DESCRIPTION:Up Helly Aa starts Tue 25 Jan 2028 in Lerwick\, Shetland\, UK.
   Now's the time to sort flights\, tickets and somewhere to sleep.\n\nEurop
@@ -890,7 +890,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Chinese New Year (in ~3 months)
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:70c9fe6217cf755044a9@global-events-calendar
 DESCRIPTION:Chinese New Year starts Wed 26 Jan 2028 in China & Chinese com
  munities worldwide (London Chinatown\, Singapore\, Penang…). Now's the t
@@ -909,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Venice Carnival (in ~3 months)
 DTSTART;VALUE=DATE:20271114
 DTEND;VALUE=DATE:20271115
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:84bea17f5179a42e6640@global-events-calendar
 DESCRIPTION:Venice Carnival starts Sat 12 Feb 2028 in Venice\, Italy. Now'
  s the time to sort flights\, tickets and somewhere to sleep.\n\nMasks\, ca
@@ -924,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Rio de Janeiro Carnival (in ~3 months)
 DTSTART;VALUE=DATE:20271128
 DTEND;VALUE=DATE:20271129
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:190e4ff91a28893e1416@global-events-calendar
 DESCRIPTION:Rio de Janeiro Carnival starts Sat 26 Feb 2028 in Sambadrome\,
   Rio de Janeiro\, Brazil. Now's the time to sort flights\, tickets and som
@@ -939,7 +939,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Holi (Festival of Colours) (in ~3 months)
 DTSTART;VALUE=DATE:20271212
 DTEND;VALUE=DATE:20271213
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9ee9537982568bd57dfe@global-events-calendar
 DESCRIPTION:Holi (Festival of Colours) starts Sat 11 Mar 2028 in India & N
  epal (Mathura/Vrindavan\, Jaipur\, Kathmandu). Now's the time to sort flig
@@ -954,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Las Fallas (in ~3 months)
 DTSTART;VALUE=DATE:20271216
 DTEND;VALUE=DATE:20271217
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1237b8000c0141609d6b@global-events-calendar
 DESCRIPTION:Las Fallas starts Wed 15 Mar 2028 in Valencia\, Spain. Now's t
  he time to sort flights\, tickets and somewhere to sleep.\n\nValencia buil
@@ -969,7 +969,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Cherry blossom peak (Tokyo & Kyoto) (in ~3 months)
 DTSTART;VALUE=DATE:20271229
 DTEND;VALUE=DATE:20271230
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5134d8174fb268b2e099@global-events-calendar
 DESCRIPTION:Cherry blossom peak (Tokyo & Kyoto) starts Tue 28 Mar 2028 in 
  Tokyo & Kyoto\, Japan. Now's the time to sort flights\, tickets and somewh
@@ -985,7 +985,7 @@ BEGIN:VEVENT
 SUMMARY:📅 Book now: Semana Santa\, Seville (in ~3 months)
 DTSTART;VALUE=DATE:20280110
 DTEND;VALUE=DATE:20280111
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9c98abdbce67e72099d5@global-events-calendar
 DESCRIPTION:Semana Santa\, Seville starts Sun 09 Apr 2028 in Seville\, And
  alusia\, Spain. Now's the time to sort flights\, tickets and somewhere to 
@@ -1001,7 +1001,7 @@ SUMMARY:📅 Book now: Songkran (Thai New Year water festival) (in ~3 mont
  hs)
 DTSTART;VALUE=DATE:20280114
 DTEND;VALUE=DATE:20280115
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:94eeaa34427a0a96b847@global-events-calendar
 DESCRIPTION:Songkran (Thai New Year water festival) starts Thu 13 Apr 2028
   in Thailand (Chiang Mai\, Bangkok's Silom & Khao San). Now's the time to 

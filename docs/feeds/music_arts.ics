@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Art Basel Miami Beach (est.)
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:804e49fde53dc4dd451a@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The art world decamps to Miami. Blue-chip galleries\, satellit
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Sundance Film Festival (first year in Boulder) (est.)
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:dd75a2220dd3a3a11c83@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Indie cinema's launchpad moves from Park City to Boulder in 20
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Berlinale (Berlin International Film Festival) (est.)
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:79cbf247823488c8d948@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The most public of the big film festivals\, with 300\,000+ tic
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 SXSW (est.)
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:35a359c3320a9bdfa556@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Tech\, film and 1\,000+ bands in every bar on 6th Street. The 
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Coachella – Weekend 1
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:39f38eb6f9ae5af731c1@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Desert sunsets\, giant art installations\, the Ferris wheel an
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Coachella – Weekend 2
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270419
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d24913978e89a2361e8e@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Same lineup as Weekend 1. Usually a little cheaper and a littl
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Yokohama Triennale
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d3e9985ec60e9b7a203f@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Japan's major contemporary-art triennial\, spread across the w
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Venice Architecture Biennale – opens
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9bae042e09ba7b095bef@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The 20th Architecture Biennale\, 'Do Architecture'\, curated b
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Cannes Film Festival (est.)
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3337becd7282f804ead3@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Red carpets on the Croisette and the Palme d'Or. Public screen
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Eurovision Song Contest – Semi-final 1
 DTSTART:20270511T180000Z
 DTEND:20270511T200000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e226dc26c8ba5c87b06f@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The first Eurovision ever held in Bulgaria\, on the Black Sea 
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Eurovision Song Contest – Semi-final 2
 DTSTART:20270513T180000Z
 DTEND:20270513T200000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bf85817f046e5e5b6f19@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Second semi\; the UK\, as a Big Five member\, goes straight to
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Eurovision Song Contest – Grand Final
 DTSTART:20270515T180000Z
 DTEND:20270515T220000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:92e060932f6e63076194@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Key changes\, wind machines and geopolitical voting. Get the p
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Hay Festival (est.)
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6054646df567559e6d63@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Bill Clinton once called it 'the Woodstock of the mind'. Autho
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Primavera Sound (est.)
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b13d26042e5298a8115b@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Indie heaven by the Mediterranean\, with sets until 6am and su
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Liverpool Biennial
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6766824bc7fe8c206f64@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The UK's biggest contemporary-art festival\, taking over galle
@@ -300,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Helsinki Biennial
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2cc6ed12c1c2ab1cb8d5@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Contemporary art on a car-free island fortress in the Helsinki
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 documenta 16
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:35a3652e40adfe6e920b@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The once-every-five-years 'museum of 100 days'\, arguably the 
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Art Basel (est.)
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270621
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:013e60a4d6e8564463c6@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The world's premier art fair. Unlimited\, its hall of building
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Glastonbury Festival
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270628
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5268570a6c7fac24d061@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Back after the 2026 fallow year. 200\,000 people\, the Pyramid
@@ -383,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Roskilde Festival (est.)
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270704
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bc0eda7a5247865d7b25@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Northern Europe's biggest non-profit festival. A week of campi
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Montreux Jazz Festival (est.)
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270718
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bfca99913290774463a3@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Lakeside legends\, of 'Smoke on the Water' fame. Free stages a
@@ -419,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 BBC Proms (est.)
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e95c33c0303831cf800f@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Eight weeks of world-class concerts with £8 standing 'Prommin
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Tomorrowland (est.)
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270726
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d52d84ca60980f8d7329@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The most theatrical dance festival on the planet\, with the ma
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Fuji Rock Festival (est.)
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270802
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7f37c970dd3abe09cea0@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Japan's biggest festival\, in a mountain ski resort with fores
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Edinburgh Festival Fringe (80th)
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270831
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:418ee35d2d5bcbcbf659@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The world's largest arts festival in its 80th year. 3\,000+ sh
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Sziget Festival (est.)
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270817
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:106f95e88336c0c5d54d@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:A week-long 'Island of Freedom' on the Danube\, with circus te
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Reading & Leeds Festivals (est.)
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270830
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f1382248792ba2df81a3@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The bank-holiday rite of passage. Twin sites\, same lineup\, c
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Burning Man (est.)
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270907
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4db62468670e0e7b0398@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:A city of 70\,000 built from scratch in the desert\, then gone
@@ -561,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Venice Film Festival (est.)
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:17d30d178afb3ee73780@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The oldest film festival in the world\, with stars arriving by
@@ -580,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Frieze London (est.)
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271018
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a9968fcb67ec787a8627@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:London's art week. Frieze\, Frieze Masters\, and a free sculpt
@@ -597,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Venice Architecture Biennale – final day
 DTSTART;VALUE=DATE:20271121
 DTEND;VALUE=DATE:20271122
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7f6e6fb8f9fec72363e2@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Last chance to see 'Do Architecture'.\n\nStatus: ✅ Confirmed
@@ -613,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Art Basel Miami Beach (est.)
 DTSTART;VALUE=DATE:20271203
 DTEND;VALUE=DATE:20271206
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bb4bb35507e088082826@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The art world in Miami for a week\, with fairs\, parties and W
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Sundance Film Festival (est.)
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280131
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:509b57f3aef222a76afc@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Indie cinema's launchpad\, in its second year in Boulder.\n\nS
@@ -647,7 +647,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Berlinale (est.)
 DTSTART;VALUE=DATE:20280210
 DTEND;VALUE=DATE:20280221
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ef9bcf3347923ec5bd89@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Golden Bears and the most public of the big film festivals.\n
@@ -664,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 SXSW (est.)
 DTSTART;VALUE=DATE:20280310
 DTEND;VALUE=DATE:20280319
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:406649b22b24b4b46028@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Tech\, film and music overload in Austin.\n\nStatus: 🟡 Esti
@@ -681,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Coachella – Weekend 1 (est.)
 DTSTART;VALUE=DATE:20280414
 DTEND;VALUE=DATE:20280417
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b6e5b0a2e17a01ff3573@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Desert festival season opens. 2028 dates are usually announced

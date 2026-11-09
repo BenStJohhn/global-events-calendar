@@ -10,39 +10,10 @@ X-APPLE-CALENDAR-COLOR:#888888
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-SUMMARY:🌌 Autumn colour peak (est.)
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261108T000000Z
-UID:ede219f01d861d1a3c12@global-events-calendar
-CATEGORIES:Sky & Nature (UK)
-DESCRIPTION:Japanese maples in full flame at Westonbirt\, the national arb
- oretum\, 40 minutes from Bristol. Also great: the Wye Valley\, Snowdonia a
- nd Perthshire ('Big Tree Country').\n\nStatus: 🟡 Estimated (pattern-bas
- ed or provisional\; check before booking)
-GEO:51.606;-2.216
-LOCATION:Westonbirt Arboretum\, Gloucestershire
-TRANSP:TRANSPARENT
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=500;X-TITLE="Westonbi
- rt Arboretum, Gloucestershire":geo:51.606,-2.216
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🌌 Clocks go back (GMT returns)
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261108T000000Z
-UID:8c0c079f467bc931d62a@global-events-calendar
-CATEGORIES:Sky & Nature (UK)
-DESCRIPTION:Extra hour in bed. Darker evenings mean stargazing before dinn
- er.\n\nStatus: ✅ Confirmed
-LOCATION:UK
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🌌 Full Hunter's Moon
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:44cf4b3a5f3bc426f08f@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Hunter's Moon: bright autumn nights once used for hunting
@@ -57,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Día de Muertos
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9eb7213c5275cd08b00b@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Marigold-strewn altars\, sugar skulls\, candlelit all-night ce
@@ -80,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Starling murmurations (est.)
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0807b96dd839f3871b00@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Up to a million starlings swirling in hypnotic shape-shifting 
@@ -102,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Bonfire Night (Lewes Bonfire)
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:87b2b6deab35f14bd2e5@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Lewes takes Guy Fawkes Night to unhinged levels. Seven bonfire
@@ -119,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 São Paulo GP – Qualifying
 DTSTART:20261107T180000Z
 DTEND:20261107T190000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:8bfcd218287497149cd0@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Interlagos runs anticlockwise\, it's bumpy and it nearly alway
@@ -138,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Diwali (Festival of Lights)
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ece7303c16ca25051e5e@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Oil lamps on every ledge\, rangoli on doorsteps\, fireworks al
@@ -154,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 São Paulo GP – Race
 DTSTART:20261108T170000Z
 DTEND:20261108T190000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3d284b1c70f29dc1c54a@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Interlagos runs anticlockwise\, it's bumpy and it nearly alway
@@ -173,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c03e30ec37b865c297d7@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -188,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Grey seal pupping season (est.)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:54558827632bce9b6a48@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Thousands of fluffy white pups on the beaches at Horsey Gap\, 
@@ -204,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Pushkar Camel Fair (est.)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:cf899155bce12f4722b5@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Tens of thousands of camels\, horses and cattle traders in the
@@ -222,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Leonids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ff798a2c70e2fb5b09d4@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Fastest meteors of the year at 71 km/s. Famous for historic st
@@ -240,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 Kendal Mountain Festival
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b1733caf5719ad232038@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's biggest outdoor-culture festival. Adventure films
@@ -265,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Las Vegas GP – Qualifying
 DTSTART:20261121T040000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c01df2e39ba7c8a60be0@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A Saturday-night race down the Strip at 340 km/h\, past the Be
@@ -284,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Las Vegas GP – Race
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e8350853436dd4ee833f@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A Saturday-night race down the Strip at 340 km/h\, past the Be
@@ -303,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Loy Krathong & Yi Peng\, Chiang Mai
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:8e429d67f7c6685ca54f@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Candlelit krathong floats drift down the Ping River while thou
@@ -320,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Beaver Moon (Supermoon)
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:69b78dc8ac3f042cdc3c@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Beaver Moon (Supermoon): the time to set traps before the
@@ -336,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Strasbourg Christmas Market (Christkindelsmärik) (est.)
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a27407a626bb0303bad4@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The oldest Christmas market in France (1570)\, a 30 m tree in 
@@ -354,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Qatar GP – Qualifying
 DTSTART:20261128T180000Z
 DTEND:20261128T190000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bd119cc113b5da68911b@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A floodlit desert circuit with fast\, flowing corners that pun
@@ -373,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Qatar GP – Race
 DTSTART:20261129T160000Z
 DTEND:20261129T180000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:25a806b4ad33a2e3ca60@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A floodlit desert circuit with fast\, flowing corners that pun
@@ -392,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Hanukkah begins
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b29455edce2d4fc1f695@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Eight nights of the Festival of Lights. Menorahs in windows\, 
@@ -408,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Art Basel Miami Beach (est.)
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:804e49fde53dc4dd451a@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The art world decamps to Miami. Blue-chip galleries\, satellit
@@ -427,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 FIA Rallycross World Cup\, Jakarta
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:96354fe035e70f81b54e@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The first ever Rallycross World Cup\, a one-off global showdow
@@ -449,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Abu Dhabi GP – Qualifying
 DTSTART:20261205T140000Z
 DTEND:20261205T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:93a33cff21476d5aff65@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The twilight finale. It starts in sunshine and finishes under 
@@ -469,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Abu Dhabi GP – Race
 DTSTART:20261206T130000Z
 DTEND:20261206T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bcf55dce2337de0ffcde@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The twilight finale. It starts in sunshine and finishes under 
@@ -489,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f38940b17f7d7d16c9aa@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -504,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Geminids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9b102af08e435cfba63c@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The king of showers: slow\, bright\, colourful\, and visible f
@@ -522,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Winter Solstice: shortest day
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bafc3d83c4ef906169ad@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The turning point. Stonehenge and Newgrange both frame the mid
@@ -535,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Cold Moon (Supermoon)
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4dfe902017b945f8b9e5@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Cold Moon (Supermoon): the long-nights moon\, riding high
@@ -551,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Junkanoo
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:059e73b6f1511a2c92a4@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The Bahamas' explosive Boxing Day street parade. Cowbells\, go
@@ -567,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Rolex Sydney Hobart Yacht Race – start
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bfd4044ec3ba293a3897@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The Boxing Day blue-water classic. 628 nm across the Bass Stra
@@ -585,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Edinburgh's Hogmanay
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:00ff2e25997dcddd0361@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Torchlight procession\, the Princes Street street party under 
@@ -608,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Quadrantids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4b2c0b1728c598f3dad3@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Short\, sharp peak of only a few hours\, so it's a gamble\, bu
@@ -626,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Harbin Ice & Snow World opens
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a0271c3e707468ecfc81@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Full-size castles\, pagodas and slides carved from Songhua Riv
@@ -648,7 +619,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:61b21e1a016bde4b8673@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -663,7 +634,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 Dakar Rally 2027 (Portugal → Morocco)
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:52d660e036f8c93de293@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Dakar returns to Africa for the first time since 2008\, from t
@@ -691,7 +662,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Timkat (Ethiopian Epiphany)
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7f0b4025951b05fcccf6@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Priests carry the tabots (replicas of the Ark of the Covenant)
@@ -707,7 +678,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Sundance Film Festival (first year in Boulder) (est.)
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:dd75a2220dd3a3a11c83@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Indie cinema's launchpad moves from Park City to Boulder in 20
@@ -726,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 WRC Rallye Monte-Carlo
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:97f1cadecd108a74c39a@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The season opener and the first event of WRC's new 2027 techni
@@ -750,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Wolf Moon (Supermoon)
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b3c8e9b5352551ab8528@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Wolf Moon (Supermoon): named for hungry winter packs howl
@@ -766,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Venice Carnival (est.)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270210
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f902b72f0e38fca09f4e@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Masks\, capes and 18th-century costumes on misty canals\, with
@@ -790,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Burns Night
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b8a1714f2ce68bd2790e@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Haggis piped in\, the Address to a Haggis stabbed out with gus
@@ -806,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Up Helly Aa
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e2d772e5a0d2a4e02a56@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Europe's largest fire festival. A thousand torch-bearing guize
@@ -829,7 +800,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Sapporo Snow Festival
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:10f304c3c2fb094d8956@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Building-sized snow sculptures with projection-mapped light sh
@@ -852,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Snowdrop season peaks (est.)
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e04eb6f09baa3c2eee79@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Carpets of white in the woods\, the first sign that winter's b
@@ -868,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Chinese New Year
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d5ab9e42c1de5c24c630@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The biggest human migration on Earth as hundreds of millions t
@@ -896,7 +867,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Rio de Janeiro Carnival
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270211
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5a13344ff8ddbebc52e3@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The greatest party on Earth. Samba schools parading floats the
@@ -920,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Six Nations Championship – opening weekend (est.)
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f9dee8d53ce29aa749da@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Rugby's oldest international tournament kicks off. Cardiff on 
@@ -941,7 +912,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:48bfabfd152a29679c2a@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -956,7 +927,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Battle of the Oranges\, Ivrea
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270210
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9d43962489ba0bc81432@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Italy's biggest food fight. Teams on foot pelt armoured carts 
@@ -973,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Binche Carnival (Gilles)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270210
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:81fdfd2220d5d009a7e9@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:UNESCO-listed. Hundreds of Gilles in wax masks and ostrich-fea
@@ -989,7 +960,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Tsagaan Sar (Mongolian Lunar New Year) (est.)
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270210
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:435aeff9a15ff1054ca7@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The 'White Month'. Families visit every relative's ger in stri
@@ -1007,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Ramadan begins (est.)
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e6c4d4bac34280d08bb6@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:A month of dawn-to-dusk fasting. Travelling in Muslim-majority
@@ -1026,7 +997,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Mardi Gras\, New Orleans
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5a07d31e61c6e090713c@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Fat Tuesday. Bead-throwing parades\, brass bands and Mardi Gra
@@ -1042,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Berlinale (Berlin International Film Festival) (est.)
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:79cbf247823488c8d948@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The most public of the big film festivals\, with 300\,000+ tic
@@ -1060,7 +1031,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Jupiter at opposition
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:cb9c463491c99a00f064@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Jupiter at its biggest and brightest\, up all night. Binocular
@@ -1074,7 +1045,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 WRC Rally Sweden
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:cdb8d56e1c325d17f19c@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The only full-snow round. Studded tyres\, 200 km/h through fro
@@ -1098,7 +1069,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Lantern Festival (Yuanxiao)
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:53bc3b1b72f84cba01e3@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The finale of the New Year season on the first full moon. Lant
@@ -1114,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Penumbral lunar eclipse
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3845bd435db03e8998a6@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The Moon slips into Earth's faint outer shadow. It's a subtle 
@@ -1131,7 +1102,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Snow Moon
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:8a63f71d7d6eaa482453@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Snow Moon: traditionally the snowiest month in the northe
@@ -1146,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Mars at opposition
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2ee57185b7c2791fd452@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Mars at its closest and brightest\, glowing orange all night. 
@@ -1160,7 +1131,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 RORC Caribbean 600 (est.)
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4232f55f7575e6462645@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:600 nm around 11 Caribbean islands in trade-wind sunshine. The
@@ -1179,7 +1150,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 pre-season testing\, Bahrain
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270228
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d06f4a5b5500c4dcb77b@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The first proper look at the 2027 cars. Lap times don't mean m
@@ -1196,7 +1167,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Iditarod Trail Sled Dog Race – start (est.)
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f88d1e9c9c77ae88640c@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:'The Last Great Race'. Around 1\,000 miles of Alaskan wilderne
@@ -1214,7 +1185,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f0850682399951c32c8b@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -1229,7 +1200,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Eid al-Fitr (est.)
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:18710edd3fb6a02e47f1@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The festival marking the end of Ramadan. New clothes\, morning
@@ -1247,7 +1218,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Aurora watch: equinox boost window (est.)
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e2521edee9c2499c52b5@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Geomagnetic storms are statistically more likely in the weeks 
@@ -1268,7 +1239,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 SXSW (est.)
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:35a359c3320a9bdfa556@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Tech\, film and 1\,000+ bands in every bar on 6th Street. The 
@@ -1286,7 +1257,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Bahrain GP – Sprint
 DTSTART:20270313T120000Z
 DTEND:20270313T130000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:829ea76b13f89501b12b@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Season opener under the lights. It's also the first time a sea
@@ -1306,7 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Bahrain GP – Qualifying
 DTSTART:20270313T160000Z
 DTEND:20270313T170000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ebfb9d2f08ee87d881ab@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Season opener under the lights. It's also the first time a sea
@@ -1326,7 +1297,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Bahrain GP – Race
 DTSTART:20270314T150000Z
 DTEND:20270314T170000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:741f4b733c9bf62e01e8@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Season opener under the lights. It's also the first time a sea
@@ -1346,7 +1317,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Las Fallas
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9e812274248d898f3266@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Valencia builds hundreds of giant satirical sculptures\, ninot
@@ -1369,7 +1340,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 St Patrick's Day
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e9a8895ff4e800946f46@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Dublin's parade\, céilí music and a sea of green. Chicago dy
@@ -1384,7 +1355,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Red Bull X-Alps route reveal
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:11f9aa7f6fb9cd91afb5@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Which turnpoints and summits will the 2027 race use? Plan wher
@@ -1398,7 +1369,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Safari Rally Kenya
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:659e5524ee679351f9c8@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Rough roads\, fesh-fesh dust\, rain-soaked mud and zebras on t
@@ -1415,7 +1386,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 March Equinox: spring begins
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:dd07cd615a5b51bb08a7@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Day and night roughly equal. Equinoxes also tilt the odds towa
@@ -1429,7 +1400,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Saudi Arabian GP – Qualifying
 DTSTART:20270320T170000Z
 DTEND:20270320T180000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:23aa65d18c4c09d1ef32@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The fastest street circuit on the calendar\, with blind walled
@@ -1450,7 +1421,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Semana Santa\, Seville
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0612fe433e59f50a1df8@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Holy Week\, Spanish style. Hooded nazarenos\, swaying gold flo
@@ -1473,7 +1444,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Nowruz / Nauryz (Persian & Central Asian New Year)
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270324
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e013d6094695aac0a7d0@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Spring New Year across the Silk Road. Bonfire-jumping\, haft-s
@@ -1491,7 +1462,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 W2RC Abu Dhabi Desert Challenge
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b62e6e940d8fd1781aba@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Round 2 of the World Rally-Raid Championship\, in the towering
@@ -1508,7 +1479,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Saudi Arabian GP – Race
 DTSTART:20270321T170000Z
 DTEND:20270321T190000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:98a2c990f528fba115b3@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The fastest street circuit on the calendar\, with blind walled
@@ -1529,7 +1500,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Holi (Festival of Colours)
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:817f6711752eb900461b@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Total chromatic chaos. Strangers smother each other in coloure
@@ -1553,7 +1524,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Worm Moon
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b20714dd58a946b9c9da@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Worm Moon: when thawing soil brings the earthworms (and t
@@ -1568,7 +1539,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Purim
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bea76282a202f0aa48c5@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Fancy dress\, noisemakers and street parties. Tel Aviv turns i
@@ -1583,7 +1554,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 The Boat Race (est.)
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4da74e76b61b0162ef78@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Oxford vs Cambridge over 6.8 km of the Tideway\, watched by 25
@@ -1601,7 +1572,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Easter Sunday
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:abdae6276dc3ec1ec5c4@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Easter Sunday Mass in St Peter's Square\, or Holy Week process
@@ -1616,7 +1587,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Cherry blossom peak (Tokyo & Kyoto) (est.)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270407
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:42876290ea85d3ccdc71@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Hanami season. Picnics under clouds of pink in Ueno and Maruya
@@ -1642,7 +1613,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Clocks go forward (BST begins)
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3225851a76d016565b78@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Lose an hour in bed\, gain light evenings. Sunsets jump past 7
@@ -1654,7 +1625,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Australian GP – Sprint
 DTSTART:20270403T010000Z
 DTEND:20270403T020000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:314914e80f19ef848957@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Parkland street circuit around a lake\, with a festival atmosp
@@ -1674,7 +1645,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Australian GP – Qualifying
 DTSTART:20270403T050000Z
 DTEND:20270403T060000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e60de04993b87ec93b73@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Parkland street circuit around a lake\, with a festival atmosp
@@ -1694,7 +1665,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Kanamara Matsuri
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:06e4c461584cf566e097@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The 'Festival of the Steel Phallus'. Giant pink shrines parade
@@ -1710,7 +1681,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 F1 Australian GP – Race
 DTSTART:20270404T050000Z
 DTEND:20270404T070000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:944266cee6bcdd1c6be7@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Parkland street circuit around a lake\, with a festival atmosp
@@ -1736,7 +1707,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5fbb8c68b1d00eb6b086@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -1750,7 +1721,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Croatia Rally
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d1a87b2a4b83bde8ae52@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Narrow\, twisty asphalt that changes grip from corner to corne
@@ -1768,7 +1739,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Marathon des Sables (est.)
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270420
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:64bcb0e51ed117c4ee2e@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:About 250 km self-supported across the Sahara over six stages
@@ -1786,7 +1757,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Coachella – Weekend 1
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:39f38eb6f9ae5af731c1@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Desert sunsets\, giant art installations\, the Ferris wheel an
@@ -1810,7 +1781,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 British GT – Snetterton 300 (2× 1h)
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:34548f6f3232846e5c4a@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Season opener on Snetterton's 300 layout. GT3 and GT4 share th
@@ -1828,7 +1799,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Japanese GP – Sprint
 DTSTART:20270410T020000Z
 DTEND:20270410T030000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a053182ae19e6ddbade0@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A figure-of-eight drivers' favourite (S-curves\, Degner\, 130R
@@ -1848,7 +1819,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Japanese GP – Qualifying
 DTSTART:20270410T060000Z
 DTEND:20270410T070000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:45232c41df0b53e1f3a2@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A figure-of-eight drivers' favourite (S-curves\, Degner\, 130R
@@ -1868,7 +1839,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 F1 Japanese GP – Race
 DTSTART:20270411T050000Z
 DTEND:20270411T070000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:62de5aabb249e9769d29@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A figure-of-eight drivers' favourite (S-curves\, Degner\, 130R
@@ -1894,7 +1865,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Songkran (Thai New Year water festival)
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270416
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6a48ee5a11626bf54542@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The whole country turns into a three-day water fight. Super So
@@ -1918,7 +1889,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Milky Way core season begins (est.)
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:005d5e183d1fa242152a@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The bright galactic core starts rising in the small hours. Tim
@@ -1933,7 +1904,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Coachella – Weekend 2
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270419
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d24913978e89a2361e8e@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Same lineup as Weekend 1. Usually a little cheaper and a littl
@@ -1950,7 +1921,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 GTWC Europe – Paul Ricard 1000km (Endurance)
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270418
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:589ce57db387d3a96cfa@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Endurance Cup opener on the blue-and-red striped run-off near 
@@ -1967,7 +1938,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Chinese GP – Qualifying
 DTSTART:20270417T070000Z
 DTEND:20270417T080000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ae72ae5db198b071ebf7@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Laid out in the shape of the character 'shang'. The never-endi
@@ -1987,7 +1958,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Chinese GP – Race
 DTSTART:20270418T070000Z
 DTEND:20270418T090000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b558fec0e6814e2b3d3c@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Laid out in the shape of the character 'shang'. The never-endi
@@ -2007,7 +1978,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Pink Moon
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e58bed5c4af290b124b9@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Pink Moon: named for the pink wild phlox of spring\, not 
@@ -2022,7 +1993,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Passover (Pesach) begins
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270429
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2bb6afec9f37d160bd13@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The Exodus story told over the Seder meal\, with matzah for a 
@@ -2037,7 +2008,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Lyrids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:754cdc8117a7a3991758@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:One of the oldest recorded showers (Chinese records from 687 B
@@ -2055,7 +2026,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Yokohama Triennale
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d3e9985ec60e9b7a203f@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Japan's major contemporary-art triennial\, spread across the w
@@ -2071,7 +2042,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Antigua Sailing Week (est.)
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d29452dc0d224175683a@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:One of the Caribbean's great regattas. Five days of racing rou
@@ -2089,7 +2060,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Bluebell woods at their best (est.)
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5a23dab2d958a0a2639c@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Half the world's bluebells grow in Britain. Late April to mid-
@@ -2108,7 +2079,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 King's Day (Koningsdag)
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fb7066a39e746deeaa3b@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The whole country dresses in orange. Amsterdam's canals are ra
@@ -2124,7 +2095,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 GTWC Europe – Brands Hatch (Sprint)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b4e4001f8922faa40c1e@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The full GT3 world-class grid on a British track. Sprint Cup\,
@@ -2141,7 +2112,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Miami GP – Qualifying
 DTSTART:20270501T200000Z
 DTEND:20270501T210000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d1ea3215686bcbe9199b@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Built around the Hard Rock Stadium\, with a fake marina and a 
@@ -2160,7 +2131,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Orthodox Easter
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6128670312d4bab5e38d@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Midnight candles passed hand to hand\, then "Christos Anesti!"
@@ -2176,7 +2147,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Miami GP – Race
 DTSTART:20270502T200000Z
 DTEND:20270502T220000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1ca0a99699dfe9956def@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Built around the Hard Rock Stadium\, with a fake marina and a 
@@ -2195,7 +2166,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Swifts return from Africa (est.)
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7e84641bcdc15739bb1f@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Screaming parties of swifts arrive after a 10\,000 km flight. 
@@ -2209,7 +2180,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Rally Islas Canarias
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4d31050a2d60580b8729@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Smooth\, grippy volcanic tarmac with ocean views. It's basical
@@ -2226,7 +2197,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f87b318e43c09a790f36@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -2240,7 +2211,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Eta Aquariids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d07d91d5700c90932a6e@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Debris from Halley's Comet itself. Low radiant from the UK\, s
@@ -2258,7 +2229,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Venice Architecture Biennale – opens
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9bae042e09ba7b095bef@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The 20th Architecture Biennale\, 'Do Architecture'\, curated b
@@ -2284,7 +2255,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 Euro RX 2027 season (calendar not yet announced) (TBC)
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c550854f62243ff9acbb@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:World RX became the FIA European Rallycross Championship (Euro
@@ -2302,7 +2273,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Cannes Film Festival (est.)
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270523
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3337becd7282f804ead3@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Red carpets on the Croisette and the Palme d'Or. Public screen
@@ -2320,7 +2291,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Eurovision Song Contest – Semi-final 1
 DTSTART:20270511T180000Z
 DTEND:20270511T200000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e226dc26c8ba5c87b06f@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The first Eurovision ever held in Bulgaria\, on the Black Sea 
@@ -2338,7 +2309,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Eurovision Song Contest – Semi-final 2
 DTSTART:20270513T180000Z
 DTEND:20270513T200000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bf85817f046e5e5b6f19@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Second semi\; the UK\, as a Big Five member\, goes straight to
@@ -2355,7 +2326,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🌌 Puffin season (Skomer & Farne Islands) (est.)
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4d102db96efe6bc9d61a@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Around 40\,000 puffins on Skomer\, so close you have to give w
@@ -2381,7 +2352,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Eurovision Song Contest – Grand Final
 DTSTART:20270515T180000Z
 DTEND:20270515T220000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:92e060932f6e63076194@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Key changes\, wind machines and geopolitical voting. Get the p
@@ -2398,7 +2369,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Eid al-Adha (est.)
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5c5d8310d133cd0d89c5@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The Feast of Sacrifice\, at the climax of the Hajj pilgrimage 
@@ -2416,7 +2387,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Flower Moon
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d840c061454a2ab65ca3@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Flower Moon: everything's blooming\; bluebell woods are a
@@ -2431,7 +2402,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 UCI MTB World Cup opener (XCO)\, Nové Město
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:724ccd0ebd44e60d7210@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Cross-country's cathedral. A forest bowl with 30\,000+ screami
@@ -2448,7 +2419,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 GTWC Europe – Imola (Endurance) (est.)
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6a09b482199f1d50335e@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Old-school\, anticlockwise and narrow. Imola stands in for Mon
@@ -2466,7 +2437,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Louis Vuitton Cup opens (America's Cup challengers)
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270524
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:93f7d47c47bb4f8ac921@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:All seven AC75 foiling monohulls racing together for the first
@@ -2483,7 +2454,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Canadian GP – Sprint
 DTSTART:20270522T160000Z
 DTEND:20270522T170000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1964494393382d7e4de4@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Island circuit on the St Lawrence. Drivers brush the Wall of C
@@ -2503,7 +2474,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Canadian GP – Qualifying
 DTSTART:20270522T200000Z
 DTEND:20270522T210000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e03ac7db551efe70c3d4@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Island circuit on the St Lawrence. Drivers brush the Wall of C
@@ -2523,7 +2494,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Canadian GP – Race
 DTSTART:20270523T180000Z
 DTEND:20270523T200000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b07028d9641b5ef11be0@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Island circuit on the St Lawrence. Drivers brush the Wall of C
@@ -2543,7 +2514,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Noctilucent cloud season begins (est.)
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:09e13a6b0a3fff9eabfe@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Electric-blue night-shining clouds 80 km up\, the highest clou
@@ -2557,7 +2528,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Hay Festival (est.)
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6054646df567559e6d63@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Bill Clinton once called it 'the Woodstock of the mind'. Autho
@@ -2576,7 +2547,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 UCI MTB World Cup – DH & Enduro round (Europe) (est.)
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270531
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f8ac27d4010a3fdae62a@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The downhill season gets underway.\n\nStatus: 🟡 Estimated (
@@ -2591,7 +2562,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 British GT – Oulton Park (2× 1h)
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270601
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:498b5dcd054464a5d0d2@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The best track in Britain for GT cars\, tight and undulating t
@@ -2609,7 +2580,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Cheese Rolling\, Cooper's Hill
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2364f0c64471b273972b@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Lunatics hurl themselves down a near-vertical hill after a 4 k
@@ -2625,7 +2596,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 Isle of Man TT
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270613
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e11ac04ab3b70144b53c@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:60 km of public roads closed for 200 mph road racing past ston
@@ -2650,7 +2621,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Basking shark season begins (est.)
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fd8ae877ea015db80a16@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The world's second-biggest fish\, up to 10 m long\, cruising t
@@ -2667,7 +2638,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Youth America's Cup
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a4e16b44a9f9738ec96f@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The next generation of foiling sailors in AC40s.\n\nStatus: 
@@ -2683,7 +2654,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Primavera Sound (est.)
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b13d26042e5298a8115b@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Indie heaven by the Mediterranean\, with sets until 6am and su
@@ -2707,7 +2678,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Rally Japan
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:027fbd12c954efb1ff39@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Narrow\, tree-lined mountain asphalt in Toyota's back yard\, w
@@ -2724,7 +2695,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e91e3a340e57d9219f45@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -2738,7 +2709,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Liverpool Biennial
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6766824bc7fe8c206f64@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The UK's biggest contemporary-art festival\, taking over galle
@@ -2754,7 +2725,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Monaco GP – Sprint
 DTSTART:20270605T100000Z
 DTEND:20270605T110000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ccf77e57bc84c5857152@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The jewel in the crown\, and Monaco's first ever Sprint. Barri
@@ -2774,7 +2745,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Monaco GP – Qualifying
 DTSTART:20270605T140000Z
 DTEND:20270605T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a733fa7caa102ee70207@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The jewel in the crown\, and Monaco's first ever Sprint. Barri
@@ -2794,7 +2765,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Helsinki Biennial
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2cc6ed12c1c2ab1cb8d5@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Contemporary art on a car-free island fortress in the Helsinki
@@ -2810,7 +2781,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 F1 Monaco GP – Race
 DTSTART:20270606T130000Z
 DTEND:20270606T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d5d45fb846d2587b9097@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The jewel in the crown\, and Monaco's first ever Sprint. Barri
@@ -2836,7 +2807,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Dragon Boat Festival
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0e7aacab5d6541e00009@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Drummers pound out the rhythm as long dragon-headed boats race
@@ -2852,7 +2823,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 24 Hours of Le Mans (95th edition)
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270614
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0220fe1bc3d10753e438@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The greatest endurance race there is. Hypercars at 330 km/h do
@@ -2878,7 +2849,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 documenta 16
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:35a3652e40adfe6e920b@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The once-every-five-years 'museum of 100 days'\, arguably the 
@@ -2902,7 +2873,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 Red Bull X-Alps 2027
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270626
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2c8821c941aad65a45b7@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's toughest adventure race. 35 athletes cross ~1\,200
@@ -2929,7 +2900,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 W2RC South African Safari Rally
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270620
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f77a8e792bdde86bf063@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Rally-raid through the Kalahari\, crossing into Botswana for t
@@ -2946,7 +2917,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Art Basel (est.)
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270621
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:013e60a4d6e8564463c6@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The world's premier art fair. Unlimited\, its hall of building
@@ -2964,7 +2935,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 British GT – Spa Speedweek (2h)
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270621
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9fd3b9265871e6ea0b8a@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The British championship goes abroad to the greatest circuit o
@@ -2981,7 +2952,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Strawberry Moon
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:74642a5dc0e3792f9096@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Strawberry Moon: the lowest-riding full moon of the year:
@@ -2996,7 +2967,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Portuguese GP – Qualifying
 DTSTART:20270619T150000Z
 DTEND:20270619T160000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ab9437d4caa7424477aa@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The rollercoaster is back. Blind crests and plunging drops on 
@@ -3016,7 +2987,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 F1 Portuguese GP – Race
 DTSTART:20270620T140000Z
 DTEND:20270620T160000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a7417997d47ad16f4af9@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The rollercoaster is back. Blind crests and plunging drops on 
@@ -3042,7 +3013,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Summer Solstice: longest day
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:20b3f7402bf2530be0dd@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Peak daylight: northern Scotland barely gets dark at all. Sunr
@@ -3056,7 +3027,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Glastonbury Festival
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270628
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5268570a6c7fac24d061@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Back after the 2026 fallow year. 200\,000 people\, the Pyramid
@@ -3081,7 +3052,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Inti Raymi (Festival of the Sun)
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:30df84006691e4a124f3@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The Inca winter-solstice festival re-enacted at Sacsayhuamán'
@@ -3105,7 +3076,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Acropolis Rally Greece
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270628
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:11c093d35a5b32a3505c@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The 'Rally of Gods'. Rocky\, car-breaking mountain gravel in 3
@@ -3122,7 +3093,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 CrowdStrike 24 Hours of Spa
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270628
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f55d4aa0530344ce69c6@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The biggest GT race on Earth. 60+ GT3 cars\, Eau Rouge in the 
@@ -3146,7 +3117,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Midsummer Eve (Midsommar)
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c1859ba0e18c64c19e02@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Maypoles\, flower crowns\, pickled herring\, schnapps songs an
@@ -3163,7 +3134,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Round the Island Race (est.)
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:8015ee2d8cdb5600db3d@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:1\,000+ boats racing 50 nm round the Isle of Wight past the Ne
@@ -3182,7 +3153,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Roskilde Festival (est.)
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270704
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bc0eda7a5247865d7b25@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Northern Europe's biggest non-profit festival. A week of campi
@@ -3200,7 +3171,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 The Championships\, Wimbledon (est.)
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270712
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c793282f1047dbeecad5@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Strawberries\, the Queue (a national institution) and grass-co
@@ -3218,7 +3189,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Palio di Siena
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:738cf4db754c6023d146@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Ninety seconds of bareback\, no-rules horse racing around a me
@@ -3235,7 +3206,7 @@ SUMMARY:✈️ 🪂 Tour de France Grand Départ – Stage 1\, Edinburgh
  → Carlisle
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f9dcedfcf7c3deeb1295@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The Tour starts in Scotland for the first time ever\, from Edi
@@ -3261,7 +3232,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Montreux Jazz Festival (est.)
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270718
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bfca99913290774463a3@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Lakeside legends\, of 'Smoke on the Water' fame. Free stages a
@@ -3279,7 +3250,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 British GP – Sprint
 DTSTART:20270703T100000Z
 DTEND:20270703T110000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:be46d225ce73cbfc3a27@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Home race. Maggotts–Becketts–Chapel is the best sequence o
@@ -3299,7 +3270,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 British GP – Qualifying
 DTSTART:20270703T140000Z
 DTEND:20270703T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9e91ba394fdfa30a9d61@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Home race. Maggotts–Becketts–Chapel is the best sequence o
@@ -3319,7 +3290,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Megavalanche (est.)
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270712
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:69071428a617753a6350@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:A mass-start enduro from the 3\,300 m glacier at Pic Blanc dow
@@ -3338,7 +3309,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Tour de France – Stage 3\, Welshpool → Cardiff
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7f4d68e5435154990d6b@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The final British stage finishes in Cardiff\, a cheap day trip
@@ -3355,7 +3326,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:48e8d9e67a208cf90013@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -3369,7 +3340,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 F1 British GP – Race
 DTSTART:20270704T140000Z
 DTEND:20270704T160000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:32641452257cd8ced517@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Home race. Maggotts–Becketts–Chapel is the best sequence o
@@ -3395,7 +3366,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Women's America's Cup
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270710
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:aa57b722d2f597ca3fbf@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's best female sailors foiling AC40s in front of the 
@@ -3412,7 +3383,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 San Fermín (Running of the Bulls)
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270715
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:68e26dc77512e38feb9d@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Hemingway's fiesta. White clothes and red scarves\, the 8am en
@@ -3435,7 +3406,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Rally d'Italia (Rome)
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270712
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:070fec8ad046506104b3@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:New for 2027. Italy's round moves from Sardinia to Rome and sw
@@ -3452,7 +3423,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 Goodwood Festival of Speed (est.)
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270712
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d83338aa8a6b7e6f141f@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Up the hill past the house in everything from 1900s racers to 
@@ -3472,7 +3443,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 38th America's Cup Match
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270719
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:35a75858d13b17315bfb@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The oldest trophy in international sport\, sailed in Italy for
@@ -3497,7 +3468,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Austrian GP – Qualifying
 DTSTART:20270710T140000Z
 DTEND:20270710T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e829d51340bcef06554f@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Short\, fast lap in the Styrian Alps\, with a camping-and-hiki
@@ -3516,7 +3487,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Naadam Festival
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270716
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a4967b778b5f3cc2cfdf@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The 'Three Manly Games' of wrestling\, horse racing (with chil
@@ -3539,7 +3510,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Mongol Rally 2027 launch (TBC)
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:727374a96697d15736b2@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:A new batch of fools heads off in unsuitable cars. You know ex
@@ -3556,7 +3527,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Austrian GP – Race
 DTSTART:20270711T130000Z
 DTEND:20270711T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0dcae69a3dc4e558b902@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Short\, fast lap in the Styrian Alps\, with a camping-and-hiki
@@ -3575,7 +3546,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Admiral's Cup
 DTSTART;VALUE=DATE:20270713
 DTEND;VALUE=DATE:20270729
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ecf4cf01caec82669181@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The revived 'world championship of offshore racing'. National 
@@ -3593,7 +3564,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Bastille Day
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5d9c8cccb20882521d20@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Military parade down the Champs-Élysées and fireworks over t
@@ -3609,7 +3580,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 BBC Proms (est.)
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e95c33c0303831cf800f@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Eight weeks of world-class concerts with £8 standing 'Prommin
@@ -3627,7 +3598,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Tomorrowland (est.)
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270726
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d52d84ca60980f8d7329@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The most theatrical dance festival on the planet\, with the ma
@@ -3646,7 +3617,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 GTWC Europe – Misano (Sprint)
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270719
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c2ed9f784b6b39e01063@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A summer night race on the Adriatic coast. Floodlit GT3 sprint
@@ -3663,7 +3634,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Gion Matsuri (Yamaboko Junkō parade)
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:755891a490326d19414e@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Japan's most famous festival. Towering wooden yama and hoko fl
@@ -3679,7 +3650,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Buck Moon (Micromoon)
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9d07e95608f2755b8ed1@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Buck Moon (Micromoon): when deer antlers are in full velv
@@ -3694,7 +3665,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Rally Estonia
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270726
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c9c0d1b2b50acb6d5345@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Super-fast\, smooth gravel with huge jumps. It's like Finland'
@@ -3711,7 +3682,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 Rolex Fastnet Race – start
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:682931aaed93bb7be736@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's largest offshore race. 400+ boats\, 695 nm\, aroun
@@ -3737,7 +3708,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Belgian GP – Qualifying
 DTSTART:20270724T140000Z
 DTEND:20270724T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1c5b31706f0140e1a11f@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Eau Rouge–Raidillon\, the Ardennes forest and weather that c
@@ -3757,7 +3728,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 F1 Belgian GP – Race
 DTSTART:20270725T130000Z
 DTEND:20270725T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:cc9988e2e639a80d71aa@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Eau Rouge–Raidillon\, the Ardennes forest and weather that c
@@ -3784,7 +3755,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 WRC Rally Finland
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270802
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6e6d63ed1d984a700b32@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The Grand Prix of rallying. Blind crests at 180 km/h\, cars fl
@@ -3808,7 +3779,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Crankworx Whistler (est.)
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270809
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fb6dfaa4039fc4f0a6fc@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's biggest MTB festival\, home of Red Bull Joyride sl
@@ -3826,7 +3797,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Tour de France Femmes – Grand Départ\, Leeds
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:214fcdfa5d1ee97243d7@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The women's Tour starts in Yorkshire\, cycling country that we
@@ -3843,7 +3814,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Fuji Rock Festival (est.)
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270802
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7f37c970dd3abe09cea0@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Japan's biggest festival\, in a mountain ski resort with fores
@@ -3861,7 +3832,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 GTWC Europe – Magny-Cours (Sprint)
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270802
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e2922d34ff384a86fbc9@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Former French GP venue in the heart of rural France\, with the
@@ -3878,7 +3849,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Cowes Week (est.)
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270808
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3ebbcd1295953964dd18@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:One of the oldest and biggest sailing regattas in the world. 4
@@ -3896,7 +3867,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Hungarian GP – Qualifying
 DTSTART:20270731T140000Z
 DTEND:20270731T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b874e5d9ef98279ffc6c@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Monaco without the walls. Twisty\, hot and all about strategy
@@ -3915,7 +3886,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Hungarian GP – Race
 DTSTART:20270801T130000Z
 DTEND:20270801T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c76e37a5833622a1f181@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Monaco without the walls. Twisty\, hot and all about strategy
@@ -3935,7 +3906,7 @@ SUMMARY:✈️ 🌌 Total solar eclipse: SPAIN · MOROCCO · EGYPT (partia
  l ~35% from UK)
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d11f150ddff872ab4e51@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The eclipse of the decade. Totality reaches about 6 m 23 s nea
@@ -3969,7 +3940,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:834c3a3cf0febe80f40d@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -3983,7 +3954,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Partial solar eclipse from the UK (~35%)
 DTSTART:20270802T090000Z
 DTEND:20270802T110000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9f86f7b3bfbb5ede9f7c@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:If you can't make it to Spain\, the Moon still takes a decent 
@@ -4000,7 +3971,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Edinburgh Festival Fringe (80th)
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270831
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:418ee35d2d5bcbcbf659@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The world's largest arts festival in its 80th year. 3\,000+ sh
@@ -4025,7 +3996,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 British GT – Silverstone 500 (3h)
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270809
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7588e6b4100296d61b8a@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The blue-riband event and the only 3-hour race of the season. 
@@ -4050,7 +4021,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Sziget Festival (est.)
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270817
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:106f95e88336c0c5d54d@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:A week-long 'Island of Freedom' on the Danube\, with circus te
@@ -4068,7 +4039,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Heather in bloom (purple moors) (est.)
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:256bcac7b83e99634ba4@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Moorland turns purple from mid-August into September. Glorious
@@ -4084,7 +4055,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Perseids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f93446fc3a7ace74f032@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The summer classic: warm nights\, fast bright meteors with tra
@@ -4102,7 +4073,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Palio di Siena (Assunta)
 DTSTART;VALUE=DATE:20270816
 DTEND;VALUE=DATE:20270817
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:451af7dec3dde28a8eaf@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The second Palio of the summer. Same madness\, different saint
@@ -4117,7 +4088,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Penumbral lunar eclipse (morning\, Moon setting)
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c467507b12084c928428@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:A subtle shading of the setting Moon low in the west around da
@@ -4131,7 +4102,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Sturgeon Moon (Micromoon)
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:132de740e5eb9bed1aea@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Sturgeon Moon (Micromoon): named for when the Great Lakes
@@ -4146,7 +4117,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 UTMB (Ultra-Trail du Mont-Blanc) (est.)
 DTSTART;VALUE=DATE:20270823
 DTEND;VALUE=DATE:20270830
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7f69891cac3d75fdaa87@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:171 km and 10\,000 m of climbing around Mont Blanc through thr
@@ -4172,7 +4143,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 UCI Cycling World Championships (incl. MTB) (est.)
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270906
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0c157d95c62fff9cf13f@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:All the cycling world championships in one Alpine region\, inc
@@ -4198,7 +4169,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 La Tomatina
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:dbeadb47cfdd940a11d2@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:One hour\, 120 tonnes of over-ripe tomatoes\, 20\,000 people. 
@@ -4214,7 +4185,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Rally United States
 DTSTART;VALUE=DATE:20270826
 DTEND;VALUE=DATE:20270830
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ef588b9c47509f1ba84d@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:WRC's first US round since 1988\, on new gravel stages through
@@ -4231,7 +4202,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Reading & Leeds Festivals (est.)
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270830
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f1382248792ba2df81a3@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The bank-holiday rite of passage. Twin sites\, same lineup\, c
@@ -4249,7 +4220,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 GTWC Europe – Nürburgring (Endurance)
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270830
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:70f8cc0194778dab473a@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Endurance Cup round at the 'Ring. Go a day early and drive the
@@ -4266,7 +4237,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Notting Hill Carnival
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270831
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:46b0ebe50d43ef046347@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Europe's biggest street party. Two million people\, steel band
@@ -4282,7 +4253,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎸 Burning Man (est.)
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270907
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4db62468670e0e7b0398@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:A city of 70\,000 built from scratch in the desert\, then gone
@@ -4308,7 +4279,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3b5eb57342c40cc1e30f@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -4322,7 +4293,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Venice Film Festival (est.)
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:17d30d178afb3ee73780@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The oldest film festival in the world\, with stars arriving by
@@ -4341,7 +4312,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Italian GP – Sprint
 DTSTART:20270904T100000Z
 DTEND:20270904T110000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3e521c1ebca5ab1f0261@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The Temple of Speed and the tifosi in red. Monza's first Sprin
@@ -4360,7 +4331,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Italian GP – Qualifying
 DTSTART:20270904T140000Z
 DTEND:20270904T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:99031eff32d0e4803114@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The Temple of Speed and the tifosi in red. Monza's first Sprin
@@ -4379,7 +4350,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 F1 Italian GP – Race
 DTSTART:20270905T130000Z
 DTEND:20270905T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:37f6184234106281b990@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The Temple of Speed and the tifosi in red. Monza's first Sprin
@@ -4404,7 +4375,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Aurora watch: equinox boost window (est.)
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fc5153c489b4e16fbbc2@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Autumn equinox storm season\, and the nights are dark again. Y
@@ -4424,7 +4395,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Red Bull Hardline (est.)
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2abb83717d50f4e46989@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's gnarliest downhill race\, in Wales. Huge gaps and 
@@ -4443,7 +4414,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 British GT – Brands Hatch GP (2h)
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6bcd7dc9105e67973872@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The full GP loop through the Kent woods. Paddock Hill Bend in 
@@ -4460,7 +4431,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Spanish GP (Madrid) – Qualifying
 DTSTART:20270911T140000Z
 DTEND:20270911T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:78d1e9b57cc08a0e7954@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Madrid's semi-street circuit\, including the 'La Monumental' b
@@ -4479,7 +4450,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Spanish GP (Madrid) – Race
 DTSTART:20270912T130000Z
 DTEND:20270912T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f558b1f41c8eb889a2c4@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Madrid's semi-street circuit\, including the 'La Monumental' b
@@ -4498,7 +4469,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Mid-Autumn (Moon) Festival
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4eb7f166a491856071c8@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Mooncakes\, lanterns and family reunions under the fullest moo
@@ -4514,7 +4485,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 Coupe Icare (est.)
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:542d6d83f77df643621b@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The world's biggest free-flight festival. 80\,000 people\, hun
@@ -4540,7 +4511,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Harvest Moon
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:409506616b221e99fc94@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Harvest Moon: the full moon nearest the autumn equinox\, 
@@ -4555,7 +4526,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 GTWC Europe – Zandvoort (Sprint)
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:60a5cfd7008c556fa564@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Banked corners in the North Sea dunes\, and a seaside track pa
@@ -4572,7 +4543,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Oktoberfest
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20271004
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a65716d800e4e225d8b5@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Six million visitors\, 14 giant beer tents\, litre steins\, oo
@@ -4596,7 +4567,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 W2RC bp Ultimate Rally-Raid Portugal
 DTSTART;VALUE=DATE:20270921
 DTEND;VALUE=DATE:20270927
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:718506ae4638988f9420@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Europe's rally-raid\, through cork forests\, sandy tracks and 
@@ -4613,7 +4584,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 September Equinox: autumn begins
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:98b737f471ac0466f5f7@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Equal day and night\, and the start of the equinox aurora boos
@@ -4626,7 +4597,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Les Voiles de Saint-Tropez (est.)
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20271004
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:191ec1f6eea4324d6a51@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Classic wooden schooners and modern maxis racing in the autumn
@@ -4644,7 +4615,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 UCI XCO World Cup finale\, Soldier Hollow
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270927
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:321bd94705a4ec8b212a@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The cross-country season decider at the 2002 Olympic venue in 
@@ -4661,7 +4632,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Red deer rut (est.)
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c5fe67cd90b2ff4088d6@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Stags roaring and clashing antlers in the misty autumn dawn. E
@@ -4678,7 +4649,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Azerbaijan GP – Qualifying
 DTSTART:20270925T120000Z
 DTEND:20270925T130000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f52c743ebcd46cfc3163@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A 2 km flat-out run along the Caspian waterfront\, then a cast
@@ -4698,7 +4669,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Azerbaijan GP – Race
 DTSTART:20270926T110000Z
 DTEND:20270926T130000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:40911a61617f3cd5ee89@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A 2 km flat-out run along the Caspian waterfront\, then a cast
@@ -4718,7 +4689,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 WRC Rally Scotland
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271004
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2d183d9644651cdb82cc@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The WRC comes home to Britain. Fast Scottish forest gravel in 
@@ -4742,7 +4713,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4359d89e8b97c382b658@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -4756,7 +4727,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Rugby World Cup 2027 – opening match
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9e2d44a9399269386217@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The first 24-team Rugby World Cup kicks off: Australia vs Hong
@@ -4773,7 +4744,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 GTWC Europe – Hungaroring (Sprint)
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271004
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3b964b370365ed193364@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:GTWC's first visit since 2019 and the Sprint Cup decider.\n\nS
@@ -4790,7 +4761,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Golden Eagle Festival (est.)
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271004
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:94935e6e38589b482421@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Kazakh eagle hunters in fox-fur hats compete with golden eagle
@@ -4815,7 +4786,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Albuquerque International Balloon Fiesta
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271011
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2ee78f237aad4eb156cc@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:500+ hot-air balloons lifting off together at dawn in the Mass
@@ -4838,7 +4809,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 UCI DH World Cup finale\, Whistler
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271004
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:42af566f0d0e94841b3b@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The downhill title decided on the most famous bike-park mounta
@@ -4855,7 +4826,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Turkish GP – Qualifying
 DTSTART:20271002T130000Z
 DTEND:20271002T140000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:48750afab3759d502666@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Turn 8 is back\, a quadruple-apex left-hander that's one of F1
@@ -4875,7 +4846,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 F1 Turkish GP – Race
 DTSTART:20271003T120000Z
 DTEND:20271003T140000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f81deae6bcdc79daaab3@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Turn 8 is back\, a quadruple-apex left-hander that's one of F1
@@ -4901,7 +4872,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Draconids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20271008
 DTEND;VALUE=DATE:20271009
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b67ba104441e463a2617@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Usually a trickle\, occasionally a storm. Unusually\, best in 
@@ -4919,7 +4890,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Singapore GP – Qualifying
 DTSTART:20271009T130000Z
 DTEND:20271009T140000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e044f58152bfa96b48ae@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The original night race. Drivers lose ~3 kg in sweat\, the sky
@@ -4939,7 +4910,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Singapore GP – Race
 DTSTART:20271010T120000Z
 DTEND:20271010T140000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a97ffe7fd230e3314753@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The original night race. Drivers lose ~3 kg in sweat\, the sky
@@ -4959,7 +4930,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Frieze London (est.)
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271018
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a9968fcb67ec787a8627@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:London's art week. Frieze\, Frieze Masters\, and a free sculpt
@@ -4976,7 +4947,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Red Bull Rampage (est.)
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a5274b9b136c919505f7@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Freeride on knife-edge desert ridgelines. Riders and dig crews
@@ -4995,7 +4966,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Hunter's Moon
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fd677d7dacfb73e2b11a@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Hunter's Moon: the first full moon after the Harvest Moon
@@ -5010,7 +4981,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 British GT – Donington Decider (2h)
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271018
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6d83ff8fcec5e8dea465@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The season finale\, where the titles are settled at the Craner
@@ -5027,7 +4998,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Saturn at opposition
 DTSTART;VALUE=DATE:20271018
 DTEND;VALUE=DATE:20271019
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:9f7f1cdf945a729c6f7d@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Saturn at its best for the year\, rising at sunset. Any telesc
@@ -5041,7 +5012,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Leaping salmon season (est.)
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:db4ed470e9aae64e8444@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Atlantic salmon hurling themselves up waterfalls to spawn\, af
@@ -5059,7 +5030,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Rally del Paraguay
 DTSTART;VALUE=DATE:20271021
 DTEND;VALUE=DATE:20271025
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:285ea5bd2e190a958a17@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Red-earth gravel and passionate South American crowds. Paragua
@@ -5076,7 +5047,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Orionids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20271021
 DTEND;VALUE=DATE:20271022
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:738625d364e3e81baa68@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Halley's Comet again\, the autumn return leg. Swift meteors fr
@@ -5094,7 +5065,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 GTWC Europe – Barcelona (Endurance finale)
 DTSTART;VALUE=DATE:20271023
 DTEND;VALUE=DATE:20271025
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e58dabb6055cb1969d7f@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The overall GTWC Europe title showdown. Six hours of tyre mana
@@ -5111,7 +5082,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 United States GP – Qualifying
 DTSTART:20271023T220000Z
 DTEND:20271023T230000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:75d8b7c4e6093d3839bf@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Turn 1 is a blind uphill hairpin\, the esses are Silverstone-s
@@ -5130,7 +5101,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 W2RC Rallye du Maroc
 DTSTART;VALUE=DATE:20271024
 DTEND;VALUE=DATE:20271030
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b2d99a938dbe89096e97@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The season finale\, and traditionally the dress rehearsal for 
@@ -5147,7 +5118,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 United States GP – Race
 DTSTART:20271024T190000Z
 DTEND:20271024T210000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b2b9711550ae45abadf6@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Turn 1 is a blind uphill hairpin\, the esses are Silverstone-s
@@ -5166,7 +5137,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Autumn colour peak (est.)
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271026
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7b0d53f93457467da665@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Japanese maples in full flame at Westonbirt\, the national arb
@@ -5183,7 +5154,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Diwali (Festival of Lights)
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271030
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fef9df5c66c80d09c6a8@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Oil lamps on every ledge\, rangoli on doorsteps and fireworks 
@@ -5206,7 +5177,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271030
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0e92883a7f6c2c588ec5@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -5221,7 +5192,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Mexico City GP – Qualifying
 DTSTART:20271030T210000Z
 DTEND:20271030T220000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:846da339788831d35566@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:At 2\,240 m the thin air kills downforce\, and the stadium sec
@@ -5241,7 +5212,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Clocks go back (GMT returns)
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0da655bed9d94590c9e4@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Extra hour in bed. Darker evenings mean stargazing before dinn
@@ -5253,7 +5224,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 F1 Mexico City GP – Race
 DTSTART:20271031T200000Z
 DTEND:20271031T220000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7d7d7f4aa2051bc12c27@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:At 2\,240 m the thin air kills downforce\, and the stadium sec
@@ -5279,7 +5250,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Día de Muertos
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271103
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:aff476ab950c58236fec@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Marigold-strewn altars\, sugar skulls\, candlelit all-night ce
@@ -5302,7 +5273,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Starling murmurations (est.)
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:37272a3508cfe694d534@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Up to a million starlings swirling in hypnotic shape-shifting 
@@ -5324,7 +5295,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Rally Chile Bío Bío
 DTSTART;VALUE=DATE:20271104
 DTEND;VALUE=DATE:20271108
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b099ac8f20819accdc62@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Flowing gravel through pine and eucalyptus forest with the Pac
@@ -5341,7 +5312,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Bonfire Night (Lewes Bonfire)
 DTSTART;VALUE=DATE:20271105
 DTEND;VALUE=DATE:20271106
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:411894b4c226dded8ed7@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Lewes takes Guy Fawkes Night to unhinged levels. Seven bonfire
@@ -5358,7 +5329,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 São Paulo GP – Sprint
 DTSTART:20271106T140000Z
 DTEND:20271106T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1b92915ac5f314dbe046@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Interlagos\, a Sprint weekend\, and the São Paulo rain lotter
@@ -5379,7 +5350,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 São Paulo GP – Qualifying
 DTSTART:20271106T180000Z
 DTEND:20271106T190000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4e37ed394b419880961b@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Interlagos\, a Sprint weekend\, and the São Paulo rain lotter
@@ -5400,7 +5371,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Pushkar Camel Fair (est.)
 DTSTART;VALUE=DATE:20271107
 DTEND;VALUE=DATE:20271115
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:083d1eb945324f75fc55@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Tens of thousands of camels and traders in the Thar desert\, w
@@ -5424,7 +5395,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 São Paulo GP – Race
 DTSTART:20271107T170000Z
 DTEND:20271107T190000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:8db4838729e285563ab0@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Interlagos\, a Sprint weekend\, and the São Paulo rain lotter
@@ -5445,7 +5416,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Loy Krathong & Yi Peng\, Chiang Mai (est.)
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271115
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:46ea1b094d41353ed581@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Candlelit floats on the Ping River and thousands of sky lanter
@@ -5470,7 +5441,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Rugby World Cup 2027 – Final
 DTSTART:20271113T090000Z
 DTEND:20271113T110000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:58a004ff2c05ba56420a@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The final in Sydney. A 9am kick-off in the UK\, so bacon sandw
@@ -5487,7 +5458,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Beaver Moon
 DTSTART;VALUE=DATE:20271114
 DTEND;VALUE=DATE:20271115
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bd854d18833cebac28c4@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Beaver Moon: the time to set traps before the swamps froz
@@ -5502,7 +5473,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Grey seal pupping season (est.)
 DTSTART;VALUE=DATE:20271115
 DTEND;VALUE=DATE:20271116
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f2d834c369ca29c14eec@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Thousands of fluffy white pups on the beaches at Horsey Gap\, 
@@ -5518,7 +5489,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Leonids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3a9ef0b18615919aa721@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Fastest meteors of the year at 71 km/s. Famous for historic st
@@ -5536,7 +5507,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🪂 Kendal Mountain Festival (est.)
 DTSTART;VALUE=DATE:20271118
 DTEND;VALUE=DATE:20271122
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b597a6b935bda124dca8@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:Adventure films\, expedition talks and the outdoor tribe in on
@@ -5561,7 +5532,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Las Vegas GP – Qualifying
 DTSTART:20271120T040000Z
 DTEND:20271120T050000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2cc4ba2c506c323c5409@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The only Saturday-night Grand Prix of 2027\, flat out down the
@@ -5582,7 +5553,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Venice Architecture Biennale – final day
 DTSTART;VALUE=DATE:20271121
 DTEND;VALUE=DATE:20271122
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7f6e6fb8f9fec72363e2@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Last chance to see 'Do Architecture'.\n\nStatus: ✅ Confirmed
@@ -5598,7 +5569,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Las Vegas GP – Race
 DTSTART:20271121T040000Z
 DTEND:20271121T060000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1306bc09d346951f0c3e@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The only Saturday-night Grand Prix of 2027\, flat out down the
@@ -5619,7 +5590,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 WRC Rally Saudi Arabia
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271129
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0fdd6b5c8640d14ae64f@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The desert finale. The title could be decided on fast\, dusty 
@@ -5637,7 +5608,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Strasbourg Christmas Market (Christkindelsmärik) (est.)
 DTSTART;VALUE=DATE:20271126
 DTEND;VALUE=DATE:20271225
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:499f7a1f6279a55ab224@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The oldest Christmas market in France (1570)\, a 30 m tree in 
@@ -5655,7 +5626,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20271128
 DTEND;VALUE=DATE:20271129
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:44e08bd0eeec67e8f299@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -5670,7 +5641,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Art Basel Miami Beach (est.)
 DTSTART;VALUE=DATE:20271203
 DTEND;VALUE=DATE:20271206
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:bb4bb35507e088082826@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:The art world in Miami for a week\, with fairs\, parties and W
@@ -5687,7 +5658,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Qatar GP – Sprint
 DTSTART:20271204T140000Z
 DTEND:20271204T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:060f322aa71182254eb6@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A floodlit Sprint weekend in the desert\, fast and flowing. Th
@@ -5706,7 +5677,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Qatar GP – Qualifying
 DTSTART:20271204T180000Z
 DTEND:20271204T190000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:054b053b5841b7efbdf5@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A floodlit Sprint weekend in the desert\, fast and flowing. Th
@@ -5725,7 +5696,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Qatar GP – Race
 DTSTART:20271205T160000Z
 DTEND:20271205T180000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3920df540bf12ccb52e5@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:A floodlit Sprint weekend in the desert\, fast and flowing. Th
@@ -5744,7 +5715,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Abu Dhabi GP – Sprint
 DTSTART:20271211T100000Z
 DTEND:20271211T110000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a6b1afa2a31d8def8a42@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The twilight finale\, with a Sprint added this time. Title dec
@@ -5763,7 +5734,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Abu Dhabi GP – Qualifying
 DTSTART:20271211T140000Z
 DTEND:20271211T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3dfffb89246b4f7d6aff@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The twilight finale\, with a Sprint added this time. Title dec
@@ -5782,7 +5753,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 F1 Abu Dhabi GP – Race
 DTSTART:20271212T130000Z
 DTEND:20271212T150000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:86141497ee7bcefb1041@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The twilight finale\, with a Sprint added this time. Title dec
@@ -5801,7 +5772,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Cold Moon
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271214
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fb52f3e225fa34941898@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Cold Moon: the long-nights moon\, riding highest in the s
@@ -5816,7 +5787,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Geminids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20271214
 DTEND;VALUE=DATE:20271215
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f9b2ddc686e2b4d3ef0b@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The king of showers: slow\, bright\, colourful\, and visible f
@@ -5834,7 +5805,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Winter Solstice: shortest day
 DTSTART;VALUE=DATE:20271222
 DTEND;VALUE=DATE:20271223
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ab10cc07c0f1e54d9190@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The turning point. Stonehenge and Newgrange both frame the mid
@@ -5847,7 +5818,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Hanukkah begins
 DTSTART;VALUE=DATE:20271224
 DTEND;VALUE=DATE:20280101
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3f90c0365fe3ab3f92e8@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Eight nights of the Festival of Lights. Menorahs in windows\, 
@@ -5863,7 +5834,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Junkanoo
 DTSTART;VALUE=DATE:20271226
 DTEND;VALUE=DATE:20271227
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fa7f44d3268a3302c5e2@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The Bahamas' explosive Boxing Day street parade. Cowbells\, go
@@ -5879,7 +5850,7 @@ BEGIN:VEVENT
 SUMMARY:🪂 Rolex Sydney Hobart Yacht Race – start
 DTSTART;VALUE=DATE:20271226
 DTEND;VALUE=DATE:20271227
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e4eda8c5d1c7c25903b4@global-events-calendar
 CATEGORIES:Adventure & Sport
 DESCRIPTION:The Boxing Day blue-water classic. 628 nm across the Bass Stra
@@ -5897,7 +5868,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20271227
 DTEND;VALUE=DATE:20271228
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0f1ddde89a95b5bd2829@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -5912,7 +5883,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Edinburgh's Hogmanay
 DTSTART;VALUE=DATE:20271229
 DTEND;VALUE=DATE:20280102
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7d27112fe8b061ebdaed@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Torchlight procession\, the Princes Street street party under 
@@ -5935,7 +5906,7 @@ BEGIN:VEVENT
 SUMMARY:🏁 Dakar Rally 2028 (50th edition\, Saudi Arabia) (TBC)
 DTSTART;VALUE=DATE:20280102
 DTEND;VALUE=DATE:20280117
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:89b9f7ae0abdad72d96d@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:The 50th Dakar\, planned for a return to Saudi Arabia after th
@@ -5953,7 +5924,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Quadrantids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20280103
 DTEND;VALUE=DATE:20280104
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c62031b97cc94b856d47@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Short\, sharp peak of only a few hours\, so it's a gamble\, bu
@@ -5971,7 +5942,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Harbin Ice & Snow World opens
 DTSTART;VALUE=DATE:20280105
 DTEND;VALUE=DATE:20280106
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f72365739fbba25f3167@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Full-size castles\, pagodas and slides carved from Songhua Riv
@@ -5993,7 +5964,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Wolf Moon (Supermoon)
 DTSTART;VALUE=DATE:20280112
 DTEND;VALUE=DATE:20280113
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ddae1611bce3441b83ad@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Wolf Moon (Supermoon): named for hungry winter packs howl
@@ -6009,7 +5980,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Partial lunar eclipse: ~90% of the Moon in shadow
 DTSTART:20280112T040300Z
 DTEND:20280112T053300Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:76140fcdc37a05d1da24@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:A deep partial eclipse. Around 90% of the Moon dives into Eart
@@ -6026,7 +5997,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Timkat (Ethiopian Epiphany)
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280121
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b64aa4335a71bd6a1bf8@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Brocade-wrapped tabots\, all-night chanting and Gondar's mass 
@@ -6042,7 +6013,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Sundance Film Festival (est.)
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280131
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:509b57f3aef222a76afc@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Indie cinema's launchpad\, in its second year in Boulder.\n\nS
@@ -6059,7 +6030,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🏁 WRC Rallye Monte-Carlo 2028 (est.)
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280124
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:af0fcdc53bec6c8cf3ce@global-events-calendar
 CATEGORIES:Motorsport
 DESCRIPTION:Monte opens the season every year\, almost always in the third
@@ -6084,7 +6055,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Burns Night
 DTSTART;VALUE=DATE:20280125
 DTEND;VALUE=DATE:20280126
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f7305f88150339d464e3@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Haggis piped in\, the Address to a Haggis stabbed out with gus
@@ -6100,7 +6071,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Up Helly Aa
 DTSTART;VALUE=DATE:20280125
 DTEND;VALUE=DATE:20280126
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7eb26815e62efdbd3a3e@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Europe's largest fire festival. A thousand torch-bearing guize
@@ -6123,7 +6094,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Chinese New Year
 DTSTART;VALUE=DATE:20280126
 DTEND;VALUE=DATE:20280127
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:00b487030d1fad8726e2@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The biggest human migration on Earth as hundreds of millions t
@@ -6151,7 +6122,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20280126
 DTEND;VALUE=DATE:20280127
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:70b6c29f4488f68c5963@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -6166,7 +6137,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Partial solar eclipse at sunset (~45%)
 DTSTART:20280126T164000Z
 DTEND:20280126T181000Z
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e5573b21ea038eea5f8a@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:An annular eclipse elsewhere that's seen from the UK as a part
@@ -6183,7 +6154,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Ramadan begins (est.)
 DTSTART;VALUE=DATE:20280128
 DTEND;VALUE=DATE:20280129
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ab28b7075747c2ba3200@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:A month of dawn-to-dusk fasting. Travelling in Muslim-majority
@@ -6202,7 +6173,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Snowdrop season peaks (est.)
 DTSTART;VALUE=DATE:20280205
 DTEND;VALUE=DATE:20280206
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e5e5574ef8dc6dd24412@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Carpets of white in the woods\, the first sign that winter's b
@@ -6218,7 +6189,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Lantern Festival (Yuanxiao)
 DTSTART;VALUE=DATE:20280209
 DTEND;VALUE=DATE:20280210
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f021a2d9a601bbee753d@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The finale of the New Year season on the first full moon. Lant
@@ -6234,7 +6205,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Berlinale (est.)
 DTSTART;VALUE=DATE:20280210
 DTEND;VALUE=DATE:20280221
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ef9bcf3347923ec5bd89@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Golden Bears and the most public of the big film festivals.\n
@@ -6251,7 +6222,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Snow Moon (Supermoon)
 DTSTART;VALUE=DATE:20280210
 DTEND;VALUE=DATE:20280211
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0cb7d4ad2a9cd0c8a160@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Snow Moon (Supermoon): traditionally the snowiest month i
@@ -6267,7 +6238,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Venice Carnival (est.)
 DTSTART;VALUE=DATE:20280212
 DTEND;VALUE=DATE:20280301
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:21a8d56dfec974f22b46@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Masks\, capes and 18th-century costumes on misty canals\, with
@@ -6291,7 +6262,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Tsagaan Sar (Mongolian Lunar New Year) (TBC)
 DTSTART;VALUE=DATE:20280224
 DTEND;VALUE=DATE:20280227
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:393f3531457a9b9f2324@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Mongolia's biggest holiday. Buuz marathons and ger-hopping acr
@@ -6308,7 +6279,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20280225
 DTEND;VALUE=DATE:20280226
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:13b402bc1aebd810ecc9@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -6323,7 +6294,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Eid al-Fitr (est.)
 DTSTART;VALUE=DATE:20280226
 DTEND;VALUE=DATE:20280227
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:20d678da51dc9972c91a@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The festival marking the end of Ramadan. New clothes\, morning
@@ -6341,7 +6312,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Rio de Janeiro Carnival
 DTSTART;VALUE=DATE:20280226
 DTEND;VALUE=DATE:20280302
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:35bc57b78a3678a7d851@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The greatest party on Earth. Samba schools parading floats the
@@ -6365,7 +6336,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Battle of the Oranges\, Ivrea
 DTSTART;VALUE=DATE:20280227
 DTEND;VALUE=DATE:20280301
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:8b077547362d22a35e46@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Italy's biggest food fight. Teams on foot pelt armoured carts 
@@ -6382,7 +6353,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Binche Carnival (Gilles)
 DTSTART;VALUE=DATE:20280227
 DTEND;VALUE=DATE:20280301
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1c13f1857918fd3f46ed@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:UNESCO-listed. Hundreds of Gilles in wax masks and ostrich-fea
@@ -6398,7 +6369,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Mardi Gras\, New Orleans
 DTSTART;VALUE=DATE:20280229
 DTEND;VALUE=DATE:20280301
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:0e4491b08cb2dcf9ad94@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Fat Tuesday. Bead-throwing parades\, brass bands and Mardi Gra
@@ -6414,7 +6385,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Aurora watch: equinox boost window (est.)
 DTSTART;VALUE=DATE:20280310
 DTEND;VALUE=DATE:20280311
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:adf46cfcf3161f8022f7@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Geomagnetic storms are statistically more likely in the weeks 
@@ -6435,7 +6406,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 SXSW (est.)
 DTSTART;VALUE=DATE:20280310
 DTEND;VALUE=DATE:20280319
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:406649b22b24b4b46028@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Tech\, film and music overload in Austin.\n\nStatus: 🟡 Esti
@@ -6452,7 +6423,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Holi (Festival of Colours) (est.)
 DTSTART;VALUE=DATE:20280311
 DTEND;VALUE=DATE:20280312
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:2f1dbcf8f5507eb8adaa@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Total chromatic chaos. Strangers smother each other in coloure
@@ -6476,7 +6447,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Worm Moon (Supermoon)
 DTSTART;VALUE=DATE:20280311
 DTEND;VALUE=DATE:20280312
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:63c14a585be82890c41d@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Worm Moon (Supermoon): when thawing soil brings the earth
@@ -6492,7 +6463,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Purim
 DTSTART;VALUE=DATE:20280312
 DTEND;VALUE=DATE:20280313
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:7498b45c92bd379eae0b@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Fancy dress\, noisemakers and street parties. Tel Aviv turns i
@@ -6507,7 +6478,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Jupiter at opposition
 DTSTART;VALUE=DATE:20280313
 DTEND;VALUE=DATE:20280314
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:d9dcf74f4332e1900bb3@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Jupiter at its biggest and brightest\, up all night. Binocular
@@ -6521,7 +6492,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Las Fallas
 DTSTART;VALUE=DATE:20280315
 DTEND;VALUE=DATE:20280320
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:aab5eaa2610a51b9719c@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Valencia builds hundreds of giant satirical sculptures\, ninot
@@ -6544,7 +6515,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 St Patrick's Day
 DTSTART;VALUE=DATE:20280317
 DTEND;VALUE=DATE:20280318
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1224f8dc80f4ebf8cee6@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Dublin's parade\, céilí music and a sea of green. Chicago dy
@@ -6559,7 +6530,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 March Equinox: spring begins
 DTSTART;VALUE=DATE:20280320
 DTEND;VALUE=DATE:20280321
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3997b792b78103a8ca69@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Day and night roughly equal. Equinoxes also tilt the odds towa
@@ -6573,7 +6544,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Nowruz / Nauryz (Persian & Central Asian New Year)
 DTSTART;VALUE=DATE:20280321
 DTEND;VALUE=DATE:20280324
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:c6ca3839d2b393ab9d79@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Spring New Year across the Silk Road. Bonfire-jumping\, haft-s
@@ -6591,7 +6562,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20280326
 DTEND;VALUE=DATE:20280327
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1d26a41964d233a9c5f0@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -6606,7 +6577,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Clocks go forward (BST begins)
 DTSTART;VALUE=DATE:20280326
 DTEND;VALUE=DATE:20280327
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:87fea599b4f63bab1aaa@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Lose an hour in bed\, gain light evenings. Sunsets jump past 7
@@ -6618,7 +6589,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Cherry blossom peak (Tokyo & Kyoto) (est.)
 DTSTART;VALUE=DATE:20280328
 DTEND;VALUE=DATE:20280407
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:49ad342fc2c09e792354@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Hanami season. Picnics under clouds of pink in Ueno and Maruya
@@ -6644,7 +6615,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Kanamara Matsuri
 DTSTART;VALUE=DATE:20280402
 DTEND;VALUE=DATE:20280403
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:e96fdbf3ccf461a71aa0@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The 'Festival of the Steel Phallus'. Giant pink shrines parade
@@ -6660,7 +6631,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Semana Santa\, Seville
 DTSTART;VALUE=DATE:20280409
 DTEND;VALUE=DATE:20280417
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:ff22c37129bff8878823@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Holy Week\, Spanish style. Hooded nazarenos\, swaying gold flo
@@ -6683,7 +6654,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Pink Moon
 DTSTART;VALUE=DATE:20280409
 DTEND;VALUE=DATE:20280410
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:86ea3f99901e504ae144@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Pink Moon: named for the pink wild phlox of spring\, not 
@@ -6698,7 +6669,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Passover (Pesach) begins
 DTSTART;VALUE=DATE:20280410
 DTEND;VALUE=DATE:20280418
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:4df4cf56f6d47090b023@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The Exodus story told over the Seder meal\, with matzah for a 
@@ -6713,7 +6684,7 @@ BEGIN:VEVENT
 SUMMARY:✈️ 🎭 Songkran (Thai New Year water festival)
 DTSTART;VALUE=DATE:20280413
 DTEND;VALUE=DATE:20280416
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:15a6983636fe04ed7f52@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The whole country turns into a three-day water fight. Super So
@@ -6737,7 +6708,7 @@ BEGIN:VEVENT
 SUMMARY:🎸 Coachella – Weekend 1 (est.)
 DTSTART;VALUE=DATE:20280414
 DTEND;VALUE=DATE:20280417
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:b6e5b0a2e17a01ff3573@global-events-calendar
 CATEGORIES:Music & Arts
 DESCRIPTION:Desert festival season opens. 2028 dates are usually announced
@@ -6755,7 +6726,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Milky Way core season begins (est.)
 DTSTART;VALUE=DATE:20280415
 DTEND;VALUE=DATE:20280416
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:627552cc73703e187d8e@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:The bright galactic core starts rising in the small hours. Tim
@@ -6770,7 +6741,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Easter Sunday
 DTSTART;VALUE=DATE:20280416
 DTEND;VALUE=DATE:20280417
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:f7107bb36d0760337a17@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Easter Sunday Mass in St Peter's Square\, or Holy Week process
@@ -6785,7 +6756,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Orthodox Easter
 DTSTART;VALUE=DATE:20280416
 DTEND;VALUE=DATE:20280417
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6dde8cb760247618776d@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:Midnight candles passed hand to hand\, then "Christos Anesti!"
@@ -6801,7 +6772,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Lyrids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20280422
 DTEND;VALUE=DATE:20280423
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:5fe1b2076be159b873fa@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:One of the oldest recorded showers (Chinese records from 687 B
@@ -6819,7 +6790,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 New Moon: dark-sky window
 DTSTART;VALUE=DATE:20280424
 DTEND;VALUE=DATE:20280425
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:191620042618860d4c92@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:No moon to wash out the stars for the few nights either side. 
@@ -6833,7 +6804,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Bluebell woods at their best (est.)
 DTSTART;VALUE=DATE:20280425
 DTEND;VALUE=DATE:20280426
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:40bef93548fe99411300@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Half the world's bluebells grow in Britain. Late April to mid-
@@ -6852,7 +6823,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 King's Day (Koningsdag)
 DTSTART;VALUE=DATE:20280427
 DTEND;VALUE=DATE:20280428
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:a95b9a90e9b22623cd05@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The whole country dresses in orange. Amsterdam's canals are ra
@@ -6868,7 +6839,7 @@ BEGIN:VEVENT
 SUMMARY:🎭 Eid al-Adha (est.)
 DTSTART;VALUE=DATE:20280505
 DTEND;VALUE=DATE:20280506
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:6f887c40c06bc3010c50@global-events-calendar
 CATEGORIES:Global Cultural Festivals
 DESCRIPTION:The Feast of Sacrifice\, at the climax of the Hajj pilgrimage 
@@ -6886,7 +6857,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Swifts return from Africa (est.)
 DTSTART;VALUE=DATE:20280505
 DTEND;VALUE=DATE:20280506
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:3ab7ad8eb2764d135901@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Screaming parties of swifts arrive after a 10\,000 km flight. 
@@ -6900,7 +6871,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Eta Aquariids meteor shower peak (est.)
 DTSTART;VALUE=DATE:20280506
 DTEND;VALUE=DATE:20280507
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:fc97c60f9bec3f7b0f64@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Debris from Halley's Comet itself. Low radiant from the UK\, s
@@ -6918,7 +6889,7 @@ BEGIN:VEVENT
 SUMMARY:🌌 Full Flower Moon
 DTSTART;VALUE=DATE:20280508
 DTEND;VALUE=DATE:20280509
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261109T000000Z
 UID:1f2a43cca5de0bccd292@global-events-calendar
 CATEGORIES:Sky & Nature (UK)
 DESCRIPTION:Full Flower Moon: everything's blooming\; bluebell woods are a
